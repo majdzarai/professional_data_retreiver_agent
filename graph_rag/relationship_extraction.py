@@ -171,7 +171,7 @@ def extract_relationships(text_chunk: str) -> List[Dict[str, str]]:
             "options": {
                 "temperature": 0.1,
                 "top_p": 1.0,
-                "num_predict": 1024
+                "num_predict": 2048  # Increased from 1024 to handle longer responses
             }
         }
         
@@ -183,7 +183,7 @@ def extract_relationships(text_chunk: str) -> List[Dict[str, str]]:
         response_data = response.json()
         content = response_data.get("response", "")
         logger.info(f"Received response from local Llama 3.1 (length: {len(content)} chars)")
-        logger.info(f"Response content: {repr(content[:1000])}...")
+        logger.info(f"Response content (first 500 chars): {repr(content[:500])}...")
 
         # Parse JSON safely
         data = None
@@ -195,16 +195,32 @@ def extract_relationships(text_chunk: str) -> List[Dict[str, str]]:
             
             # Try to extract JSON from markdown code blocks first
             # Look for ```json or ``` followed by JSON content
-            json_match = re.search(r'```(?:json)?\s*\n?([\s\S]*?)\n?\s*```', content, re.IGNORECASE | re.DOTALL)
-            if json_match:
-                try:
-                    json_content = json_match.group(1).strip()
-                    logger.info(f"Found JSON in markdown block (length: {len(json_content)}): {json_content[:200]}...")
-                    data = json.loads(json_content)
-                    logger.info(f"Successfully parsed JSON from markdown block: {len(data)} items")
-                except Exception as e:
-                    logger.warning(f"Failed to parse JSON from markdown block: {e}")
-                    logger.warning(f"Markdown content was: {json_content[:500]}...")
+            logger.info("Attempting to extract JSON from markdown blocks...")
+            
+            # Try multiple patterns for markdown extraction
+            markdown_patterns = [
+                r'```json\s*\n([\s\S]*?)\n```',  # ```json with newlines
+                r'```json([\s\S]*?)```',         # ```json without newlines
+                r'```\s*\n([\s\S]*?)\n```',     # ``` with newlines
+                r'```([\s\S]*?)```'              # ``` without newlines
+            ]
+            
+            for i, pattern in enumerate(markdown_patterns):
+                json_match = re.search(pattern, content, re.IGNORECASE | re.DOTALL)
+                if json_match:
+                    try:
+                        json_content = json_match.group(1).strip()
+                        logger.info(f"Pattern {i+1} matched! JSON content length: {len(json_content)}")
+                        logger.info(f"JSON content preview: {json_content[:200]}...")
+                        data = json.loads(json_content)
+                        logger.info(f"Successfully parsed JSON from markdown block: {len(data)} items")
+                        break
+                    except Exception as e:
+                        logger.warning(f"Pattern {i+1} matched but JSON parsing failed: {e}")
+                        logger.warning(f"Content was: {json_content[:300]}...")
+                        continue
+                else:
+                    logger.info(f"Pattern {i+1} did not match")
             
             if not data:
                 # Try to find the first complete JSON array in the response

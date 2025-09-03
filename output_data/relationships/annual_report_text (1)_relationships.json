@@ -7,12 +7,17 @@
   {
     "source": "IBA",
     "relation": "designs",
-    "target": "innovative solutions for cancer diagnosis and treatment"
+    "target": "innovative solutions for the diagnosis and treatment of cancer"
+  },
+  {
+    "source": "IBA",
+    "relation": "produces",
+    "target": "particle accelerators and dosimetry equipment"
   },
   {
     "source": "IBA",
     "relation": "markets",
-    "target": "particle accelerator technology"
+    "target": "innovative solutions for the diagnosis and treatment of cancer"
   },
   {
     "source": "IBA",
@@ -22,7 +27,7 @@
   {
     "source": "IBA",
     "relation": "maintains",
-    "target": "dosimetry equipment"
+    "target": "particle accelerators and dosimetry equipment"
   },
   {
     "source": "IBA",
@@ -32,7 +37,7 @@
   {
     "source": "IBA",
     "relation": "partners_with",
-    "target": "customers and partners"
+    "target": "customers and partners around the world"
   },
   {
     "source": "IBA",
@@ -41,62 +46,102 @@
   },
   {
     "source": "IBA",
-    "relation": "invests_in",
-    "target": "technological progress and scientific research"
+    "relation": "funds",
+    "target": "research and development of innovative solutions"
   },
   {
     "source": "IBA",
     "relation": "regulated_by",
-    "target": "regulatory bodies (not specified)"
+    "target": "regulatory bodies around the world"
   },
   {
     "source": "IBA",
     "relation": "supervised_by",
-    "target": "supervising authorities (not specified)"
+    "target": "supervisory authorities"
   },
   {
     "source": "IBA",
     "relation": "located_in",
-    "target": "worldwide"
+    "target": "Belgium (headquarters)"
   },
   {
     "source": "IBA",
     "relation": "headquartered_in",
-    "target": "Belgium (implied, not explicitly stated)"
+    "target": "Belgium"
+  },
+  {
+    "source": "IBA",
+    "relation": "registered_in",
+    "target": "Belgium"
+  },
+  {
+    "source": "IBA",
+    "relation": "serves_market",
+    "target": "health care professionals and patients around the world"
+  },
+  {
+    "source": "IBA",
+    "relation": "active_in",
+    "target": "industrial applications such as sterilization of medical devices"
+  },
+  {
+    "source": "IBA",
+    "relation": "expands_to",
+    "target": "new markets and industries"
   },
   {
     "source": "IBA",
     "relation": "established_in",
-    "target": "over thirty years ago"
+    "target": "Belgium (over thirty years ago)"
   },
   {
     "source": "IBA",
-    "relation": "exposed_to",
-    "target": "regulatory risks and compliance challenges"
+    "relation": "founded_in",
+    "target": "Belgium"
   },
   {
     "source": "IBA",
-    "relation": "subject_to",
-    "target": "regulatory requirements and standards"
+    "relation": "started_in",
+    "target": "research and development of innovative solutions"
   },
   {
     "source": "IBA",
-    "relation": "implementes",
-    "target": "compliance measures and risk management strategies"
+    "relation": "announced",
+    "target": "new partnerships and collaborations"
   },
   {
     "source": "IBA",
-    "relation": "adopts",
-    "target": "best practices and industry standards"
+    "relation": "planned",
+    "target": "expansion into new markets and industries"
   },
   {
     "source": "IBA",
-    "relation": "follows",
-    "target": "regulatory guidelines and recommendations"
+    "relation": "launched",
+    "target": "new products and services"
   },
   {
     "source": "IBA",
-    "relation": "maintains",
-    "target": "compliance with regulatory requirements"
+    "relation": "completed",
+    "target": "research and development projects"
+  },
+  {
+    "source": "IBA",
+    "relation": "reported",
+    "target": "financial results and performance"
+  },
+  {
+    "source": "IBA",
+    "relation": "disclosed",
+    "target": "information about the company's activities and operations"
+  },
+  {
+    "source": "IBA",
+    "relation": "published",
+    "target": "annual reports and corporate brochures"
+  },
+  {
+    "source": "IBA",
+    "relation": "filed",
+    "target": "regulatory filings and reports"
   }
 ]

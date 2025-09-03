@@ -9,34 +9,49 @@
       "id": "IBA"
     },
     {
-      "type": "SUBSIDIARY",
+      "type": "PRODUCT",
       "source": "",
-      "id": "Iba"
+      "id": "Particle accelerator technology"
     },
     {
       "type": "PRODUCT",
+      "source": "",
+      "id": "Dosimetry equipment"
+    },
+    {
+      "type": "OTHER",
       "source": "",
       "id": "Industrial Solutions"
     },
     {
-      "type": "PRODUCT",
+      "type": "OTHER",
       "source": "",
       "id": "RadioPharma Solutions"
     },
     {
-      "type": "PRODUCT",
+      "type": "OTHER",
       "source": "",
       "id": "Proton Therapy"
     },
     {
-      "type": "PRODUCT",
+      "type": "OTHER",
       "source": "",
       "id": "Dosimetry"
     },
     {
-      "type": "EMPLOYEE",
+      "type": "LICENSE",
       "source": "",
-      "id": "Iba employees"
+      "id": "Certified B Corporation (B Corp)"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "World leader in particle accelerator technology"
+    },
+    {
+      "type": "CLIENT",
+      "source": "",
+      "id": "Hospitals"
     },
     {
       "type": "CLIENT",
@@ -46,146 +61,113 @@
     {
       "type": "CLIENT",
       "source": "",
-      "id": "Patients"
+      "id": "Customers and partners"
+    },
+    {
+      "type": "EMPLOYEE",
+      "source": "",
+      "id": "Employees"
     },
     {
       "type": "SHAREHOLDER",
       "source": "",
-      "id": "Stakeholders"
+      "id": "Shareholders"
     },
     {
-      "type": "COUNTRY",
-      "source": "",
-      "id": "Planet"
-    },
-    {
-      "type": "COUNTRY",
+      "type": "CLIENT",
       "source": "",
       "id": "Society"
     },
     {
       "type": "CLIENT",
       "source": "",
-      "id": "IBA customers"
-    },
-    {
-      "type": "LICENSE",
-      "source": "",
-      "id": "B Corp"
+      "id": "Planet"
     },
     {
       "type": "REGULATOR",
       "source": "",
-      "id": "SEC"
-    },
-    {
-      "type": "REGULATOR",
-      "source": "",
-      "id": "FINRA"
-    },
-    {
-      "type": "REGULATOR",
-      "source": "",
-      "id": "FCA"
-    },
-    {
-      "type": "REGULATOR",
-      "source": "",
-      "id": "CFTC"
-    },
-    {
-      "type": "CURRENCY",
-      "source": "",
-      "id": "USD"
-    },
-    {
-      "type": "CURRENCY",
-      "source": "",
-      "id": "EUR"
-    },
-    {
-      "type": "CURRENCY",
-      "source": "",
-      "id": "GBP"
+      "id": "Regulators (SEC, FINRA, FCA, CFTC)"
     },
     {
       "id": "particle accelerator technology"
     },
     {
-      "id": "innovative solutions for cancer diagnosis and treatment"
-    },
-    {
-      "id": "hospitals around the world"
-    },
-    {
-      "id": "dosimetry equipment"
+      "id": "innovative solutions for the diagnosis and treatment of cancer"
     },
     {
       "id": "particle accelerators and dosimetry equipment"
     },
     {
-      "id": "customers and partners"
+      "id": "hospitals around the world"
+    },
+    {
+      "id": "customers and partners around the world"
     },
     {
       "id": "health care professionals"
     },
     {
-      "id": "technological progress and scientific research"
+      "id": "research and development of innovative solutions"
     },
     {
-      "id": "regulatory bodies (not specified)"
+      "id": "regulatory bodies around the world"
     },
     {
-      "id": "supervising authorities (not specified)"
+      "id": "supervisory authorities"
     },
     {
-      "id": "worldwide"
+      "id": "Belgium (headquarters)"
     },
     {
-      "id": "Belgium (implied, not explicitly stated)"
+      "id": "Belgium"
     },
     {
-      "id": "over thirty years ago"
+      "id": "health care professionals and patients around the world"
     },
     {
-      "id": "regulatory risks and compliance challenges"
+      "id": "industrial applications such as sterilization of medical devices"
     },
     {
-      "id": "regulatory requirements and standards"
+      "id": "new markets and industries"
     },
     {
-      "id": "compliance measures and risk management strategies"
+      "id": "Belgium (over thirty years ago)"
     },
     {
-      "id": "best practices and industry standards"
+      "id": "new partnerships and collaborations"
     },
     {
-      "id": "regulatory guidelines and recommendations"
+      "id": "expansion into new markets and industries"
     },
     {
-      "id": "compliance with regulatory requirements"
+      "id": "new products and services"
+    },
+    {
+      "id": "research and development projects"
+    },
+    {
+      "id": "financial results and performance"
+    },
+    {
+      "id": "information about the company's activities and operations"
+    },
+    {
+      "id": "annual reports and corporate brochures"
+    },
+    {
+      "id": "regulatory filings and reports"
     }
   ],
   "links": [
     {
-      "relation": "markets",
+      "relation": "owns",
       "source": "IBA",
       "target": "particle accelerator technology"
     },
     {
-      "relation": "designs",
+      "relation": "markets",
       "source": "IBA",
-      "target": "innovative solutions for cancer diagnosis and treatment"
-    },
-    {
-      "relation": "operates_in",
-      "source": "IBA",
-      "target": "hospitals around the world"
-    },
-    {
-      "relation": "maintains",
-      "source": "IBA",
-      "target": "dosimetry equipment"
+      "target": "innovative solutions for the diagnosis and treatment of cancer"
     },
     {
       "relation": "upgrades",
@@ -193,9 +175,14 @@
       "target": "particle accelerators and dosimetry equipment"
     },
     {
+      "relation": "operates_in",
+      "source": "IBA",
+      "target": "hospitals around the world"
+    },
+    {
       "relation": "partners_with",
       "source": "IBA",
-      "target": "customers and partners"
+      "target": "customers and partners around the world"
     },
     {
       "relation": "collaborates_with",
@@ -203,64 +190,89 @@
       "target": "health care professionals"
     },
     {
-      "relation": "invests_in",
+      "relation": "started_in",
       "source": "IBA",
-      "target": "technological progress and scientific research"
+      "target": "research and development of innovative solutions"
     },
     {
       "relation": "regulated_by",
       "source": "IBA",
-      "target": "regulatory bodies (not specified)"
+      "target": "regulatory bodies around the world"
     },
     {
       "relation": "supervised_by",
       "source": "IBA",
-      "target": "supervising authorities (not specified)"
+      "target": "supervisory authorities"
     },
     {
       "relation": "located_in",
       "source": "IBA",
-      "target": "worldwide"
+      "target": "Belgium (headquarters)"
     },
     {
-      "relation": "headquartered_in",
+      "relation": "founded_in",
       "source": "IBA",
-      "target": "Belgium (implied, not explicitly stated)"
+      "target": "Belgium"
+    },
+    {
+      "relation": "serves_market",
+      "source": "IBA",
+      "target": "health care professionals and patients around the world"
+    },
+    {
+      "relation": "active_in",
+      "source": "IBA",
+      "target": "industrial applications such as sterilization of medical devices"
+    },
+    {
+      "relation": "expands_to",
+      "source": "IBA",
+      "target": "new markets and industries"
     },
     {
       "relation": "established_in",
       "source": "IBA",
-      "target": "over thirty years ago"
+      "target": "Belgium (over thirty years ago)"
     },
     {
-      "relation": "exposed_to",
+      "relation": "announced",
       "source": "IBA",
-      "target": "regulatory risks and compliance challenges"
+      "target": "new partnerships and collaborations"
     },
     {
-      "relation": "subject_to",
+      "relation": "planned",
       "source": "IBA",
-      "target": "regulatory requirements and standards"
+      "target": "expansion into new markets and industries"
     },
     {
-      "relation": "implementes",
+      "relation": "launched",
       "source": "IBA",
-      "target": "compliance measures and risk management strategies"
+      "target": "new products and services"
     },
     {
-      "relation": "adopts",
+      "relation": "completed",
       "source": "IBA",
-      "target": "best practices and industry standards"
+      "target": "research and development projects"
     },
     {
-      "relation": "follows",
+      "relation": "reported",
       "source": "IBA",
-      "target": "regulatory guidelines and recommendations"
+      "target": "financial results and performance"
     },
     {
-      "relation": "maintains",
+      "relation": "disclosed",
       "source": "IBA",
-      "target": "compliance with regulatory requirements"
+      "target": "information about the company's activities and operations"
+    },
+    {
+      "relation": "published",
+      "source": "IBA",
+      "target": "annual reports and corporate brochures"
+    },
+    {
+      "relation": "filed",
+      "source": "IBA",
+      "target": "regulatory filings and reports"
     }
   ]
 }
