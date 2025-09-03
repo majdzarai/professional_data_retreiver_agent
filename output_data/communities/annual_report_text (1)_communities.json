@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "num_communities": 4,
+    "total_nodes": 40,
+    "average_community_size": 10.0,
+    "largest_community_size": 18,
+    "smallest_community_size": 4,
+    "algorithm": "rule_based_kyc_aml",
+    "version": "2.0",
+    "purpose": "KYC/AML business intelligence clustering"
+  },
+  "communities": [
+    {
+      "community_id": 0,
+      "nodes": [
+        "IBA",
+        "Industrial Solutions",
+        "RadioPharma Solutions",
+        "Proton Therapy",
+        "Dosimetry",
+        "Health care professionals",
+        "Patients",
+        "Stakeholders",
+        "Planet",
+        "Society",
+        "IBA customers",
+        "particle accelerator technology",
+        "innovative solutions for cancer diagnosis and treatment",
+        "hospitals around the world",
+        "dosimetry equipment",
+        "particle accelerators and dosimetry equipment",
+        "customers and partners",
+        "worldwide"
+      ],
+      "size": 18,
+      "cluster_info": {
+        "name": "Global Operations",
+        "description": "Companies, countries, products, hospitals, partners, and operational entities",
+        "kyc_relevance": "Entity identification, business relationships, geographic exposure"
+      }
+    },
+    {
+      "community_id": 1,
+      "nodes": [
+        "Iba employees",
+        "USD",
+        "EUR",
+        "technological progress and scientific research"
+      ],
+      "size": 4,
+      "cluster_info": {
+        "name": "Financial Data",
+        "description": "Revenue, margins, growth metrics, employees, R&D, and financial indicators",
+        "kyc_relevance": "Financial health assessment, transaction patterns, risk indicators"
+      }
+    },
+    {
+      "community_id": 2,
+      "nodes": [
+        "B Corp",
+        "SEC",
+        "FINRA",
+        "FCA",
+        "CFTC",
+        "regulatory bodies (not specified)",
+        "regulatory risks and compliance challenges",
+        "regulatory requirements and standards",
+        "compliance measures and risk management strategies",
+        "best practices and industry standards",
+        "regulatory guidelines and recommendations",
+        "compliance with regulatory requirements"
+      ],
+      "size": 12,
+      "cluster_info": {
+        "name": "Compliance/KYC",
+        "description": "Certifications, regulators, sanctions, ethics, transparency, and compliance matters",
+        "kyc_relevance": "Regulatory compliance, sanctions screening, risk assessment"
+      }
+    },
+    {
+      "community_id": 3,
+      "nodes": [
+        "Iba",
+        "GBP",
+        "health care professionals",
+        "supervising authorities (not specified)",
+        "Belgium (implied, not explicitly stated)",
+        "over thirty years ago"
+      ],
+      "size": 6,
+      "cluster_info": {
+        "name": "Other",
+        "description": "Miscellaneous entities that don't fit primary business categories",
+        "kyc_relevance": "Additional context and supporting information"
+      }
+    }
+  ],
+  "node_to_community": {
+    "IBA": 0,
+    "Industrial Solutions": 0,
+    "RadioPharma Solutions": 0,
+    "Proton Therapy": 0,
+    "Dosimetry": 0,
+    "Health care professionals": 0,
+    "Patients": 0,
+    "Stakeholders": 0,
+    "Planet": 0,
+    "Society": 0,
+    "IBA customers": 0,
+    "particle accelerator technology": 0,
+    "innovative solutions for cancer diagnosis and treatment": 0,
+    "hospitals around the world": 0,
+    "dosimetry equipment": 0,
+    "particle accelerators and dosimetry equipment": 0,
+    "customers and partners": 0,
+    "worldwide": 0,
+    "Iba employees": 1,
+    "USD": 1,
+    "EUR": 1,
+    "technological progress and scientific research": 1,
+    "B Corp": 2,
+    "SEC": 2,
+    "FINRA": 2,
+    "FCA": 2,
+    "CFTC": 2,
+    "regulatory bodies (not specified)": 2,
+    "regulatory risks and compliance challenges": 2,
+    "regulatory requirements and standards": 2,
+    "compliance measures and risk management strategies": 2,
+    "best practices and industry standards": 2,
+    "regulatory guidelines and recommendations": 2,
+    "compliance with regulatory requirements": 2,
+    "Iba": 3,
+    "GBP": 3,
+    "health care professionals": 3,
+    "supervising authorities (not specified)": 3,
+    "Belgium (implied, not explicitly stated)": 3,
+    "over thirty years ago": 3
+  }
+}

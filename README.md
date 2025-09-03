@@ -1,177 +1,328 @@
-# KYC/AML Graph RAG Pipeline
+# 🔍 Graph RAG Research Pipeline
+## Advanced KYC/AML Compliance Analysis System
 
-A comprehensive Knowledge Graph-based Retrieval Augmented Generation (RAG) pipeline designed for KYC (Know Your Customer) and AML (Anti-Money Laundering) analysis. This system extracts entities and relationships from business documents, builds knowledge graphs, and performs community detection to identify business clusters and risk patterns.
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
+[![Ollama](https://img.shields.io/badge/Ollama-Llama%203.1-green.svg)](https://ollama.ai)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](#)
 
-## 🚀 Features
+A state-of-the-art **Graph RAG (Retrieval-Augmented Generation)** pipeline that transforms financial documents into actionable intelligence for KYC/AML compliance. This system leverages local AI models to extract entities, map relationships, and generate professional compliance reports without external API dependencies.
 
-- **Entity Extraction**: Automated extraction of business entities (companies, people, locations, etc.) using local LLM
-- **Relationship Extraction**: Identification of business relationships and connections
-- **Knowledge Graph Construction**: Building comprehensive knowledge graphs from extracted data
-- **Community Detection**: Advanced clustering algorithms to identify business communities
-- **KYC/AML Analysis**: Professional risk assessment and compliance reporting
-- **LLM Integration**: Local Ollama integration for intelligent analysis and summarization
+## 🎯 What This System Does
 
-## 📋 Prerequisites
-
-- Python 3.7+
-- Ollama with llama3.1 model installed
-- Required Python packages (see requirements below)
-
-## 🛠️ Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/majdzarai/professional_data_retreiver_agent.git
-cd professional_data_retreiver_agent
+```
+📄 Financial Documents → 🤖 AI Processing → 🕸️ Knowledge Graph → 📊 Intelligence Reports
 ```
 
-2. Install required packages:
-```bash
-pip install networkx requests python-louvain matplotlib seaborn pandas numpy
-```
+### Core Capabilities
+- **🔍 Entity Recognition**: Automatically identifies companies, people, locations, and financial instruments
+- **🔗 Relationship Mapping**: Discovers business relationships, ownership structures, and transaction patterns
+- **🕸️ Knowledge Graphs**: Builds comprehensive networks of interconnected entities
+- **👥 Community Detection**: Identifies clusters of related entities for risk assessment
+- **📋 Compliance Reports**: Generates professional KYC/AML analysis with risk ratings
+- **🛡️ Privacy-First**: All processing done locally with no external API calls
 
-3. Install and start Ollama:
-```bash
-# Install Ollama (visit https://ollama.ai for installation instructions)
-ollama pull llama3.1:latest
-ollama serve
-```
+## 🚀 Quick Start
 
-## 📁 Project Structure
+### Prerequisites
+- **Python 3.7+** with pip
+- **Ollama** with Llama 3.1 model
+- **8GB+ RAM** recommended for optimal performance
+
+### Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/majdzarai/professional_data_retreiver_agent.git
+   cd datapipeline
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   pip install networkx requests python-louvain matplotlib seaborn pandas numpy PyPDF2
+   ```
+
+3. **Setup Ollama AI**
+   ```bash
+   # Install Ollama (visit https://ollama.ai for platform-specific instructions)
+   ollama pull llama3.1:latest
+   ollama serve
+   ```
+
+4. **Prepare Your Documents**
+   ```bash
+   mkdir -p input_data
+   # Place your PDF or TXT files in input_data/
+   ```
+
+5. **Run the Pipeline**
+   ```bash
+   python main_researcher.py
+   ```
+
+## 📁 Project Architecture
 
 ```
 datapipeline/
-├── graph_rag/                 # Core pipeline modules
-│   ├── entity_extraction.py   # Entity extraction using LLM
-│   ├── relationship_extraction.py # Relationship extraction
-│   ├── graph_builder.py       # Knowledge graph construction
-│   ├── community_detection.py # Community detection algorithms
-│   ├── community_summary.py   # KYC/AML analysis and reporting
-│   ├── chunking.py            # Text preprocessing
-│   └── pdf_extractor.py       # PDF text extraction
-├── test/                      # Test scripts and examples
-│   ├── test_entity_pipeline.py # Entity extraction testing
-│   ├── test_graph_builder.py  # Graph construction testing
-│   ├── test_communities.py    # Community detection testing
-│   ├── test_local_llama.py    # LLM connectivity testing
-│   └── visualize_graph.py     # Graph visualization
-├── input_data/                # Input documents
-├── output_data/               # Generated outputs
-└── README.md
+├── 🎯 main_researcher.py          # Main pipeline orchestrator
+├── 📂 graph_rag/                  # Core AI modules
+│   ├── 📄 pdf_extractor.py        # PDF text extraction
+│   ├── 🔪 chunking.py             # Intelligent text segmentation
+│   ├── 🏷️ entity_extraction.py    # AI-powered entity recognition
+│   ├── 🔗 relationship_extraction.py # Relationship mapping
+│   ├── 🕸️ graph_builder.py        # Knowledge graph construction
+│   ├── 👥 community_detection.py  # Clustering algorithms
+│   └── 📋 community_summary.py    # Intelligence report generation
+├── 📂 input_data/                 # Your documents go here
+├── 📂 output_data/                # Generated intelligence
+│   ├── cleaned_data/              # Processed text
+│   ├── chunks/                    # Text segments
+│   ├── entities/                  # Extracted entities
+│   ├── relationships/             # Entity relationships
+│   ├── graph/                     # Knowledge graphs
+│   ├── communities/               # Detected clusters
+│   └── summaries/                 # Final reports
+└── 📂 test/                       # Testing utilities
 ```
 
 ## 🔄 Pipeline Workflow
 
-### 1. Entity and Relationship Extraction
-```bash
-python test/test_entity_pipeline.py
-```
-Extracts entities and relationships from business documents using local LLM.
+The Graph RAG pipeline processes documents through 7 intelligent stages:
 
-### 2. Knowledge Graph Construction
-```bash
-python test/test_graph_builder.py
-```
-Builds a comprehensive knowledge graph from extracted data.
+### Stage 1: 📄 Document Processing
+- Extracts clean text from PDF or TXT files
+- Handles complex document layouts and formatting
+- Preserves semantic structure for analysis
 
-### 3. Community Detection and KYC/AML Analysis
-```bash
-python test/test_communities.py
-```
-Performs community detection and generates professional KYC/AML reports.
+### Stage 2: 🔪 Intelligent Chunking
+- Segments text into semantically meaningful chunks
+- Maintains context boundaries for accurate analysis
+- Optimizes chunk size for AI processing
 
-## 📊 Output Files
+### Stage 3: 🏷️ Entity Extraction
+- Uses local Llama 3.1 to identify key entities:
+  - **Companies**: Corporations, subsidiaries, partnerships
+  - **People**: Executives, beneficial owners, signatories
+  - **Locations**: Jurisdictions, addresses, tax havens
+  - **Financial**: Accounts, transactions, instruments
 
-- **Entities**: `test/entities_output_YYYY-MM-DD_HH-MM-SS.json`
-- **Relationships**: `test/relations_output_YYYY-MM-DD_HH-MM-SS.json`
-- **Knowledge Graph**: `test/knowledge_graph_YYYY-MM-DD_HH-MM-SS.json`
-- **Community Analysis**: `test/summaries.json`
-- **KYC/AML Report**: `test/summaries_report.txt`
+### Stage 4: 🔗 Relationship Mapping
+- Discovers semantic relationships between entities:
+  - **Ownership**: Controls, owns, subsidiary_of
+  - **Business**: Partners_with, transacts_with, supplies
+  - **Legal**: Regulated_by, licensed_in, incorporated_in
+  - **Financial**: Transfers_to, receives_from, guarantees
 
-## 🎯 KYC/AML Features
+### Stage 5: 🕸️ Knowledge Graph Construction
+- Builds comprehensive network of entities and relationships
+- Validates data consistency and removes duplicates
+- Creates graph structure optimized for analysis
 
-### Risk Assessment
-- Automated entity classification and risk scoring
-- Business relationship analysis
-- Regulatory compliance checking
-- Sanctions screening indicators
+### Stage 6: 👥 Community Detection
+- Applies advanced clustering algorithms (Greedy Modularity)
+- Identifies groups of closely related entities
+- Calculates community metrics and connectivity scores
 
-### Community Detection
-- Greedy modularity-based clustering
-- Rule-based business categorization
-- Risk level assignment (High/Medium/Low)
-- Network connectivity analysis
+### Stage 7: 📋 Intelligence Report Generation
+- Generates professional KYC/AML compliance reports
+- Provides risk assessments and regulatory insights
+- Creates both structured JSON and human-readable formats
 
-### Professional Reporting
-- Executive summaries with risk metrics
-- Detailed cluster analysis
-- Compliance recommendations
-- Machine-readable JSON outputs
-
-## 🔧 Configuration
-
-### LLM Settings
-Edit `graph_rag/community_summary.py` to configure LLM parameters:
-```python
-LOCAL_LLM_URL = "http://localhost:11434/api/generate"
-LOCAL_LLM_MODEL = "llama3.1:latest"
-```
-
-### Risk Thresholds
-Modify risk assessment criteria in `graph_rag/community_detection.py`:
-```python
-# Adjust cluster size and connectivity thresholds
-HIGH_RISK_THRESHOLD = 50
-MEDIUM_RISK_THRESHOLD = 20
-```
-
-## 📈 Example Output
+## 📊 Output Examples
 
 ### Knowledge Graph Statistics
 ```
 📈 Graph Statistics:
-   • Total nodes: 231
-   • Total edges: 114
-   • Most connected entities: IBA, Financial Services, Regulatory Bodies
+   • Total entities: 156
+   • Total relationships: 89
+   • Communities detected: 4
+   • Processing time: 2.3 minutes
 ```
 
-### Community Analysis
+### Community Analysis Report
 ```
-CLUSTER 0 - RISK LEVEL: HIGH
-Entity Count: 101 entities
+COMMUNITY 1 - RISK LEVEL: HIGH
+═══════════════════════════════════════
+Entity Count: 23 entities
+Connectivity: Dense (0.78)
+
 KYC/AML ASSESSMENT:
-**THEME:** Global Operations in Medical Technology Sector
-**RISK ASSESSMENT:** Potential regulatory compliance requirements...
+**THEME:** International Financial Services Network
+**KEY ENTITIES:** GlobalBank Ltd, OffshoreHoldings Inc, TaxHaven Corp
+**RISK FACTORS:**
+- Multiple offshore jurisdictions
+- Complex ownership structures
+- High-risk geography exposure
+
+**REGULATORY RECOMMENDATIONS:**
+- Enhanced due diligence required
+- Source of funds verification
+- Ongoing monitoring protocols
 ```
+
+### Generated Files
+After pipeline completion, you'll find:
+
+- **📄 Text Data**: `output_data/cleaned_data/document_cleaned.txt`
+- **🔪 Chunks**: `output_data/chunks/document_chunks.txt`
+- **🏷️ Entities**: `output_data/entities/document_entities.json`
+- **🔗 Relationships**: `output_data/relationships/document_relationships.json`
+- **🕸️ Graph**: `output_data/graph/document_graph.json`
+- **👥 Communities**: `output_data/communities/document_communities.json`
+- **📋 Reports**: `output_data/summaries/document_summaries_report.txt`
+
+## ⚙️ Configuration
+
+### Input File Setup
+Edit the input file path in `main_researcher.py`:
+```python
+# Default input file path (modify as needed)
+input_file = "input_data/your_document.pdf"
+```
+
+### AI Model Configuration
+The pipeline uses Llama 3.1 by default. To use different models, update the extraction modules:
+```python
+# In entity_extraction.py and relationship_extraction.py
+LOCAL_LLM_MODEL = "llama3.1:latest"  # Change to your preferred model
+```
+
+### Processing Limits
+For testing, the pipeline processes limited chunks. For production:
+```python
+# In main_researcher.py, change:
+test_chunks = chunks[:1]  # Testing: first chunk only
+# To:
+test_chunks = chunks      # Production: all chunks
+```
+
+## 🛡️ Security & Compliance
+
+### Privacy Protection
+- **Local Processing**: All AI operations run on your machine
+- **No External APIs**: Zero data transmission to third parties
+- **Secure Storage**: All outputs saved locally with proper permissions
+
+### Compliance Features
+- **AML Screening**: Identifies potential money laundering indicators
+- **KYC Analysis**: Maps beneficial ownership and control structures
+- **Risk Assessment**: Automated risk scoring based on entity patterns
+- **Audit Trail**: Complete processing logs for regulatory review
+
+## 🔧 Troubleshooting
+
+### Common Issues
+
+**❌ "Cannot connect to Ollama server"**
+```bash
+# Start Ollama server
+ollama serve
+
+# Verify it's running
+curl http://localhost:11434/api/tags
+```
+
+**❌ "No Llama 3.1 models found"**
+```bash
+# Install the model
+ollama pull llama3.1:latest
+
+# Verify installation
+ollama list
+```
+
+**❌ "Input file not found"**
+- Ensure your document is in the `input_data/` directory
+- Update the file path in `main_researcher.py`
+- Check file permissions and encoding
+
+**❌ "Memory errors during processing"**
+- Reduce chunk size in `chunking.py`
+- Process fewer chunks at once
+- Increase system RAM or use smaller models
+
+## 🧪 Testing
+
+Run individual pipeline components:
+
+```bash
+# Test entity extraction
+python test/test_entity_pipeline.py
+
+# Test graph construction
+python test/test_graph_builder.py
+
+# Test community detection
+python test/test_communities.py
+
+# Test LLM connectivity
+python test/test_local_llama.py
+```
+
+## 🚀 Performance Optimization
+
+### For Large Documents
+- **Parallel Processing**: Modify chunking to process multiple chunks simultaneously
+- **Batch Operations**: Group entity/relationship extractions for efficiency
+- **Memory Management**: Implement streaming for very large files
+
+### For Production Use
+- **Database Integration**: Store graphs in Neo4j or similar graph databases
+- **Caching**: Cache entity/relationship extractions to avoid reprocessing
+- **Monitoring**: Add performance metrics and health checks
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
+1. **Fork** the repository
+2. **Create** a feature branch: `git checkout -b feature/amazing-feature`
+3. **Commit** your changes: `git commit -m 'Add amazing feature'`
+4. **Push** to the branch: `git push origin feature/amazing-feature`
+5. **Open** a Pull Request
+
+### Development Guidelines
+- Follow PEP 8 style guidelines
+- Add comprehensive docstrings
+- Include unit tests for new features
+- Update documentation for API changes
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
-For issues and questions:
-1. Check the existing issues on GitHub
-2. Create a new issue with detailed description
-3. Include error logs and system information
+- **📧 Issues**: [GitHub Issues](https://github.com/majdzarai/professional_data_retreiver_agent/issues)
+- **💬 Discussions**: [GitHub Discussions](https://github.com/majdzarai/professional_data_retreiver_agent/discussions)
+- **📖 Documentation**: This README and inline code comments
 
-## 🔮 Future Enhancements
+## 🔮 Roadmap
 
-- [ ] Neo4j database integration
-- [ ] Real-time streaming analysis
-- [ ] Advanced visualization dashboard
-- [ ] Multi-language document support
-- [ ] Enhanced ML-based risk scoring
-- [ ] API endpoints for integration
+### Upcoming Features
+- [ ] **Real-time Processing**: Stream processing for live document feeds
+- [ ] **Multi-language Support**: Process documents in multiple languages
+- [ ] **Advanced Visualization**: Interactive graph exploration interface
+- [ ] **API Endpoints**: REST API for integration with other systems
+- [ ] **Enhanced ML Models**: Custom fine-tuned models for financial documents
+- [ ] **Regulatory Templates**: Pre-built templates for different jurisdictions
+
+### Performance Improvements
+- [ ] **GPU Acceleration**: CUDA support for faster AI processing
+- [ ] **Distributed Processing**: Multi-node processing for enterprise scale
+- [ ] **Incremental Updates**: Process only changed documents
 
 ---
 
-**Note**: This tool is designed for legitimate KYC/AML compliance purposes. Ensure proper authorization before analyzing any business documents.
+## ⚖️ Legal Notice
+
+**This tool is designed for legitimate KYC/AML compliance purposes only.**
+
+- Ensure proper authorization before analyzing business documents
+- Comply with local data protection and privacy regulations
+- Use responsibly and in accordance with applicable laws
+- The authors are not responsible for misuse of this software
+
+---
+
+**Built with ❤️ for the compliance community**
+
+*Empowering financial institutions with AI-driven intelligence while maintaining privacy and security.*

@@ -29,6 +29,8 @@ Compatibility: Python 3.7+
 import os
 import json
 import re
+import hashlib
+from datetime import datetime
 
 def load_documents(input_folder="input_data"):
     """
@@ -114,50 +116,73 @@ def load_documents(input_folder="input_data"):
     return documents
 
 
-def chunk_text(text, chunk_size=400, overlap=50):
+def chunk_text(text, chunk_size=400, overlap=50, source_filename=None):
     """
-    Intelligently splits text into overlapping chunks for Graph RAG processing.
+    Intelligently splits text into overlapping chunks for KYC/AML Graph RAG processing.
     
-    This function implements sentence-aware chunking which is crucial for maintaining
-    semantic coherence in AML/KYC document analysis. Unlike simple character-based
-    splitting, this preserves sentence boundaries to maintain context integrity.
+    This function implements sentence-aware chunking with comprehensive audit metadata
+    specifically designed for KYC/AML compliance investigations. It preserves semantic
+    coherence while generating detailed traceability information required for regulatory
+    audits and compliance reporting.
     
     The chunking strategy:
     1. Split text into sentences using regex pattern matching
     2. Group sentences until reaching the token limit (chunk_size)
     3. Create overlapping chunks to preserve context across boundaries
-    4. Generate metadata for each chunk to enable traceability
+    4. Generate comprehensive audit metadata for compliance traceability
     
     Args:
         text (str): Input text to be chunked (from load_documents output)
         chunk_size (int): Maximum number of tokens (words) per chunk.
-                         Default 300 is optimized for LLM context windows.
+                         Default 400 is optimized for LLM context windows.
         overlap (int): Number of tokens to overlap between consecutive chunks.
                       Default 50 provides good context continuity.
+        source_filename (str): Original filename for audit trail and traceability.
+                              Used in compliance reporting and investigation tracking.
     
     Returns:
         list: List of dictionaries, each containing:
               - chunk_id (int): Sequential identifier for the chunk
               - text (str): The actual text content of the chunk
-              - metadata (dict): Contains:
+              - metadata (dict): Comprehensive audit metadata containing:
+                  - source_file (str): Original document filename
+                  - chunk_position (str): Position indicator (first/middle/last)
                   - start_sentence (int): Index of first sentence in chunk
                   - end_sentence (int): Index of last sentence in chunk
-                  - length (int): Actual token count in the chunk
+                  - token_count (int): Actual token count in the chunk
+                  - character_count (int): Character count for size validation
+                  - processing_timestamp (str): ISO timestamp for audit trail
+                  - chunk_hash (str): Content hash for integrity verification
+                  - overlap_with_previous (bool): Indicates if chunk has overlap
+                  - compliance_flags (dict): KYC/AML specific metadata
     
     Example:
-        >>> chunks = chunk_text("First sentence. Second sentence.", chunk_size=5)
-        >>> print(chunks[0]['text'])
-        >>> print(chunks[0]['metadata']['length'])
+        >>> chunks = chunk_text("First sentence. Second sentence.", 
+        ...                    chunk_size=5, source_filename="report.txt")
+        >>> print(chunks[0]['metadata']['source_file'])
+        >>> print(chunks[0]['metadata']['chunk_position'])
     
     Note:
         - Uses simple whitespace tokenization (may not align with LLM tokenizers)
         - Overlap calculation uses rough estimation (10 tokens per sentence)
-        - Regex pattern may not handle all sentence boundary cases
+        - Generates SHA-256 hash for content integrity verification
+        - Includes compliance-specific metadata for audit requirements
     """
     # Split text into sentences using regex pattern
     # Pattern (?<=[.!?]) + matches one or more spaces after sentence-ending punctuation
     # This preserves sentence boundaries which is critical for semantic coherence
     sentences = re.split(r'(?<=[.!?]) +', text)
+    
+    # Calculate total document statistics for audit metadata
+    total_sentences = len(sentences)
+    total_characters = len(text)
+    processing_timestamp = datetime.now().isoformat()
+    
+    # Extract base filename for audit trail
+    if source_filename:
+        base_filename = os.path.basename(source_filename)
+    else:
+        base_filename = "unknown_source"
 
     # Initialize variables for chunk processing
     chunks = []  # Final list of processed chunks
@@ -174,15 +199,45 @@ def chunk_text(text, chunk_size=400, overlap=50):
         # Check if adding this sentence would exceed chunk size limit
         if current_length + len(tokens) > chunk_size:
             # Current chunk is full - save it before starting new one
+            chunk_text = " ".join(current_chunk)
+            
+            # Generate comprehensive audit metadata
+            chunk_metadata = {
+                # Core identification
+                "source_file": base_filename,
+                "chunk_position": "first" if chunk_index == 0 else "middle",
+                
+                # Sentence boundaries for traceability
+                "start_sentence": i - len(current_chunk),
+                "end_sentence": i - 1,
+                
+                # Size metrics for validation
+                "token_count": current_length,
+                "character_count": len(chunk_text),
+                
+                # Audit trail information
+                "processing_timestamp": processing_timestamp,
+                "chunk_hash": hashlib.sha256(chunk_text.encode('utf-8')).hexdigest()[:16],
+                
+                # Processing context
+                "overlap_with_previous": chunk_index > 0,
+                "total_chunks_in_document": "TBD",  # Will be updated after processing
+                
+                # KYC/AML compliance metadata
+                "compliance_flags": {
+                    "document_type": "financial_report" if "report" in base_filename.lower() else "unknown",
+                    "contains_financial_data": any(term in chunk_text.lower() for term in ["revenue", "profit", "loss", "financial", "million", "billion", "eur", "usd", "$"]),
+                    "contains_entity_names": any(char.isupper() for char in chunk_text if char.isalpha()),
+                    "requires_review": len(chunk_text) > chunk_size * 4,  # Flag unusually long chunks
+                    "processing_stage": "chunking",
+                    "audit_ready": True
+                }
+            }
+            
             chunks.append({
                 "chunk_id": chunk_index,
-                "text": " ".join(current_chunk),  # Reconstruct text from sentences
-                "metadata": {
-                    # Calculate sentence indices for traceability
-                    "start_sentence": i - len(current_chunk),
-                    "end_sentence": i - 1,
-                    "length": current_length  # Actual token count
-                }
+                "text": chunk_text,
+                "metadata": chunk_metadata
             })
             chunk_index += 1
 
@@ -202,21 +257,66 @@ def chunk_text(text, chunk_size=400, overlap=50):
     # Handle the final chunk (if any sentences remain)
     # This ensures no text is lost at the end of the document
     if current_chunk:
+        chunk_text = " ".join(current_chunk)
+        
+        # Generate comprehensive audit metadata for final chunk
+        final_chunk_metadata = {
+            # Core identification
+            "source_file": base_filename,
+            "chunk_position": "last" if chunk_index > 0 else "only",
+            
+            # Sentence boundaries for traceability
+            "start_sentence": len(sentences) - len(current_chunk),
+            "end_sentence": len(sentences) - 1,
+            
+            # Size metrics for validation
+            "token_count": current_length,
+            "character_count": len(chunk_text),
+            
+            # Audit trail information
+            "processing_timestamp": processing_timestamp,
+            "chunk_hash": hashlib.sha256(chunk_text.encode('utf-8')).hexdigest()[:16],
+            
+            # Processing context
+            "overlap_with_previous": chunk_index > 0,
+            "total_chunks_in_document": chunk_index + 1,
+            
+            # KYC/AML compliance metadata
+            "compliance_flags": {
+                "document_type": "financial_report" if "report" in base_filename.lower() else "unknown",
+                "contains_financial_data": any(term in chunk_text.lower() for term in ["revenue", "profit", "loss", "financial", "million", "billion", "eur", "usd", "$"]),
+                "contains_entity_names": any(char.isupper() for char in chunk_text if char.isalpha()),
+                "requires_review": len(chunk_text) > chunk_size * 4,
+                "processing_stage": "chunking",
+                "audit_ready": True
+            }
+        }
+        
         chunks.append({
             "chunk_id": chunk_index,
-            "text": " ".join(current_chunk),
-            "metadata": {
-                # Calculate final chunk boundaries
-                "start_sentence": len(sentences) - len(current_chunk),
-                "end_sentence": len(sentences) - 1,
-                "length": current_length
-            }
+            "text": chunk_text,
+            "metadata": final_chunk_metadata
         })
+    
+    # Update total_chunks_in_document for all chunks
+    total_chunks = len(chunks)
+    for chunk in chunks:
+        chunk["metadata"]["total_chunks_in_document"] = total_chunks
+        
+        # Update chunk_position for better accuracy
+        if total_chunks == 1:
+            chunk["metadata"]["chunk_position"] = "only"
+        elif chunk["chunk_id"] == 0:
+            chunk["metadata"]["chunk_position"] = "first"
+        elif chunk["chunk_id"] == total_chunks - 1:
+            chunk["metadata"]["chunk_position"] = "last"
+        else:
+            chunk["metadata"]["chunk_position"] = "middle"
 
     return chunks
 
 
-def save_chunks_to_file(chunks, file_name="test/chunks_output.txt"):
+def save_chunks_to_file(chunks, file_name="output_data/chunks/chunks_output.txt"):
     """
     Persists processed chunks to disk for manual inspection and debugging.
     

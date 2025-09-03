@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "generation_timestamp": "2025-09-03T22:25:47.261837",
+    "total_communities": 4,
+    "source_graph": "output_data/graph/annual_report_text (1)_graph.json",
+    "source_communities": "output_data/communities/annual_report_text (1)_communities.json",
+    "llm_model": "llama3.1:latest",
+    "report_type": "KYC_AML_Risk_Assessment",
+    "analysis_focus": "Business Intelligence and Compliance Risk"
+  },
+  "risk_summary": {
+    "total_entities": 40,
+    "high_risk_clusters": 1,
+    "average_cluster_size": 10.0
+  },
+  "summaries": [
+    {
+      "community_id": 0,
+      "size": 18,
+      "type_counts": {
+        "COMPANY": 1,
+        "PRODUCT": 4,
+        "CLIENT": 3,
+        "SHAREHOLDER": 1,
+        "COUNTRY": 2,
+        "UNKNOWN": 7
+      },
+      "summary": "**THEME:** Global Medical Technology and Services Provider\n\n**KEY ENTITIES:**\n\n* IBA (primary entity): Develops and markets particle accelerator technology for cancer diagnosis and treatment\n* Industrial Solutions: Provides innovative solutions for cancer diagnosis and treatment\n* RadioPharma Solutions: Offers proton therapy and dosimetry equipment\n* Proton Therapy: Specializes in proton therapy services\n\n**RELATIONSHIPS:**\n\n* IBA maintains strong relationships with health care professionals, hospitals around the world, and customers through partnerships and collaborations.\n* IBA operates globally, investing in technological progress and scientific research.\n\n**RISK ASSESSMENT:**\n\n* High-risk entities: None identified\n* Moderate-risk entities:\n\t+ RadioPharma Solutions (due to involvement in proton therapy, a high-cost medical treatment)\n\t+ Proton Therapy (similarly, due to its specialized services)\n* Compliance considerations:\n\t+ Ensure adherence to international sanctions and embargoes when operating in countries with high-risk reputations.\n\t+ Verify the legitimacy of partnerships and collaborations with health care professionals and hospitals.\n\t+ Implement robust AML/KYC procedures for customers and partners.\n\nOverall, IBA appears to be a reputable global medical technology and services provider. However, it is essential to monitor relationships with high-risk entities and ensure compliance with relevant regulations to mitigate potential risks.",
+      "sample_nodes": [
+        "IBA",
+        "Industrial Solutions",
+        "RadioPharma Solutions",
+        "Proton Therapy",
+        "Dosimetry",
+        "Health care professionals",
+        "Patients",
+        "Stakeholders",
+        "Planet",
+        "Society",
+        "IBA customers",
+        "particle accelerator technology",
+        "innovative solutions for cancer diagnosis and treatment",
+        "hospitals around the world",
+        "dosimetry equipment",
+        "particle accelerators and dosimetry equipment",
+        "customers and partners",
+        "worldwide"
+      ],
+      "statistics": {
+        "total_edges": 19,
+        "internal_edges": 7,
+        "external_edges": 12,
+        "connectivity_ratio": 0.368
+      },
+      "top_entity_types": [
+        "UNKNOWN: 7",
+        "PRODUCT: 4",
+        "CLIENT: 3",
+        "COUNTRY: 2",
+        "COMPANY: 1"
+      ]
+    },
+    {
+      "community_id": 1,
+      "size": 4,
+      "type_counts": {
+        "EMPLOYEE": 1,
+        "CURRENCY": 2,
+        "UNKNOWN": 1
+      },
+      "summary": "**THEME:** Financial Health Assessment and Risk Indicators\n\n**KEY ENTITIES:**\n\n* **IBA Employees**: Individuals responsible for managing IBA's financial transactions and investments.\n* **USD and EUR**: Currencies used in financial transactions, indicating a global financial presence.\n* **Technological Progress and Scientific Research**: Areas of investment by IBA, suggesting a focus on innovation and growth.\n\n**RELATIONSHIPS:**\n\n* IBA invests_in → Technological progress and scientific research: This relationship indicates IBA's strategic focus on emerging technologies and innovations, which can be a key driver for financial growth.\n* The presence of USD and EUR currencies suggests a global financial scope, potentially involving cross-border transactions.\n\n**RISK ASSESSMENT:**\n\n* **Compliance Risks**: The use of multiple currencies (USD and EUR) may indicate a need to comply with anti-money laundering (AML) regulations in various jurisdictions. IBA's investments in technological progress and scientific research could also attract unwanted attention from regulatory bodies.\n* **Risk Indicators**: The significant investment in emerging technologies may expose IBA to market risks, such as volatility or disruption in the tech sector. Additionally, the involvement of employees in managing financial transactions raises concerns about potential insider threats or unauthorized activities.\n\nThis analysis highlights the importance of monitoring IBA's financial health and risk indicators, particularly in relation to their global financial presence and investments in emerging technologies.",
+      "sample_nodes": [
+        "Iba employees",
+        "USD",
+        "EUR",
+        "technological progress and scientific research"
+      ],
+      "statistics": {
+        "total_edges": 1,
+        "internal_edges": 0,
+        "external_edges": 1,
+        "connectivity_ratio": 0.0
+      },
+      "top_entity_types": [
+        "CURRENCY: 2",
+        "EMPLOYEE: 1",
+        "UNKNOWN: 1"
+      ]
+    },
+    {
+      "community_id": 2,
+      "size": 12,
+      "type_counts": {
+        "LICENSE": 1,
+        "REGULATOR": 4,
+        "UNKNOWN": 7
+      },
+      "summary": "**THEME:** Regulatory Compliance and Risk Management\n\n**KEY ENTITIES:**\n\n* **IBA (Institutional Business Association)**: A financial institution subject to regulatory oversight.\n* **Regulatory Bodies**: Government agencies responsible for enforcing regulations and standards.\n* **Compliance Measures and Risk Management Strategies**: Internal controls implemented by IBA to mitigate risks.\n\n**RELATIONSHIPS:**\n\n* IBA is **regulated_by** Regulatory Bodies, indicating a direct relationship between the institution and its overseers.\n* IBA is **exposed_to** Regulatory Risks and Compliance Challenges, highlighting potential vulnerabilities.\n* IBA must **subject_to** Regulatory Requirements and Standards, emphasizing the need for adherence to rules.\n* IBA implements **Compliance Measures and Risk Management Strategies**, demonstrating proactive risk mitigation efforts.\n\n**RISK ASSESSMENT:**\n\n* Potential red flags include:\n\t+ Failure to comply with regulatory requirements (e.g., sanctions screening lapses).\n\t+ Inadequate risk management strategies, leading to increased exposure.\n\t+ Non-adherence to best practices and industry standards.\n* Compliance considerations include:\n\t+ Ensuring accurate and timely reporting to Regulatory Bodies.\n\t+ Implementing robust AML/KYC procedures to prevent illicit activities.\n\t+ Regularly reviewing and updating compliance measures to address emerging risks.",
+      "sample_nodes": [
+        "B Corp",
+        "SEC",
+        "FINRA",
+        "FCA",
+        "CFTC",
+        "regulatory bodies (not specified)",
+        "regulatory risks and compliance challenges",
+        "regulatory requirements and standards",
+        "compliance measures and risk management strategies",
+        "best practices and industry standards",
+        "regulatory guidelines and recommendations",
+        "compliance with regulatory requirements"
+      ],
+      "statistics": {
+        "total_edges": 7,
+        "internal_edges": 0,
+        "external_edges": 7,
+        "connectivity_ratio": 0.0
+      },
+      "top_entity_types": [
+        "UNKNOWN: 7",
+        "REGULATOR: 4",
+        "LICENSE: 1"
+      ]
+    },
+    {
+      "community_id": 3,
+      "size": 6,
+      "type_counts": {
+        "SUBSIDIARY": 1,
+        "CURRENCY": 1,
+        "UNKNOWN": 4
+      },
+      "summary": "**THEME:** Medical Device Manufacturing and Distribution\n\n**KEY ENTITIES:**\n\n* IBA (entity): Manufacturer of medical devices\n* Health care professionals (entity group): Customers or end-users of IBA's products\n* Supervising authorities (entity group): Regulators overseeing IBA's operations, but not specified\n* Belgium (geo entity): Implied location of IBA's headquarters\n\n**RELATIONSHIPS:**\n\n* IBA collaborates with health care professionals, suggesting a strong business relationship and potential influence on medical practices.\n* IBA is supervised by unspecified authorities, which may indicate a lack of transparency or oversight in their operations.\n* IBA has been established for over thirty years, indicating a long-standing presence in the market.\n\n**RISK ASSESSMENT:**\n\n* Potential red flags include:\n\t+ Lack of clarity on supervising authorities, which could compromise regulatory compliance and risk management.\n\t+ Collaboration with health care professionals may raise concerns about undue influence or promotion of specific medical devices.\n\t+ Established operations for over thirty years may indicate a need for enhanced due diligence to ensure adherence to evolving regulations and industry standards.\n\nThis analysis highlights the importance of verifying supervising authorities and conducting thorough due diligence on IBA's business practices, particularly in relation to their collaborations with health care professionals.",
+      "sample_nodes": [
+        "Iba",
+        "GBP",
+        "health care professionals",
+        "supervising authorities (not specified)",
+        "Belgium (implied, not explicitly stated)",
+        "over thirty years ago"
+      ],
+      "statistics": {
+        "total_edges": 4,
+        "internal_edges": 0,
+        "external_edges": 4,
+        "connectivity_ratio": 0.0
+      },
+      "top_entity_types": [
+        "UNKNOWN: 4",
+        "SUBSIDIARY: 1",
+        "CURRENCY: 1"
+      ]
+    }
+  ]
+}

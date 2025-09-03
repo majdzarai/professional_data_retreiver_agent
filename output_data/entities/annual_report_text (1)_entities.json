@@ -1,0 +1,86 @@
+[
+  {
+    "name": "IBA",
+    "type": "COMPANY"
+  },
+  {
+    "name": "Iba",
+    "type": "SUBSIDIARY"
+  },
+  {
+    "name": "Industrial Solutions",
+    "type": "PRODUCT"
+  },
+  {
+    "name": "RadioPharma Solutions",
+    "type": "PRODUCT"
+  },
+  {
+    "name": "Proton Therapy",
+    "type": "PRODUCT"
+  },
+  {
+    "name": "Dosimetry",
+    "type": "PRODUCT"
+  },
+  {
+    "name": "Iba employees",
+    "type": "EMPLOYEE"
+  },
+  {
+    "name": "Health care professionals",
+    "type": "CLIENT"
+  },
+  {
+    "name": "Patients",
+    "type": "CLIENT"
+  },
+  {
+    "name": "Stakeholders",
+    "type": "SHAREHOLDER"
+  },
+  {
+    "name": "Planet",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Society",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "IBA customers",
+    "type": "CLIENT"
+  },
+  {
+    "name": "B Corp",
+    "type": "LICENSE"
+  },
+  {
+    "name": "SEC",
+    "type": "REGULATOR"
+  },
+  {
+    "name": "FINRA",
+    "type": "REGULATOR"
+  },
+  {
+    "name": "FCA",
+    "type": "REGULATOR"
+  },
+  {
+    "name": "CFTC",
+    "type": "REGULATOR"
+  },
+  {
+    "name": "USD",
+    "type": "CURRENCY"
+  },
+  {
+    "name": "EUR",
+    "type": "CURRENCY"
+  },
+  {
+    "name": "GBP",
+    "type": "CURRENCY"
+  }
+]

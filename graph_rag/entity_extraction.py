@@ -4,12 +4,12 @@ Entity Extraction Module for Graph RAG Pipeline
 
 This module provides AI-powered named entity recognition (NER) capabilities specifically
 designed for AML/KYC compliance and financial regulatory document analysis. It leverages
-Groq's high-performance cloud-based language models to extract structured entities from
-unstructured text with high accuracy and speed.
+local Llama 3.1 models via Ollama to extract structured entities from unstructured text
+with high accuracy and privacy.
 
 Key Features:
 - AML/KYC-specific entity types (COMPANY, PERSON, BANK, REGULATOR, etc.)
-- Groq cloud API integration for fast, reliable inference
+- Local Llama 3.1 integration via Ollama for privacy and control
 - Robust error handling and response parsing
 - Entity validation and deduplication
 - Comprehensive logging for debugging and monitoring
@@ -28,42 +28,34 @@ Supported Entity Types:
 
 
 Requirements:
-- GROQ_API_KEY environment variable (obtain from https://console.groq.com/)
-- Internet connection for API access
-- Python packages: groq, python-dotenv
+- Local Ollama server running with Llama 3.1 model
+- Python packages: requests
 
 Author: Graph RAG Pipeline
 Version: 1.0
 Compatibility: Python 3.7+
 """
 
-# Import necessary libraries for JSON handling, logging, type hints, environment variables, and Groq API
+# Import necessary libraries for JSON handling, logging, type hints, and local LLM
 import json  # For parsing JSON responses from the AI model
 import logging  # For debugging and tracking what the code is doing
-import os  # For accessing environment variables like API keys
+import requests  # For making HTTP requests to local Ollama server
 from typing import List, Dict, Any  # For type hints to make code more readable
-from groq import Groq  # The Groq client for making API calls to Groq's AI models
-from dotenv import load_dotenv  # For loading environment variables from .env file
-
-# Load environment variables from .env file (this reads GROQ_API_KEY)
-load_dotenv()
 
 # Configure logging so we can see what's happening during entity extraction
 logging.basicConfig(level=logging.INFO)  # Set logging level to INFO for detailed output
 logger = logging.getLogger(__name__)  # Create a logger specific to this file
 
-# Initialize the Groq client with API key from environment variables
-# This client will be used to make requests to Groq's AI models
-client = Groq(
-    api_key=os.getenv("GROQ_API_KEY")  # Get the API key from .env file
-)
+# Ollama server configuration for local Llama 3.1
+OLLAMA_URL = "http://localhost:11434/api/generate"
+MODEL_NAME = "llama3.1"
 
 def extract_entities(text_chunk: str) -> List[Dict[str, str]]:
     """
-    Extract named entities from a text chunk using Groq's AI models.
+    Extract named entities from a text chunk using local Llama 3.1 model.
     
     This function is designed specifically for AML/KYC compliance investigations.
-    It uses Groq's cloud-based AI models to identify and extract key entities that are
+    It uses local Llama 3.1 via Ollama to identify and extract key entities that are
     commonly relevant in financial compliance and regulatory documents.
     
     Args:
@@ -77,7 +69,7 @@ def extract_entities(text_chunk: str) -> List[Dict[str, str]]:
     
    
     Note:
-        - Requires valid GROQ_API_KEY in .env file
+        - Requires local Ollama server running with Llama 3.1 model
         - Handles API response parsing errors gracefully
         - Returns empty list if extraction fails
     """
@@ -134,30 +126,31 @@ Extract every possible entity - be comprehensive and thorough.
 JSON:"""
         
         # Log that we're about to make an API call (helpful for debugging)
-        logger.info(f"Sending text chunk to Groq API for entity extraction (length: {len(text_chunk)} chars)")
+        logger.info(f"Sending text chunk to local Llama 3.1 for entity extraction (length: {len(text_chunk)} chars)")
         
-        # Make the API call to Groq
-        # We use the chat completions endpoint with specific parameters
-        chat_completion = client.chat.completions.create(
-            messages=[  # The conversation format - we send one user message with our prompt
-                {
-                    "role": "user",  # We are the user asking the AI to extract entities
-                    "content": prompt  # Our carefully crafted prompt with the text to analyze
-                }
-            ],
-            model="openai/gpt-oss-120b",  # The specific Groq model to use (as requested)
-            temperature=0.1,  # Low temperature (0.1) for consistent, factual extraction (not creative)
-            max_tokens=2048,  # Maximum tokens in the response (enough for entity lists)
-            top_p=1,  # Use all possible tokens (standard setting)
-            stream=False  # Get the complete response at once (not streaming)
-        )
+        # Make the API call to local Ollama server
+        # Prepare the request payload for Ollama
+        payload = {
+            "model": MODEL_NAME,
+            "prompt": prompt,
+            "stream": False,
+            "options": {
+                "temperature": 0.1,  # Low temperature for consistent, factual extraction
+                "top_p": 1.0,
+                "num_predict": 2048  # Maximum tokens in the response
+            }
+        }
         
-        # Extract the actual text content from the API response
-        # The response has a specific structure, we need to get the message content
-        response_text = chat_completion.choices[0].message.content
+        # Make HTTP POST request to Ollama
+        response = requests.post(OLLAMA_URL, json=payload, timeout=120)  # 2 minute timeout
+        response.raise_for_status()  # Raise exception if request failed
+        
+        # Extract the actual text content from the Ollama response
+        response_data = response.json()
+        response_text = response_data.get("response", "")
         
         # Log the response for debugging (show first 200 characters)
-        logger.info(f"Received response from Groq API: {response_text[:200]}...")
+        logger.info(f"Received response from local Llama 3.1: {response_text[:200]}...")
         
         # Parse the JSON response using our helper function
         # This handles cases where the AI might return extra text around the JSON

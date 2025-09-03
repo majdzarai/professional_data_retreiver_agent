@@ -8,7 +8,7 @@ relationships between entities in unstructured text and converts them into struc
 triples (source, relation, target) for knowledge graph construction.
 
 Key Features:
-- Semantic relationship extraction using Groq's fast language models
+- Semantic relationship extraction using local Llama 3.1 models via Ollama
 - Structured triple output format for graph databases
 - Robust JSON parsing with fallback mechanisms
 - Data normalization and cleaning
@@ -40,37 +40,31 @@ Typical Usage:
      {'source': 'Wells Fargo', 'relation': 'paid', 'target': '$3 million'}]
 
 Requirements:
-- GROQ_API_KEY environment variable
-- Internet connection for API access
-- Python packages: groq, python-dotenv
+- Local Ollama server running with Llama 3.1 model
+- Python packages: requests
 
 Author: Graph RAG Pipeline
 Version: 1.0
 Compatibility: Python 3.7+
 """
 
-import os
 import json
 import re
 import logging
-from dotenv import load_dotenv
-from groq import Groq
+import requests
 from typing import List, Dict
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Load environment variables
-load_dotenv()
-API_KEY = os.getenv("GROQ_API_KEY")
-
-# Initialize Groq client
-client = Groq(api_key=API_KEY)
+# Ollama server configuration for local Llama 3.1
+OLLAMA_URL = "http://localhost:11434/api/generate"
+MODEL_NAME = "llama3.1"
 
 def extract_relationships(text_chunk: str) -> List[Dict[str, str]]:
     """
-    Extract semantic relationships from text using Groq's high-performance language models.
+    Extract semantic relationships from text using local Llama 3.1 model.
     
     This function analyzes a text chunk and identifies meaningful relationships between
     entities, converting them into structured triples suitable for knowledge graph
@@ -79,7 +73,7 @@ def extract_relationships(text_chunk: str) -> List[Dict[str, str]]:
     
     Processing Pipeline:
     1. Constructs specialized prompt for relationship extraction
-    2. Sends request to Groq's Llama 3.1 8B Instant model
+    2. Sends request to local Llama 3.1 via Ollama
     3. Parses JSON response with robust error handling
     4. Normalizes and cleans relationship data
     5. Validates triple structure and content
@@ -107,7 +101,7 @@ def extract_relationships(text_chunk: str) -> List[Dict[str, str]]:
         - Relationships are normalized (lowercase relations, trimmed whitespace)
         - Invalid or incomplete triples are filtered out automatically
         - Uses temperature=0.1 for consistent, factual extraction
-        - Requires valid GROQ_API_KEY environment variable
+        - Requires local Ollama server running with Llama 3.1 model
     """
     prompt = f"""
     Extract ALL semantic relationships for comprehensive AML/KYC compliance and regulatory reporting from the following text.
@@ -167,28 +161,41 @@ def extract_relationships(text_chunk: str) -> List[Dict[str, str]]:
     """
 
     try:
-        logger.info(f"Sending text chunk to Groq API for relationship extraction (length: {len(text_chunk)} chars)")
-        response = client.chat.completions.create(
-            model="llama-3.1-8b-instant",   # Using Llama 3.1 8B Instant (current model)
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.1,
-            max_completion_tokens=1024  # Increased to handle longer responses
-        )
-        content = response.choices[0].message.content
-        logger.info(f"Received response from Groq API (length: {len(content)} chars)")
+        logger.info(f"Sending text chunk to local Llama 3.1 for relationship extraction (length: {len(text_chunk)} chars)")
+        
+        # Prepare the request payload for Ollama
+        payload = {
+            "model": MODEL_NAME,
+            "prompt": prompt,
+            "stream": False,
+            "options": {
+                "temperature": 0.1,
+                "top_p": 1.0,
+                "num_predict": 1024
+            }
+        }
+        
+        # Make HTTP POST request to Ollama
+        response = requests.post(OLLAMA_URL, json=payload, timeout=120)  # 2 minute timeout
+        response.raise_for_status()
+        
+        # Extract the actual text content from the Ollama response
+        response_data = response.json()
+        content = response_data.get("response", "")
+        logger.info(f"Received response from local Llama 3.1 (length: {len(content)} chars)")
         logger.info(f"Response content: {repr(content[:1000])}...")
 
         # Parse JSON safely
+        data = None
         try:
             data = json.loads(content)
             logger.info("Successfully parsed JSON directly from response")
         except Exception as direct_parse_error:
             logger.info(f"Direct JSON parsing failed: {direct_parse_error}")
-            data = []
             
             # Try to extract JSON from markdown code blocks first
             # Look for ```json or ``` followed by JSON content
-            json_match = re.search(r'```(?:json)?\s*\n?([\s\S]*?)\n?\s*```', content, re.IGNORECASE)
+            json_match = re.search(r'```(?:json)?\s*\n?([\s\S]*?)\n?\s*```', content, re.IGNORECASE | re.DOTALL)
             if json_match:
                 try:
                     json_content = json_match.group(1).strip()
@@ -198,33 +205,60 @@ def extract_relationships(text_chunk: str) -> List[Dict[str, str]]:
                 except Exception as e:
                     logger.warning(f"Failed to parse JSON from markdown block: {e}")
                     logger.warning(f"Markdown content was: {json_content[:500]}...")
-                    
-                    # Try to find just the JSON array part within the markdown block
-                    array_match = re.search(r'(\[\s*\{[\s\S]*?\}\s*\])', json_content, re.S)
-                    if array_match:
-                        try:
-                            array_content = array_match.group(1)
-                            logger.info(f"Found JSON array within markdown: {array_content[:200]}...")
-                            data = json.loads(array_content)
-                            logger.info(f"Successfully parsed JSON array from markdown: {len(data)} items")
-                        except Exception as array_e:
-                            logger.warning(f"Failed to parse JSON array from markdown: {array_e}")
             
             if not data:
-                # Fallback to finding any JSON array in the content
-                match = re.search(r"\[\s*\{[\s\S]*?\}\s*\]", content, re.S)
-                if match:
-                    try:
-                        json_content = match.group(0)
-                        logger.info(f"Found JSON array with regex: {json_content[:200]}...")
-                        data = json.loads(json_content)
-                        logger.info(f"Successfully parsed JSON array: {len(data)} items")
-                    except Exception as e:
-                        logger.warning(f"Failed to parse JSON array: {e}")
-                        logger.warning(f"Array content was: {json_content[:500]}...")
+                # Try to find the first complete JSON array in the response
+                # This handles cases where LLM returns JSON followed by explanatory text
+                
+                # Find the start of a JSON array
+                start_match = re.search(r'\[', content)
+                if start_match:
+                    start_pos = start_match.start()
+                    
+                    # Find the matching closing bracket by counting brackets
+                    bracket_count = 0
+                    end_pos = start_pos
+                    
+                    for i, char in enumerate(content[start_pos:], start_pos):
+                        if char == '[':
+                            bracket_count += 1
+                        elif char == ']':
+                            bracket_count -= 1
+                            if bracket_count == 0:
+                                end_pos = i + 1
+                                break
+                    
+                    if bracket_count == 0:  # Found complete array
+                        try:
+                            json_content = content[start_pos:end_pos]
+                            logger.info(f"Found complete JSON array: {json_content[:200]}...")
+                            data = json.loads(json_content)
+                            logger.info(f"Successfully parsed complete JSON array: {len(data)} items")
+                        except Exception as e:
+                            logger.warning(f"Failed to parse complete JSON array: {e}")
+                            
+                            # Fallback to regex patterns
+                            array_patterns = [
+                                r'\[\s*\{[\s\S]*?"source"[\s\S]*?"relation"[\s\S]*?"target"[\s\S]*?\}[\s\S]*?\]',
+                                r'\[\s*\{[\s\S]*?\}\s*(?:,\s*\{[\s\S]*?\}\s*)*\]'
+                            ]
+                            
+                            for pattern in array_patterns:
+                                match = re.search(pattern, content, re.DOTALL | re.IGNORECASE)
+                                if match:
+                                    try:
+                                        json_content = match.group(0)
+                                        logger.info(f"Found JSON array with pattern: {json_content[:200]}...")
+                                        data = json.loads(json_content)
+                                        logger.info(f"Successfully parsed JSON array: {len(data)} items")
+                                        break
+                                    except Exception as e:
+                                        logger.warning(f"Failed to parse JSON array with pattern: {e}")
+                                        continue
             
             if not data:
                 logger.warning(f"No valid JSON array found in response: {content[:500]}...")
+                data = []  # Ensure data is a list for the normalization step
 
         # Normalize
         cleaned = []

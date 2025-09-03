@@ -1,0 +1,102 @@
+[
+  {
+    "source": "IBA",
+    "relation": "owns",
+    "target": "particle accelerator technology"
+  },
+  {
+    "source": "IBA",
+    "relation": "designs",
+    "target": "innovative solutions for cancer diagnosis and treatment"
+  },
+  {
+    "source": "IBA",
+    "relation": "markets",
+    "target": "particle accelerator technology"
+  },
+  {
+    "source": "IBA",
+    "relation": "operates_in",
+    "target": "hospitals around the world"
+  },
+  {
+    "source": "IBA",
+    "relation": "maintains",
+    "target": "dosimetry equipment"
+  },
+  {
+    "source": "IBA",
+    "relation": "upgrades",
+    "target": "particle accelerators and dosimetry equipment"
+  },
+  {
+    "source": "IBA",
+    "relation": "partners_with",
+    "target": "customers and partners"
+  },
+  {
+    "source": "IBA",
+    "relation": "collaborates_with",
+    "target": "health care professionals"
+  },
+  {
+    "source": "IBA",
+    "relation": "invests_in",
+    "target": "technological progress and scientific research"
+  },
+  {
+    "source": "IBA",
+    "relation": "regulated_by",
+    "target": "regulatory bodies (not specified)"
+  },
+  {
+    "source": "IBA",
+    "relation": "supervised_by",
+    "target": "supervising authorities (not specified)"
+  },
+  {
+    "source": "IBA",
+    "relation": "located_in",
+    "target": "worldwide"
+  },
+  {
+    "source": "IBA",
+    "relation": "headquartered_in",
+    "target": "Belgium (implied, not explicitly stated)"
+  },
+  {
+    "source": "IBA",
+    "relation": "established_in",
+    "target": "over thirty years ago"
+  },
+  {
+    "source": "IBA",
+    "relation": "exposed_to",
+    "target": "regulatory risks and compliance challenges"
+  },
+  {
+    "source": "IBA",
+    "relation": "subject_to",
+    "target": "regulatory requirements and standards"
+  },
+  {
+    "source": "IBA",
+    "relation": "implementes",
+    "target": "compliance measures and risk management strategies"
+  },
+  {
+    "source": "IBA",
+    "relation": "adopts",
+    "target": "best practices and industry standards"
+  },
+  {
+    "source": "IBA",
+    "relation": "follows",
+    "target": "regulatory guidelines and recommendations"
+  },
+  {
+    "source": "IBA",
+    "relation": "maintains",
+    "target": "compliance with regulatory requirements"
+  }
+]
