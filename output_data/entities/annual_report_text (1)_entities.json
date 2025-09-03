@@ -4,6 +4,10 @@
     "type": "COMPANY"
   },
   {
+    "name": "Iba",
+    "type": "SUBSIDIARY"
+  },
+  {
     "name": "Particle accelerator technology",
     "type": "PRODUCT"
   },
@@ -28,12 +32,208 @@
     "type": "OTHER"
   },
   {
+    "name": "Health care professionals",
+    "type": "CLIENT"
+  },
+  {
+    "name": "Hospitals",
+    "type": "CLIENT"
+  },
+  {
+    "name": "Customers",
+    "type": "CLIENT"
+  },
+  {
+    "name": "Partners",
+    "type": "PARTNER"
+  },
+  {
+    "name": "Employees",
+    "type": "EMPLOYEE"
+  },
+  {
+    "name": "Shareholders",
+    "type": "SHAREHOLDER"
+  },
+  {
+    "name": "Stakeholders",
+    "type": "OTHER"
+  },
+  {
     "name": "Certified B Corporation (B Corp)",
     "type": "LICENSE"
   },
   {
     "name": "World leader in particle accelerator technology",
     "type": "OTHER"
+  },
+  {
+    "name": "IBA",
+    "type": "COMPANY"
+  },
+  {
+    "name": "Iba",
+    "type": "SUBSIDIARY"
+  },
+  {
+    "name": "Industrial Solutions",
+    "type": "PRODUCT"
+  },
+  {
+    "name": "RadioPharma Solutions",
+    "type": "PRODUCT"
+  },
+  {
+    "name": "Proton Therapy",
+    "type": "PRODUCT"
+  },
+  {
+    "name": "Dosimetry",
+    "type": "PRODUCT"
+  },
+  {
+    "name": "Particle accelerator technology",
+    "type": "TECHNOLOGY"
+  },
+  {
+    "name": "Certified B Corporation (B Corp)TM",
+    "type": "LICENSE"
+  },
+  {
+    "name": "Iba employees",
+    "type": "EMPLOYEE"
+  },
+  {
+    "name": "Health care professionals",
+    "type": "CLIENT"
+  },
+  {
+    "name": "Patients",
+    "type": "CLIENT"
+  },
+  {
+    "name": "Society",
+    "type": "CLIENT"
+  },
+  {
+    "name": "Planet",
+    "type": "CLIENT"
+  },
+  {
+    "name": "Shareholders",
+    "type": "SHAREHOLDER"
+  },
+  {
+    "name": "Board members",
+    "type": "DIRECTOR"
+  },
+  {
+    "name": "Executive directors",
+    "type": "OTHER"
+  },
+  {
+    "name": "Non-executive directors",
+    "type": "DIRECTOR"
+  },
+  {
+    "name": "CEOs",
+    "type": "OTHER"
+  },
+  {
+    "name": "CFOs",
+    "type": "OTHER"
+  },
+  {
+    "name": "CTOs",
+    "type": "OTHER"
+  },
+  {
+    "name": "Presidents",
+    "type": "OTHER"
+  },
+  {
+    "name": "Vice presidents",
+    "type": "OTHER"
+  },
+  {
+    "name": "Managing directors",
+    "type": "OTHER"
+  },
+  {
+    "name": "Staff members",
+    "type": "EMPLOYEE"
+  },
+  {
+    "name": "Consultants",
+    "type": "EMPLOYEE"
+  },
+  {
+    "name": "Advisors",
+    "type": "EMPLOYEE"
+  },
+  {
+    "name": "Equity holders",
+    "type": "SHAREHOLDER"
+  },
+  {
+    "name": "Investors",
+    "type": "SHAREHOLDER"
+  },
+  {
+    "name": "Stakeholders",
+    "type": "SHAREHOLDER"
+  },
+  {
+    "name": "SEC",
+    "type": "REGULATOR"
+  },
+  {
+    "name": "FINRA",
+    "type": "REGULATOR"
+  },
+  {
+    "name": "FCA",
+    "type": "REGULATOR"
+  },
+  {
+    "name": "CFTC",
+    "type": "REGULATOR"
+  },
+  {
+    "name": "Government agencies",
+    "type": "REGULATOR"
+  },
+  {
+    "name": "World",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Hospitals",
+    "type": "CLIENT"
+  },
+  {
+    "name": "IBA",
+    "type": "COMPANY"
+  },
+  {
+    "name": "Iba",
+    "type": "PERSON"
+  },
+  {
+    "name": "Particle accelerator technology",
+    "type": "PRODUCT"
+  },
+  {
+    "name": "Cancer treatment",
+    "type": "MARKET"
+  },
+  {
+    "name": "Industrial applications",
+    "type": "MARKET"
+  },
+  {
+    "name": "Dosimetry equipment",
+    "type": "PRODUCT"
   },
   {
     "name": "Hospitals",
@@ -44,7 +244,7 @@
     "type": "CLIENT"
   },
   {
-    "name": "Customers and partners",
+    "name": "Patients",
     "type": "CLIENT"
   },
   {
@@ -64,7 +264,323 @@
     "type": "CLIENT"
   },
   {
-    "name": "Regulators (SEC, FINRA, FCA, CFTC)",
-    "type": "REGULATOR"
+    "name": "B Corp",
+    "type": "LICENSE"
+  },
+  {
+    "name": "Certified B Corporation (B Corp)TM",
+    "type": "LICENSE"
+  },
+  {
+    "name": "World",
+    "type": "OTHER"
+  },
+  {
+    "name": "Thirty years",
+    "type": "PERIOD"
+  },
+  {
+    "name": "Over thirty years",
+    "type": "PERIOD"
+  },
+  {
+    "name": "Today's global and increasingly volatile economy",
+    "type": "OTHER"
+  },
+  {
+    "name": "IBA",
+    "type": "COMPANY"
+  },
+  {
+    "name": "Iba PT equipment",
+    "type": "PRODUCT"
+  },
+  {
+    "name": "Proton Therapy",
+    "type": "MARKET"
+  },
+  {
+    "name": "Dosimetry",
+    "type": "MARKET"
+  },
+  {
+    "name": "Industrial Solutions",
+    "type": "MARKET"
+  },
+  {
+    "name": "RadioPharma Solutions",
+    "type": "MARKET"
+  },
+  {
+    "name": "B Corp",
+    "type": "LICENSE"
+  },
+  {
+    "name": "Certified B Corporation (B Corp)TM",
+    "type": "LICENSE"
+  },
+  {
+    "name": "Europe",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "USA",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "China",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "India",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Japan",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "South Korea",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Brazil",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Russia",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "France",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Germany",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "UK",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Belgium",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Netherlands",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Switzerland",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Italy",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Spain",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Portugal",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Turkey",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Poland",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Hungary",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Austria",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Slovenia",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Croatia",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Bulgaria",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Romania",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Greece",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Cyprus",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Ireland",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Israel",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Morocco",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Egypt",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "South Africa",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Australia",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "New Zealand",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Canada",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Mexico",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Argentina",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Chile",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Colombia",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Peru",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Venezuela",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Thailand",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Indonesia",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Malaysia",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Philippines",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Singapore",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Vietnam",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Taiwan",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Hong Kong",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "Macau",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "China (mainland)",
+    "type": "COUNTRY"
+  },
+  {
+    "name": "IBA employees",
+    "type": "OTHER"
+  },
+  {
+    "name": "Healthcare professionals",
+    "type": "OTHER"
+  },
+  {
+    "name": "Patients / Clients",
+    "type": "OTHER"
+  },
+  {
+    "name": "Shareholders",
+    "type": "OTHER"
+  },
+  {
+    "name": "Employees",
+    "type": "OTHER"
+  },
+  {
+    "name": "Society",
+    "type": "OTHER"
+  },
+  {
+    "name": "Planet",
+    "type": "OTHER"
+  },
+  {
+    "name": "Europe, Middle East and Africa (EMEA)",
+    "type": "OTHER"
+  },
+  {
+    "name": "Americas",
+    "type": "OTHER"
+  },
+  {
+    "name": "Asia Pacific",
+    "type": "OTHER"
+  },
+  {
+    "name": "North America",
+    "type": "OTHER"
+  },
+  {
+    "name": "South America",
+    "type": "OTHER"
+  },
+  {
+    "name": "Europe",
+    "type": "OTHER"
+  },
+  {
+    "name": "Middle East and Africa (EMEA)",
+    "type": "OTHER"
+  },
+  {
+    "name": "IBA Corporate Brochure 2024",
+    "type": "OTHER"
   }
 ]

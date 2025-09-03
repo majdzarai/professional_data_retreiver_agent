@@ -9,6 +9,11 @@
       "id": "IBA"
     },
     {
+      "type": "PERSON",
+      "source": "",
+      "id": "Iba"
+    },
+    {
       "type": "PRODUCT",
       "source": "",
       "id": "Particle accelerator technology"
@@ -19,24 +24,59 @@
       "id": "Dosimetry equipment"
     },
     {
-      "type": "OTHER",
+      "type": "MARKET",
       "source": "",
       "id": "Industrial Solutions"
     },
     {
-      "type": "OTHER",
+      "type": "MARKET",
       "source": "",
       "id": "RadioPharma Solutions"
     },
     {
-      "type": "OTHER",
+      "type": "MARKET",
       "source": "",
       "id": "Proton Therapy"
     },
     {
-      "type": "OTHER",
+      "type": "MARKET",
       "source": "",
       "id": "Dosimetry"
+    },
+    {
+      "type": "CLIENT",
+      "source": "",
+      "id": "Health care professionals"
+    },
+    {
+      "type": "CLIENT",
+      "source": "",
+      "id": "Hospitals"
+    },
+    {
+      "type": "CLIENT",
+      "source": "",
+      "id": "Customers"
+    },
+    {
+      "type": "PARTNER",
+      "source": "",
+      "id": "Partners"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Employees"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Shareholders"
+    },
+    {
+      "type": "SHAREHOLDER",
+      "source": "",
+      "id": "Stakeholders"
     },
     {
       "type": "LICENSE",
@@ -49,50 +89,475 @@
       "id": "World leader in particle accelerator technology"
     },
     {
-      "type": "CLIENT",
+      "type": "LICENSE",
       "source": "",
-      "id": "Hospitals"
-    },
-    {
-      "type": "CLIENT",
-      "source": "",
-      "id": "Health care professionals"
-    },
-    {
-      "type": "CLIENT",
-      "source": "",
-      "id": "Customers and partners"
+      "id": "Certified B Corporation (B Corp)TM"
     },
     {
       "type": "EMPLOYEE",
       "source": "",
-      "id": "Employees"
-    },
-    {
-      "type": "SHAREHOLDER",
-      "source": "",
-      "id": "Shareholders"
+      "id": "Iba employees"
     },
     {
       "type": "CLIENT",
+      "source": "",
+      "id": "Patients"
+    },
+    {
+      "type": "OTHER",
       "source": "",
       "id": "Society"
     },
     {
-      "type": "CLIENT",
+      "type": "OTHER",
       "source": "",
       "id": "Planet"
     },
     {
+      "type": "DIRECTOR",
+      "source": "",
+      "id": "Board members"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Executive directors"
+    },
+    {
+      "type": "DIRECTOR",
+      "source": "",
+      "id": "Non-executive directors"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "CEOs"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "CFOs"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "CTOs"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Presidents"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Vice presidents"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Managing directors"
+    },
+    {
+      "type": "EMPLOYEE",
+      "source": "",
+      "id": "Staff members"
+    },
+    {
+      "type": "EMPLOYEE",
+      "source": "",
+      "id": "Consultants"
+    },
+    {
+      "type": "EMPLOYEE",
+      "source": "",
+      "id": "Advisors"
+    },
+    {
+      "type": "SHAREHOLDER",
+      "source": "",
+      "id": "Equity holders"
+    },
+    {
+      "type": "SHAREHOLDER",
+      "source": "",
+      "id": "Investors"
+    },
+    {
       "type": "REGULATOR",
       "source": "",
-      "id": "Regulators (SEC, FINRA, FCA, CFTC)"
+      "id": "SEC"
+    },
+    {
+      "type": "REGULATOR",
+      "source": "",
+      "id": "FINRA"
+    },
+    {
+      "type": "REGULATOR",
+      "source": "",
+      "id": "FCA"
+    },
+    {
+      "type": "REGULATOR",
+      "source": "",
+      "id": "CFTC"
+    },
+    {
+      "type": "REGULATOR",
+      "source": "",
+      "id": "Government agencies"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "World"
+    },
+    {
+      "type": "MARKET",
+      "source": "",
+      "id": "Cancer treatment"
+    },
+    {
+      "type": "MARKET",
+      "source": "",
+      "id": "Industrial applications"
+    },
+    {
+      "type": "LICENSE",
+      "source": "",
+      "id": "B Corp"
+    },
+    {
+      "type": "PERIOD",
+      "source": "",
+      "id": "Thirty years"
+    },
+    {
+      "type": "PERIOD",
+      "source": "",
+      "id": "Over thirty years"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Today's global and increasingly volatile economy"
+    },
+    {
+      "type": "PRODUCT",
+      "source": "",
+      "id": "Iba PT equipment"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Europe"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "USA"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "China"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "India"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Japan"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "South Korea"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Brazil"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Russia"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "France"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Germany"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "UK"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Belgium"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Netherlands"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Switzerland"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Italy"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Spain"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Portugal"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Turkey"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Poland"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Hungary"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Austria"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Slovenia"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Croatia"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Bulgaria"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Romania"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Greece"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Cyprus"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Ireland"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Israel"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Morocco"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Egypt"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "South Africa"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Australia"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "New Zealand"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Canada"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Mexico"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Argentina"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Chile"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Colombia"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Peru"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Venezuela"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Thailand"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Indonesia"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Malaysia"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Philippines"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Singapore"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Vietnam"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Taiwan"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Hong Kong"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "Macau"
+    },
+    {
+      "type": "COUNTRY",
+      "source": "",
+      "id": "China (mainland)"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "IBA employees"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Healthcare professionals"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Patients / Clients"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Europe, Middle East and Africa (EMEA)"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Americas"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Asia Pacific"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "North America"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "South America"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "Middle East and Africa (EMEA)"
+    },
+    {
+      "type": "OTHER",
+      "source": "",
+      "id": "IBA Corporate Brochure 2024"
     },
     {
       "id": "particle accelerator technology"
     },
     {
-      "id": "innovative solutions for the diagnosis and treatment of cancer"
+      "id": "innovative solutions for cancer diagnosis and treatment"
     },
     {
       "id": "particle accelerators and dosimetry equipment"
@@ -110,64 +575,313 @@
       "id": "research and development of innovative solutions"
     },
     {
-      "id": "regulatory bodies around the world"
+      "id": "regulatory bodies for health care and technology"
     },
     {
-      "id": "supervisory authorities"
+      "id": "supervisory authorities for health care and technology"
     },
     {
-      "id": "Belgium (headquarters)"
+      "id": "licensing authorities for health care and technology"
     },
     {
-      "id": "Belgium"
+      "id": "Belgium (country of origin)"
     },
     {
-      "id": "health care professionals and patients around the world"
+      "id": "Belgium (country of registration)"
     },
     {
-      "id": "industrial applications such as sterilization of medical devices"
+      "id": "global health care market"
     },
     {
-      "id": "new markets and industries"
+      "id": "multiple countries around the world"
     },
     {
-      "id": "Belgium (over thirty years ago)"
+      "id": "new markets and regions"
     },
     {
-      "id": "new partnerships and collaborations"
+      "id": "Belgium (year of establishment)"
     },
     {
-      "id": "expansion into new markets and industries"
+      "id": "Belgium (year of founding)"
+    },
+    {
+      "id": "Belgium (year of starting operations)"
+    },
+    {
+      "id": "new business initiatives and partnerships"
+    },
+    {
+      "id": "future business developments and expansions"
     },
     {
       "id": "new products and services"
     },
     {
-      "id": "research and development projects"
+      "id": "ongoing projects and initiatives"
     },
     {
-      "id": "financial results and performance"
+      "id": "financial performance and business results"
     },
     {
-      "id": "information about the company's activities and operations"
+      "id": "business information and data"
     },
     {
       "id": "annual reports and corporate brochures"
     },
     {
-      "id": "regulatory filings and reports"
+      "id": "regulatory filings and submissions"
+    },
+    {
+      "id": "regulatory risks and challenges"
+    },
+    {
+      "id": "regulatory requirements and standards"
+    },
+    {
+      "id": "market trends and industry developments"
+    },
+    {
+      "id": "regulatory changes and updates"
+    },
+    {
+      "id": "business risks and opportunities"
+    },
+    {
+      "id": "new business practices and procedures"
+    },
+    {
+      "id": "industry best practices and guidelines"
+    },
+    {
+      "id": "business relationships and partnerships"
+    },
+    {
+      "id": "innovative solutions for diagnosis and treatment of cancer"
+    },
+    {
+      "id": "worldwide"
+    },
+    {
+      "id": "dosimetry equipment"
+    },
+    {
+      "id": "employees"
+    },
+    {
+      "id": "customers and partners"
+    },
+    {
+      "id": "healthcare industry"
+    },
+    {
+      "id": "worldwide (implied)"
+    },
+    {
+      "id": "regulatory bodies (implied)"
+    },
+    {
+      "id": "supervisory authorities (implied)"
+    },
+    {
+      "id": "licensing authorities (implied)"
+    },
+    {
+      "id": "authorizing bodies (implied)"
+    },
+    {
+      "id": "certifying organizations (implied)"
+    },
+    {
+      "id": "regulatory requirements"
+    },
+    {
+      "id": "regulatory requirements (implied, as a potential risk)"
+    },
+    {
+      "id": "risks and challenges in the healthcare industry"
+    },
+    {
+      "id": "regulatory scrutiny and audits"
+    },
+    {
+      "id": "regulatory developments and changes"
+    },
+    {
+      "id": "risks and opportunities in the healthcare industry"
+    },
+    {
+      "id": "effectiveness of its solutions and services"
+    },
+    {
+      "id": "regulatory requirements and industry best practices"
+    },
+    {
+      "id": "innovative technologies and solutions"
+    },
+    {
+      "id": "regulatory guidelines and industry standards"
+    },
+    {
+      "id": "compliance with regulatory requirements"
+    },
+    {
+      "id": "innovative solutions for the diagnosis and treatment of cancer"
+    },
+    {
+      "id": "hospitals and health care professionals"
+    },
+    {
+      "id": "research and development"
+    },
+    {
+      "id": "regulatory bodies"
+    },
+    {
+      "id": "auditing and compliance agencies"
+    },
+    {
+      "id": "global locations"
+    },
+    {
+      "id": "headquarters location"
+    },
+    {
+      "id": "founding date"
+    },
+    {
+      "id": "regulatory risks and compliance challenges"
+    },
+    {
+      "id": "compliance and regulatory requirements"
+    },
+    {
+      "id": "risks and opportunities"
+    },
+    {
+      "id": "impact on stakeholders"
+    },
+    {
+      "id": "regulatory bodies and auditors"
+    },
+    {
+      "id": "boards of directors and advisory committees"
+    },
+    {
+      "id": "previous positions and roles"
+    },
+    {
+      "id": "previous employment contracts"
+    },
+    {
+      "id": "new initiatives and partnerships"
+    },
+    {
+      "id": "future projects and investments"
+    },
+    {
+      "id": "projects and initiatives"
+    },
+    {
+      "id": "financial results and performance metrics"
+    },
+    {
+      "id": "confidential information and trade secrets"
+    },
+    {
+      "id": "annual reports and sustainability reports"
+    },
+    {
+      "id": "regulatory filings and tax returns"
+    },
+    {
+      "id": "healthcare professionals"
+    },
+    {
+      "id": "stakeholders"
+    },
+    {
+      "id": "business activities"
+    },
+    {
+      "id": "leadership positions"
+    },
+    {
+      "id": "previous leadership positions"
+    },
+    {
+      "id": "new business initiatives"
+    },
+    {
+      "id": "future business growth"
+    },
+    {
+      "id": "business projects"
+    },
+    {
+      "id": "financial performance"
+    },
+    {
+      "id": "business activities and financial information"
+    },
+    {
+      "id": "regulatory documents and filings"
+    },
+    {
+      "id": "market risks and regulatory changes"
+    },
+    {
+      "id": "regulatory oversight and compliance requirements"
+    },
+    {
+      "id": "global economic trends and market conditions"
+    },
+    {
+      "id": "market trends and competitor activity"
+    },
+    {
+      "id": "regulatory compliance and risk management strategies"
+    },
+    {
+      "id": "business performance and financial results"
+    },
+    {
+      "id": "new business initiatives and growth strategies"
+    },
+    {
+      "id": "innovative technologies and best practices"
+    },
+    {
+      "id": "regulatory requirements and industry standards"
+    },
+    {
+      "id": "global markets and regions"
+    },
+    {
+      "id": "multiple countries and regions"
+    },
+    {
+      "id": "global markets and industries"
+    },
+    {
+      "id": "regulatory bodies and industry associations"
+    },
+    {
+      "id": "global healthcare market"
+    },
+    {
+      "id": "new markets and industries"
     }
   ],
   "links": [
     {
-      "relation": "owns",
+      "relation": "founded_in",
       "source": "IBA",
       "target": "particle accelerator technology"
     },
     {
-      "relation": "markets",
+      "relation": "launched",
       "source": "IBA",
-      "target": "innovative solutions for the diagnosis and treatment of cancer"
+      "target": "innovative solutions for cancer diagnosis and treatment"
     },
     {
       "relation": "upgrades",
@@ -190,59 +904,74 @@
       "target": "health care professionals"
     },
     {
-      "relation": "started_in",
+      "relation": "funds",
       "source": "IBA",
       "target": "research and development of innovative solutions"
     },
     {
       "relation": "regulated_by",
       "source": "IBA",
-      "target": "regulatory bodies around the world"
+      "target": "regulatory bodies for health care and technology"
     },
     {
       "relation": "supervised_by",
       "source": "IBA",
-      "target": "supervisory authorities"
+      "target": "supervisory authorities for health care and technology"
     },
     {
-      "relation": "located_in",
+      "relation": "licensed_by",
       "source": "IBA",
-      "target": "Belgium (headquarters)"
+      "target": "licensing authorities for health care and technology"
     },
     {
-      "relation": "founded_in",
+      "relation": "headquartered_in",
       "source": "IBA",
-      "target": "Belgium"
+      "target": "Belgium (country of origin)"
+    },
+    {
+      "relation": "registered_in",
+      "source": "IBA",
+      "target": "Belgium (country of registration)"
     },
     {
       "relation": "serves_market",
       "source": "IBA",
-      "target": "health care professionals and patients around the world"
+      "target": "global health care market"
     },
     {
       "relation": "active_in",
       "source": "IBA",
-      "target": "industrial applications such as sterilization of medical devices"
+      "target": "multiple countries around the world"
     },
     {
       "relation": "expands_to",
       "source": "IBA",
-      "target": "new markets and industries"
+      "target": "new markets and regions"
     },
     {
       "relation": "established_in",
       "source": "IBA",
-      "target": "Belgium (over thirty years ago)"
+      "target": "Belgium (year of establishment)"
     },
     {
-      "relation": "announced",
+      "relation": "founded_in",
       "source": "IBA",
-      "target": "new partnerships and collaborations"
+      "target": "Belgium (year of founding)"
+    },
+    {
+      "relation": "started_in",
+      "source": "IBA",
+      "target": "Belgium (year of starting operations)"
+    },
+    {
+      "relation": "evaluates",
+      "source": "IBA",
+      "target": "new business initiatives and partnerships"
     },
     {
       "relation": "planned",
       "source": "IBA",
-      "target": "expansion into new markets and industries"
+      "target": "future business developments and expansions"
     },
     {
       "relation": "launched",
@@ -250,19 +979,19 @@
       "target": "new products and services"
     },
     {
-      "relation": "completed",
+      "relation": "reviews",
       "source": "IBA",
-      "target": "research and development projects"
+      "target": "ongoing projects and initiatives"
     },
     {
       "relation": "reported",
       "source": "IBA",
-      "target": "financial results and performance"
+      "target": "financial performance and business results"
     },
     {
       "relation": "disclosed",
       "source": "IBA",
-      "target": "information about the company's activities and operations"
+      "target": "business information and data"
     },
     {
       "relation": "published",
@@ -272,7 +1001,412 @@
     {
       "relation": "filed",
       "source": "IBA",
-      "target": "regulatory filings and reports"
+      "target": "regulatory filings and submissions"
+    },
+    {
+      "relation": "exposed_to",
+      "source": "IBA",
+      "target": "regulatory risks and challenges"
+    },
+    {
+      "relation": "implementes",
+      "source": "IBA",
+      "target": "regulatory requirements and standards"
+    },
+    {
+      "relation": "affected_by",
+      "source": "IBA",
+      "target": "market trends and industry developments"
+    },
+    {
+      "relation": "monitors",
+      "source": "IBA",
+      "target": "regulatory changes and updates"
+    },
+    {
+      "relation": "assesses",
+      "source": "IBA",
+      "target": "business risks and opportunities"
+    },
+    {
+      "relation": "adopts",
+      "source": "IBA",
+      "target": "new business practices and procedures"
+    },
+    {
+      "relation": "follows",
+      "source": "IBA",
+      "target": "industry best practices and guidelines"
+    },
+    {
+      "relation": "maintains",
+      "source": "IBA",
+      "target": "business relationships and partnerships"
+    },
+    {
+      "relation": "markets",
+      "source": "IBA",
+      "target": "innovative solutions for diagnosis and treatment of cancer"
+    },
+    {
+      "relation": "operates_in",
+      "source": "IBA",
+      "target": "worldwide"
+    },
+    {
+      "relation": "maintains",
+      "source": "IBA",
+      "target": "dosimetry equipment"
+    },
+    {
+      "relation": "employs",
+      "source": "IBA",
+      "target": "employees"
+    },
+    {
+      "relation": "partners_with",
+      "source": "IBA",
+      "target": "customers and partners"
+    },
+    {
+      "relation": "established_in",
+      "source": "IBA",
+      "target": "healthcare industry"
+    },
+    {
+      "relation": "headquartered_in",
+      "source": "IBA",
+      "target": "worldwide (implied)"
+    },
+    {
+      "relation": "regulated_by",
+      "source": "IBA",
+      "target": "regulatory bodies (implied)"
+    },
+    {
+      "relation": "supervised_by",
+      "source": "IBA",
+      "target": "supervisory authorities (implied)"
+    },
+    {
+      "relation": "licensed_by",
+      "source": "IBA",
+      "target": "licensing authorities (implied)"
+    },
+    {
+      "relation": "authorized_by",
+      "source": "IBA",
+      "target": "authorizing bodies (implied)"
+    },
+    {
+      "relation": "certified_by",
+      "source": "IBA",
+      "target": "certifying organizations (implied)"
+    },
+    {
+      "relation": "complies_with",
+      "source": "IBA",
+      "target": "regulatory requirements"
+    },
+    {
+      "relation": "violates",
+      "source": "IBA",
+      "target": "regulatory requirements (implied, as a potential risk)"
+    },
+    {
+      "relation": "exposed_to",
+      "source": "IBA",
+      "target": "risks and challenges in the healthcare industry"
+    },
+    {
+      "relation": "subject_to",
+      "source": "IBA",
+      "target": "regulatory scrutiny and audits"
+    },
+    {
+      "relation": "monitors",
+      "source": "IBA",
+      "target": "regulatory developments and changes"
+    },
+    {
+      "relation": "assesses",
+      "source": "IBA",
+      "target": "risks and opportunities in the healthcare industry"
+    },
+    {
+      "relation": "evaluates",
+      "source": "IBA",
+      "target": "effectiveness of its solutions and services"
+    },
+    {
+      "relation": "implementes",
+      "source": "IBA",
+      "target": "regulatory requirements and industry best practices"
+    },
+    {
+      "relation": "adopts",
+      "source": "IBA",
+      "target": "innovative technologies and solutions"
+    },
+    {
+      "relation": "follows",
+      "source": "IBA",
+      "target": "regulatory guidelines and industry standards"
+    },
+    {
+      "relation": "maintains",
+      "source": "IBA",
+      "target": "compliance with regulatory requirements"
+    },
+    {
+      "relation": "invests_in",
+      "source": "IBA",
+      "target": "innovative solutions for the diagnosis and treatment of cancer"
+    },
+    {
+      "relation": "supplies_to",
+      "source": "IBA",
+      "target": "hospitals and health care professionals"
+    },
+    {
+      "relation": "funds",
+      "source": "IBA",
+      "target": "research and development"
+    },
+    {
+      "relation": "regulated_by",
+      "source": "IBA",
+      "target": "regulatory bodies"
+    },
+    {
+      "relation": "supervised_by",
+      "source": "IBA",
+      "target": "auditing and compliance agencies"
+    },
+    {
+      "relation": "located_in",
+      "source": "IBA",
+      "target": "global locations"
+    },
+    {
+      "relation": "headquartered_in",
+      "source": "IBA",
+      "target": "headquarters location"
+    },
+    {
+      "relation": "founded_in",
+      "source": "IBA",
+      "target": "founding date"
+    },
+    {
+      "relation": "exposed_to",
+      "source": "IBA",
+      "target": "regulatory risks and compliance challenges"
+    },
+    {
+      "relation": "monitors",
+      "source": "IBA",
+      "target": "compliance and regulatory requirements"
+    },
+    {
+      "relation": "assesses",
+      "source": "IBA",
+      "target": "risks and opportunities"
+    },
+    {
+      "relation": "evaluates",
+      "source": "IBA",
+      "target": "impact on stakeholders"
+    },
+    {
+      "relation": "reports_to",
+      "source": "IBA",
+      "target": "regulatory bodies and auditors"
+    },
+    {
+      "relation": "appointed_to",
+      "source": "IBA",
+      "target": "boards of directors and advisory committees"
+    },
+    {
+      "relation": "resigned_from",
+      "source": "IBA",
+      "target": "previous positions and roles"
+    },
+    {
+      "relation": "terminated_from",
+      "source": "IBA",
+      "target": "previous employment contracts"
+    },
+    {
+      "relation": "announced",
+      "source": "IBA",
+      "target": "new initiatives and partnerships"
+    },
+    {
+      "relation": "planned",
+      "source": "IBA",
+      "target": "future projects and investments"
+    },
+    {
+      "relation": "completed",
+      "source": "IBA",
+      "target": "projects and initiatives"
+    },
+    {
+      "relation": "reported",
+      "source": "IBA",
+      "target": "financial results and performance metrics"
+    },
+    {
+      "relation": "disclosed",
+      "source": "IBA",
+      "target": "confidential information and trade secrets"
+    },
+    {
+      "relation": "published",
+      "source": "IBA",
+      "target": "annual reports and sustainability reports"
+    },
+    {
+      "relation": "filed",
+      "source": "IBA",
+      "target": "regulatory filings and tax returns"
+    },
+    {
+      "relation": "executive_of",
+      "source": "IBA",
+      "target": "healthcare professionals"
+    },
+    {
+      "relation": "board_member_of",
+      "source": "IBA",
+      "target": "stakeholders"
+    },
+    {
+      "relation": "manages",
+      "source": "IBA",
+      "target": "business activities"
+    },
+    {
+      "relation": "director_of",
+      "source": "IBA",
+      "target": "Certified B Corporation (B Corp)"
+    },
+    {
+      "relation": "appointed_to",
+      "source": "IBA",
+      "target": "leadership positions"
+    },
+    {
+      "relation": "resigned_from",
+      "source": "IBA",
+      "target": "previous leadership positions"
+    },
+    {
+      "relation": "announced",
+      "source": "IBA",
+      "target": "new business initiatives"
+    },
+    {
+      "relation": "planned",
+      "source": "IBA",
+      "target": "future business growth"
+    },
+    {
+      "relation": "completed",
+      "source": "IBA",
+      "target": "business projects"
+    },
+    {
+      "relation": "reported",
+      "source": "IBA",
+      "target": "financial performance"
+    },
+    {
+      "relation": "disclosed",
+      "source": "IBA",
+      "target": "business activities and financial information"
+    },
+    {
+      "relation": "filed",
+      "source": "IBA",
+      "target": "regulatory documents and filings"
+    },
+    {
+      "relation": "exposed_to",
+      "source": "IBA",
+      "target": "market risks and regulatory changes"
+    },
+    {
+      "relation": "subject_to",
+      "source": "IBA",
+      "target": "regulatory oversight and compliance requirements"
+    },
+    {
+      "relation": "affected_by",
+      "source": "IBA",
+      "target": "global economic trends and market conditions"
+    },
+    {
+      "relation": "monitors",
+      "source": "IBA",
+      "target": "market trends and competitor activity"
+    },
+    {
+      "relation": "evaluates",
+      "source": "IBA",
+      "target": "regulatory compliance and risk management strategies"
+    },
+    {
+      "relation": "reviews",
+      "source": "IBA",
+      "target": "business performance and financial results"
+    },
+    {
+      "relation": "implementes",
+      "source": "IBA",
+      "target": "new business initiatives and growth strategies"
+    },
+    {
+      "relation": "adopts",
+      "source": "IBA",
+      "target": "innovative technologies and best practices"
+    },
+    {
+      "relation": "follows",
+      "source": "IBA",
+      "target": "regulatory requirements and industry standards"
+    },
+    {
+      "relation": "located_in",
+      "source": "IBA",
+      "target": "global markets and regions"
+    },
+    {
+      "relation": "active_in",
+      "source": "IBA",
+      "target": "multiple countries and regions"
+    },
+    {
+      "relation": "present_in",
+      "source": "IBA",
+      "target": "global markets and industries"
+    },
+    {
+      "relation": "registered_in",
+      "source": "IBA",
+      "target": "regulatory bodies and industry associations"
+    },
+    {
+      "relation": "serves_market",
+      "source": "IBA",
+      "target": "global healthcare market"
+    },
+    {
+      "relation": "expands_to",
+      "source": "IBA",
+      "target": "new markets and industries"
     }
   ]
 }

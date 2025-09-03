@@ -225,7 +225,7 @@ def run_complete_pipeline(input_file: str, output_dir: str = "output_data"):
         entities_file = f"{output_dir}/entities/{base_name}_entities.json"
         
         # Process limited chunks for faster testing (can be expanded for production)
-        test_chunks = chunks[:1]  # Process first chunk only for demo
+        test_chunks = chunks[:4]  # Process first chunk only for demo
         all_entities = []  # Accumulator for all discovered entities
         
         # Process each text chunk through AI entity extraction

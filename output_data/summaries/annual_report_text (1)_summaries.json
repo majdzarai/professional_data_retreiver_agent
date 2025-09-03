@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generation_timestamp": "2025-09-03T22:55:08.575212",
+    "generation_timestamp": "2025-09-03T23:04:45.188242",
     "total_communities": 4,
     "source_graph": "output_data/graph/annual_report_text (1)_graph.json",
     "source_communities": "output_data/communities/annual_report_text (1)_communities.json",
@@ -9,143 +9,215 @@
     "analysis_focus": "Business Intelligence and Compliance Risk"
   },
   "risk_summary": {
-    "total_entities": 40,
+    "total_entities": 216,
     "high_risk_clusters": 1,
-    "average_cluster_size": 10.0
+    "average_cluster_size": 54.0
   },
   "summaries": [
     {
       "community_id": 0,
-      "size": 21,
+      "size": 105,
       "type_counts": {
         "COMPANY": 1,
-        "PRODUCT": 2,
-        "OTHER": 3,
-        "CLIENT": 5,
-        "UNKNOWN": 10
+        "PRODUCT": 3,
+        "MARKET": 6,
+        "CLIENT": 4,
+        "PARTNER": 1,
+        "SHAREHOLDER": 1,
+        "OTHER": 4,
+        "COUNTRY": 50,
+        "UNKNOWN": 35
       },
-      "summary": "**THEME:** Global Health Technology and Services Provider\n\n**KEY ENTITIES:**\n\n* IBA (World leader in particle accelerator technology): Primary entity with diverse business interests\n* Industrial Solutions and RadioPharma Solutions: Key subsidiaries or business units\n* Hospitals and Health care professionals: Critical customers and partners\n* Customers and partners around the world: Global network of clients and collaborators\n\n**RELATIONSHIPS:**\n\n* IBA's ownership and market presence in particle accelerator technology and innovative cancer solutions\n* Partnerships with hospitals, health care professionals, and customers worldwide\n* Collaborations with regulatory bodies for compliance and research purposes\n* Upgrades and operations in hospitals globally, indicating a significant presence in the healthcare sector\n\n**RISK ASSESSMENT:**\n\n* High risk of exposure to global sanctions and embargoes due to partnerships with entities in various countries\n* Potential risks associated with collaboration with health care professionals, including compliance with medical regulations and confidentiality requirements\n* IBA's involvement in research and development may attract unwanted attention from competitors or malicious actors\n* Regulatory bodies' oversight is a positive indicator, but ongoing monitoring of compliance is essential.",
+      "summary": "**THEME:** Global Health Care Technology Operations\n\n**KEY ENTITIES:**\n\n* IBA (World leader in particle accelerator technology): central entity driving global health care technology operations\n* Particle accelerator technology: core business area for IBA\n* Dosimetry equipment: critical component for cancer treatment and diagnosis\n* Hospitals: key customers and partners for IBA's services\n\n**RELATIONSHIPS:**\n\n* IBA's founding in particle accelerator technology indicates a strong expertise in this area.\n* Partnerships with hospitals, customers, and health care professionals demonstrate a wide reach and influence in the global health care market.\n* Collaborations with health care professionals suggest a commitment to innovation and research.\n\n**RISK ASSESSMENT:**\n\n* Regulatory compliance risks: IBA's operations in multiple countries and partnerships with regulatory bodies indicate a need for robust AML/KYC procedures to prevent money laundering and terrorist financing.\n* Geographic exposure risk: IBA's global reach may increase the risk of exposure to high-risk jurisdictions or entities.\n* Reputation risk: As a leader in health care technology, IBA's reputation is critical; any compliance failures or reputational damage could have significant consequences.",
       "sample_nodes": [
         "IBA",
         "Particle accelerator technology",
         "Dosimetry equipment",
         "Industrial Solutions",
         "RadioPharma Solutions",
-        "World leader in particle accelerator technology",
-        "Hospitals",
+        "Proton Therapy",
+        "Dosimetry",
         "Health care professionals",
-        "Customers and partners",
-        "Society",
-        "Planet",
-        "particle accelerator technology",
-        "innovative solutions for the diagnosis and treatment of cancer",
-        "particle accelerators and dosimetry equipment",
-        "hospitals around the world",
-        "customers and partners around the world",
-        "health care professionals and patients around the world",
-        "industrial applications such as sterilization of medical devices",
-        "new partnerships and collaborations",
-        "new products and services",
-        "information about the company's activities and operations"
+        "Hospitals",
+        "Customers",
+        "Partners",
+        "Stakeholders",
+        "World leader in particle accelerator technology",
+        "Patients",
+        "Cancer treatment",
+        "Industrial applications",
+        "Today's global and increasingly volatile economy",
+        "Iba PT equipment",
+        "USA",
+        "China",
+        "India",
+        "Japan",
+        "South Korea",
+        "Brazil",
+        "Russia"
       ],
       "statistics": {
-        "total_edges": 23,
-        "internal_edges": 10,
-        "external_edges": 13,
-        "connectivity_ratio": 0.435
+        "total_edges": 107,
+        "internal_edges": 35,
+        "external_edges": 72,
+        "connectivity_ratio": 0.327
       },
       "top_entity_types": [
-        "UNKNOWN: 10",
-        "CLIENT: 5",
-        "OTHER: 3",
-        "PRODUCT: 2",
-        "COMPANY: 1"
+        "COUNTRY: 50",
+        "UNKNOWN: 35",
+        "MARKET: 6",
+        "CLIENT: 4",
+        "OTHER: 4"
       ]
     },
     {
       "community_id": 1,
-      "size": 6,
+      "size": 23,
       "type_counts": {
-        "EMPLOYEE": 1,
-        "SHAREHOLDER": 1,
-        "UNKNOWN": 4
+        "OTHER": 5,
+        "EMPLOYEE": 2,
+        "UNKNOWN": 16
       },
-      "summary": "**THEME:** Financial Health Assessment and Risk Indicators\n\n**KEY ENTITIES:**\n\n* Employees (key personnel involved in financial decision-making)\n* Shareholders (individuals or entities with significant ownership stakes)\n\n**RELATIONSHIPS:**\n\n* IBA's research and development of innovative solutions is a precursor to expansion into new markets and industries, indicating potential financial investments.\n* The planned expansion into new markets and industries suggests strategic growth initiatives, which may involve increased financial risk.\n* Completed research and development projects imply successful innovation, but also potential financial commitments.\n\n**RISK ASSESSMENT:**\n\n* Potential red flags include:\n\t+ Unusual or unexplained transactions related to research and development projects\n\t+ Inconsistent or incomplete reporting on expansion plans and market penetration\n\t+ Shareholder involvement in high-risk investments or business ventures\n* Compliance considerations:\n\t+ Ensure accurate and timely reporting of financial activities, including research and development expenses\n\t+ Verify the legitimacy and transparency of shareholder involvement in business decisions\n\t+ Monitor for potential money laundering risks associated with large-scale transactions or investments",
+      "summary": "**THEME:** Financial Health Assessment and Risk Indicators for IBA\n\n**KEY ENTITIES:**\n\n* **IBA**: The company itself, serving as the central entity in this cluster.\n* **Employees**: Key stakeholders involved in research and development, future projects, and market expansions.\n* **Research and Development**: A critical function of IBA, funded by the company and planned for future growth.\n\n**RELATIONSHIPS:**\n\n* IBA funds research and development, indicating investment in innovation.\n* IBA serves the global health care market, expanding to new markets and regions.\n* IBA employs employees, who are involved in various business functions, including research and development.\n* IBA has planned future business developments and expansions, which may involve investments and risk assessments.\n\n**RISK ASSESSMENT:**\n\n* **Compliance Risks**: IBA's expansion into new markets and regions may require adherence to local regulations and anti-money laundering (AML) laws.\n* **Financial Risks**: The company's investment in research and development may carry financial risks, such as funding losses or project failures.\n* **Reputation Risk**: IBA's involvement in the global health care market may expose the company to reputational risks associated with industry developments and market trends.",
       "sample_nodes": [
         "Employees",
         "Shareholders",
+        "Iba employees",
+        "Staff members",
+        "Europe",
+        "IBA employees",
+        "Europe, Middle East and Africa (EMEA)",
         "research and development of innovative solutions",
-        "new markets and industries",
-        "expansion into new markets and industries",
-        "research and development projects"
+        "global health care market",
+        "new markets and regions",
+        "future business developments and expansions",
+        "market trends and industry developments",
+        "employees",
+        "research and development",
+        "future projects and investments",
+        "future business growth",
+        "global economic trends and market conditions",
+        "market trends and competitor activity",
+        "new business initiatives and growth strategies",
+        "global markets and regions",
+        "global markets and industries",
+        "global healthcare market",
+        "new markets and industries"
       ],
       "statistics": {
-        "total_edges": 4,
+        "total_edges": 16,
         "internal_edges": 0,
-        "external_edges": 4,
+        "external_edges": 16,
         "connectivity_ratio": 0.0
       },
       "top_entity_types": [
-        "UNKNOWN: 4",
-        "EMPLOYEE: 1",
-        "SHAREHOLDER: 1"
+        "UNKNOWN: 16",
+        "OTHER: 5",
+        "EMPLOYEE: 2"
       ]
     },
     {
       "community_id": 2,
-      "size": 5,
+      "size": 42,
       "type_counts": {
-        "LICENSE": 1,
-        "REGULATOR": 1,
-        "UNKNOWN": 3
+        "LICENSE": 3,
+        "EMPLOYEE": 1,
+        "REGULATOR": 5,
+        "UNKNOWN": 33
       },
-      "summary": "**THEME:** Regulatory Compliance and Risk Management\n\n**KEY ENTITIES:**\n\n* **Certified B Corporation (B Corp)**: A for-profit business certified to meet rigorous standards of social and environmental responsibility.\n* **Regulators (SEC, FINRA, FCA, CFTC)**: Government agencies responsible for overseeing financial markets and institutions.\n* **Regulatory bodies around the world**: International organizations that set standards and guidelines for regulatory compliance.\n\n**RELATIONSHIPS:**\n\n* IBA —regulated_by→ Regulatory bodies around the world: Indicates a need to comply with international regulations and standards.\n* IBA —supervised_by→ Supervisory authorities: Suggests ongoing monitoring and oversight by regulatory agencies.\n* IBA —filed→ Regulatory filings and reports: Highlights the importance of accurate and timely reporting to regulatory bodies.\n\n**RISK ASSESSMENT:**\n\n* **Sanctions risk**: The presence of B Corp entities may indicate a higher risk of sanctions exposure due to their global operations.\n* **Compliance risk**: Inaccurate or incomplete regulatory filings and reports could lead to fines, penalties, or reputational damage.\n* **Reputation risk**: Failure to meet social and environmental responsibility standards could harm the reputation of B Corp entities.",
+      "summary": "**THEME:** Regulatory Compliance and Risk Management in Business Operations\n\n**KEY ENTITIES:**\n\n* Certified B Corporation (B Corp): A business entity certified for its social and environmental responsibility.\n* Regulatory bodies for health care and technology: Government agencies responsible for overseeing the respective industries.\n* Supervisory authorities for health care and technology: Bodies that supervise and regulate the industries.\n\n**RELATIONSHIPS:**\n\n* IBA (Individual Business Actor) is regulated by regulatory bodies for health care and technology, indicating a need for compliance with industry-specific regulations.\n* IBA is supervised by supervisory authorities for health care and technology, suggesting ongoing monitoring and oversight.\n* IBA files regulatory filings and submissions, which may involve AML/KYC procedures to ensure compliance.\n\n**RISK ASSESSMENT:**\n\n* Exposure to regulatory risks and challenges (IBA —exposed_to→) suggests potential non-compliance or reputational damage if not managed properly.\n* Failure to implement regulatory requirements and standards (IBA —does_not_implementes→) may lead to fines, penalties, or business disruptions.\n* Inadequate assessment of business risks and opportunities (IBA —does_not_assesses→) could result in missed opportunities or unforeseen consequences.\n\nThese findings highlight the importance of effective KYC/AML procedures for businesses operating in regulated industries. Regular monitoring, compliance with regulatory requirements, and risk assessments are essential to mitigate potential red flags and ensure smooth business operations.",
       "sample_nodes": [
         "Certified B Corporation (B Corp)",
-        "Regulators (SEC, FINRA, FCA, CFTC)",
-        "regulatory bodies around the world",
-        "supervisory authorities",
-        "regulatory filings and reports"
+        "Certified B Corporation (B Corp)TM",
+        "Advisors",
+        "SEC",
+        "FINRA",
+        "FCA",
+        "CFTC",
+        "Government agencies",
+        "B Corp",
+        "regulatory bodies for health care and technology",
+        "supervisory authorities for health care and technology",
+        "regulatory filings and submissions",
+        "regulatory risks and challenges",
+        "regulatory requirements and standards",
+        "regulatory changes and updates",
+        "business risks and opportunities",
+        "new business practices and procedures",
+        "regulatory bodies (implied)",
+        "supervisory authorities (implied)",
+        "regulatory requirements",
+        "regulatory requirements (implied, as a potential risk)",
+        "risks and challenges in the healthcare industry",
+        "regulatory scrutiny and audits",
+        "regulatory developments and changes",
+        "risks and opportunities in the healthcare industry"
       ],
       "statistics": {
-        "total_edges": 3,
+        "total_edges": 34,
         "internal_edges": 0,
-        "external_edges": 3,
+        "external_edges": 34,
         "connectivity_ratio": 0.0
       },
       "top_entity_types": [
-        "UNKNOWN: 3",
-        "LICENSE: 1",
-        "REGULATOR: 1"
+        "UNKNOWN: 33",
+        "REGULATOR: 5",
+        "LICENSE: 3",
+        "EMPLOYEE: 1"
       ]
     },
     {
       "community_id": 3,
-      "size": 8,
+      "size": 46,
       "type_counts": {
-        "OTHER": 2,
-        "UNKNOWN": 6
+        "PERSON": 1,
+        "OTHER": 16,
+        "DIRECTOR": 2,
+        "EMPLOYEE": 1,
+        "SHAREHOLDER": 2,
+        "PERIOD": 2,
+        "UNKNOWN": 22
       },
-      "summary": "**THEME:** Healthcare Technology and Services\n\n**KEY ENTITIES:**\n\n* IBA (Proton Therapy, Dosimetry) - a key player in healthcare technology\n* Health care professionals - critical stakeholders in the delivery of proton therapy services\n* Belgium (headquarters, over thirty years ago) - indicates a long-standing presence in the region\n* Financial results and performance, annual reports and corporate brochures - essential for assessing IBA's business health\n\n**RELATIONSHIPS:**\n\n* Collaborations with healthcare professionals suggest a strong focus on delivering high-quality services\n* Presence in Belgium (headquarters, founded, established) indicates a significant investment in the region\n* Reporting of financial results and publication of annual reports demonstrate transparency and compliance with regulatory requirements\n\n**RISK ASSESSMENT:**\n\n* The concentration of entities related to IBA's healthcare technology business may indicate a high-risk exposure to market fluctuations or industry-specific risks.\n* Compliance considerations include ensuring adherence to regulations governing the delivery of proton therapy services, as well as maintaining accurate financial reporting and transparency.\n* Potential red flags include any inconsistencies in financial reporting, unexplained changes in business relationships, or indications of non-compliance with regulatory requirements.",
+      "summary": "**THEME:** Global Business Operations and Governance\n\n**KEY ENTITIES:**\n\n* IBA (International Business Association) - a key entity with various roles and relationships\n* Board members, Executive directors, Non-executive directors, CEOs, CFOs, CTOs, Presidents, Vice presidents, Managing directors - senior management and governance figures\n* Consultants, Equity holders, Investors - external advisors and stakeholders\n\n**RELATIONSHIPS:**\n\n* IBA collaborates with health care professionals, indicating a potential business partnership or joint initiative\n* IBA is active in multiple countries around the world, suggesting a global presence and operations\n* IBA follows industry best practices and guidelines, demonstrating a commitment to compliance and governance\n\n**RISK ASSESSMENT:**\n\n* Potential red flags:\n\t+ The large number of entities (46) may indicate a complex organizational structure or a high-risk business model.\n\t+ The involvement of multiple countries and stakeholders raises concerns about potential money laundering or terrorist financing risks.\n\t+ The presence of consultants, equity holders, and investors may suggest a high-risk investment strategy or a lack of transparency in financial dealings.\n* Compliance considerations:\n\t+ IBA's global operations and partnerships require adherence to various anti-money laundering (AML) and combating the financing of terrorism (CFT) regulations.\n\t+ The organization's governance structure and senior management relationships should be scrutinized for potential conflicts of interest or undue influence.",
       "sample_nodes": [
-        "Proton Therapy",
-        "Dosimetry",
-        "health care professionals",
-        "Belgium (headquarters)",
-        "Belgium",
-        "Belgium (over thirty years ago)",
-        "financial results and performance",
-        "annual reports and corporate brochures"
+        "Iba",
+        "Society",
+        "Planet",
+        "Board members",
+        "Executive directors",
+        "Non-executive directors",
+        "CEOs",
+        "CFOs",
+        "CTOs",
+        "Presidents",
+        "Vice presidents",
+        "Managing directors",
+        "Consultants",
+        "Equity holders",
+        "Investors",
+        "World",
+        "Thirty years",
+        "Over thirty years",
+        "Americas",
+        "Asia Pacific",
+        "North America",
+        "South America",
+        "Middle East and Africa (EMEA)",
+        "IBA Corporate Brochure 2024",
+        "health care professionals"
       ],
       "statistics": {
-        "total_edges": 6,
+        "total_edges": 22,
         "internal_edges": 0,
-        "external_edges": 6,
+        "external_edges": 22,
         "connectivity_ratio": 0.0
       },
       "top_entity_types": [
-        "UNKNOWN: 6",
-        "OTHER: 2"
+        "UNKNOWN: 22",
+        "OTHER: 16",
+        "DIRECTOR: 2",
+        "SHAREHOLDER: 2",
+        "PERIOD: 2"
       ]
     }
   ]
