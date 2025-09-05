@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 987 of 1106
+SIZE: 675 characters
+PREVIOUS: chunk_0986_annual_report_text (1).txt
+NEXT: chunk_0988_annual_report_text (1).txt
+------------------------------
+sult of the 
+group 
+(or 
+segment) 
+before 
+financial 
+income/expenses and taxes and before the 
+other operating income and other operating 
+expenses. REBIT is an indicator of a company's 
+profitability of the ordinary activities of the group, adjusted with the items considered by the 
+management to not be part of the underlying 
+performance. Reason: Management considers REBIT as an 
+improved performance indicator for the group 
+allowing 
+year-on-year 
+comparison 
+of 
+the 
+profitability, as cleaned up with transactions not 
+considered part of the underlying performance. Net financial debt 
+Definition: The net financial debt measures the 
+overall debt situation of IBA.

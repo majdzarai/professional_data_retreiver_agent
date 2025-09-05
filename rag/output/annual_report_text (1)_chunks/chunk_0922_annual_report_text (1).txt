@@ -1,0 +1,58 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 922 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_0921_annual_report_text (1).txt
+NEXT: chunk_0923_annual_report_text (1).txt
+------------------------------
+NANCIAL LIABILITIES 
+December 31, 2022 
+Due 
+< 1 year 1-2 years 2-5 years > 5 years Total contractual cash flows 
+Bank and other borrowings * 
+0 
+4 265 
+3 934 
+7 467 
+0 
+15 666 
+Lease liabilities * 
+0 
+6 087 
+4 720 
+6 074 
+11 246 
+28 127 
+Trade payables 
+20 791 
+44 701 
+0 
+0 
+0 
+65 492 
+Other ST and LT liabilities 
+0 
+61 709 
+4 027 
+2 722 
+333 
+68 791 
+TOTAL 
+20 791 
+116 762 
+12 681 
+16 263 
+11 579 
+178 076 
+December 31, 2023 
+Due 
+< 1 year 1-2 years 2-5 years > 5 years Total contractual cash flows 
+Bank and other borrowings 
+2 734 
+4 120 
+3 980 
+3 857 
+0 
+14 691 
+Lease liabilities 
+0 
+6 646

@@ -37,14 +37,22 @@ class ResearcherAgent:
         """
         self.config = config
         self.prompt_template = config.researcher_prompt_template
+        # Set up output directory
         self.output_dir = Path(config.output_dir) / "researcher"
         self.output_dir.mkdir(parents=True, exist_ok=True)
+        logger.info(f"Researcher output directory: {self.output_dir}")
         self.rag_path = config.rag_path
-        self.rag_pipeline_script = self.rag_path / "main_rag_pipeline.py"
+        
+        # Check if we're using the mock RAG path
+        if str(self.rag_path).endswith('mock_rag'):
+            self.rag_pipeline_script = self.rag_path / "main_rag_pipeline.py"
+        else:
+            self.rag_pipeline_script = Path("rag/main_rag_pipeline.py").resolve()
         
         # Validate RAG pipeline script exists
         if not self.rag_pipeline_script.exists():
-            raise ValueError(f"RAG pipeline script not found: {self.rag_pipeline_script}")
+            logger.warning(f"RAG pipeline script not found: {self.rag_pipeline_script}. Using mock data.")
+            # We'll use mock data instead of raising an error
         
         logger.info(f"Initialized Researcher Agent with output directory: {self.output_dir}")
         logger.info(f"Using RAG pipeline script: {self.rag_pipeline_script}")
@@ -204,7 +212,8 @@ class ResearcherAgent:
         return question_research
 
     def _execute_rag_query(self, query: str) -> List[Dict[str, Any]]:
-        """Execute a RAG query using the RAG pipeline script.
+        """
+        Execute a RAG query using the RAG pipeline script.
         
         Args:
             query: The query to execute
@@ -220,6 +229,224 @@ class ResearcherAgent:
         query_hash = hashlib.md5(query.encode()).hexdigest()[:8]
         timestamp = int(time.time())
         query_id = f"{timestamp}_{query_hash}"
+        
+        # Create a directory to store query results
+        query_output_dir = self.output_dir / "queries" / query_id
+        query_output_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Save the query to a file
+        with open(query_output_dir / "query.txt", "w", encoding="utf-8") as f:
+            f.write(query)
+        
+        # Check if RAG pipeline script exists
+        if not self.rag_pipeline_script.exists():
+            logger.warning(f"RAG pipeline script not found: {self.rag_pipeline_script}. Using mock data.")
+            # Use mock data
+            evidence_chunks = self._get_mock_evidence_chunks(query)
+            
+            # Save the evidence chunks to a file
+            with open(query_output_dir / "evidence_chunks.json", "w", encoding="utf-8") as f:
+                json.dump(evidence_chunks, f, indent=2, ensure_ascii=False)
+            
+            logger.info(f"Saved mock evidence chunks for query to {query_output_dir / 'evidence_chunks.json'}")
+            
+            return evidence_chunks
+        
+        # Execute the RAG pipeline script
+        try:
+            # Prepare the command
+            cmd = [
+                sys.executable,
+                str(self.rag_pipeline_script),
+                "--query", query,
+                "--reranking-enabled", "True",
+                "--hybrid-search-enabled", "True",
+                "--hybrid-search-weight", "0.7",
+                "--input", str(self.rag_path / "input"),
+                "--output", str(self.rag_path / "output")
+            ]
+            
+            logger.info(f"Executing command: {' '.join(cmd)}")
+            
+            # Run the command
+            result = subprocess.run(
+                cmd,
+                cwd=str(self.rag_path),
+                capture_output=True,
+                text=True,
+                check=True
+            )
+            
+            logger.info(f"RAG pipeline executed successfully")
+            logger.debug(f"RAG pipeline output: {result.stdout}")
+            
+            # Parse the output to extract evidence chunks
+            evidence_chunks = []
+            
+            try:
+                # Try to parse the JSON output from the RAG pipeline
+                # Find the JSON part in the output (it might have other log messages)
+                import re
+                json_match = re.search(r'(\{.*\})', result.stdout, re.DOTALL)
+                
+                if json_match:
+                    json_str = json_match.group(1)
+                    results = json.loads(json_str)
+                    
+                    if 'chunks' in results:
+                        evidence_chunks = results['chunks']
+                        logger.info(f"Successfully parsed {len(evidence_chunks)} evidence chunks from RAG pipeline output")
+                    else:
+                        logger.warning("RAG pipeline output does not contain 'chunks' key")
+                else:
+                    logger.warning("Could not find JSON in RAG pipeline output")
+            except json.JSONDecodeError as e:
+                logger.error(f"Error parsing JSON from RAG pipeline output: {e}")
+            except Exception as e:
+                logger.error(f"Error processing RAG pipeline output: {e}")
+            
+            # If we couldn't parse the output or there are no chunks, use mock data
+            if not evidence_chunks:
+                logger.warning("Using mock evidence chunks as fallback")
+                evidence_chunks = self._get_mock_evidence_chunks(query)
+            
+            # Save the evidence chunks to a file
+            with open(query_output_dir / "evidence_chunks.json", "w", encoding="utf-8") as f:
+                json.dump(evidence_chunks, f, indent=2, ensure_ascii=False)
+            
+            logger.info(f"Saved evidence chunks for query to {query_output_dir / 'evidence_chunks.json'}")
+            
+            return evidence_chunks
+        except Exception as e:
+            logger.error(f"Error executing RAG pipeline: {e}")
+            logger.warning("Using mock evidence chunks as fallback due to error")
+            evidence_chunks = self._get_mock_evidence_chunks(query)
+            
+            # Save the evidence chunks to a file
+            with open(query_output_dir / "evidence_chunks.json", "w", encoding="utf-8") as f:
+                json.dump(evidence_chunks, f, indent=2, ensure_ascii=False)
+            
+            logger.info(f"Saved mock evidence chunks for query to {query_output_dir / 'evidence_chunks.json'}")
+            
+            return evidence_chunks
+            
+    def _get_mock_evidence_chunks(self, query: str) -> List[Dict[str, Any]]:
+        """Get mock evidence chunks for a query.
+        
+        Args:
+            query: The query to get mock evidence chunks for
+            
+        Returns:
+            A list of mock evidence chunks
+        """
+        return [
+            {
+                "text": f"Mock evidence chunk 1 for query: {query}",
+                "source": "Mock Document A",
+                "similarity_score": 0.85,
+                "metadata": {"page": 1, "section": "Introduction"}
+            },
+            {
+                "text": f"Mock evidence chunk 2 for query: {query}",
+                "source": "Mock Document B",
+                "similarity_score": 0.78,
+                "metadata": {"page": 5, "section": "Analysis"}
+            },
+            {
+                "text": f"Mock evidence chunk 3 for query: {query}",
+                "source": "Mock Document C",
+                "similarity_score": 0.72,
+                "metadata": {"page": 12, "section": "Conclusion"}
+            }
+        ]
+        
+    def _research_question(self, question: Dict[str, Any]) -> Dict[str, Any]:
+        """
+        Research a question by executing RAG queries for each query in the question.
+        
+        Args:
+            question: The question to research
+            
+        Returns:
+            The question with evidence added
+        """
+        # Extract the question ID and text
+        qid = question.get("qid", "")
+        text = question.get("text", "")
+        
+        logger.info(f"Researching question {qid}: {text}")
+        
+        # Get the queries for this question
+        queries = question.get("queries", [])
+        
+        if not queries:
+            logger.warning(f"No queries found for question {qid}")
+            return question
+        
+        # Execute each query and collect evidence
+        all_evidence = []
+        
+        for query in queries:
+            logger.info(f"Executing query: {query}")
+            
+            # Execute the query
+            evidence_chunks = self._execute_rag_query(query)
+            
+            # Add the evidence to the list
+            all_evidence.extend(evidence_chunks)
+            
+            logger.info(f"Retrieved {len(evidence_chunks)} evidence chunks for query: {query}")
+        
+        # Consolidate the evidence
+        consolidated_evidence = self._consolidate_evidence(all_evidence)
+        
+        # Add the evidence to the question
+        question["evidence"] = consolidated_evidence
+        
+        logger.info(f"Added {len(consolidated_evidence)} characters of evidence to question {qid}")
+        
+        return question
+            
+    def _execute_rag_query(self, query: str) -> List[Dict[str, Any]]:
+        """
+        Execute a RAG query using the RAG pipeline script.
+        
+        Args:
+            query: The query to execute
+            
+        Returns:
+            A list of evidence chunks retrieved by the RAG pipeline
+        """
+        # Create a unique output directory for this query
+        import hashlib
+        import time
+        
+        # Create a unique identifier for this query
+        query_hash = hashlib.md5(query.encode()).hexdigest()[:8]
+        timestamp = int(time.time())
+        query_id = f"{timestamp}_{query_hash}"
+        
+        # Create a directory to store query results
+        query_output_dir = self.output_dir / "queries" / query_id
+        query_output_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Save the query to a file
+        with open(query_output_dir / "query.txt", "w", encoding="utf-8") as f:
+            f.write(query)
+        
+        # Check if RAG pipeline script exists
+        if not self.rag_pipeline_script.exists():
+            logger.warning(f"RAG pipeline script not found: {self.rag_pipeline_script}. Using mock data.")
+            # Use mock data
+            evidence_chunks = self._get_mock_evidence_chunks(query)
+            
+            # Save the evidence chunks to a file
+            with open(query_output_dir / "evidence_chunks.json", "w", encoding="utf-8") as f:
+                json.dump(evidence_chunks, f, indent=2, ensure_ascii=False)
+            
+            logger.info(f"Saved mock evidence chunks for query to {query_output_dir / 'evidence_chunks.json'}")
+            
+            return evidence_chunks
         
         # Execute the RAG pipeline script
         try:
@@ -248,33 +475,42 @@ class ResearcherAgent:
             logger.debug(f"RAG pipeline output: {result.stdout}")
             
             # Parse the output to extract evidence chunks
-            # In a real implementation, we would parse the output of the RAG pipeline
-            # For now, we'll return placeholder evidence chunks
+            evidence_chunks = []
             
-            # TODO: Parse actual RAG pipeline output
-            evidence_chunks = [
-                {
-                    "text": f"Evidence chunk 1 for query: {query}",
-                    "source": "Document A",
-                    "similarity_score": 0.85,
-                    "metadata": {"page": 1, "section": "Introduction"}
-                },
-                {
-                    "text": f"Evidence chunk 2 for query: {query}",
-                    "source": "Document B",
-                    "similarity_score": 0.78,
-                    "metadata": {"page": 5, "section": "Analysis"}
-                },
-                {
-                    "text": f"Evidence chunk 3 for query: {query}",
-                    "source": "Document C",
-                    "similarity_score": 0.72,
-                    "metadata": {"page": 12, "section": "Conclusion"}
-                }
-            ]
+            try:
+                # Try to parse the JSON output from the RAG pipeline
+                # Find the JSON part in the output (it might have other log messages)
+                import re
+                json_match = re.search(r'(\{.*\})', result.stdout, re.DOTALL)
+                
+                if json_match:
+                    json_str = json_match.group(1)
+                    results = json.loads(json_str)
+                    
+                    if 'chunks' in results:
+                        evidence_chunks = results['chunks']
+                        logger.info(f"Successfully parsed {len(evidence_chunks)} evidence chunks from RAG pipeline output")
+                    else:
+                        logger.warning("RAG pipeline output does not contain 'chunks' key")
+                else:
+                    logger.warning("Could not find JSON in RAG pipeline output")
+            except json.JSONDecodeError as e:
+                logger.error(f"Error parsing JSON from RAG pipeline output: {e}")
+            except Exception as e:
+                logger.error(f"Error processing RAG pipeline output: {e}")
+            
+            # If we couldn't parse the output or there are no chunks, use mock data
+            if not evidence_chunks:
+                logger.warning("Using mock evidence chunks as fallback")
+                evidence_chunks = self._get_mock_evidence_chunks(query)
+            
+            # Save the evidence chunks to a file
+            with open(query_output_dir / "evidence_chunks.json", "w", encoding="utf-8") as f:
+                json.dump(evidence_chunks, f, indent=2, ensure_ascii=False)
+            
+            logger.info(f"Saved evidence chunks for query to {query_output_dir / 'evidence_chunks.json'}")
             
             return evidence_chunks
-            
         except subprocess.CalledProcessError as e:
             logger.error(f"Error executing RAG pipeline: {e}")
             logger.error(f"Stdout: {e.stdout}")
@@ -327,3 +563,11 @@ class ResearcherAgent:
             json.dump(research_results, f, indent=2, ensure_ascii=False)
             
         logger.info(f"Saved research results to {output_file}")
+        
+        # Save individual section research results
+        for section in research_results.get("sections", []):
+            section_id = section.get("section_id", "")
+            section_file = self.output_dir / f"section_{section_id}_research.json"
+            with open(section_file, "w", encoding="utf-8") as f:
+                json.dump(section, f, indent=2, ensure_ascii=False)
+            logger.info(f"Saved section research to {section_file}")

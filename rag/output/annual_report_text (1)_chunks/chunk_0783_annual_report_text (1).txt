@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 783 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0782_annual_report_text (1).txt
+NEXT: chunk_0784_annual_report_text (1).txt
+------------------------------
+s are expensed when 
+incurred. Amortisation: Each asset is amortised over its useful life using the straight-line method and assets are not revalued. The table below summarises the amortization periods for the main categories of intangible assets: INTANGIBLE FIXED ASSETS 
+Useful life 
+Product development costs 
+3 years, except if a longer useful life is justified (however not 
+exceeding 5 years) 
+IT development costs for the primary software programs (e.q. ERP) 
+5 years, except if a longer useful life is justified 
+Other software 
+3 years 
+Concessions, patents, licenses, know-how, trademarks,

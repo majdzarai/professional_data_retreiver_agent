@@ -1,0 +1,65 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 926 of 1106
+SIZE: 538 characters
+PREVIOUS: chunk_0925_annual_report_text (1).txt
+NEXT: chunk_0927_annual_report_text (1).txt
+------------------------------
+ent 
+39 
+26 
+65 
+17 
+176 
+193 
+At amortised cost 
+23 445 351 937 
+375 382 
+20 940 
+274 260 
+295 200 
+Trade receivables 
+0 111 649 
+111 649 
+0 
+107 576 
+107 576 
+Subordinated loans 
+6 208 
+66 
+6 274 
+6 045 
+203 
+6 248 
+Bonds and non-subordinated loans 
+15 088 
+889 
+15 977 
+13 851 
+939 
+14 790 
+Cash deposits 
+321 
+11 138 
+11 459 
+364 
+309 
+673 
+Cash and cash equivalents 
+0 158 366 
+158 366 
+0 
+109 306 
+109 306 
+Others financial assets 
+1 828 
+69 829 
+71 657 
+680 
+55 927 
+56 607 
+TOTAL 
+27 293 352 097 
+379 390 
+23 888 
+274 999 
+298 887

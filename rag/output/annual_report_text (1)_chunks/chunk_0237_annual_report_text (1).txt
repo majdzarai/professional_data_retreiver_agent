@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 237 of 1106
+SIZE: 626 characters
+PREVIOUS: chunk_0236_annual_report_text (1).txt
+NEXT: chunk_0238_annual_report_text (1).txt
+------------------------------
+n which IBA 
+conducts business, including unambiguous 
+rejection of risks related to corruption and 
+bribery. This Code is part of our work policies. Every employee is required to read and pass a 
+post-training test to acknowledge clear and full 
+understanding and acceptance of the principles. Failure to comply with this Code may result in 
+disciplinary 
+sanctions 
+for 
+the 
+employee 
+concerned. This Code is reviewed and amended 
+on a regular basis, and most recently at the end 
+of 2021. The latest revision includes additional 
+principles on environment protection, respect of 
+human rights, and anti-corruption matters.

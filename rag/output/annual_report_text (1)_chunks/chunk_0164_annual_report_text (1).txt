@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 164 of 1106
+SIZE: 694 characters
+PREVIOUS: chunk_0163_annual_report_text (1).txt
+NEXT: chunk_0165_annual_report_text (1).txt
+------------------------------
+longer 6-week 
+journey, this change has led to substantial financial savings 
+and a notable 96% reduction in CO2 emissions for non-
+urgent shipments. We annually monitor and publish our GHG emissions related 
+to our installed base and to our organization worldwide: offices and production means, and employee mobility (fleet of 
+company vehicles and professional air travel /public transport). With a view to increasing transparency and benchmarking 
+our practices, we disclose our environmental data every year 
+through the Carbon Disclosure Project (CDP). IBA was awarded 
+a B score in 2023, and is part of the management level class 
+of companies taking coordinated action on climate issues.

@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1093 of 1106
+SIZE: 288 characters
+PREVIOUS: chunk_1092_annual_report_text (1).txt
+NEXT: chunk_1094_annual_report_text (1).txt
+------------------------------
+=== Page 196 ===
+IBA Annual Report 2023 
+193. Unit 
+2021 
+2022 
+2023 
+305-3 GHG emissions outside of the organization 
+Installed base indirect greenhouse gas emissions GHG (Scope 31) 
+CO2 equivalent emissions, incl. CO2, CH4, N2O, HFCs, PFCs, SF6, NF32 
+t CO2eq 
+112.624 
+122.230 
+137.317

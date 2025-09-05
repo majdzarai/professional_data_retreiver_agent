@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 980 of 1106
+SIZE: 357 characters
+PREVIOUS: chunk_0979_annual_report_text (1).txt
+NEXT: chunk_0981_annual_report_text (1).txt
+------------------------------
+a 
+100% 
+100% 
+IBA Dosimetry Co Ltd. Shanghai, China 
+100% 
+100% 
+Fluidomica Lda1 
+ Cantanhede, Portugal 
+100% 
+0% 
+Ion Beam Applications Korea, Ltd. Gyeonggi-do, South Korea 
+100% 
+100% 
+IBA Proton Therapy Israel Ltd 3 
+Tel Aviv, Israel 
+100% 
+0% 
+1 Subsidiary acquired in March 2023 
+2 Subsidiary set up in July 2023 
+3 Subsidiary set up in September 2023

@@ -37,8 +37,10 @@ class WriterAgent:
         """
         self.config = config
         self.prompt_template = config.writer_prompt_template
+        # Set up output directory
         self.output_dir = Path(config.output_dir) / "writer"
         self.output_dir.mkdir(parents=True, exist_ok=True)
+        logger.info(f"Writer output directory: {self.output_dir}")
         
         # Initialize LLM client
         self.llm_client = LLMClient(model=config.model)
@@ -81,6 +83,12 @@ class WriterAgent:
             )
             
             section_drafts["sections"].append(section_draft)
+            
+            # Save individual section draft to a file in the writer directory
+            draft_file = self.output_dir / f"draft_{section_id}.md"
+            with open(draft_file, 'w', encoding="utf-8") as f:
+                f.write(section_draft.get("content", ""))
+            logger.info(f"Writer saved draft to {draft_file}")
         
         # Save the section drafts to a file
         self._save_section_drafts(section_drafts)
@@ -322,9 +330,29 @@ class WriterAgent:
         Args:
             section_drafts: The section drafts to save
         """
+        # Save the complete section drafts to a file
         output_file = self.output_dir / "section_drafts.json"
         
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(section_drafts, f, indent=2, ensure_ascii=False)
+        
+        # Save individual section drafts to separate files for easier analysis
+        sections_dir = self.output_dir / "sections"
+        sections_dir.mkdir(parents=True, exist_ok=True)
+        
+        for section in section_drafts.get("sections", []):
+            section_id = section.get("section_id", "")
+            if not section_id:
+                continue
+                
+            section_file = sections_dir / f"{section_id}.json"
+            with open(section_file, "w", encoding="utf-8") as f:
+                json.dump(section, f, indent=2, ensure_ascii=False)
+                
+            # Also save the content as markdown for easy viewing
+            content_file = sections_dir / f"{section_id}.md"
+            with open(content_file, "w", encoding="utf-8") as f:
+                f.write(f"# {section.get('section_title', 'Untitled Section')}\n\n")
+                f.write(section.get('content', ''))
             
-        logger.info(f"Saved section drafts to {output_file}")
+        logger.info(f"Saved section drafts to {output_file} and individual sections to {sections_dir}")

@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 124 of 1106
+SIZE: 420 characters
+PREVIOUS: chunk_0123_annual_report_text (1).txt
+NEXT: chunk_0125_annual_report_text (1).txt
+------------------------------
+he B Corp certification, and what 
+it means in practice for the whole 
+Group. Weve been certified since 
+2021, but theres still a lot of work 
+to do. Were doing very well in terms 
+of governance, particularly through 
+our capital base or the fact that we 
+pay our employees the same amount 
+as what is allocated to shareholders. But we still need to make progress 
+on the environmental front. Olivier Legrain, CEO of IBA

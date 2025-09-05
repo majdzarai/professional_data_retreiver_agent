@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 680 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0679_annual_report_text (1).txt
+NEXT: chunk_0681_annual_report_text (1).txt
+------------------------------
+x 
+Revenue recognition - Estimating the progress under the equipment 
+and installation services contract 
+Note 4.3 Revenue 
+Revenue recognition licensing contract with CGN 
+Note 4.3 Revenue 
+Stock option plan 
+Note 6 - Stock options and 
+share-based payments 
+Local taxes in countries other than Belgium 
+Note 4.7.1 Income tax 
+expense 
+Estimating the value in use of intangible and tangible assets 
+Note 5.3 - Impairment of assets 
+Estimation of the incremental borrowing rate of a lease 
+Note 5.10.2 Lease liabilities 
+Estimation of the defined benefit obligation of the post-employment 
+benefit pl

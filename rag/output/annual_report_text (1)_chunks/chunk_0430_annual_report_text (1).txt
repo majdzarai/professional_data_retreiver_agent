@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 430 of 1106
+SIZE: 239 characters
+PREVIOUS: chunk_0429_annual_report_text (1).txt
+NEXT: chunk_0431_annual_report_text (1).txt
+------------------------------
+IBA regularly runs equity analysis, in the context 
+of 
+the 
+worker council 
+analysis 
+(Conseil 
+dEntreprise), or during our yearly salary review 
+process 
+This addresses the following topics a.o. F/M ratio, absolute, and per work category

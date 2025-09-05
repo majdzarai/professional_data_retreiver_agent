@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 310 of 1106
+SIZE: 646 characters
+PREVIOUS: chunk_0309_annual_report_text (1).txt
+NEXT: chunk_0311_annual_report_text (1).txt
+------------------------------
+is called on to 
+decide on the compensation policy or other 
+matters relating to the managing directors. === Page 68 ===
+IBA Annual Report 2023 
+65. IBA 
+Nomination committee 
+The Nomination Committee met 2 times in 2023 
+to assess the areas of expertise needed by the 
+Board of Directors, when directors mandates 
+come to an end, and to make proposals in this 
+respect to the Board of Directors. Based on the report prepared by this Committee, the Board had proposed to the Ordinary General 
+Meeting held on June 14, 2023 (i) to approve the 
+renewal 
+of 
+Mrs. PROF.Hedvig 
+Hricak, Independent administrator and SAINT-DENIS 
+SA, represented by M.

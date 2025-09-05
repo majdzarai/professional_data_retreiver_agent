@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 25 of 1106
+SIZE: 521 characters
+PREVIOUS: chunk_0024_annual_report_text (1).txt
+NEXT: chunk_0026_annual_report_text (1).txt
+------------------------------
+=== Page 13 ===
+Solution powered by the iconic RhodotronONE machine, MANY possibilities 
+Protect, enhance and save 
+lives by contributing to MORE 
+SUSTAINABLE IRRADIATION 
+SOLUTIONS FOR MEDICAL 
+DEVICE STERILIZATION. IBA is the world leader in electron-based irradiation 
+solutions for industrial applications. E-beam 
+and X-ray irradiation can be used in a wide range 
+of applications, such as food ionization or polymer 
+cross-linking. However, IBA is more than ever 
+focused on the medical device sterilization market.

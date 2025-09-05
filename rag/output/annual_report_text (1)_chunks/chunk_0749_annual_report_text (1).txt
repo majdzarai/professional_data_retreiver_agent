@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 749 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0748_annual_report_text (1).txt
+NEXT: chunk_0750_annual_report_text (1).txt
+------------------------------
+rates of monetary assets and liabilities denominated in foreign currencies are recognized in financial expenses 
+and income in the income statement. Foreign exchange differences arising from long-term loans that are part of the Groups net investment in foreign operations 
+are reclassified to equity as cumulative translation difference via the Other Comprehensive Income. === Page 138 ===
+IBA Annual Report 2023 
+135. 4.6. TAXATION 
+4.6.1 Income tax expense 
+The tax profit/(charge) for the year can be broken down as follows: The tax profit on IBAs result before taxes differs 
+from the theoretica

@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 448 of 1106
+SIZE: 538 characters
+PREVIOUS: chunk_0447_annual_report_text (1).txt
+NEXT: chunk_0449_annual_report_text (1).txt
+------------------------------
+to 3 and 3:32, 1, 1 to 3, of the BCAC).In order to limit its bribery and 
+corruption risk, IBA is continuously identifying 
+the specific risks it could be exposed to by (i) 
+strictly analyzing third-party providers (with 
+whom we are working) reputation including anti-
+money laundering due diligence, (ii) examining 
+transactions with governments or government 
+institutions and representatives, (iii) creating 
+new legal entities overseas with due diligence, and 
+(iv) 
+educating 
+employees 
+through 
+communications and proper training.

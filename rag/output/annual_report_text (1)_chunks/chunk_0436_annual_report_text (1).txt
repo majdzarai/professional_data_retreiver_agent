@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 436 of 1106
+SIZE: 225 characters
+PREVIOUS: chunk_0435_annual_report_text (1).txt
+NEXT: chunk_0437_annual_report_text (1).txt
+------------------------------
+practices; reduce emissions (in particular greenhouse 
+gas); protect surrounding nature (substance of 
+concern 
+management, ground 
+and 
+groundwater contamination, and biodiversity 
+protection surrounding our facilities); and

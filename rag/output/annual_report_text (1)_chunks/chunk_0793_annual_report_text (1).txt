@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 793 of 1106
+SIZE: 624 characters
+PREVIOUS: chunk_0792_annual_report_text (1).txt
+NEXT: chunk_0794_annual_report_text (1).txt
+------------------------------
+inly 
+due to contracts that were near the term which 
+have been prolonged. In 2023 and 2022, additional investments were 
+also made for IT equipment. In 2023 and 2022, the disposals of tangible 
+assets mainly correspond to the scrapping of 
+unused assets by the Group as well as leases 
+that came to the end of contracts and that were 
+not renewed. Accounting policy for tangible fixed assets 
+Owned assets: Most assets are large structural enhancements made to buildings that are leased by IBA. The acquisition cost only included 
+third party invoices which were directly attributable to the work performed on these assets.

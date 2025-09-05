@@ -1,0 +1,9 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 838 of 1106
+SIZE: 349 characters
+PREVIOUS: chunk_0837_annual_report_text (1).txt
+NEXT: chunk_0839_annual_report_text (1).txt
+------------------------------
+anned labour and overhead costs. Any variances with actual costs is included in the line Cost of 
+Goods Sold in the consolidated statement of income. The net realizable value is assessed by reviewing the ageing of each individual inventory item and the value of inventory is 
+adjusted for obsolescence and slow moving items with the following policy

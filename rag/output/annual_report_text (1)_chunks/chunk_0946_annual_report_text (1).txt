@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 946 of 1106
+SIZE: 572 characters
+PREVIOUS: chunk_0945_annual_report_text (1).txt
+NEXT: chunk_0947_annual_report_text (1).txt
+------------------------------
+million). The changes of fair value of the derivatives 
+which are not accounted for using hedge 
+accounting are recognised in the Income 
+Statement. As at December 31, 2023, this is represented 
+by cash flow hedges with the following 
+balances: EUR 0.2 million as short-term and 
+long-term financial assets (EUR 0.1 million in 
+2022) and EUR -0.3 million (EUR -1.6 million in 
+2022) as short-term and long-term financial 
+liabilities. In 2023, a gain of EUR 0.5 million (2022: loss of 
+EUR 6.6 million) on these instruments was 
+therefore recorded in the income statement.

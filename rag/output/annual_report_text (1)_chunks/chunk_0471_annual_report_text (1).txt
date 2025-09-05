@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 471 of 1106
+SIZE: 646 characters
+PREVIOUS: chunk_0470_annual_report_text (1).txt
+NEXT: chunk_0472_annual_report_text (1).txt
+------------------------------
+=== Page 91 ===
+IBA Annual Report 2023 
+88. IBA 
+value proposition and action plans have been put 
+in place. The stream low carbon, low waste company 
+addresses the monitoring of the group carbon 
+footprint, in view of making it neutral by 2030 
+(reducing and carbon contribution combined 
+through different action plans). It also addresses 
+the monitor and reduction of the group waste 
+footprint, in view of reducing the unsorted waste 
+by 2/3, by 2025. An environmental management 
+system EMS is in place. We have been ranked 
+at B score by CDP (from C in 2020). Our 
+warehouse has suppressed toxic packaging 
+(polyurethan) from its processes.

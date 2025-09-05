@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 211 of 1106
+SIZE: 657 characters
+PREVIOUS: chunk_0210_annual_report_text (1).txt
+NEXT: chunk_0212_annual_report_text (1).txt
+------------------------------
+REBIT saw a strong uptick to EUR 6.1 
+million (2022: EUR 0.7 million), as R&D 
+investment levelled out and supply chain 
+issues resolved 
+Over the last couple of years, Dosimetry has 
+been reinforcing its position as the leading 
+provider of comprehensive combined QA 
+solutions for Radiation Therapy and Medical 
+Imaging by developing and expanding its 
+portfolio and geographical reach. During 2023 this continued apace through 
+innovation, upgrades, new acquisitions and 
+strategic 
+alliances. In 
+April 
+2023, IBA 
+successfully 
+launched 
+a 
+next-generation 
+reference class electrometer DOSE-X, which 
+has already reached sales of more than 300 
+units.

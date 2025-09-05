@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 378 of 1106
+SIZE: 635 characters
+PREVIOUS: chunk_0377_annual_report_text (1).txt
+NEXT: chunk_0379_annual_report_text (1).txt
+------------------------------
+ctors do not receive any form 
+of variable remuneration and no other form of 
+fixed, equity-based or in-kind remuneration in 
+the course of the year. At present, it is not anticipated that the policy will 
+fundamentally change over the next two years. Both the level and structure of director 
+remuneration are monitored and reviewed on an 
+annual basis, which may result in an adjustment 
+when deemed necessary or appropriate. Managing Directors do not receive specific 
+director remuneration. The remuneration they 
+receive for their direct or indirect role in the 
+company includes compensation for their 
+director responsibilities.

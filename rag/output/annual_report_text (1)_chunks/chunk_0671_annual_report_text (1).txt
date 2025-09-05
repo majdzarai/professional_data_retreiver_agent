@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 671 of 1106
+SIZE: 672 characters
+PREVIOUS: chunk_0670_annual_report_text (1).txt
+NEXT: chunk_0672_annual_report_text (1).txt
+------------------------------
+addition, the discount rates used in the 
+actuarial assumptions of the defined benefit 
+plan were increased, leading to a decrease of 
+the provision. This was partially offset by a 
+decrease of the return on the plan assets as we 
+observe a decline in stock markets. The interest-bearing borrowings that IBA has 
+are fixed-rate instruments with no uncertainty 
+on the timing and amount of future cash flows. 2.4. CONTRIBUTIONS TO PANTERA SA/NV 
+In 2022, IBA established a strategic R&D 
+partnership as a Joint Venture with SCK-CEN 
+(Belgian Nuclear Research Center). Both 
+entities participate for 50% of the share capital 
+with an initial contribution of EUR 0.3 million.

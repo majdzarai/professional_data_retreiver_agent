@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 413 of 1106
+SIZE: 682 characters
+PREVIOUS: chunk_0412_annual_report_text (1).txt
+NEXT: chunk_0414_annual_report_text (1).txt
+------------------------------
+vironment, health, and safety. A new version of this Code was approved by the 
+Board of directors on December 18, 2020 and 
+slightly updated in 2021. This new version 
+underlines the importance of and details specific 
+actions taken against corruption and bribery as 
+well as for the active protection of Human Rights. The Code of Business Conduct is available on 
+the 
+Companys 
+website 
+www.iba-
+worldwide.com, on the following https://www.iba-
+worldwide.com/content/code-conduct 
+This Code is the object of a specific training with 
+a quiz with a required 80% succes rate for 
+passing, mandatory for all IBA employees, trainees, interim personnel and a selection of 
+consultants.

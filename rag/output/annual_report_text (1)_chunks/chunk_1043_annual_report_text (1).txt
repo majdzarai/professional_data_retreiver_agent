@@ -1,0 +1,45 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1043 of 1106
+SIZE: 458 characters
+PREVIOUS: chunk_1042_annual_report_text (1).txt
+NEXT: chunk_1044_annual_report_text (1).txt
+------------------------------
+Sub-total 
+ 606 885 
+2,00% 
+ 606 885 
+2,00% 
+Sustainable Anchorage SRL 
+6 204 668 
+20,49% 
+6 204 668 
+20,49% 
+IBA Investment SCRL 
+ 51 973 
+0,17% 
+ 51 973 
+0,17% 
+Management Anchorage 
+ 348 530 
+1,15% 
+ 348 530 
+1,15% 
+SRIW SA
+
+=== Page 189 ===
+IBA Rapport annuel 2023 
+186. BlackRock, Inc. 407 194 
+1,34% 
+ 407 194 
+1,34% 
+Norges Bank Investment 
+Management 
+1 133 108 
+3,74% 
+1 133 108 
+3,74% 
+Kempen Capital Management NV 
+ 875 388 
+2,89% 
+ 875 388 
+2,89%

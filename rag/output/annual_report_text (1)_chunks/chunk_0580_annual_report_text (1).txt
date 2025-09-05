@@ -1,0 +1,46 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 580 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0579_annual_report_text (1).txt
+NEXT: chunk_0581_annual_report_text (1).txt
+------------------------------
+ace value 
+24 412 
+17 516 229 
+24 412 
+17 516 229 
+Ordinary shares without designation of face value with WPR strips 
+18 001 
+12 702 489 
+18 001 
+12 702 489 
+2.2 Registered or bearer shares 
+Registered shares 
+8 145 467 
+8 145 467 
+Bearer shares 
+22 073 251 
+22 073 251 
+Own shares held by 
+The Company itself 
+1 559 
+1 110 781 
+1 545 
+1 100 781 
+Its subsidiaries 
+73 
+51 973 
+73 
+51 973 
+Stock issue commitments 
+Following exercise of share options 
+Number of outstanding share options 
+1 115 682 
+1 156 231 
+Amount of capital to be issued 
+0 
+0 
+Maximum number of shares to be issued 
+83 500 
+0 
+Am

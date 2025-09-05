@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1077 of 1106
+SIZE: 579 characters
+PREVIOUS: chunk_1076_annual_report_text (1).txt
+NEXT: chunk_1078_annual_report_text (1).txt
+------------------------------
+7% 
+8% 
+Temporary staff 
+# 
+5% 
+7% 
+7% 
+2-16 Key impacts, risks and opportunities 
+An internal procedure is in place to document the responsibilities and requirements for identifying environmental, health and safety hazards of the 
+organizations activities, products or services, and for evaluating and controlling the associated risks and impacts. This management tool is used to 
+assess environmental, health and safety risks and impacts. It also records the actions and control measures deployed by our various entities in the 
+context of their continuous improvement process.

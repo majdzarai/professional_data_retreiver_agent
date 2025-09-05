@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 53 of 1106
+SIZE: 533 characters
+PREVIOUS: chunk_0052_annual_report_text (1).txt
+NEXT: chunk_0054_annual_report_text (1).txt
+------------------------------
+ology can provide favorable results for those products. With E-beam and X-ray treatments, we can offer faster 
+and better solutions to our customers. Were proud to be 
+the first globally with this dual-modality configuration, located strategically in central Taiwan. Our partnership 
+with IBAs Proton Therapy, Dosimetry, and Industrial 
+Business Units has been enriching. Theyre an innovative 
+company, and we have proudly collaborated with them. Michael Lee, Managing Director at CHC Healthcare Group 
+14
+IBA
+CORPORATE BROCHURE 2024

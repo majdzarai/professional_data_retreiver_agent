@@ -1,0 +1,72 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 787 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_0786_annual_report_text (1).txt
+NEXT: chunk_0788_annual_report_text (1).txt
+------------------------------
+3 
+1 103 
+2 511 
+0 
+8 991 
+Disposals 
+-6 
+-461 
+-433 
+0 
+-309 
+-636 
+0 
+-1 845 
+Accumulated depreciation of assets 
+acquired in business combinations 
+0 
+0 
+49 
+0 
+98 
+0 
+0 
+147 
+Currency translation difference 
+20 
+58 
+60 
+0 
+71 
+3 
+0 
+212 
+Accumulated depreciation as at 
+December 31, 2022 
+11 557 
+10 212 
+13 997 
+11 
+11 981 
+5 449 
+0 
+53 207 
+Net carrying amount as at January 
+1, 2022 
+11 366 
+23 943 
+4 110 
+17 
+3 197 
+5 606 
+408 
+48 647 
+Net carrying amount as at 
+December 31, 2022 
+11 173 
+22 394 
+3 634 
+14 
+3 000 
+4 708 
+1 145 
+46 068 
+Gross carrying amount as at 
+January 1, 2023 
+22 73

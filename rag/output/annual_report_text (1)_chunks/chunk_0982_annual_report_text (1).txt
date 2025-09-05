@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 982 of 1106
+SIZE: 569 characters
+PREVIOUS: chunk_0981_annual_report_text (1).txt
+NEXT: chunk_0983_annual_report_text (1).txt
+------------------------------
+itment to participate in any potential 
+future capital increase. The unrecognised 
+losses from these participations are mentionned 
+in note 5.5). 13. Fees for services rendered by the statutory
+auditors
+EY Reviseurs dEntreprises SRL, auditors of the 
+statutory accounts of IBA SA and auditors of the 
+consolidated accounts of IBA, provided the 
+following services during the year: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Remuneration for statutory audits and audit of consolidated accounts 
+407 
+408 
+Other audit work and reports 
+13 
+13 
+ TOTAL 
+420 
+421 
+14.

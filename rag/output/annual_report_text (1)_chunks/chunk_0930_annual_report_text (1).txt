@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 930 of 1106
+SIZE: 615 characters
+PREVIOUS: chunk_0929_annual_report_text (1).txt
+NEXT: chunk_0931_annual_report_text (1).txt
+------------------------------
+term receivables and cash and cash equivalents. Equity instruments at FVOCI, with no recycling of gains or losses to profit or loss on derecognition. This category only 
+includes equity instruments (other investments), which the Group intends to hold for the foreseeable future and which the 
+Group has irrevocably elected to so classify upon initial recognition or transition. The Group classified its unquoted equity 
+instruments as equity instruments at FVOCI. Equity instruments at FVOCI are not subject to an impairment assessment 
+under IFRS 9. Financial assets at FVPL comprise mainly derivative instruments.

@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 782 of 1106
+SIZE: 639 characters
+PREVIOUS: chunk_0781_annual_report_text (1).txt
+NEXT: chunk_0783_annual_report_text (1).txt
+------------------------------
+licy for intangible assets 
+Goodwill: the accounting policy for recognising and measuring goodwill is described in Note 3, Business 
+combinations 
+Software, research and development and other intangible assets:Expenditures for the development of new products and 
+software are recognized as intangible assets if such expenditures, with a high degree of certainty, will result in future 
+economic benefits for the company. IBA applies the criteria strictly and in most cases development costs are expensed when 
+incurred. Amortisation: Each asset is amortised over its useful life using the straight-line method and assets are not revalued.

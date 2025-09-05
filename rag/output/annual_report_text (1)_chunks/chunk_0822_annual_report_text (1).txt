@@ -1,0 +1,34 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 822 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0821_annual_report_text (1).txt
+NEXT: chunk_0823_annual_report_text (1).txt
+------------------------------
+from 2024 and large quantities of 
+commercial production from 2028. IBAs contribution of EUR 18.2 million during the 
+year is detailed in 2.4. above. The following table illustrates the summarized financial information of PanTera SA/NV: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Investment in Joint Ventures 
+Current assets 
+499 
+1 313 
+Non-current assets 
+0 
+41 780 
+Current liabilities (-) 
+-2 
+-2 000 
+Non-Current liabilities (-) 
+0 
+-134 
+Equity 
+497 
+40 959 
+Groups share in equity 
+249 
+20 480 
+Unrealized gain on contribution of an intangible asset 
+0 
+-2 200 
+Groups carrying amount of

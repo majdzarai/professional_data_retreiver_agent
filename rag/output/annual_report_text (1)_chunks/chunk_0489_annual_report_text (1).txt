@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 489 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0488_annual_report_text (1).txt
+NEXT: chunk_0490_annual_report_text (1).txt
+------------------------------
+re that the 
+technical screening criteria are met. IBA 
+therefore deems them to be not taxonomy-
+aligned. === Page 94 ===
+IBA Annual Report 2023 
+91. IBA 
+Proportion of turnover from products or services associated with Taxonomy-aligned economic activities disclosure 
+covering year 2022/2023 
+Economic activities (1) 
+Code(s) (2) 
+Absolute of turnover (3) 
+Proportion of turnover (4) 
+Substantial contribution criteria 
+Criteria regarding DNSH 
+Minimum safeguards (17) 
+Taxonomy aligned proportion of 
+turnover, year 2023 (18) 
+Taxonomy aligned proportion of 
+turnover, year 2022 (19) 
+Category enab

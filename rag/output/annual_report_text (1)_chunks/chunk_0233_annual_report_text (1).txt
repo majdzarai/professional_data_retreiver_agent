@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 233 of 1106
+SIZE: 677 characters
+PREVIOUS: chunk_0232_annual_report_text (1).txt
+NEXT: chunk_0234_annual_report_text (1).txt
+------------------------------
+=== Page 57 ===
+IBA Annual Report 2023 
+54. IBA 
+features are tested on a customer site, during 
+installation as well as operations and can 
+potentially impact customer operations for the 
+tests, as well as potential corrections of non-
+conformities. A Hypercare process is in place to 
+alleviate those impacts, improve follow-up of the 
+new developments as well as accelerate the 
+return of experience/customer feedback directly 
+to the product development teams. Because of the long-term life of products, as well 
+as the specific requirements of customers, IBA 
+must maintain multiple versions worldwide, with 
+the risk of maintenance, upgradability, and ability 
+to update.

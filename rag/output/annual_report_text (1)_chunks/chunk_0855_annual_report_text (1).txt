@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 855 of 1106
+SIZE: 661 characters
+PREVIOUS: chunk_0854_annual_report_text (1).txt
+NEXT: chunk_0856_annual_report_text (1).txt
+------------------------------
+xpected credit loss, the Group uses an allowance matrix based on ageing balances adjusted for forward-
+looking factors linked to a specific customer. The matrix used is as follow: 25% after 90 days overdue; 50% after 180 days overdue; 75% after 270 days overdue; 100% after 360 days overdue. The credit loss is further reviewed in detail to take into consideration other customer specific factors such as 
+re-negotiation, customer refinancing, and guarantees received. For large Proton Therapy contracts, such analysis is performed considering the overall position of the contract, taking into 
+account trade receivable, contract asset and contract liabilities.

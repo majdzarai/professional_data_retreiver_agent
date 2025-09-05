@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 121 of 1106
+SIZE: 549 characters
+PREVIOUS: chunk_0120_annual_report_text (1).txt
+NEXT: chunk_0122_annual_report_text (1).txt
+------------------------------
+our Stakeholder Approach, we at IBA believe 
+in a business model that is a force for good, creating shared 
+and long-term value for all stakeholders. We also firmly 
+believe that being a business that is a force for good is 
+the best business choice to attract and retain talent, stay ahead 
+of upcoming risks, and improve the current product catalog 
+while exploring new and growing markets. Beyond words, we just renewed our commitment to make 
+this a key part of our operations by recertifying for the second 
+time as a B Corporation (or B Corp).

@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 720 of 1106
+SIZE: 530 characters
+PREVIOUS: chunk_0719_annual_report_text (1).txt
+NEXT: chunk_0721_annual_report_text (1).txt
+------------------------------
+ease of EUR 11.8 
+million is primarily explained by the progress 
+made on some customer sites, despite the level 
+of billings remaining high in 2023. As at December 31, 2023 and December 31, 2022, IBA did not identify any risk related to the 
+recoverability of these contract assets; as a 
+result, no allowance for expected credit loss 
+was recognised. === Page 134 ===
+IBA Annual Report 2023 
+131. Accounting policy on revenue recognition 
+IBA has the following revenue streams which will determine how the revenue is recognised.

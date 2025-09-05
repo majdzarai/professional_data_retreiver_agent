@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 291 of 1106
+SIZE: 602 characters
+PREVIOUS: chunk_0290_annual_report_text (1).txt
+NEXT: chunk_0292_annual_report_text (1).txt
+------------------------------
+wn various provisions, the notification 
+obligation provided for in articles 6 and following 
+of this law is applicable to the crossing, upward 
+or downward, of any minimum portion of one 
+percent (1%), two percent (2%), three percent 
+(3%), four percent (4%), five percent (5%), seven 
+point five percent (7.5%), and in portions of ten 
+percent (10%), fifteen percent (15%) and so on 
+in increments of five percent (5%), of the total 
+voting rights in circulation at the time of the 
+occurrence of the situation giving rise to a 
+declaration under this law. === Page 65 ===
+IBA Annual Report 2023 
+62.

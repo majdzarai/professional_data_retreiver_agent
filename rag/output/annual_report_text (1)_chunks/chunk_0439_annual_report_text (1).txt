@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 439 of 1106
+SIZE: 573 characters
+PREVIOUS: chunk_0438_annual_report_text (1).txt
+NEXT: chunk_0440_annual_report_text (1).txt
+------------------------------
+holders, respecting 
+living beings and present and future generations, and reducing as much as possible negative 
+environmental and societal impacts. Non-financial Indicators and Results 
+A system of formal reporting is described in the 
+Code of Business Conduct and encourages the 
+notification of practices that would not conform 
+to IBAs environmental priorities. Depending on the nature of their services, certain suppliers are required to be ISO 14001 
+(Environmental Management) or ISO 50001 
+(Energy Management Systems) certified in order 
+to become an IBA supplier.

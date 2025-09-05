@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 98 of 1106
+SIZE: 545 characters
+PREVIOUS: chunk_0097_annual_report_text (1).txt
+NEXT: chunk_0099_annual_report_text (1).txt
+------------------------------
+services provide the necessary expertise, confidence, training and support to ensure proton therapy centers are 
+successful from the very beginning. ProteusONE is an expandable solution, and allows for maximal evolutivity both when 
+expanding services or when upgrading existing systems. Its delightful to see a young patients 
+reaction when they walk into the room. It doesnt look like a typical exam room. It looks more like a fun place where 
+kids go to play. For our therapists, it 
+makes the room a calmer and more 
+enjoyable place to work.

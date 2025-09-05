@@ -1,0 +1,9 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 902 of 1106
+SIZE: 335 characters
+PREVIOUS: chunk_0901_annual_report_text (1).txt
+NEXT: chunk_0903_annual_report_text (1).txt
+------------------------------
+nces between previous actuarial assumptions and what 
+actually happened, and the impact of changes of actuarial assumptions on the plans liabilities. Actuarial differences are 
+fully recorded in other items of the comprehensive income statement during their period of occurrence. Source of estimation uncertainty and critical judgments

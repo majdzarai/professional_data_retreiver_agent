@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 664 of 1106
+SIZE: 589 characters
+PREVIOUS: chunk_0663_annual_report_text (1).txt
+NEXT: chunk_0665_annual_report_text (1).txt
+------------------------------
+expensive for IBA 
+due to the energy price level at the time of 
+the investigation done by IBA; Our 
+forecast 
+transactions 
+remain 
+sufficiently certain and cautious to ensure 
+that 
+effectiveness 
+of 
+our 
+derivatives 
+financial instruments is maintained to 
+qualify for hedge accounting; 2.3. MACRO-ECONOMIC ENVIRONMENT
+Management has considered several factors 
+related to the macro-economic environment and 
+their impact on impairment of non-financial 
+assets, expected credit losses, provisions, revenue 
+recognition, hedge 
+accounting, pension plans, deferred tax and going concern.

@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 865 of 1106
+SIZE: 680 characters
+PREVIOUS: chunk_0864_annual_report_text (1).txt
+NEXT: chunk_0866_annual_report_text (1).txt
+------------------------------
+ommitted facilities having no firm 
+expiry date (available until further notice). Repayment of borrowings relate to S.F.P.I. bonds (EUR 1.0 million). Due to administrative 
+delays independent of IBAs responsibility, the 
+next reimburment on the the S.R.I.W bonds (due 
+December 31, 2023) was made on January 2nd, 2024 for EUR 2.7 million. The 
+amortised 
+cost 
+adjustment 
+in 
+2022 
+represents the impact of the renegotiation of 
+future interest rate with the S.R.I.W. and S.F.P.I. IBA has agreed with the two lenders to decrease 
+the interest rates, this represents a non-
+substantial change to the contract terms in the 
+sense of IFRS and is treated as a contract 
+modification.

@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 554 of 1106
+SIZE: 254 characters
+PREVIOUS: chunk_0553_annual_report_text (1).txt
+NEXT: chunk_0555_annual_report_text (1).txt
+------------------------------
+Decrease of the unavailable reserve for 
+own shares for an amount of EUR -4.5 
+million (decreasing the reserve built up 
+in prior years); Decrease of an unavailable reserve for 
+an amount of EUR 0.2 million; Distribution of a dividend of EUR 5.0 
+million

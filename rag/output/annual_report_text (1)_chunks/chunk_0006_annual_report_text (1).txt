@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 6 of 1106
+SIZE: 677 characters
+PREVIOUS: chunk_0005_annual_report_text (1).txt
+NEXT: chunk_0007_annual_report_text (1).txt
+------------------------------
+placed the purpose 
+of the company and our project at the heart of 
+our activities, as expressed in our mission to 
+Protect, Enhance and Save Lives. All our activities are targeted towards the same 
+objective of making a positive impact on peoples 
+health by providing health care professionals with 
+the most effective and accurate solutions for 
+diagnosis and treatment, as well as safe solutions 
+for sterilization. This goal is implemented in different ways 
+that benefit each of the different stakeholders involved. A FLEXIBLE AND RESILIENT 
+BUSINESS MODEL
+In todays global and increasingly volatile economy, we 
+have demonstrated flexibility, adaptability and resilience.

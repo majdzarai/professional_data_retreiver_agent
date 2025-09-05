@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 620 of 1106
+SIZE: 512 characters
+PREVIOUS: chunk_0619_annual_report_text (1).txt
+NEXT: chunk_0621_annual_report_text (1).txt
+------------------------------
+ting policies 
+and the correction of errors. Also, they clarify 
+how entities use measurement techniques and 
+inputs to develop accounting estimates. The amendments are effective for annual 
+reporting periods beginning on or after 1 
+January 2023 and apply to changes in 
+accounting policies and changes in accounting 
+estimates that occur on or after the start of that 
+period. The amendments did not have a material 
+impact on the Group as the clarifications are 
+confirming the current practices of the Group.

@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 458 of 1106
+SIZE: 651 characters
+PREVIOUS: chunk_0457_annual_report_text (1).txt
+NEXT: chunk_0459_annual_report_text (1).txt
+------------------------------
+s 
+also 
+described in the Code of Business Conduct and 
+encourages the denunciation of practices that 
+would be contrary to IBAs Human Rights policy. In the event of a denunciation to the IBA, the 
+latter will promptly take appropriate measures: i) 
+to bring the situation back into conformity with 
+human rights, and ii) to prevent the repetition of 
+such a violation. IBA is continuously assessing its suppliers to 
+ensure that their activities do not contribute to 
+the infringement of Human Rights. This 
+assessment is dependent on the nature of the 
+services that are required from the supplier and 
+on the geographical location of this supplier.

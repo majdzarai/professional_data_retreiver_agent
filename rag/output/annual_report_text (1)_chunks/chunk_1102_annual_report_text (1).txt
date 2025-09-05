@@ -1,0 +1,41 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1102 of 1106
+SIZE: 428 characters
+PREVIOUS: chunk_1101_annual_report_text (1).txt
+NEXT: chunk_1103_annual_report_text (1).txt
+------------------------------
+rce between 30-49 years old 
+% 
+62% 
+64% 
+64% 
+Group workforce 50 years old and older 
+% 
+19% 
+18% 
+20% 
+Group workforce gender (F/M) 
+% 
+26% / 74% 
+26% / 74% 
+26% / 74% 
+Asia workforce gender (F/M) 
+% 
+20% / 80% 
+21% / 79% 
+19% / 81% 
+EMEA workforce gender (F/M) 
+% 
+28% / 72% 
+28% / 72% 
+28% / 72% 
+AM workforce gender (F/M) 
+% 
+20% / 80% 
+20% / 80% 
+20% / 80% 
+in part time employees (F/M) 
+% 
+67% / 33% 
+65% / 35% 
+74% / 26%

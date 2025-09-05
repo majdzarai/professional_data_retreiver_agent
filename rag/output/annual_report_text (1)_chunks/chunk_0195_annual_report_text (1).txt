@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 195 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0194_annual_report_text (1).txt
+NEXT: chunk_0196_annual_report_text (1).txt
+------------------------------
+o.o. for the supply of a ProteusONE at the Greater 
+Poland Cancer Center in Poznan, Poland, which 
+will be the second ever PT system in the country. In October, a contract was secured with 
+Massachusetts General Hospital for the total 
+system restoration of a three-room system, which was IBAs first ever PT installation. There are 43 IBA PT sites generating service 
+revenues 
+worldwide, with 
+two 
+new 
+ProteusONE centers initiating treatment in 
+2023, in Arkansas, USA and Milan, Italy. PT 
+Services continued on its growth trajectory of the 
+past few years, increasing by 6.5% compared to 
+2022.

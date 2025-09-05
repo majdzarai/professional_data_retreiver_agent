@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 371 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0370_annual_report_text (1).txt
+NEXT: chunk_0372_annual_report_text (1).txt
+------------------------------
+compensation 
+components to its Managing Directors and 
+members of the Executive Management Team, who operate under a Management Company 
+agreement. Contractual agreements with Managing Directors and members of the Executive 
+Management Team 
+The schedule below summarizes the main contractual arrangements, concerning each Managing 
+Director and member of the Executive Management Team, in relation to termination at the initiative of 
+the Company. MANAGING DIRECTORS 
+AND EXECUTIVE 
+MANAGEMENT TEAM 
+START OF 
+TERM 
+END OF 
+TERM 
+APPLICABLE 
+NOTICE PERIOD 
+TERMINATION AGREEMENT 
+Lamaris Group SRL

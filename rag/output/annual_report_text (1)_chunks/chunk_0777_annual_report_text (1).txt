@@ -1,0 +1,62 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 777 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0776_annual_report_text (1).txt
+NEXT: chunk_0778_annual_report_text (1).txt
+------------------------------
+ccumulated amortisation as at January 1, 2022 
+0 
+25 818 
+3 795 
+29 613 
+Additions 
+0 
+1 395 
+327 
+1 722 
+Disposals 
+0 
+-222 
+0 
+-222 
+Currency translation difference 
+0 
+38 
+17 
+55 
+Accumulated amortisation as at December 31, 2022 
+0 
+27 029 
+4 139 
+31 168 
+Net carrying amount as at January 1, 2022 
+3 821 
+2 699 
+1 091 
+7 611 
+Net carrying amount as at December 31, 2022 
+10 262 
+2 845 
+4 733 
+17 840 
+Gross carrying amount as at January 1, 2023 
+10 262 
+29 874 
+8 872 
+49 008 
+Additions 
+0 
+705 
+6 344 
+7 049 
+Disposals 
+0 
+0 
+0 
+0 
+Transfers 
+0 
+1 048 
+-711 
+337 
+Gross carrying amount of assets

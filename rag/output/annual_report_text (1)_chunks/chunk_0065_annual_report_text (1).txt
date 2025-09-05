@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 65 of 1106
+SIZE: 607 characters
+PREVIOUS: chunk_0064_annual_report_text (1).txt
+NEXT: chunk_0066_annual_report_text (1).txt
+------------------------------
+=== Page 21 ===
+PET Cardiology Diagnostic 
+A PREFERRED MODALITY FOR 
+CARDIAC IMAGING
+In cardiology, a Positron Emission Tomography (PET) scan of the 
+heart is a non-invasive nuclear imaging test using radioactive 
+tracers. It is used to diagnose coronary artery disease and 
+damage following a heart attack. PET scans are also used to 
+define the best therapy treatment. In 2023, IBA launched AKURACY, a fully integrated solution 
+that combines PET production equipment with a streamlined 
+production process of 13N-ammonia, one of the most 
+recognized radiotracers in cardiac imaging institutes 
+worldwide.

@@ -1,0 +1,30 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 904 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0903_annual_report_text (1).txt
+NEXT: chunk_0905_annual_report_text (1).txt
+------------------------------
+ality tables to determine life expectancy and inflation rates to determine future 
+salary and pension growth assumptions. === Page 162 ===
+IBA Annual Report 2023 
+159. 5.12.1 Trade payables 
+As at December 31, the payment schedule for 
+trade payables was as follows: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Due 
+20 793 
+33 595 
+Due in less than 3 months 
+16 051 
+5 987 
+Due between 4-12 months 
+28 715 
+36 981 
+TOTAL 
+65 559 
+76 564 
+The increase is primarily driven by an increased 
+level of purchases to support the groups 
+business growth. 5.12.2 Other current and non-
+current liabilitie

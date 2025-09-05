@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 385 of 1106
+SIZE: 582 characters
+PREVIOUS: chunk_0384_annual_report_text (1).txt
+NEXT: chunk_0386_annual_report_text (1).txt
+------------------------------
+under 
+Principles 2.19, 2.20, 20.21, and 2.22 of the 
+Belgian Code of Corporate Governance (2020) 
+in collegial uniformity and with the greatest 
+impact, is best served through a management 
+company 
+structure 
+whereby 
+the 
+intuitu 
+personae 
+relationship 
+remains 
+the 
+most 
+important asset. On 29 September 2023, the contract between 
+IBA and Research Management Systems SRL 
+was ended in a mutual agreement, and a new 
+contract with Exoplanets Research SRL was 
+concluded for the rendering of Yves Jongens 
+consulting services. Variable Pay short term incentives 
+Plan Criteria

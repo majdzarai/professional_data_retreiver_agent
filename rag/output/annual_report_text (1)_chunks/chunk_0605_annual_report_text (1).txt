@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 605 of 1106
+SIZE: 272 characters
+PREVIOUS: chunk_0604_annual_report_text (1).txt
+NEXT: chunk_0606_annual_report_text (1).txt
+------------------------------
+and equity-
+accounted investments. 172 
+13. Fees for services rendered by the 
+statutory auditors. 173 
+14.Events after the reporting date. 173 
+15. Glossary of alternative performance 
+measures (APM). 174 
+16. Auditors report on the consolidated 
+financial statement. 175

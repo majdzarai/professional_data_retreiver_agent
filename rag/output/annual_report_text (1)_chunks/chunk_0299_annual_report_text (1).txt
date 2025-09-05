@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 299 of 1106
+SIZE: 518 characters
+PREVIOUS: chunk_0298_annual_report_text (1).txt
+NEXT: chunk_0300_annual_report_text (1).txt
+------------------------------
+nce for the Product Committee 
+meeting. Attendance at meetings of the Board 
+was very high. A large majority of the directors 
+attended all meetings. During the Ordinary 
+General Meeting (held on June 14, 2023),three 
+mandates were renewed, i.e. Mr. Olivier Legrain, Internal 
+Director 
+Ms. Sibille 
+Vandenhove 
+dErtsenrijck, permanent 
+representative 
+of 
+Bridging for Sustainability SRL, Independent 
+Director, Mr. Marcel 
+Miller, permanent 
+representative of Consultance Marcel Miller 
+S.Comm. Independent Director.

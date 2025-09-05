@@ -1,0 +1,47 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 496 of 1106
+SIZE: 593 characters
+PREVIOUS: chunk_0495_annual_report_text (1).txt
+NEXT: chunk_0497_annual_report_text (1).txt
+------------------------------
+EUR 
+000 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+% 
+% 
+E 
+T 
+A. TAXONOMY-ELIGIBLE ACTIVITIES 
+A.1 Environmentally sustainable activities (Taxonomy-aligned) 
+Operation of personal mobility devices, cycle logistics 
+6.4 
+589 
+0.5% 
+100.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0%
+
+=== Page 97 ===
+IBA Annual Report 2023 
+94. IBA 
+Other taxonomy informations 
+Per the delegated regulation obligations article 8 
+annex II, IBA reports that no activity is 
+attributable to the nuclear energy and fossil gas 
+sectors. Non-financial activities report (sections 3:6, 4, and 3:32, 2, of the BCAC)

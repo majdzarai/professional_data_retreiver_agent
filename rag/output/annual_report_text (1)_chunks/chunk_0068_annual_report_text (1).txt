@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 68 of 1106
+SIZE: 542 characters
+PREVIOUS: chunk_0067_annual_report_text (1).txt
+NEXT: chunk_0069_annual_report_text (1).txt
+------------------------------
+Watch the production 
+presentation video 
+However, the use of PET imaging is limited by the availability 
+of radiotracers, which require the production of medical 
+isotopes. The IBA CycloneKEY cyclotron addresses this issue 
+by providing a compact and efficient system for the production 
+of FDG, commonly used in PET imaging. The CycloneKEYs compact size and advanced automation 
+features make it ideal for small to medium-sized 
+radiopharmacies and research institutions, which can 
+use the system to produce their own radiotracers locally.

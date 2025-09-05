@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 808 of 1106
+SIZE: 602 characters
+PREVIOUS: chunk_0807_annual_report_text (1).txt
+NEXT: chunk_0809_annual_report_text (1).txt
+------------------------------
+23, IBA further contributed to the capital of 
+PanTera 
+SA/NV 
+with 
+cash 
+to 
+purchase 
+equipment from IBA and IP in kind as described 
+in Note 2.4. The gain on this transation has been 
+recognised only to the extent of unrelated 
+investors interests, being 50%, against Other 
+operating income for EUR 2.2 million. Accounting policy for impairment of assets 
+As the Group does not carry any intangible asset with an indefinite useful life, IBA is only testing the goodwill 
+recognised on business combinations annually for impairment, after the latest strategic plan has been approved by 
+Management.

@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 230 of 1106
+SIZE: 618 characters
+PREVIOUS: chunk_0229_annual_report_text (1).txt
+NEXT: chunk_0231_annual_report_text (1).txt
+------------------------------
+ed at the beginning of the 
+year, are characteristics of this field of business 
+that can have a significant impact over several 
+accounting periods. On the other hand, the lead 
+time for fulfilling orders gives the Company a 
+good view of its level of activity several months 
+in advance. Inventory risk 
+Inventory includes high technology parts and 
+components subject to rapid technological 
+obsolescence. Inventory support production but 
+also spare parts to support our customers. IBA 
+optimizes the level of inventory required for 
+production and support on sites for our 
+customers under a maintenance contract.

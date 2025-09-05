@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 289 of 1106
+SIZE: 668 characters
+PREVIOUS: chunk_0288_annual_report_text (1).txt
+NEXT: chunk_0290_annual_report_text (1).txt
+------------------------------
+decisions and 
+evaluation rules used in the preparation of 
+financial statements, as well as their proposed 
+action in relation to internal control. INFORMATION DISCLOSED PURSUANT TO 
+SECTION 14, 4, OF THE ACT OF 2 MAY 2007 
+(SECTION 3:6, 2, 4, OF THE BCAC) 
+Based on the transparency notifications received 
+by the Company over the financial year 2023, the 
+respective percentage of shares held by the 
+Companys main and historical shareholders as 
+of December 31, 2023 is as presented in the 
+chart below. However, this chart cannot consider 
+the variations of which the Company has no 
+knowledge 
+as 
+they 
+do 
+not 
+reach 
+the 
+transparency notification thresholds.

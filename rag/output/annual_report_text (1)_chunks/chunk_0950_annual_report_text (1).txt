@@ -1,0 +1,60 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 950 of 1106
+SIZE: 683 characters
+PREVIOUS: chunk_0949_annual_report_text (1).txt
+NEXT: chunk_0951_annual_report_text (1).txt
+------------------------------
+0 
+0 
+USD 
+-3 319 
+-2 533 
+-786 
+0 
+KRW 
+-192 
+0 
+-192 
+0 
+-8 403 
+-4 507 
+-1 683 
+-2 213 
+December 31, 2023 
+Equity 
+< 1 year 
+1-2 years 
+> 2 years 
+CAD 
+-237 
+-237 
+0 
+0 
+CNY 
+-2 538 
+-2 352 
+-186 
+0 
+USD 
+-593 
+-1 214 
+318 
+303 
+KRW 
+23 
+23 
+0 
+0 
+-3 345 
+-3 780 
+132 
+303 
+7.4.2 Financial assets at fair 
+value through OCI 
+These are investments in shares where IBA 
+does not have any control nor significant 
+influence. More details on these financial 
+assets are to be found in Note 5.4. 7.5. FINANCIAL ASSETS AT AMORTISED COST
+This category mainly includes cash equivalents, deposits, loans to customers and related parties 
+as well as financial bonds that IBA subscribed 
+to.

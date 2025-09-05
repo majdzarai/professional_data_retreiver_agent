@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 318 of 1106
+SIZE: 605 characters
+PREVIOUS: chunk_0317_annual_report_text (1).txt
+NEXT: chunk_0319_annual_report_text (1).txt
+------------------------------
+nagement Team members and business unit 
+heads to report to the Board on two topics: adoption of the strategic plan and adoption of the 
+2024 budget. PT Strategy Committee 
+ As of December 31, 2023, PT Strategy 
+Committee consists: Mr. Olivier Legrain, Saint-
+Denis SA represented by its managing director, Mr. Pierre 
+Mottet, Mr. Yves 
+Jongen, Nextstepefficiency SAS represented by its 
+permanent representative, Christine Dubus, === Page 69 ===
+IBA Annual Report 2023 
+66. IBA 
+Consultance Marcel Miller SCS, represented by 
+its permanent representative, Marcel Miller, Ms. Hedvig Hricak, Dr. Richard A.

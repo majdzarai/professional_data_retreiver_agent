@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1009 of 1106
+SIZE: 406 characters
+PREVIOUS: chunk_1008_annual_report_text (1).txt
+NEXT: chunk_1010_annual_report_text (1).txt
+------------------------------
+perform audit procedures responsive to those risks, and obtain 
+audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of 
+not detecting a material misstatement resulting from fraud is higher than for one resulting from 
+error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the 
+override of internal control; === Page 182 ===

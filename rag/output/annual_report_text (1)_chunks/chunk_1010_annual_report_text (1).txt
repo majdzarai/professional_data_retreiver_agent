@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1010 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1009_annual_report_text (1).txt
+NEXT: chunk_1011_annual_report_text (1).txt
+------------------------------
+Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an 
+opinion on the effectiveness of the Groups internal control; Evaluate the appropriateness of accounting policies used and the reasonableness of accounting 
+estimates and related disclosures made by the board of directors; Conclude on the appropriateness of the board of directors use of the going concern basis of 
+accounting and, based on the audit evidence obtained, whether a material uncertainty exists 
+rela

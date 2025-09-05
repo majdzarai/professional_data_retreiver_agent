@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 805 of 1106
+SIZE: 507 characters
+PREVIOUS: chunk_0804_annual_report_text (1).txt
+NEXT: chunk_0806_annual_report_text (1).txt
+------------------------------
+and with a similar security, the funds necessary to obtain an asset of a similar value to the right-of-use asset in a similar 
+economic environment. The IBR therefore reflects what the Group would have to pay, which requires estimation when no 
+observable rates are available (such as for subsidiaries that do not enter into financing transactions) or when they need to 
+be adjusted to reflect the terms and conditions of the lease (for example, when leases are not in the subsidiarys functional 
+currency).

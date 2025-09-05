@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 58 of 1106
+SIZE: 569 characters
+PREVIOUS: chunk_0057_annual_report_text (1).txt
+NEXT: chunk_0059_annual_report_text (1).txt
+------------------------------
+=== Page 20 ===
+1. https://gco.iarc.fr/today/data/factsheets/cancers/39-All-cancers-fact-sheet.pdf
+2. https://www.cancerresearchuk.org/about-cancer/cancer-symptoms/why-is-early-diagnosis-important
+The IBA CycloneKEY cyclotron plays an important role in 
+making Positron Emission Tomography (PET) imaging more 
+widely available worldwide by enabling the production of key 
+medical isotopes used for this imaging technology. PET imaging is a highly effective medical imaging technique 
+that uses radiotracers to produce detailed images of organs and 
+tissues in the body.

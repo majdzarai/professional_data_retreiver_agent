@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 11 of 1106
+SIZE: 597 characters
+PREVIOUS: chunk_0010_annual_report_text (1).txt
+NEXT: chunk_0012_annual_report_text (1).txt
+------------------------------
+=== Page 8 ===
+IBA delivered a solid performance in the second half 
+of 2023, resulting in a positive recurring earnings 
+before interest and taxes (REBIT) margin for the full 
+year, as anticipated. Industrial and RadioPharma 
+Solutions business units have had a particularly 
+strong year, with revenues growing more than 50% 
+and a significant increase in REBIT driven by high 
+order intake over the past few years and accelerated 
+backlog conversion. Dosimetry performance was 
+also strong, with growth in sales and REBIT, and 
+the Services business continuing to perform well 
+across the group.

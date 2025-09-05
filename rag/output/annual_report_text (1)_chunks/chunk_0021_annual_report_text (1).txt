@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 21 of 1106
+SIZE: 651 characters
+PREVIOUS: chunk_0020_annual_report_text (1).txt
+NEXT: chunk_0022_annual_report_text (1).txt
+------------------------------
+available 
+for meaningful applications such as medical 
+devices sterilization, food pasteurization, property enhancement for various materials, etc. Its pioneering E-beam and X-ray technologies 
+enable the medical industry to be significantly 
+more environment-friendly by avoiding toxic 
+chemicals and radioactive materials, and their 
+associated waste and hazards. IBA is the worldwide technology leader 
+in the field of proton therapy. Proton therapy 
+is considered to be one of the most advanced 
+forms of radiotherapy in cancer treatments using 
+ionizing rays. Thanks to the unique properties 
+of protons, tumors can be targeted more 
+accurately.

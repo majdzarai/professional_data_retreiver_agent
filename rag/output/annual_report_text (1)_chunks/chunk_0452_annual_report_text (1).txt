@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 452 of 1106
+SIZE: 687 characters
+PREVIOUS: chunk_0451_annual_report_text (1).txt
+NEXT: chunk_0453_annual_report_text (1).txt
+------------------------------
+Conduct contains the 
+IBAs policy regarding Human Rights. It 
+establishes the common principles applicable in 
+every market where IBA has activities. The Company prohibits forced or indentured 
+labor, in all its forms. Employment agreements 
+are to be made on a voluntary basis, and every 
+employee receives regular payment for work and 
+an explanation on their pay slips. Moreover, employees are, as per the applicable laws, allowed 
+to 
+terminate 
+their 
+employment 
+relationship with reasonable notice. The rules 
+and regulations when it comes to notably but 
+not limited to - working time, travel time, and time 
+recovery are respected. IBA also prohibits the employment of children.

@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 500 of 1106
+SIZE: 669 characters
+PREVIOUS: chunk_0499_annual_report_text (1).txt
+NEXT: chunk_0501_annual_report_text (1).txt
+------------------------------
+rposes of district 
+heating or industrial processes such as hydrogen production, as well as their safety upgrades, using best available technologies. No 
+3 
+The undertaking carries out, funds or has exposures to safe operation of existing nuclear 
+installations that produce electricity or process heat, including for the purposes of district 
+heating or industrial processes such as hydrogen production from nuclear energy, as well as 
+their safety upgrades. No 
+Fossil gas related activities 
+4 
+The undertaking carries out, funds or has exposures to construction or operation of electricity 
+generation facilities that produce electricity using fossil gaseous fuels.

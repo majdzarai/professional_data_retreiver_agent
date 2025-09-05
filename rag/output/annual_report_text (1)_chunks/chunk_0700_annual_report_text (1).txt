@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 700 of 1106
+SIZE: 591 characters
+PREVIOUS: chunk_0699_annual_report_text (1).txt
+NEXT: chunk_0701_annual_report_text (1).txt
+------------------------------
+conversion with a high 
+delivery volume and a solid order intake 
+in H1; === Page 131 ===
+IBA Annual Report 2023 
+128. revenues for the Dosimetry segment of EUR 
+65.9 million, a strong 22.1% increase from 
+2022 (2022: EUR 54.0 million) from organic 
+and external growth following the acquisition 
+of Modus in 2022. For the year-ended December 31, 2023, the 
+Group 
+gross 
+margin 
+(31.4%) 
+worsened 
+compared to 2022 (35.1%) following inflation 
+and lower overhead absorption. The previous 
+year performance was also positively impacted 
+by indemnities related to the Rutherfords 
+bankruptcy.

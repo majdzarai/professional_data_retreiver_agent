@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 328 of 1106
+SIZE: 614 characters
+PREVIOUS: chunk_0327_annual_report_text (1).txt
+NEXT: chunk_0329_annual_report_text (1).txt
+------------------------------
+on Committee fully 
+acknowledge the benefits of diversity among 
+employees, within the Executive Management 
+Team, and within the Board of Directors. As of December 31, 2023, more than one third 
+of the directors are of the other gender which 
+means 
+that 
+the 
+Company 
+meets 
+the 
+requirements on gender diversity. The age distribution within the management 
+team is quite broad, indicating a fair and 
+balanced 
+value 
+between 
+said 
+members. Management approved the Diversity, Equity and 
+Inclusion Policy on 15 and 16 December 2021, and requests the Management to implement this 
+policy to the fullest extent.

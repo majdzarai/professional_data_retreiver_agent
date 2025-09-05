@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 616 of 1106
+SIZE: 494 characters
+PREVIOUS: chunk_0615_annual_report_text (1).txt
+NEXT: chunk_0617_annual_report_text (1).txt
+------------------------------
+r the first time certain 
+standards and amendments endorsed by the 
+EU, which are effective for annual periods 
+beginning on or after 1 January 2023. The 
+Group has not early adopted any other 
+standard, interpretation or amendment that has 
+been issued but is not yet effective. Although 
+these 
+new 
+standards 
+and 
+amendments apply for the first time in 2023, they do not have a material impact on the 
+consolidated financial statements of the Group. The nature and the impact of each of the

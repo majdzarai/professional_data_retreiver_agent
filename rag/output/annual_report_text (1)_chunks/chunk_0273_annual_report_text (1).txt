@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 273 of 1106
+SIZE: 329 characters
+PREVIOUS: chunk_0272_annual_report_text (1).txt
+NEXT: chunk_0274_annual_report_text (1).txt
+------------------------------
+accounting standards. These efforts are made to provide financial 
+information in full compliance with company law, deadlines, and quality standards. Senior management has introduced a range of 
+analyses to identify, evaluate and track financial 
+and operational risks. These include: A four-year strategic plan and annual budget

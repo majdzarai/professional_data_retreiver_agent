@@ -1,0 +1,51 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 189 of 1106
+SIZE: 542 characters
+PREVIOUS: chunk_0188_annual_report_text (1).txt
+NEXT: chunk_0190_annual_report_text (1).txt
+------------------------------
+(EUR 000) 
+FY 2023 
+FY 2022 
+Variance 
+Variance % 
+Equipment Proton Therapy 
+113 449 
+110 162 
+3 287 
+3.0% 
+Equipment Other Accelerators 
+99 068 
+62 606 
+36 462 
+58.2% 
+Total equipment revenues 
+212 517 
+172 768 
+39 749 
+23.0% 
+Services Proton Therapy 
+115 616 
+108 599 
+7 017 
+6.5% 
+Services Other Accelerators 
+34 674 
+25 932 
+8 742 
+33.7% 
+Total service revenues 
+150 290 
+134 531 
+15 759 
+11.7% 
+Total revenues Proton Therapy & 
+Other Accelerators 
+362 807 
+307 299 
+55 508 
+18.1% 
+Service in % of segment revenues 
+41.4% 
+43.8% 
+Overview

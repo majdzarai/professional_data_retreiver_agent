@@ -1,0 +1,44 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 579 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0578_annual_report_text (1).txt
+NEXT: chunk_0580_annual_report_text (1).txt
+------------------------------
+=== Page 110 ===
+IBA Annual Report 2021 
+107. 2022 
+2023 
+STATEMENT OF CAPITAL 
+Amount (EUR 
+000) 
+Number of 
+shares 
+Amount (EUR 
+000) 
+Number of 
+shares 
+Capital 
+1. Issued capital 
+At the end of the previous financial year 
+42 413 
+42 502 
+Changes during the financial year 
+89 
+84 798 
+0 
+0 
+At the end of the current financial year 
+42 502 
+42 502 
+2. Structure of the capital 
+2.1. Categories of shares 
+Ordinary shares without designation of face value 
+24 412 
+17 516 229 
+24 412 
+17 516 229 
+Ordinary shares without designation of face value with WPR strips 
+18 001 
+12 702 489 
+18 001 
+12 7

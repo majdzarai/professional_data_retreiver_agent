@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 947 of 1106
+SIZE: 562 characters
+PREVIOUS: chunk_0946_annual_report_text (1).txt
+NEXT: chunk_0948_annual_report_text (1).txt
+------------------------------
+iabilities. In 2023, a gain of EUR 0.5 million (2022: loss of 
+EUR 6.6 million) on these instruments was 
+therefore recorded in the income statement. Hedge-accounted derivative financial 
+instruments 
+IBA assesses the hedge effectiveness through 
+a critical terms match between the hedged item 
+(future probable cash flows) and the hedging 
+instrument including amount and maturity. Some limited ineffectiveness may however 
+arise when actual timing of cash flows differs 
+from the initial expectation and the hedging 
+position has to be rolled-over as a result.

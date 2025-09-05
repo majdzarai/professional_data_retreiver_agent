@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 803 of 1106
+SIZE: 659 characters
+PREVIOUS: chunk_0802_annual_report_text (1).txt
+NEXT: chunk_0804_annual_report_text (1).txt
+------------------------------
+ry entities. (2) Rate consistent with expected growth in the sector. The recoverable amount of goodwill has been 
+determined on a value in use basis. For the CGU Dosimetry, if the growth rate is 
+decreased by 100 basis points and the discount 
+rate is increased by 100 basis points, the 
+recoverable amount remains greater than the 
+carrying amount of the tested assets. No 
+impairment was identified in 2023 and in 2022. the commencement date, the Group reassesses the lease term if there is a significant event or change in circumstances that 
+is within its control and affects its ability to exercise or not to exercise the option to renew or to terminate.

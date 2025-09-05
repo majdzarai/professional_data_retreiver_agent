@@ -1,0 +1,45 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 894 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0893_annual_report_text (1).txt
+NEXT: chunk_0895_annual_report_text (1).txt
+------------------------------
+for the remaining years of the initial term 
+is calculated based on the latest available reforecast of the future costs to complete IBAs obligations. The margin is then 
+discounted using a risk-free rate. === Page 160 ===
+IBA Annual Report 2023 
+157. (EUR 000) 
+January 
+1, 2022 
+Service 
+cost 
+Net 
+interest 
+expenses 
+Actuarial change 
+arising from 
+change in financial 
+assumptions 
+Contributions 
+by employer 
+Deferred 
+population 
+Benefits 
+plan 
+December 
+31, 2022 
+Defined benefit 
+obligation 
+-13 688 
+-3 266 
+-156 
+5 618 
+399 
+-2 973 
+173 
+-13 893 
+Fair value of plan assets 
+8 308 
+0 
+97 
+-

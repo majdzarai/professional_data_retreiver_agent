@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 122 of 1106
+SIZE: 551 characters
+PREVIOUS: chunk_0121_annual_report_text (1).txt
+NEXT: chunk_0123_annual_report_text (1).txt
+------------------------------
+words, we just renewed our commitment to make 
+this a key part of our operations by recertifying for the second 
+time as a B Corporation (or B Corp). The B Corps are part of 
+a movement to transform companies so that they contribute 
+to a more sustainable and inclusive economy and society, and 
+to highlight those that reconcile profit with societal purpose. The B Corp framework is a holistic tool to assess, benchmark 
+and ultimately improve our sustainability journey. And being a 
+certified B Corp provides what is often lacking elsewhere: proof.

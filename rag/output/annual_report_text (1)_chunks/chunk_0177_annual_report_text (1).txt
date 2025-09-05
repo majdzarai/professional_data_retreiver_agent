@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 177 of 1106
+SIZE: 243 characters
+PREVIOUS: chunk_0176_annual_report_text (1).txt
+NEXT: chunk_0178_annual_report_text (1).txt
+------------------------------
+est. for
+shareholders
+Community Engagement
+Education
+Business Ethics
+Responsible Sourcing
+Waste Management
+GHG Emissions
+Biodiversity
+Resource Scarity
+Sustainable logistics
+Sustainable mobility
+Materiality Matrix
+44
+IBA
+CORPORATE BROCHURE 2024

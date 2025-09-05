@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 365 of 1106
+SIZE: 578 characters
+PREVIOUS: chunk_0364_annual_report_text (1).txt
+NEXT: chunk_0366_annual_report_text (1).txt
+------------------------------
+t would be made based on 
+erroneous financial information. Long-term Incentives (LTI) 
+IBA issues LTI usually under the form of a Stock 
+Option Plan. The goal of this plan is to create 
+further alignment between management and 
+shareholders interests, allowing participants to 
+benefit from the long-term value created. The 
+value of LTI takes into consideration the potential 
+gain 
+vis-a-vis 
+participants 
+annual 
+salary, provided the share price appreciates sufficiently. IBA has a policy to buy shares on the market to 
+back-up LTI plan to neutralize the related 
+dilution.

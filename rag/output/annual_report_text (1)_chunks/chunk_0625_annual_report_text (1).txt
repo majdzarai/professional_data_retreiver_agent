@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 625 of 1106
+SIZE: 536 characters
+PREVIOUS: chunk_0624_annual_report_text (1).txt
+NEXT: chunk_0626_annual_report_text (1).txt
+------------------------------
+=== Page 121 ===
+IBA Annual Report 2023 
+118. turnover thresholds, the Pillar reform and 
+related IFRS amendment should not have any 
+impact on the groups financial statements. 1.2.4 Standards issued but not 
+yet effective 
+The 
+new and 
+amended 
+standards 
+and 
+interpretations that are issued and endorsed by 
+the EU, but not yet effective, up to the date of 
+issuance of the Groups financial statements 
+are disclosed below. The Group intends to 
+adopt these standards and interpretations, if 
+applicable, when they become effective.

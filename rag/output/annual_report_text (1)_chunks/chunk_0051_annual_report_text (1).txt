@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 51 of 1106
+SIZE: 671 characters
+PREVIOUS: chunk_0050_annual_report_text (1).txt
+NEXT: chunk_0052_annual_report_text (1).txt
+------------------------------
+o 
+becoming more and more obvious. The Chinese market is today 
+dominated by scattered ethyle oxide centers and more than 
+one hundred Gamma centers. A recent symposium on X-Ray, organized by IBA with industry players in China, confirmed that 
+industry and in-house players are ready to adopt IBA technology 
+for a more controllable and sustainable future. CHC provides healthcare medical solutions across Taiwan, China and South Asia. Our journey began with IBAs Proton Therapy team, leaders in the field, as we 
+established our Proton Therapy center. We later discovered the benefits of IBA 
+Industrial for disposable medical device sterilization and food applications.

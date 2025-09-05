@@ -1,0 +1,32 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 640 of 1106
+SIZE: 247 characters
+PREVIOUS: chunk_0639_annual_report_text (1).txt
+NEXT: chunk_0641_annual_report_text (1).txt
+------------------------------
+22 
+Average annual rate 
+2022 
+Closing rate on December 31, 2023 
+Average annual rate 
+2023 
+USD 
+1.0666 
+1.0541 
+1.1050 
+1.0814 
+CNY 
+7.3582 
+7.0768 
+7.8509 
+7.6464 
+INR 
+88.1710 
+82.5729 
+91.9045 
+89.2835 
+RUB 
+78.8640 
+73.8896 
+98.2557 
+92.3156

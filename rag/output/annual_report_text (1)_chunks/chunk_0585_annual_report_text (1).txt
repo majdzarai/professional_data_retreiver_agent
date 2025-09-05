@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 585 of 1106
+SIZE: 208 characters
+PREVIOUS: chunk_0584_annual_report_text (1).txt
+NEXT: chunk_0586_annual_report_text (1).txt
+------------------------------
+The notes on pages 114 to 174 are an integral part of these consolidated financial statements. === Page 113 ===
+IBA Annual Report 2023 
+110. Consolidated income statement for the year 
+ended December 31, 2023

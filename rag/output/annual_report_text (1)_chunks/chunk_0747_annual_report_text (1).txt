@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 747 of 1106
+SIZE: 632 characters
+PREVIOUS: chunk_0746_annual_report_text (1).txt
+NEXT: chunk_0748_annual_report_text (1).txt
+------------------------------
+Last year, the heading Other mainly included 
+the recognition of a settlement gain for EUR 0.9 
+million for acquiring the future cash flows of a 
+customer refinancing agreement from a former 
+business partner in Italy as well as a one-off 
+gain of EUR 0.6 million from the amortised cost 
+revision of the borrowings following a change in 
+the interest rates as described in note 5.10. Accounting policy for transactions in foreign currencies 
+Foreign currency transactions are converted into the functional currency of the Group entity party to the transaction, using 
+the exchange rates prevailing at the dates of the transactions.

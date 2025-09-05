@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1025 of 1106
+SIZE: 293 characters
+PREVIOUS: chunk_1024_annual_report_text (1).txt
+NEXT: chunk_1026_annual_report_text (1).txt
+------------------------------
+ve that the format of and marking of information in the 
+digital consolidated financial statements included in the annual financial report of Ion Beam Application 
+per 31 December 2023 comply in all material respects with the ESEF requirements under the 
+Delegated Regulation. Other statements

@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 728 of 1106
+SIZE: 688 characters
+PREVIOUS: chunk_0727_annual_report_text (1).txt
+NEXT: chunk_0729_annual_report_text (1).txt
+------------------------------
+o considered to be non-significant as milestones payments are spread 
+over the project and reflect the progress of IBA in fulfilling its obligations. Contract assets and liabilities 
+A contract asset is the right to consideration in exchange for goods or services transferred to the customer and is recognised 
+when the group has transferred goods or services to a customer before being contractually entitled to payment. A contract liability is the obligation to transfer goods or services to a customer for which the Group has received 
+consideration (or an amount of consideration is due) from the customer and will be recognized as revenue when the Group 
+performs under the contract.

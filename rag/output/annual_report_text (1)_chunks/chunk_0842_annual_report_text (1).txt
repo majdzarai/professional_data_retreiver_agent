@@ -1,0 +1,44 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 842 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0841_annual_report_text (1).txt
+NEXT: chunk_0843_annual_report_text (1).txt
+------------------------------
+ted bond to proton therapy customers 
+4 688 
+4 525 
+Financial notes granted to proton therapy 
+4 748 
+4 250 
+Loan to shareholders 
+5 769 
+5 711 
+Customers with payment terms more than one 
+1 988 
+850 
+Customers retainers 
+970 
+77 
+Long-term financing for a building to a proton 
+2 583 
+2 040 
+Long term deposits 
+321 
+364 
+Other assets 
+423 
+247 
+Other long-term receivables 
+23 446 
+20 939 
+Research tax credit 
+11 932 
+12 804 
+Other long-term assets 
+11 932 
+12 804 
+TOTAL Non-current receivable and assets 
+35 378 
+33 743 
+5.7.1 
+Trade receivable: The increase in trade receivables amounts to 4.1

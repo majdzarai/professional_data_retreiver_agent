@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 826 of 1106
+SIZE: 616 characters
+PREVIOUS: chunk_0825_annual_report_text (1).txt
+NEXT: chunk_0827_annual_report_text (1).txt
+------------------------------
+Investment at fair value level 1: Scandidos A.B. for -0.2 million (2022: EUR 
+-0.3 million); 2022 also included the fair 
+value adjustment on Rutherford for EUR -
+11.1 million; Investment at fair value level 3: HIL for 
+EUR -3.0 million (2022: EUR 1.0 million). HIL Applied Medical Ltd 
+In 2016, the Group invested USD 2.0 million 
+(EUR 1.8 million) in HIL Applied Medical Ltd, a 
+private Israeli developer of laser-based proton 
+therapy systems which is developing a novel, patented approach to particle acceleration and 
+delivery, combining nano-technology with ultra-
+high-intensity lasers and ultra-fast magnets.

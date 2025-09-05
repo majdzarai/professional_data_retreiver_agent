@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1021 of 1106
+SIZE: 300 characters
+PREVIOUS: chunk_1020_annual_report_text (1).txt
+NEXT: chunk_1022_annual_report_text (1).txt
+------------------------------
+n 
+accordance with article 3:80, 1, 5 of the Companies' and Associations' Code, we do not express an 
+opinion as to whether the non-financial information has been prepared in accordance with the GRI as 
+disclosed in the directors report on the consolidated accounts. Statement related to independence

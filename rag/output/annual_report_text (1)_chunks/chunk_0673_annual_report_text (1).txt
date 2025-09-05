@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 673 of 1106
+SIZE: 564 characters
+PREVIOUS: chunk_0672_annual_report_text (1).txt
+NEXT: chunk_0674_annual_report_text (1).txt
+------------------------------
+he capital of PanTera 
+SA/NV. IBA contributed EUR 16.0 million in 
+cash which has been used immediately by 
+Pantera to purchase a Rhodotron from IBA. The transaction is considered as a quasi 
+apport by Belgian Company Law, hence 
+assimilated as a contribution in kind. IBA will 
+recognise the sale of the equipment in 
+accordance with the revenue recognition 
+accounting 
+policy, over 
+time 
+using 
+the 
+percentage of completion method. The 
+equipment remains unbuilt at the closing date 
+and the payment received in full is accounted 
+for as a contract liability.

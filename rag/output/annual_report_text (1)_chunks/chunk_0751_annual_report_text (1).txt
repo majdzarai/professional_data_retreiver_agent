@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 751 of 1106
+SIZE: 565 characters
+PREVIOUS: chunk_0750_annual_report_text (1).txt
+NEXT: chunk_0752_annual_report_text (1).txt
+------------------------------
+te of IBA group 
+and therefore is strongly impacted by the 
+disparity of profit and losses made in different 
+jurisdictions with different tax rates. In addition, it is calculated using the contribution of each 
+entity, which can difer significantly from the profit 
+and loss included in tax returns due to GAAP 
+differences and local adjustments. Hyperinflation: IBA as operations in Argentina, which qualifies for hyperinflation accounting since 2018. The Argentina government 
+published the monthly indices as officially defined by local resolutions RT Indice 6.

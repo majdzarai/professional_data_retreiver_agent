@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 750 of 1106
+SIZE: 543 characters
+PREVIOUS: chunk_0749_annual_report_text (1).txt
+NEXT: chunk_0751_annual_report_text (1).txt
+------------------------------
+x expense 
+The tax profit/(charge) for the year can be broken down as follows: The tax profit on IBAs result before taxes differs 
+from the theoretical amount that would have 
+resulted from application of the average 
+applicable tax rates to the profits of the 
+consolidated companies. The analysis is as 
+follows: The theoritical tax rate presented here above is 
+a weighted average nominal rate of IBA group 
+and therefore is strongly impacted by the 
+disparity of profit and losses made in different 
+jurisdictions with different tax rates.

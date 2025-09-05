@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 733 of 1106
+SIZE: 683 characters
+PREVIOUS: chunk_0732_annual_report_text (1).txt
+NEXT: chunk_0734_annual_report_text (1).txt
+------------------------------
+h an alternative use to the Group and it has concluded that, at all 
+times, it has an enforceable right to payment for performance completed to date. Therefore, control transfers over time and 
+the Group recognizes revenue by measuring the progress using the input method on the basis of the costs incurred which 
+are compared to the total expected cost of the project (formerly referred to as percentage of completion). Measurement of the costs to fulfill an obligation: The Group recognises revenue over time under contracts for the sales of equipments and the progress is measured by 
+reference to the costs incurred when comparing it to the total estimated costs of the contract.

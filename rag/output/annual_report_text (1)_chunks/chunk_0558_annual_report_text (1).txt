@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 558 of 1106
+SIZE: 425 characters
+PREVIOUS: chunk_0557_annual_report_text (1).txt
+NEXT: chunk_0559_annual_report_text (1).txt
+------------------------------
+EUR 199.0 million in 
+2023 compared to EUR 179.2 million in 
+2022. Other debts amount to EUR 2.0 million and 
+generally relate to repayable advances. Short-term debts 
+Debts within one year represent EUR 197.3 
+million in 2023 compared to EUR 225.0 million in 
+2022: Long-term debts maturing in the year amount 
+to EUR 9.3 million in 2023 (this is among 
+others the current portion of the long-term 
+loans with SRIW and SFPI)

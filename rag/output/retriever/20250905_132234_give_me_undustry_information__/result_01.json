@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "text": "ired resulting from the audit, whether the directors report on \nthe consolidated accounts and the other information included in the annual report on the consolidated \naccounts, containing IBA world leader, Our values, IBA in 2023 at a glance, Message from Olivier \nLegrain, Patient care what makes our heart beat and A committed company is materially misstated or \ncontains information which is inadequately disclosed or otherwise misleading. In light of the \nprocedures we have performed, there are no material misstatements we have to report to you.",
+  "similarity_score": 0.21253307163715363,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 1018,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

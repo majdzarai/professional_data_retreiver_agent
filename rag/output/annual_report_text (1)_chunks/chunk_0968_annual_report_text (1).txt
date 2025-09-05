@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 968 of 1106
+SIZE: 601 characters
+PREVIOUS: chunk_0967_annual_report_text (1).txt
+NEXT: chunk_0969_annual_report_text (1).txt
+------------------------------
+December 31, 2023, IBA did not identify any contingent liabilities. 10.3. CONTINGENT ASSETS 
+The Group has filed an insurance claim on faulty 
+parts. As the claim does not meet all the criteria 
+to be recognised as an asset on the balance 
+sheet, the group presents this as a contingent 
+asset. The best estimate of Management for the 
+insurance indemnity to be received is EUR 0.5 
+million (unchanged from 2022). 11. Related party transactions 
+Identification of related parties 
+The following parties are considered to be related to IBA: Key management personnel: the members of the management team.

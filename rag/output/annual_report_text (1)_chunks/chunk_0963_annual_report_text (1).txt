@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 963 of 1106
+SIZE: 204 characters
+PREVIOUS: chunk_0962_annual_report_text (1).txt
+NEXT: chunk_0964_annual_report_text (1).txt
+------------------------------
+The main investing cash flows of 2023 
+represents the acquisitions of a business 
+(Fluidomica) and the convertible loand granted 
+to the Joint Venture (Pantera, EUR 1.0 million). 8.3. FINANCING CASH FLOWS

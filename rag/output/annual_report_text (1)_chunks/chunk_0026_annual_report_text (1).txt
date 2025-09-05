@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 26 of 1106
+SIZE: 606 characters
+PREVIOUS: chunk_0025_annual_report_text (1).txt
+NEXT: chunk_0027_annual_report_text (1).txt
+------------------------------
+applications, such as food ionization or polymer 
+cross-linking. However, IBA is more than ever 
+focused on the medical device sterilization market. Since almost a decade, this market is in a very 
+favorable trend, mainly due to organically increasing 
+volumes and increasing scrutiny and scarcity of the 
+two dominant established technologies: Gamma and 
+ethylene oxide. After an exceptional year in 2022, driven by COVID 
+impacts and marked by an increased demand 
+for integrated E-beam and X-ray solutions, the market experienced a soft landing in 2023, requiring IBA to adapt to the evolving landscape.

@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 734 of 1106
+SIZE: 627 characters
+PREVIOUS: chunk_0733_annual_report_text (1).txt
+NEXT: chunk_0735_annual_report_text (1).txt
+------------------------------
+sales of equipments and the progress is measured by 
+reference to the costs incurred when comparing it to the total estimated costs of the contract. The total estimated costs of 
+the contract is a significant estimate because it determines the progress made since the inception of the contract and IBA 
+recognises the revenue of the contract based on the progress estimated in percentage. Licensing contract with CGN: In August 2020, the group signed a technology license agreement with CGN Dasheng Electron Accelerator Technology Co. Ltd for the provision of goods and services related to its Multi-Room Proton Therapy System.

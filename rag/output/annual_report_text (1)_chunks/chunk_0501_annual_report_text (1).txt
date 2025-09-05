@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 501 of 1106
+SIZE: 526 characters
+PREVIOUS: chunk_0500_annual_report_text (1).txt
+NEXT: chunk_0502_annual_report_text (1).txt
+------------------------------
+s out, funds or has exposures to construction or operation of electricity 
+generation facilities that produce electricity using fossil gaseous fuels. No 
+5 
+The undertaking carries out, funds or has exposures to construction, refurbishment, and 
+operation of combined heat/cool and power generation facilities using fossil gaseous fuels. No 
+6 
+The undertaking carries out, funds or has exposures to construction, refurbishment and 
+operation of heat generation facilities that produce heat/cool using fossil gaseous fuels. No

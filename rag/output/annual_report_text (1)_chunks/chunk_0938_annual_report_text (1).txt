@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 938 of 1106
+SIZE: 555 characters
+PREVIOUS: chunk_0937_annual_report_text (1).txt
+NEXT: chunk_0939_annual_report_text (1).txt
+------------------------------
+edged is recognised). When a hedging instrument expires or is sold, any cumulative gain or loss existing in equity at that time remains in equity 
+and is reclassified to the income statement when the forecast transaction is ultimately recognized in the income statement. When a forecast transaction is no longer expected to occur, the cumulative gain or loss that was reported in equity is 
+immediately moved to the income statement. Derivatives that do not qualify for hedge accounting 
+Certain derivative instruments do not qualify for hedge accounting.

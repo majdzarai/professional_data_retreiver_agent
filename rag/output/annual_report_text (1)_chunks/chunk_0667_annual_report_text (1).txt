@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 667 of 1106
+SIZE: 205 characters
+PREVIOUS: chunk_0666_annual_report_text (1).txt
+NEXT: chunk_0668_annual_report_text (1).txt
+------------------------------
+=== Page 126 ===
+IBA Annual Report 2023 
+123. entities and that the deferred tax assets are 
+recoverable. We explain how several macro-economic 
+factors where taken into account below: 2.3.1 High inflation

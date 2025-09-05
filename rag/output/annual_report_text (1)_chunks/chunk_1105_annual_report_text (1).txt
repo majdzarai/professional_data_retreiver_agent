@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1105 of 1106
+SIZE: 470 characters
+PREVIOUS: chunk_1104_annual_report_text (1).txt
+NEXT: chunk_1106_annual_report_text (1).txt
+------------------------------
+le and safe treatments. In order to raise the 
+quality of the product IBA delivers on the market we are ISO13485:2016, ISO9001:2015, MDSAP certified. There have been no material incidents of 
+non-compliance with regulations and voluntary codes concerning health and safety impacts of IBAs products and services 
+Unit 
+2021 
+2022 
+2023 
+418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data 
+Breach of data privacy 
+# 
+0 
+0 
+0

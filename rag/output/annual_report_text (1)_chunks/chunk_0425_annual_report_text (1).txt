@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 425 of 1106
+SIZE: 698 characters
+PREVIOUS: chunk_0424_annual_report_text (1).txt
+NEXT: chunk_0426_annual_report_text (1).txt
+------------------------------
+IBA 
+is doing business with. IBA supports local businesses, strengthening 
+communities, and 
+reducing 
+emissions 
+associated with transporting goods. IBA also 
+recognizes 
+that 
+establishing 
+long-term 
+relationships with significant suppliers is an 
+indicator of steadiness and provides revenue 
+and job stability for the supplier and their 
+employees. IBA hires employees in majority in-
+country, creating jobs and providing wages to 
+residents in the local area, boosting the local 
+economy. IBA facilities themselves are built, maintained, and controlled in respect of local 
+regulations, have waste recycling in place, and 
+no toxic air or water emissions that could affect 
+local communities.

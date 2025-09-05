@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 577 of 1106
+SIZE: 293 characters
+PREVIOUS: chunk_0576_annual_report_text (1).txt
+NEXT: chunk_0578_annual_report_text (1).txt
+------------------------------
+cial expenses (-) 
+-7 101 
+-9 467 
+Profit/(loss) for the period before taxes 
+-13 748 
+15 716 
+Income taxes (-) (+) 
+-773 
+-1 871 
+Profit/(loss) for the period 
+-14 521 
+13 845 
+Transfers to tax free reserves (-) 
+0 
+0 
+Profit/(loss) for the period available for appropriation 
+-14 521 
+13 845

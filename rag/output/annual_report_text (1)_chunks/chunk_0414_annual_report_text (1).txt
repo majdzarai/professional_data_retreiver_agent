@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 414 of 1106
+SIZE: 576 characters
+PREVIOUS: chunk_0413_annual_report_text (1).txt
+NEXT: chunk_0415_annual_report_text (1).txt
+------------------------------
+h 
+a quiz with a required 80% succes rate for 
+passing, mandatory for all IBA employees, trainees, interim personnel and a selection of 
+consultants. The purpose of this training is to 
+remind employees of the fundamental principles 
+contained in the Code, which we apply every day 
+at IBA throughout all businesses and across the 
+globe. It also aims at informing employees of the 
+different options to report non-compliance with 
+the Code. In December 2021, a whistleblower 
+platform in line with European and international 
+standards was activated on the Companys 
+website.

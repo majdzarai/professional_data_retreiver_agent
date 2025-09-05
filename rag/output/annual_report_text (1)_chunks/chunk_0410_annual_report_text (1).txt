@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 410 of 1106
+SIZE: 647 characters
+PREVIOUS: chunk_0409_annual_report_text (1).txt
+NEXT: chunk_0411_annual_report_text (1).txt
+------------------------------
+=== Page 83 ===
+IBA Annual Report 2023 
+80. IBA 
+In 2023, the Group has also employed the 
+services of Saint-Denis SA for specific activities 
+not related to its directorship. The fees 
+corresponding to these services amounted to 
+EUR 465 182. Codes of conduct (sections 3:6, 4 and 3:32, 2, of the BCAC) 
+CODE OF BUSINESS CONDUCT 
+The Company is committed to the honest, ethical, and honorable conduct of its business. It 
+believes that ethical management is the lynchpin 
+of its continued growth and success and that it 
+will enable it to maintain its good reputation and 
+achieve its strategic mission of protecting, enhancing, and saving lives.

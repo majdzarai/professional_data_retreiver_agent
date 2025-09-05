@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 39 of 1106
+SIZE: 671 characters
+PREVIOUS: chunk_0038_annual_report_text (1).txt
+NEXT: chunk_0040_annual_report_text (1).txt
+------------------------------
+provides 
+the advantage of having a unique Rhodotron to produce 
+either E-beam or X-rays, with different energies in one or several 
+treatment rooms. Customers can also test their products while being trained 
+at its partner site Aerial in Strasbourg, France, which is 
+equipped with a Rhodotron and all ionization modalities. In addition, all prospects and customers are welcome 
+to experience and be trained on irradiation in its new academy 
+and user experience center, the INDUX, based in Louvain-
+la-Neuve, Belgium. To continue raising the bar and augment its offering, IBA 
+increased the span of services it offers for an even more 
+integrated irradiation facility.

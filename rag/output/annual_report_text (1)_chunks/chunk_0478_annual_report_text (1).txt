@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 478 of 1106
+SIZE: 495 characters
+PREVIOUS: chunk_0477_annual_report_text (1).txt
+NEXT: chunk_0479_annual_report_text (1).txt
+------------------------------
+ties are still in draft form but may 
+come into effect as of 2025. IBA is well prepared 
+for 
+this 
+evolution 
+in 
+sustainability/finance 
+reporting. Taxonomy 
+In order to achieve the EU's climate and energy 
+objectives for 2030 and to meet the objectives of 
+the European Green Deal, the EU Taxonomy 
+Regulation (EU) 2020/852 was established to 
+assess the sustainability of economic activities 
+taking into account the different circumstances 
+and obligations of the different economic actors.

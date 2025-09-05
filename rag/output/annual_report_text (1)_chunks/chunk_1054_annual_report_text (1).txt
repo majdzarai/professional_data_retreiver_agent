@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1054 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1053_annual_report_text (1).txt
+NEXT: chunk_1055_annual_report_text (1).txt
+------------------------------
+2-22 
+Statement on sustainable development 
+strategy 
+p1 AR2023 IBA World leader 
+p5 AR2023 Message from Olivier Legrain 
+p87 AR2023 Management report / corporate governance statement / codes of 
+conduct / B Corp 
+p87 AR2023 Management report / corporate governance statement / codes of 
+conduct / sustainability progress 
+p94 AR2023 Management report / non-financial activities report 
+2-23 
+Policy commitments 
+p80 AR2023 Management report / corporate governance statement / codes of 
+conduct 
+2-24 
+Embedding policy commitments 
+p51 AR2023 Management report / principal risks and uncertainties fac

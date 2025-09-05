@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 659 of 1106
+SIZE: 330 characters
+PREVIOUS: chunk_0658_annual_report_text (1).txt
+NEXT: chunk_0660_annual_report_text (1).txt
+------------------------------
+l 
+solar panels and other smaller scale 
+projects such as the installation of more 
+energy efficient lights and the renewal 
+of and the decarbonization of our 
+electricity (scopes 1 and 2), total 
+spending of EUR 0.9 million; The change of our mobility policy to 
+transform the current company car fleet 
+to 100% electric vehicles

@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 853 of 1106
+SIZE: 685 characters
+PREVIOUS: chunk_0852_annual_report_text (1).txt
+NEXT: chunk_0854_annual_report_text (1).txt
+------------------------------
+idend of EUR 0.21 per share 
+as recommended by IBAs Board of Directors, for 
+a total amount of EUR 6.1 million, which has 
+been paid during the year. IBAs Board of Directors intends to recommend 
+to the General Assembly to pay a dividend of 
+EUR 0.17 per share in 2024 in order to retain an 
+engaged long-term shareholding. Based on the number of shares eligible to a 
+dividend as at December 3, 2023, this 
+represents a total amount of EUR 5.0 millions. The following table shows the movements in the outstanding number of shares over the last two years: Accounting policy for trade and other receivables 
+Trade and other receivables are held by IBA to collect the related cash flows.

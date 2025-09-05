@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 767 of 1106
+SIZE: 628 characters
+PREVIOUS: chunk_0766_annual_report_text (1).txt
+NEXT: chunk_0768_annual_report_text (1).txt
+------------------------------
+Local taxation exposure 
+Since 2015, the Company initiated an analysis on the Groups exposure in countries other than Belgium to be potentially 
+obliged to pay certain local taxes whereas the payment of those taxes has been transferred to the Groups customers. The 
+exposure identified as of December 31, 2015, was reduced as a result of further investigations. Management is monitoring 
+this risk closely and regularly, however, based on the data available today, it is still not possible to make a reliable estimate 
+of the remaining exposure and therefore no provision has been accrued for in the Groups financial statements.

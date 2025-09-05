@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 797 of 1106
+SIZE: 358 characters
+PREVIOUS: chunk_0796_annual_report_text (1).txt
+NEXT: chunk_0798_annual_report_text (1).txt
+------------------------------
+d vaults 
+15 years, except in specific rare circumstances where a different 
+useful life is justified 
+Laboratory equipment 
+5 years 
+Other technical equipment 
+5 to 10 years 
+Computer hardware 
+3 to 5 years (5 years for mainframes) 
+Furniture and fittings 
+5 to 10 years 
+Vehicles 
+2 to 5 years 
+Leased assets 
+Shorter of assets useful life and leasing term

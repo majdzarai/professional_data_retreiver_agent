@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 22 of 1106
+SIZE: 654 characters
+PREVIOUS: chunk_0021_annual_report_text (1).txt
+NEXT: chunk_0023_annual_report_text (1).txt
+------------------------------
+orms of radiotherapy in cancer treatments using 
+ionizing rays. Thanks to the unique properties 
+of protons, tumors can be targeted more 
+accurately. In effect, protons deposit the majority 
+of their energy in a controlled zone, limiting 
+exposure of the surrounding healthy tissues 
+to potentially harmful radiation. RadioPharma Solutions develops products that 
+are used for producing isotopes and radio-
+pharmaceuticals, vital for use in cancer diagnosis, as well as in the cardiology and neurology fields. We assist hospitals and radiopharmaceutical 
+product distribution centers by helping them 
+design, build and operate their radiopharmacy 
+units.

@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 218 of 1106
+SIZE: 621 characters
+PREVIOUS: chunk_0217_annual_report_text (1).txt
+NEXT: chunk_0219_annual_report_text (1).txt
+------------------------------
+thority of 
+the Internal Audit function are documented in an 
+Audit Charter and the Head of Internal Audit 
+reports regularly to the Audit Committee. In addition to the Risk Management Committee, the Quality Management Review (QMR) assists 
+the 
+Management 
+Team 
+in 
+fulfilling 
+its 
+management 
+responsibilities 
+particularly 
+in 
+respect of the quality of the Companys products, systems, services and software and the 
+development, testing, manufacturing, marketing 
+and service thereof, and regulatory requirements 
+related thereto. As such, the QMR supports the 
+Companys risk management in the relevant risk 
+areas.

@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 540 of 1106
+SIZE: 570 characters
+PREVIOUS: chunk_0539_annual_report_text (1).txt
+NEXT: chunk_0541_annual_report_text (1).txt
+------------------------------
+fixed assets 
+Financial fixed assets amount to EUR 160.4 
+million in 2023 compared to EUR 139.0 million in 
+2022, a net increase of EUR 21.4 million. This 
+increase is mainly the result of the following 
+events: a subsequent capital increase in the 
+Joint Venture with SCK-CEN, PanTera NV, for 
+an amount of EUR 20.4 million and a convertible 
+loan with the same JV for EUR 1.0 million. Besides these transactions, IBA wrote off the 
+11.4% (USD 2 million, EUR 1.8 million) stake in 
+HIL Applied Medical Ltd, an Israelian developer 
+of laser-based proton therapy systems.

@@ -1,0 +1,33 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 494 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_0493_annual_report_text (1).txt
+NEXT: chunk_0495_annual_report_text (1).txt
+------------------------------
+Proportion of OpEx from products or services associated with Taxonomy-aligned economic activities disclosure covering 
+year 2022/2023 
+Economic activities (1) 
+Code(s) (2) 
+Absolute of OpEx (3) 
+Proportion of OpEx (4) 
+Substantial contribution criteria 
+Criteria regarding DNSH 
+Minimum safeguards 
+(17) 
+Taxonomy aligned 
+proportion of OpEx, year 2023 (18) 
+Taxonomy aligned 
+proportion of OpEx, year 2022 (19) 
+Category enabling 
+activity 
+(20) 
+Category transitional 
+activity 
+(21) 
+Climate change 
+mitigation (5) 
+Climate change 
+adaption (6) 
+Water and marine 
+resources (7) 
+Circular economy

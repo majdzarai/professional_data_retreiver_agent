@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 607 of 1106
+SIZE: 632 characters
+PREVIOUS: chunk_0606_annual_report_text (1).txt
+NEXT: chunk_0608_annual_report_text (1).txt
+------------------------------
+company 
+incorporated and domiciled in Belgium. The 
+address of its registered office is Chemin du 
+Cyclotron, 3; B-1348 
+Louvain-la-Neuve, Belgium. Ion Beam Applications SA is the 
+mother Company of the Group and the Ultimate 
+Parent. The Company is listed on the pan-European 
+Euronext stock exchange (B-compartment) and 
+is included in the BEL Mid Index. IBA publishes condensed half-yearly and 
+annual consolidated financial statements which 
+have been prepared in accordance with IFRS 
+as endorsed by EU. These consolidated financial statements have 
+been approved for release by the Board of 
+Directors on March 19, 2024. 1.2.

@@ -1,0 +1,42 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 912 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0911_annual_report_text (1).txt
+NEXT: chunk_0913_annual_report_text (1).txt
+------------------------------
+As at December 31, 2023, the Group recognised 
+EUR 1.0 million as other operating expenses for 
+employee stock options (EUR 0.9 million in 
+2022). The stock options outstanding as at December 
+31 have the following expiration dates and 
+exercise prices: December 31, 2022 
+December 31, 2023 
+Expiration date 
+Exercise price 
+(EUR) 
+Number of stock options 
+Exercise price 
+(EUR) 
+Number of stock 
+options 
+June 30, 2024 
+11.52 
+63 500 
+11.52 
+53 500 
+June 30, 2024 
+31.84 
+20 000 
+31.84 
+20 000 
+May 31, 2026 
+7.54 
+172 500 
+7.54 
+166 250 
+May 31, 2030 
+7.54 
+172 500 
+7.54 
+166 250 
+December 31, 202

@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 117 of 1106
+SIZE: 491 characters
+PREVIOUS: chunk_0116_annual_report_text (1).txt
+NEXT: chunk_0118_annual_report_text (1).txt
+------------------------------
+rapy. The qualified dosimetry 
+service teams - uniquely distributed over 3 continents - ensure 
+24/7 instant access and quality support to customers. LEADING INNOVATIONS IN 
+QUALITY ASSURANCE
+Through cutting-edge innovations, IBA has a long history 
+of advancing Quality Assurance in radiation therapy, proton 
+therapy and medical imaging. The company continues 
+on this path, and believes that three drivers are essential 
+to further innovate QA:. Meaningful Innovation. Flexible Solutions.

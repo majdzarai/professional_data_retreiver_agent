@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 674 of 1106
+SIZE: 671 characters
+PREVIOUS: chunk_0673_annual_report_text (1).txt
+NEXT: chunk_0675_annual_report_text (1).txt
+------------------------------
+of completion method. The 
+equipment remains unbuilt at the closing date 
+and the payment received in full is accounted 
+for as a contract liability. The margin on the 
+revenue from the sale of the equipment will be 
+recognised only to the extent of unrelated 
+investors interest in the J.V. IBA also contributed IP in kind to Pantera for a 
+value of EUR 4.4 million. The gain on this 
+transaction has been recognised only to the 
+extent of unrelated investors interests, being 
+50%, against Other operating income. Both venturers have also granted a convertible 
+loan to Pantera for an amount up to EUR 1.0 
+million which was fully drawn upon during the 
+financial year.

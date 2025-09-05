@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 804 of 1106
+SIZE: 566 characters
+PREVIOUS: chunk_0803_annual_report_text (1).txt
+NEXT: chunk_0805_annual_report_text (1).txt
+------------------------------
+nt or change in circumstances that 
+is within its control and affects its ability to exercise or not to exercise the option to renew or to terminate. Discount rate: The Group cannot readily determine the interest rate implicit in the lease, therefore, it uses its incremental borrowing rate 
+(IBR) to measure lease liabilities. The IBR is the rate of interest that IBA would have to pay to borrow over a similar term, and with a similar security, the funds necessary to obtain an asset of a similar value to the right-of-use asset in a similar 
+economic environment.

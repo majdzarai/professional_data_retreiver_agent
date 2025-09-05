@@ -1,0 +1,32 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 988 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0987_annual_report_text (1).txt
+NEXT: chunk_0989_annual_report_text (1).txt
+------------------------------
+t 
+considered part of the underlying performance. Net financial debt 
+Definition: The net financial debt measures the 
+overall debt situation of IBA. Reason: Net financial debt provides an 
+indication of the overall financial position 
+strength of the Group and measures IBAs cash 
+position. (EUR 000) 
+2022 
+2023 
+EBIT = Segment result (Note 4) 
+4 962 
+5 092 
+Other operating expenses (+) 
+6 088 
+3 525 
+Other operating income (-) 
+0 
+-2 200 
+REBIT 
+11 050 
+6 417 
+Depreciation and impairment of intangible and tangible assets (+) 
+10 711 
+11 166 
+Write-offs on receivables and inventory (+/-) 
+-190

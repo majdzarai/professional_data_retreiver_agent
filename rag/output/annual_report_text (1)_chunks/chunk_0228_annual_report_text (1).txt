@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 228 of 1106
+SIZE: 605 characters
+PREVIOUS: chunk_0227_annual_report_text (1).txt
+NEXT: chunk_0229_annual_report_text (1).txt
+------------------------------
+d be 
+developed. The development and marketing of technology 
+resulting in novel therapies do nevertheless 
+require a relatively long period of time. Reimbursement of healthcare 
+The subsidization by healthcare reimbursement 
+institutions of costs for the treatment of certain 
+diseases for which equipment made by IBA is 
+directly or indirectly involved is continuously 
+under scrutiny. The healthcare reimbursement 
+policies of these organizations will in turn 
+influence the volume of orders that IBA obtains. These subsidies from reimbursement institutions 
+differ greatly from one country to another.

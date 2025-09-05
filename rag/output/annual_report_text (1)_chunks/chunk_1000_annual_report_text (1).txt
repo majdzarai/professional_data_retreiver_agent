@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1000 of 1106
+SIZE: 590 characters
+PREVIOUS: chunk_0999_annual_report_text (1).txt
+NEXT: chunk_1001_annual_report_text (1).txt
+------------------------------
+or the same sample, we also validated the estimated total costs by reconciling them to the 
+tracking files and had discussions with project managers. We verified the proper allocation of costs incurred through a sample of approved invoices and 
+timesheets to ensure that these costs are properly attributable to the project. We checked the correct application and consistency of the percentage of completion method as 
+described in the evaluation rules. We evaluated the appropriateness and completeness of the information presented in Note 4.3 
+in accordance with IFRS 15. === Page 181 ===

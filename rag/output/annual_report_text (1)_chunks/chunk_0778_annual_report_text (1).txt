@@ -1,0 +1,66 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 778 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0777_annual_report_text (1).txt
+NEXT: chunk_0779_annual_report_text (1).txt
+------------------------------
+10 262 
+29 874 
+8 872 
+49 008 
+Additions 
+0 
+705 
+6 344 
+7 049 
+Disposals 
+0 
+0 
+0 
+0 
+Transfers 
+0 
+1 048 
+-711 
+337 
+Gross carrying amount of assets acquired in business combinations 
+21 
+0 
+0 
+21 
+Currency translation difference 
+-89 
+-65 
+-25 
+-179 
+Gross carrying amount as at December 31, 2023 
+10 194 
+31 562 
+14 480 
+56 236 
+Accumulated amortisation as at January 1, 2023 
+0 
+27 029 
+4 139 
+31 168 
+Additions 
+0 
+1 497 
+250 
+1 747 
+Disposals 
+0 
+0 
+0 
+0 
+Currency translation difference 
+0 
+-64 
+-11 
+-75 
+Accumulated amortisation as at December 31, 2023 
+0 
+28 462 
+4 378 
+32 840 
+Net carryi

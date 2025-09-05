@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1023 of 1106
+SIZE: 671 characters
+PREVIOUS: chunk_1022_annual_report_text (1).txt
+NEXT: chunk_1024_annual_report_text (1).txt
+------------------------------
+We have also verified, in accordance with the draft standard on the verification of the compliance of 
+the financial statements with the European Uniform Electronic Format (hereinafter ESEF), the 
+compliance of the ESEF format with the regulatory technical standards established by the European 
+Delegate Regulation No. 2019/815 of 17 December 2018 (hereinafter: Delegated Regulation). The board of directors is responsible for the preparation, in accordance with ESEF requirements, of 
+the consolidated financial statements in the form of an electronic file in ESEF format (hereinafter 
+digital consolidated financial statements) included in the annual financial report.

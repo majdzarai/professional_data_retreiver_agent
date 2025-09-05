@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 438 of 1106
+SIZE: 537 characters
+PREVIOUS: chunk_0437_annual_report_text (1).txt
+NEXT: chunk_0439_annual_report_text (1).txt
+------------------------------
+sses, waste, and 
+emissions. Upstream, the IBAs Articles of Associations now 
+specify in article 3 (.) The Company's 
+objectives include having, in the course of its 
+activities, a significant positive impact on all of its 
+stakeholders, notably patients, shareholders, employees, customers, society and the planet. The Company is managed taking into account 
+the interests of these stakeholders, respecting 
+living beings and present and future generations, and reducing as much as possible negative 
+environmental and societal impacts.

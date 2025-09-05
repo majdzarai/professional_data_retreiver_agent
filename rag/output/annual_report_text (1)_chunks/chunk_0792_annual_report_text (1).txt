@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 792 of 1106
+SIZE: 696 characters
+PREVIOUS: chunk_0791_annual_report_text (1).txt
+NEXT: chunk_0793_annual_report_text (1).txt
+------------------------------
+=== Page 145 ===
+IBA Annual Report 2023 
+142. Dynamitron 
+business, which 
+have 
+been 
+recorded in Other operating expenses for EUR 
+0.4 million. In 2023, we observe a significant incerase of 
+new leased cars which follows the increase in 
+headcount but also 2022 was impacted by 
+important delivery delays in the car industry. The other significant addition to fixed assets 
+relates to the installation of the new solar 
+carports on IBAs premises as well as some 
+major repairs on the older buildings. The additions to the leased buildings are mainly 
+due to contracts that were near the term which 
+have been prolonged. In 2023 and 2022, additional investments were 
+also made for IT equipment.

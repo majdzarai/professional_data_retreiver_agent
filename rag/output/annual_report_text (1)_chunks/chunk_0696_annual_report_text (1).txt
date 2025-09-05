@@ -1,0 +1,54 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 696 of 1106
+SIZE: 597 characters
+PREVIOUS: chunk_0695_annual_report_text (1).txt
+NEXT: chunk_0697_annual_report_text (1).txt
+------------------------------
+16 691 
+491 316 
+491 316 
+TOTAL LIABILITIES 
+474 625 
+16 691 
+491 316 
+491 316 
+Other segment information 
+Capital expenditure - Intangible assets and Property, Plant 
+and Equipment 
+11 522 
+752 
+12 274 
+0 
+12 274 
+Capital expenditure - Right-of-use assets 
+6 459 
+1 837 
+8 296 
+0 
+8 296 
+Depreciation of property, plant and equipment and Right-of-
+use assets 
+8 045 
+1 729 
+9 774 
+0 
+9 774 
+Amortisation and impairment of intangible assets 
+1 091 
+656 
+1 747 
+0 
+1 747 
+Personnel expenses 
+176 247 
+20 318 
+196 565 
+0 
+196 565 
+Non-cash expenses/(income) 
+-1 680 
+810 
+-870 
+0 
+-870 
+Headcount at

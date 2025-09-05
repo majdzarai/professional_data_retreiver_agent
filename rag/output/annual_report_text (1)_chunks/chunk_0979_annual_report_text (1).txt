@@ -1,0 +1,47 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 979 of 1106
+SIZE: 585 characters
+PREVIOUS: chunk_0978_annual_report_text (1).txt
+NEXT: chunk_0980_annual_report_text (1).txt
+------------------------------
+100% 
+0% 
+Ion Beam Application SRL 
+Buenos Aires, Argentina 
+100% 
+100% 
+IBA Japan KK 
+Tokyo, Japan 
+100% 
+100% 
+Ion Beam Applications Singapore PTE. Ltd 
+Singapore, Singapore 
+100% 
+100% 
+IBA Egypt LLC 
+Cairo, Egypt 
+100% 
+100% 
+Ion Beam Applications Limited 
+Taipei, China 
+100% 
+100% 
+IBA Proton Therapy Canada, Inc. Quebec, Canada 
+100% 
+100% 
+IBA Georgia LLC 
+Tbilisi, Georgia 
+100% 
+100% 
+Modus Medical Devices Inc 
+Ontario, Canada 
+100% 
+100% 
+IBA Dosimetry Co Ltd. Shanghai, China 
+100% 
+100% 
+Fluidomica Lda1 
+ Cantanhede, Portugal 
+100% 
+0% 
+Ion Beam Applications Korea, Ltd.

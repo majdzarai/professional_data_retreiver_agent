@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 677 of 1106
+SIZE: 530 characters
+PREVIOUS: chunk_0676_annual_report_text (1).txt
+NEXT: chunk_0678_annual_report_text (1).txt
+------------------------------
+stimates and judgements that affect the 
+application of accounting policies and the 
+reported amounts of assets and liabilities, income and expenses. The application of accounting policies requires 
+judgements 
+that 
+impact 
+the 
+amounts 
+recognised. Additionally, amounts recognised 
+are based on factors that are by default 
+associated with uncertainty. Actual results may 
+therefore 
+differ 
+from 
+estimates. Where 
+applicable, the estimates and judgements are 
+described per note within the consolidated 
+financial statements.

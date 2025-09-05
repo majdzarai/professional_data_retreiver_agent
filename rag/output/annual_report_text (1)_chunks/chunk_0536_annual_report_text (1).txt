@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 536 of 1106
+SIZE: 632 characters
+PREVIOUS: chunk_0535_annual_report_text (1).txt
+NEXT: chunk_0537_annual_report_text (1).txt
+------------------------------
+million 
+this increased the Retained Earnings to the 
+amount mentioned above with EUR 4.5 million 
+(share price decreased compared to end of 
+2022). IBAs Board of Directors proposes to the General 
+Assembly to distribute a dividend of EUR 5.0 
+million, and to carry forward the remaining 
+amount (EUR 132.6 million) to the next financial 
+year. BALANCE SHEET 
+Intangible Assets 
+Investments in intangible assets 
+Intangible assets amounted to EUR 69.0 million 
+per December 31, 2023 compared to EUR 46.4 
+million per December 31, 2022. These intangible 
+assets relate mainly to: Research and Development costs for EUR 
+57.7 million.

@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 622 of 1106
+SIZE: 493 characters
+PREVIOUS: chunk_0621_annual_report_text (1).txt
+NEXT: chunk_0623_annual_report_text (1).txt
+------------------------------
+re 
+useful by replacing the requirement for entities 
+to disclose their significant accounting policies 
+with a requirement to disclose their material 
+accounting policies and adding guidance on 
+how entities apply the concept of materiality in 
+making decisions about accounting policy 
+disclosures. The amendments have had an impact on the 
+Groups disclosures of accounting policies, but 
+not on the measurement, recognition or 
+presentation of any items in the Groups 
+financial statements.

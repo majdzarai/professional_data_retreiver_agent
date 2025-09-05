@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 643 of 1106
+SIZE: 649 characters
+PREVIOUS: chunk_0642_annual_report_text (1).txt
+NEXT: chunk_0644_annual_report_text (1).txt
+------------------------------
+ontrol 
+We have reviewed whether IBA Group still has 
+control over its Russian subsidiary (Ion Beam 
+Applications LLC, a 100% subsidiary of IBA 
+SA). We have concluded that IBA Group still 
+has control over its subsidiary based upon the 
+following three aspects: IBA SA as mother company and IBA 
+Groups 
+management 
+still 
+direct 
+the 
+activities of the entity; IBA Russia continues to generate returns 
+by continuing the maintenance activities 
+that are not subject to any EU sanction; IBA SA has the power to affect these 
+returns (i.e. to have a dividend paid): the 
+cash flow forecast indicates an excess cash 
+from 
+the 
+maintenance 
+contract.

@@ -1,0 +1,49 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 570 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0569_annual_report_text (1).txt
+NEXT: chunk_0571_annual_report_text (1).txt
+------------------------------
+similar rights 
+12 139 
+11 717 
+Assets under construction and advance payments 
+1 056 
+1 291 
+Financial assets 
+139 020 
+160 360 
+Affiliated companies 
+129 217 
+129 400 
+Other investments 
+7 885 
+29 285 
+Others financial assets 
+1 918 
+1 675 
+CURRENT ASSETS 
+472 649 
+414 130 
+Accounts receivable in more than one year 
+21 418 
+21 120 
+Inventories and contracts in progress 
+146 166 
+168 061 
+Inventories 
+79 474 
+109 560 
+Contracts in progress 
+66 692 
+58 501 
+Accounts receivable within one year 
+181 569 
+133 077 
+Trade receivables 
+151 536 
+119 536 
+Other receivables 
+30 033 
+13 541 
+Investments

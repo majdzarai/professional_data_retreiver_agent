@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 28 of 1106
+SIZE: 688 characters
+PREVIOUS: chunk_0027_annual_report_text (1).txt
+NEXT: chunk_0029_annual_report_text (1).txt
+------------------------------
+IBA has developed 
+a new portfolio of services and end-to-end 
+solutions powered by the iconic Rhodotron. 01
+Industrial 
+solutions
+These solutions allow in-house customers 
+or contract sterilizers to sterilize medical devices 
+either by E-beam in boxes or X-ray in pallets, or both. They also offer an environmentally-friendly 
+and readily available alternative to toxic chemicals 
+such as ethylene oxide and nuclear materials such 
+as cobalt 60. Because it is ingrained in its DNA and because medical 
+device sterilization is already well-established, IBA 
+leverages its technological expertise to disrupt 
+other key applications such as food irradiation 
+and environmental applications.

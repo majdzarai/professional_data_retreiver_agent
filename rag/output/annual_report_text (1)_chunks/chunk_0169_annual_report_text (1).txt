@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 169 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0168_annual_report_text (1).txt
+NEXT: chunk_0170_annual_report_text (1).txt
+------------------------------
+and servicing. A circular 
+process to return defective or surplus parts deployed to our 
+customers is now in place, for repair, resale or recycling. Additionally, IBA has demonstrated its focus on extending 
+the lifetime of its products, having entered a contract with 
+its first proton therapy system customer for a total system 
+restoration, bringing to a center installed 25 years ago the 
+latest proton therapy technologies. Similar refurbishment of 
+a Rhodotron installation, ensuring it meets the latest industry 
+standards and extending its operational lifetime, or relocation 
+and recommissi

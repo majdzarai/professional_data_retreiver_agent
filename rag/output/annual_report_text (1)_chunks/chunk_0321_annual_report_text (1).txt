@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 321 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0320_annual_report_text (1).txt
+NEXT: chunk_0322_annual_report_text (1).txt
+------------------------------
+ommittee / Member of the Product Committee (prior to its integration)/ 
+Member of the Sustainability Committee (prior to its integration) 
+Before the establishment of IBA in 1986, Director of the Cyclotron 
+Research Center of the Universite Catholique de Louvain (UCL) 
+Soumya Chandramouli 
+Chief Financial Officer 
+Chief Financial Officer since 2016/ Working at IBA since 2004, consecutively Group Consolidator, Group Financial Analyst, VP 
+Corporate Finance and VP Finance, Medical Accelerators Solutions/ 5 
+years as Senior Auditor at EY 
+Frederic Nolf 
+Chief Human Resources & 
+Sustainability Off

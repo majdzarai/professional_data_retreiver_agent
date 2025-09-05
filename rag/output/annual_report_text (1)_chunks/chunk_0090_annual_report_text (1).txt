@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 90 of 1106
+SIZE: 688 characters
+PREVIOUS: chunk_0089_annual_report_text (1).txt
+NEXT: chunk_0091_annual_report_text (1).txt
+------------------------------
+cancer-free requires a great 
+deal of collaboration, knowledge sharing and joint research. Campus aims to bring this collaboration to the next level. Its a place where experts, academia, researchers and 
+entrepreneurs from all over the world have the opportunity 
+to share knowledge with each other, and find the information 
+they need at every stage of their proton therapy journey. Campus is a tangible community, which meets and interacts 
+in real life. The Campus platform is also a single repository 
+centralizing a large amount of accumulated knowledge 
+and expertise. The campus community is built on 3 pillars:. Learn to expand your skills. Share by collaborating with your peers.

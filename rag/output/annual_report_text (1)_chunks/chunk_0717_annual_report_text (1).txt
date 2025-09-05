@@ -1,0 +1,29 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 717 of 1106
+SIZE: 582 characters
+PREVIOUS: chunk_0716_annual_report_text (1).txt
+NEXT: chunk_0718_annual_report_text (1).txt
+------------------------------
+time 
+64 839 
+97 683 
+Goods and services transferred over time 
+296 431 
+331 034 
+Total revenue from contracts with customers 
+361 270 
+428 717 
+The transaction price allocated to the remaining performance obligations (unsatisfied or partially 
+unsatisfied) is broken down as follows: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+To be satisfied within one year 
+453 580 
+378 666 
+To be satisfied in more than one year 
+1 073 387 
+1 016 997 
+Total transaction price allocated to the remaining performance 
+obligations (unsatisfied or partially unsatisfied) 
+1 526 967 
+1 395 663

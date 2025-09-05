@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 531 of 1106
+SIZE: 518 characters
+PREVIOUS: chunk_0530_annual_report_text (1).txt
+NEXT: chunk_0532_annual_report_text (1).txt
+------------------------------
+the future, which partially offsets the postive 
+trend in the margin. Operating expenses increased by EUR 81.6 
+million in 2023 to EUR 434.3 million. The 
+operating expenses among others include the 
+cost of goods and services sold, which increased 
+alongside the operating income. Other important 
+increases can be found in the salaries and 
+remuneration which is mainly driven by the index 
+adjustment beginning of the year. The R&D expenditure of EUR 55.7 million in 
+2023 (EUR 46.7 million in 2022) is capitalized.

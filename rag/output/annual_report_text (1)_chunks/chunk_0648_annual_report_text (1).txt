@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 648 of 1106
+SIZE: 277 characters
+PREVIOUS: chunk_0647_annual_report_text (1).txt
+NEXT: chunk_0649_annual_report_text (1).txt
+------------------------------
+=== Page 124 ===
+IBA Annual Report 2023 
+121. Contract asset: there are no unusual delays 
+to be observed on the installation contract 
+which indicate a risk of recoverability. Other assets mainly relate to various tax 
+receivables where we do not observe any 
+significant risk

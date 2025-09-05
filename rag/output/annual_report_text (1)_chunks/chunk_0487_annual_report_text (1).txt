@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 487 of 1106
+SIZE: 513 characters
+PREVIOUS: chunk_0486_annual_report_text (1).txt
+NEXT: chunk_0488_annual_report_text (1).txt
+------------------------------
+maintenance 
+of 
+photovoltaic 
+renewable 
+energy production means (taxonomy category 
+7.6) 
+When it comes to the electricity expenses related 
+to hybrid (PHEV) and electric vehicles (EV), per 
+the same rationale as for the capital expenditure, IBA 
+identically 
+acknowledges 
+that 
+more 
+information is needed about the full life cycle of 
+the said vehicles to ensure that the technical 
+screening criteria are met. IBA therefore deems 
+them to be not taxonomy-aligned. === Page 93 ===
+IBA Annual Report 2023 
+90.

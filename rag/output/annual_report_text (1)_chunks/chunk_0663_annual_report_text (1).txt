@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 663 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0662_annual_report_text (1).txt
+NEXT: chunk_0664_annual_report_text (1).txt
+------------------------------
+any operational onerous 
+contract provisions other than those already 
+presented in these consolidated financial 
+statements; Currently, IBA is not involved in emission 
+trading schemes (even though investments 
+are made in Carbon Farming, these are not 
+allowed for compensation activities as they 
+are outside IBAs value chain). In addition, IBA has not signed any Power Purchase 
+Agreement for the supply of green energy 
+as these are deemed too expensive for IBA 
+due to the energy price level at the time of 
+the investigation done by IBA; Our 
+forecast 
+transactions 
+remain 
+sufficiently cert

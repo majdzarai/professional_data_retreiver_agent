@@ -1,0 +1,25 @@
+Result #3 (Score: 0.4573)
+================================================================================
+ations. Our
+shareholders: we show that we are
+worthy of their trust by being 
+a sound financial investment 
+and acting in accordance
+with our values. How do we work? At IBA, we believe business has the mission to be a force 
+for good, through creating shared and long-term value 
+for all stakeholders. Our company is a Certified B Corporation (B Corp)TM. Why do we do it? TO PROTECT, ENHANCE 
+AND SAVE LIVES
+For over thirty years, we have placed the purpose 
+of the company and our project at the heart of 
+our activities, as expressed in our mission to 
+Protect, Enhance and Save Lives.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 4
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

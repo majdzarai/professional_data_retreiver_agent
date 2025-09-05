@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 342 of 1106
+SIZE: 620 characters
+PREVIOUS: chunk_0341_annual_report_text (1).txt
+NEXT: chunk_0343_annual_report_text (1).txt
+------------------------------
+indirectly related to a 
+shareholder" or group of shareholders (or to a 
+company or person related to it or them) within 
+the meaning of indent 2 of this Article 12, where 
+that shareholder (or group of shareholders): (i) 
+either directly or indirectly engages in 
+business activities in one or more sectors of 
+activity in which the Company or one of its 
+subsidiaries is also active. (ii) 
+or holds more than forty percent (40%) 
+of the voting securities issued by the Company. For the purposes of this Article 12, indent 1, (c), (d) and (e), shall be deemed to be "related, === Page 72 ===
+IBA Annual Report 2023 
+69.

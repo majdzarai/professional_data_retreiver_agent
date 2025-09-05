@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 395 of 1106
+SIZE: 660 characters
+PREVIOUS: chunk_0394_annual_report_text (1).txt
+NEXT: chunk_0396_annual_report_text (1).txt
+------------------------------
+Remuneration related to shares (section 3: 6, 3, 2, of the BCAC) 
+Remuneration in the form of shares 
+No remuneration in form of shares was offered 
+in 2023. Three stock options plans are active: SOP2014 was granted on July 1st, 2014. This plan fully vested on January 1st, 2019 and will expire on June 30th, 2024. The exercise price is equal to the fair market 
+value of the share at grant, i.e. EUR 11.52 
+SOP2020 was granted on June 1st, 2020. This 
+plan fully vested on January 1st, 2024. 50% of 
+the options will expire on May 31st 2026, the 
+other 50% on May 31st 2030. The exercise 
+price is 7,54 (being the average closing price of 
+the prior 30 days).

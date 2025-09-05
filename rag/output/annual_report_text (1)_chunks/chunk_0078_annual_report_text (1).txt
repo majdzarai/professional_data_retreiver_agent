@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 78 of 1106
+SIZE: 620 characters
+PREVIOUS: chunk_0077_annual_report_text (1).txt
+NEXT: chunk_0079_annual_report_text (1).txt
+------------------------------
+=== Page 23 ===
+PanTeras use of actinium-225 is part of its broader mission 
+to bring innovative and effective cancer treatments 
+to patients around the world. By leveraging the expertise 
+of IBA and SCK CEN in radiopharmaceutical development 
+and nuclear medicine, the joint-venture is well positioned 
+to develop innovative therapies that can enhance 
+cancer patients quality of life. PANTERA
+A BETTER FIGHT FOR LIFE
+PanTera is a joint-venture created by IBA and the Belgian 
+Nuclear Research Centre SCK CEN, focusing on the development 
+and commercialization of radiopharmaceuticals for cancer 
+diagnosis and therapy.

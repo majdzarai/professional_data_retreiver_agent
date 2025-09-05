@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 275 of 1106
+SIZE: 517 characters
+PREVIOUS: chunk_0274_annual_report_text (1).txt
+NEXT: chunk_0276_annual_report_text (1).txt
+------------------------------
+ions 
+In addition, the Chief Compliance Officer is 
+responsible for monitoring compliance with the 
+Code of Business Conduct and company 
+procedures. A reporting procedure is established 
+allowing all employees to report any incidents or 
+events representing a risk for the company. In 
+addition, since December 2021, IBA has taken 
+the initiative to establish a whistleblower platform 
+in line with Belgian, European and international 
+standards. The platform is accessible to 
+everyone through the Companys website.

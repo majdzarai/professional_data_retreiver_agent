@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 890 of 1106
+SIZE: 660 characters
+PREVIOUS: chunk_0889_annual_report_text (1).txt
+NEXT: chunk_0891_annual_report_text (1).txt
+------------------------------
+thod. In India, the Group also operates a defined 
+benefit pension plan, for which the benefit liability 
+is EUR 0.1 million as at December 31, 2023. Given the immateriality of that plan, only the plan 
+in Belgium is presented below. Changes in the 
+present value of defined benefit obligations are 
+presented as follows: Accounting policy for provisions 
+The main categories of provisions are recognised as follow: Warranty provision 
+Most equipment sales have the legal contractual warranty for a period of 1 year and the warranty period starts when the 
+equipment is accepted by the customer. Provisions for product warranty are recognized as cost of sales.

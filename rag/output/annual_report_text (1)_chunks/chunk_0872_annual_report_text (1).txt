@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 872 of 1106
+SIZE: 582 characters
+PREVIOUS: chunk_0871_annual_report_text (1).txt
+NEXT: chunk_0873_annual_report_text (1).txt
+------------------------------
+=== Page 157 ===
+IBA Annual Report 2023 
+154. S.R.I.W. and S.F.P.I. subordinated bonds 
+S.R.I.W. and S.F.P.I. are two Belgian public 
+investment funds (respectively, at regional and 
+federal level). Following the terms of the S.R.I.W. and S.F.P.I. bond agreements, the Group agreed to comply 
+with a financial covenant relating to the IBA 
+Group level of equity, which was met as at 
+December 31, 2023. Available bank credit facilities 
+As at December 31, 2023, the Group has at its 
+disposal credit facilities amounting to EUR 83.1 
+million of which 23.4% are used (23.4% in 2022).

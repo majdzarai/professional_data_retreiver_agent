@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 387 of 1106
+SIZE: 293 characters
+PREVIOUS: chunk_0386_annual_report_text (1).txt
+NEXT: chunk_0388_annual_report_text (1).txt
+------------------------------
+. In order to protect its competitive 
+position, IBA does not disclose targets. Each criteria is assessed separately 
+against 
+pre-approved 
+targets. A 
+performance score is assigned to each 
+criteria, resulting in the corresponding pay-
+out as described in the following table: Actual Pay-Out

@@ -1,0 +1,31 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 358 of 1106
+SIZE: 691 characters
+PREVIOUS: chunk_0357_annual_report_text (1).txt
+NEXT: chunk_0359_annual_report_text (1).txt
+------------------------------
+cover 
+situations in which deviation from the 
+remuneration policy is necessary to serve 
+the long-term interest and sustainability of 
+the company. Deviation can only be 
+requested by the non-Managing Directors 
+and the full explanation will be provided. External competitiveness currently is assessed 
+by reference to a general cross-section of 
+companies active in the markets where the 
+executives are based. IBA 
+does 
+continuously 
+assess 
+the 
+appropriateness of its remuneration programs in 
+view of evolving needs and insights, both 
+externally and internally, which may result in an 
+adjustment 
+when 
+deemed 
+necessary 
+or 
+appropriate. === Page 74 ===
+IBA Annual Report 2023 
+71.

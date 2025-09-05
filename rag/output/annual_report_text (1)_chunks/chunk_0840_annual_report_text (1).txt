@@ -1,0 +1,46 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 840 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_0839_annual_report_text (1).txt
+NEXT: chunk_0841_annual_report_text (1).txt
+------------------------------
+Gross trade receivables 
+115 013 
+111 315 
+Allowance for expected credit losses on trade 
+receivables (-) 
+-3 364 
+-3 739 
+Trade receivable 
+111 649 
+107 576 
+Non-trade receivables 
+11 652 
+14 300 
+Advance payments 
+28 633 
+28 111 
+Accrued income related to maintenance contracts 
+16 219 
+10 173 
+Current income tax receivables 
+3 392 
+772 
+Cash with restriction more than 3 months 
+7 260 
+0 
+Prepaid share investments 
+1 538 
+0 
+Non highly liquid short term deposits 
+11 138 
+309 
+Other current receivables 
+2 090 
+3 713 
+Other short-term receivables 
+81 922 
+57 378 
+Prepaid expenses 
+5 724 
+6 02

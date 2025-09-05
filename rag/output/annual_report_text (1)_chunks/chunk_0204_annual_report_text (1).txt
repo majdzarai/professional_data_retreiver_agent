@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 204 of 1106
+SIZE: 631 characters
+PREVIOUS: chunk_0203_annual_report_text (1).txt
+NEXT: chunk_0205_annual_report_text (1).txt
+------------------------------
+gh value backlog conversion. 26 installations 
+began in 2023, with 16 of them starting in the 
+second half. 17 installations were completed in 
+2023. Services had a strong year, increasing by 
+33.7% compared to 2022 as the installed base 
+grew and the Industrial business in particular 
+started to implement a targeted service strategy. Industrial Solutions revenues increased 110% 
+compared to 2022, driven by growing equipment 
+and services contracts. Order intake was slower 
+than the previous year, with impacts still felt from 
+post-COVID overstocking of medical equipment, leading to lower demand for sterilization 
+services.

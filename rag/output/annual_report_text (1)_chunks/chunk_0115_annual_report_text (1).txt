@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 115 of 1106
+SIZE: 345 characters
+PREVIOUS: chunk_0114_annual_report_text (1).txt
+NEXT: chunk_0116_annual_report_text (1).txt
+------------------------------
+ificity 
+and sensitivity to capture real 
+clinical errors. myQA iONs accuracy 
+and performance give us high 
+confidence in our patient QA 
+processes. With the log file analysis, we can track the given dose of 
+the accelerator. This happens 
+automatically in the background. Dr. Stephan Droge, Chief Medical Physicist, Lung Clinic 
+Hemer, Germany

@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 875 of 1106
+SIZE: 457 characters
+PREVIOUS: chunk_0874_annual_report_text (1).txt
+NEXT: chunk_0876_annual_report_text (1).txt
+------------------------------
+CNY 35 million overdraft facility 
+(borrower: Ion Beam Applications Co. Ltd) was 
+maintained for the same amount (undrawn as of 
+December 31, 2023). The effective interest rates for bank and other borrowings at the financial position date are as follows: December 31, 2022 
+December 31, 2023 
+EUR 
+USD 
+INR 
+CNY 
+EUR 
+CNY 
+Bank and other borrowings 
+2.33% 
+0.00% 
+n/a - credit 
+line not 
+used 
+n/a - credit line 
+not used 
+5.10% 
+n/a - credit 
+line not used

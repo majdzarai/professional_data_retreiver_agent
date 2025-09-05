@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 992 of 1106
+SIZE: 675 characters
+PREVIOUS: chunk_0991_annual_report_text (1).txt
+NEXT: chunk_0993_annual_report_text (1).txt
+------------------------------
+We have performed the statutory audit of the Groups consolidated accounts, which comprise the 
+statement of consolidated financial position as at 31 December 2023, the consolidated income 
+statement, the consolidated statement of other comprehensive income, the consolidated statement of 
+changes in equity and the consolidated cash flow statement for the year then ended, and notes to the 
+consolidated financial statements, including a summary of significant accounting policies and other 
+explanatory information, and which is characterised by a consolidated statement of financial position 
+total of EUR 597.528 thousands and a loss for the period of EUR 9.110 thousands.

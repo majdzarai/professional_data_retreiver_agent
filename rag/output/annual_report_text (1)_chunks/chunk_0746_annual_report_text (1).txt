@@ -1,0 +1,30 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 746 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0745_annual_report_text (1).txt
+NEXT: chunk_0747_annual_report_text (1).txt
+------------------------------
+f EUR 1.9 million. IBA 
+has issued large milestone invoices throughout 
+the period which have all been indexed to the 
+index as at December 31, 2023. The revenue 
+of the year was relatively limited due to the 
+project starting later in the year, the revenue has 
+also been brought the closing index. 4.5.2 Financial income 
+(EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Interest received on cash and cash equivalents 
+1 496 
+1 650 
+Foreign exchange gains 
+5 384 
+1 035 
+Gains on the change in fair value of derivatives 
+1 606 
+2 637 
+Impact of hyperinflation 
+180 
+0 
+Other financial income 
+2 210

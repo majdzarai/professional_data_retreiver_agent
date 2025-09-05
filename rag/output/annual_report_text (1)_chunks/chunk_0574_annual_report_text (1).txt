@@ -1,0 +1,42 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 574 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0573_annual_report_text (1).txt
+NEXT: chunk_0575_annual_report_text (1).txt
+------------------------------
+=== Page 109 ===
+IBA Annual Report 2021 
+106. INCOME STATEMENT (EUR 000) 
+2022 
+2023 
+Operating income 
+346 061 
+449 393 
+Turnover 
+217 637 
+311 910 
+Work in progress, finished goods and contracts in progress 
+11 544 
+-5 041 
+Capitalized production 
+46 737 
+55 683 
+Other operating income 
+70 143 
+86 841 
+Other extraordinary income 
+0 
+0 
+Operating expenses (-) 
+-352 653 
+-434 296 
+Raw materials, consumables, and goods for resale 
+-92 379 
+-157 715 
+Services and other goods 
+-116 798 
+-130 425 
+Salaries, social security, and pensions 
+-89 779 
+-102 226 
+Depreciation and write-offs on fixed asse

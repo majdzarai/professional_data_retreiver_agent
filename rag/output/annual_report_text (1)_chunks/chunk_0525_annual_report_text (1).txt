@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 525 of 1106
+SIZE: 664 characters
+PREVIOUS: chunk_0524_annual_report_text (1).txt
+NEXT: chunk_0526_annual_report_text (1).txt
+------------------------------
+opment costs are recognised as 
+intangible assets and amortised linearly over 3 
+years, on a prorata temporis basis while 
+research 
+expenses 
+are 
+capitalised 
+and 
+expensed in the same year (2023: EUR 54.5 
+million recognised and partially amortised for 
+EUR 11.7 million), in accordance with the 
+accounting policies disclosed in the notes to the 
+annual accounts of IBA SA. These significant investments enable the 
+Company to remain among the world leaders in 
+all the markets in which it operates. Capital increases and issues of stock options 
+and convertible bonds section 7:203 of the 
+BCAC 
+In 2023, IBA did not proceed with any share 
+capital increases.

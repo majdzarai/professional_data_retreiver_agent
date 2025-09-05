@@ -1,0 +1,31 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 697 of 1106
+SIZE: 678 characters
+PREVIOUS: chunk_0696_annual_report_text (1).txt
+NEXT: chunk_0698_annual_report_text (1).txt
+------------------------------
+656 
+1 747 
+0 
+1 747 
+Personnel expenses 
+176 247 
+20 318 
+196 565 
+0 
+196 565 
+Non-cash expenses/(income) 
+-1 680 
+810 
+-870 
+0 
+-870 
+Headcount at year-end (EFT) 
+1 440 
+257 
+1 697 
+0 
+1 697 
+The cost of sales primarily includes the cost of materials and the employee benefit costs directly related to the production of the 
+equipment and the rendering of the services. The operating expenses also mainly include employee benefits expenses. The significant revenue streams are detailed below, consistently with the business review presented in the management report 
+*Financial intercompany position between segments is excluded from the assets and liabilities of the segment.

@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 272 of 1106
+SIZE: 579 characters
+PREVIOUS: chunk_0271_annual_report_text (1).txt
+NEXT: chunk_0273_annual_report_text (1).txt
+------------------------------
+ated financial 
+information is supported by procedures and work 
+instructions 
+to 
+guide 
+subsidiaries 
+in 
+the 
+preparation of their local accounts. Risk management process 
+Financial statements are consolidated monthly. This procedure enables the timely identification 
+of accounting issues. The finance department works closely with the 
+legal department and external auditors, to 
+comply 
+with 
+changes 
+in 
+legislation 
+and 
+accounting standards. These efforts are made to provide financial 
+information in full compliance with company law, deadlines, and quality standards.

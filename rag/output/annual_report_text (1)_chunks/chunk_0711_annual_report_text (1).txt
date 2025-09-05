@@ -1,0 +1,57 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 711 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0710_annual_report_text (1).txt
+NEXT: chunk_0712_annual_report_text (1).txt
+------------------------------
+ent assets 
+85 977 
+11 262 
+25 912 
+123 150 
+Current assets 
+346 033 
+35 382 
+119 060 
+500 476 
+Segment assets 
+432 010 
+46 644 
+144 972 
+623 626 
+Investments accounted for using the equity method 
+273 
+0 
+0 
+273 
+TOTAL ASSETS 
+432 283 
+46 644 
+144 972 
+623 899 
+Capital expenditure Intangible assets and Property, Plant and Equipment 
+5 957 
+184 
+1 188 
+7 329 
+December 31, 2023 
+Belgium 
+USA 
+ROW 
+Group 
+Sales of equipment, licences and services* 
+-243 
+135 895 
+293 065 
+428 717 
+Non-current assets 
+93 977 
+9 263 
+23 939 
+127 179 
+Current assets 
+329 393 
+31 691 
+90 961 
+452 045 
+Segment assets

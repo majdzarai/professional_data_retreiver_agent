@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 95 of 1106
+SIZE: 623 characters
+PREVIOUS: chunk_0094_annual_report_text (1).txt
+NEXT: chunk_0096_annual_report_text (1).txt
+------------------------------
+to all the clinical benefits of Intensity 
+Modulated Proton Therapy (IMPT) with Pencil Beam Scanning 
+(PBS) with no compromise on patient treatment. In addition, ProteusONEs unmatched interoperability allows 
+a flexible choice of ancillary partners.* The system can also 
+evolve to ensure short, mid and long-term value for patients, staff and the center. CHANGING LIVES
+Proteus has been inspired by everyday clinical practice. Through day-to-day interactions with the community, IBA 
+is perfectly positioned to understand, and invest in, users 
+needs. These investments are directly translated into benefits 
+for patients.

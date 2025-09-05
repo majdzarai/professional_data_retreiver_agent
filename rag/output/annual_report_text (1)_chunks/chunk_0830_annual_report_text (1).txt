@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 830 of 1106
+SIZE: 582 characters
+PREVIOUS: chunk_0829_annual_report_text (1).txt
+NEXT: chunk_0831_annual_report_text (1).txt
+------------------------------
+10.11% 
+ownership of the issued capital. The company is a listed group on the Swedish 
+stock exchange, the investment is held at fair 
+value based on its share price at the end of the 
+reporting period with changes recognised in 
+Other Comprehensive Income. In 2023, this 
+reassessment at fair value decreased the value 
+of the investment by EUR 0.2 million against the 
+Groups Statement of Other Comprehensive 
+Income (cumulative impact on reserves of EUR 
+0.4 million as at December 31, 2023). Invest.BW SA 
+On January 1st, 2023, the Group acquired 7 500 
+shares of Invest.BW S.A.

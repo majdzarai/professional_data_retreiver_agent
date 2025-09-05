@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 900 of 1106
+SIZE: 546 characters
+PREVIOUS: chunk_0899_annual_report_text (1).txt
+NEXT: chunk_0901_annual_report_text (1).txt
+------------------------------
+Accounting policy for defined contribution plans 
+The Group operates a contribution-based plan funded through payments to an insurance company. IBA guarantees a 
+minimum return on employer contributions resulting in a financial risk to be borne by the Group. Following the evolution with respect of minimum guaranteed return, the plans are to be considered as defined benefit plans 
+and are accounted for using the projected unit credit method. This method considers that each service period gives rise to 
+an additional benefit entitlement unit.

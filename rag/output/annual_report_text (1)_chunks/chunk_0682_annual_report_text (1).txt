@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 682 of 1106
+SIZE: 615 characters
+PREVIOUS: chunk_0681_annual_report_text (1).txt
+NEXT: chunk_0683_annual_report_text (1).txt
+------------------------------
+Private 
+Limited in July 2023 and IBA Proton Therapy 
+Israel Ltd in September 2023. 3.2. DISPOSALS OF COMPANIES 
+No disposal was carried out in 2023. In 2023, Management has decided to re-focus 
+the efforts of the Industrial business on the 
+Rhodotron, as a result, the group closed a non-
+major line of operations in the Dynamitron 
+business. The relevant assets such as 
+inventories and facilities have been sold to a 
+third party early 2024. Accounting policy for business combinations 
+Business combinations: All business combinations (acquisitions of businesses) are accounted for using the acquisition method.

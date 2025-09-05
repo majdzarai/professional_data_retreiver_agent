@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 524 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0523_annual_report_text (1).txt
+NEXT: chunk_0525_annual_report_text (1).txt
+------------------------------
+R -1.0 million. Net financial cash decreased by EUR -49.8 
+million from EUR 117.5 million at the end of 2022 
+to EUR 67.7 million at the end of 2023. Research and development 
+Research and development expenses related to 
+the Group's businesses amounted to EUR 51.3 
+million (12.0% of sales) in 2023 less EUR 3.4 
+million of research tax credit. At IBA, research expenses are recognized 
+directly in the income statement. For BE GAAP 
+purposes, development costs are recognised as 
+intangible assets and amortised linearly over 3 
+years, on a prorata temporis basis while 
+research 
+expenses 
+are 
+ca

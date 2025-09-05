@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 377 of 1106
+SIZE: 623 characters
+PREVIOUS: chunk_0376_annual_report_text (1).txt
+NEXT: chunk_0378_annual_report_text (1).txt
+------------------------------
+r committee 
+meeting the director has been invited to and 
+which he has attended. The Chairman of the Board receives EUR 3 000 
+per meeting attended. The Chairman of the Audit 
+Committee 
+and 
+the 
+Chairman 
+of 
+the 
+Sustainability Committee receive EUR 2,200 per 
+Committee meeting they chaired and EUR 1,600 
+per other meeting attended. The fixed fees are 
+on a half-day basis (assuming a half-day of 
+preparation) and adjusted per half day if 
+required. Non-Managing Directors do not receive any form 
+of variable remuneration and no other form of 
+fixed, equity-based or in-kind remuneration in 
+the course of the year.

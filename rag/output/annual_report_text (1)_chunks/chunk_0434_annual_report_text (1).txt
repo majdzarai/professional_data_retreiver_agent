@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 434 of 1106
+SIZE: 553 characters
+PREVIOUS: chunk_0433_annual_report_text (1).txt
+NEXT: chunk_0435_annual_report_text (1).txt
+------------------------------
+in its business activities, by working to help 
+create a society with sound material cycles, by supporting efforts to better understand 
+environmental issues. by establishing environmental management 
+processes 
+in 
+its 
+factories, seeking 
+continuous 
+improvement 
+in 
+its 
+environmental management; by 
+supporting 
+communication 
+and 
+cooperation 
+regarding 
+environmental 
+protection worldwide; by supporting as much as possible any 
+personal or collective initiative that would 
+help reduce the impact of the Companys 
+activities on the environment.

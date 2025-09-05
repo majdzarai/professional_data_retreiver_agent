@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 285 of 1106
+SIZE: 575 characters
+PREVIOUS: chunk_0284_annual_report_text (1).txt
+NEXT: chunk_0286_annual_report_text (1).txt
+------------------------------
+er concentration in the 
+Belgian market allows this process to be 
+centralized with a limited number of people, with 
+the CFO playing a leading role. A schedule 
+summarizing the periodic requirements for the 
+communication 
+of 
+financial 
+information 
+is 
+available at the Group level, with details of the 
+nature and date of each requirement. A 
+procedure stipulates the persons responsible for 
+preparing, approving, and communicating this 
+financial information to the market, based on 
+whether the information is restricted or not, and 
+commercial or financial in nature.

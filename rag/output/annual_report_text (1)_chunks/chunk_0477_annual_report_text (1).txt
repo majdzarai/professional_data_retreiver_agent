@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 477 of 1106
+SIZE: 531 characters
+PREVIOUS: chunk_0476_annual_report_text (1).txt
+NEXT: chunk_0478_annual_report_text (1).txt
+------------------------------
+ing tool on a voluntary basis, but which could become part of the mandatory 
+reporting obligations in the future. For 2023, no 
+changes are expected. However, as of reporting 
+year 2024 the corporate sustainability reporting 
+directive will become effective with subsequent 
+reporting obligations, but probably based on GRI 
+standards. The corporate sustainability due 
+diligence duties are still in draft form but may 
+come into effect as of 2025. IBA is well prepared 
+for 
+this 
+evolution 
+in 
+sustainability/finance 
+reporting.

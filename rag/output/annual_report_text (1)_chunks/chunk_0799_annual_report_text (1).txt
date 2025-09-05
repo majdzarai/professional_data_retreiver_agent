@@ -1,0 +1,9 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 799 of 1106
+SIZE: 287 characters
+PREVIOUS: chunk_0798_annual_report_text (1).txt
+NEXT: chunk_0800_annual_report_text (1).txt
+------------------------------
+s. The Group applies judgement in 
+evaluating whether it is reasonably certain whether or not to exercise the option to renew or terminate the lease. That is, it 
+considers all relevant factors that create an economic incentive for it to exercise either the renewal or termination. After

@@ -1,0 +1,8 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 969 of 1106
+SIZE: 204 characters
+PREVIOUS: chunk_0968_annual_report_text (1).txt
+NEXT: chunk_0970_annual_report_text (1).txt
+------------------------------
+fication of related parties 
+The following parties are considered to be related to IBA: Key management personnel: the members of the management team. Associates and Joint ventures of IBA Group (Note 12.2)

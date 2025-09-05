@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1020 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1019_annual_report_text (1).txt
+NEXT: chunk_1021_annual_report_text (1).txt
+------------------------------
+ately disclosed or otherwise misleading. In light of the 
+procedures we have performed, there are no material misstatements we have to report to you. The non-financial information required by virtue of article 3:32, 2 of the Companies' and Associations' 
+Code is included in the directors report on the consolidated accounts. The Company has prepared the 
+non-financial information, based on Global Reporting Initiatives (here under GRI ). However, in 
+accordance with article 3:80, 1, 5 of the Companies' and Associations' Code, we do not express an 
+opinion as to whether the non-financial informat

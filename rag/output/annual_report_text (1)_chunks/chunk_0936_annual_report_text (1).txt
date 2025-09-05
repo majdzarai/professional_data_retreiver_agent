@@ -1,0 +1,47 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 936 of 1106
+SIZE: 583 characters
+PREVIOUS: chunk_0935_annual_report_text (1).txt
+NEXT: chunk_0937_annual_report_text (1).txt
+------------------------------
+Level 3 
+December 31, 2022 
+Forward foreign exchange contracts and swaps - through Other 
+Comprehensive Income 
+0 
+137 
+0 
+137 
+Forward foreign exchange contracts and swaps - through Profit 
+and loss 
+0 
+65 
+0 
+53 
+Derivative financial assets 
+0 
+202 
+0 
+190 
+Equity instruments at fair value (Note 9.1.) 
+995 
+0 
+2 753 
+3 747 
+Forward foreign exchange contracts and swaps - through Other 
+Comprehensive Income 
+0 
+-2 531 
+0 
+-2 531 
+Forward foreign exchange contracts and swaps - through Profit 
+and loss 
+0 
+-1 597 
+0 
+-1 597 
+Derivative financial liabilities 
+0 
+-4 128 
+0 
+-4 128

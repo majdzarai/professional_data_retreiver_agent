@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 791 of 1106
+SIZE: 498 characters
+PREVIOUS: chunk_0790_annual_report_text (1).txt
+NEXT: chunk_0792_annual_report_text (1).txt
+------------------------------
+tangible 
+assets 
+mainly 
+include 
+computer 
+hardware 
+and 
+assets 
+under 
+construction. There are no tangible assets 
+subject to title restrictions. Most of the depreciation expense for tangible 
+assets was recognized in the income statement 
+in the Cost of sales and services, Sales and 
+marketing 
+expenses, General 
+and 
+administrative expenses, and Research and 
+development expenses line items. The 
+exception is the additional depreciation and 
+impairment on the assets related to the closed

@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 535 of 1106
+SIZE: 567 characters
+PREVIOUS: chunk_0534_annual_report_text (1).txt
+NEXT: chunk_0536_annual_report_text (1).txt
+------------------------------
+branch will 
+be dissolved in 2024. The branches were 
+established as part of the Companys Proton 
+Therapy business (section 3:6, 1, 5, of the 
+BCAC). The 2023 profit amounts to EUR 13.8 million, the 
+profit carried forward from the previous years is 
+EUR 119.0 million, making a total profit for 
+appropriation of EUR 132.8 million. An unavailable reserve for the own shares needs 
+to be recognised, impact of EUR 12.7 million 
+this increased the Retained Earnings to the 
+amount mentioned above with EUR 4.5 million 
+(share price decreased compared to end of 
+2022).

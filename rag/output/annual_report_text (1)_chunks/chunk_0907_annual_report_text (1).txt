@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 907 of 1106
+SIZE: 555 characters
+PREVIOUS: chunk_0906_annual_report_text (1).txt
+NEXT: chunk_0908_annual_report_text (1).txt
+------------------------------
+nt 
+vesting as at December 31, 2018 and can be 
+exercised until June 30, 2024. In 2016, 2017, 2018 and 2019, no stock option 
+plan has been launched. The options granted under the stock option 
+plans launched in 2020 vested on 2 January 
+2024 and fifty percent of these options can be 
+exercised until May 31, 2026 while the 
+remaining fifty percent can be exercised until 
+May 31, 2030. In January 2021, 649 972 stock options (the 
+"Stock Options") were granted to members of 
+the Group top management (including some 
+determined persons), the Head Plan.

@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 809 of 1106
+SIZE: 697 characters
+PREVIOUS: chunk_0808_annual_report_text (1).txt
+NEXT: chunk_0810_annual_report_text (1).txt
+------------------------------
+testing the goodwill 
+recognised on business combinations annually for impairment, after the latest strategic plan has been approved by 
+Management. All other assets are depreciated or amortised and are tested for impairment only if there is an indicator that an asset is 
+impaired; management monitors closely the past and future performance of each segment as well as other internal and 
+external factors through regular meetings, performance reviews, discussions with third parties and other stakeholders. Goodwill arising from a business combination is allocated among the Groups cash-generating units (CGU) that are 
+expected to benefit from synergies as a result of the business combination.

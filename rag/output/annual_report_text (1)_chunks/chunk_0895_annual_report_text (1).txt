@@ -1,0 +1,36 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 895 of 1106
+SIZE: 249 characters
+PREVIOUS: chunk_0894_annual_report_text (1).txt
+NEXT: chunk_0896_annual_report_text (1).txt
+------------------------------
+December 
+31, 2022 
+Defined benefit 
+obligation 
+-13 688 
+-3 266 
+-156 
+5 618 
+399 
+-2 973 
+173 
+-13 893 
+Fair value of plan assets 
+8 308 
+0 
+97 
+-2 091 
+2 116 
+2 973 
+-173 
+11 230 
+Benefit liability 
+-5 380 
+-3 266 
+-59 
+3 527 
+2 515 
+0 
+0 
+-2 663

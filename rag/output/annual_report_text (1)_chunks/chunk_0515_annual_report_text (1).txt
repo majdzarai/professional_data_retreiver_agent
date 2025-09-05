@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 515 of 1106
+SIZE: 257 characters
+PREVIOUS: chunk_0514_annual_report_text (1).txt
+NEXT: chunk_0516_annual_report_text (1).txt
+------------------------------
+.9 
+million 
+mainly 
+due 
+to 
+reclassifications to current liabilities; Long term provisions have decreased by 
+EUR -1.2 million; The fair value of the derivative instruments 
+used for cash flow hedging purpose have 
+decreased by EUR -1.0 million; Offset by

@@ -1,0 +1,29 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 426 of 1106
+SIZE: 658 characters
+PREVIOUS: chunk_0425_annual_report_text (1).txt
+NEXT: chunk_0427_annual_report_text (1).txt
+------------------------------
+ontrolled in respect of local 
+regulations, have waste recycling in place, and 
+no toxic air or water emissions that could affect 
+local communities. Non-financial Indicators and Results 
+A system of formal reporting is described in the 
+Code of Business Conduct and encourages the 
+denunciation 
+of 
+infringing 
+practices 
+(e.g. discrimination, harassment, coercion, etc.) 
+through 
+both 
+internal 
+channels 
+and 
+a 
+whistleblower platform. When such notification is 
+made to IBA, IBA promptly takes appropriate 
+measuresto bring the situation back into 
+conformity with the Code and the Companys 
+policies, and to prevent a recurrence of such a 
+situation.

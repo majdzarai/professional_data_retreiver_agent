@@ -1,0 +1,55 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 188 of 1106
+SIZE: 469 characters
+PREVIOUS: chunk_0187_annual_report_text (1).txt
+NEXT: chunk_0189_annual_report_text (1).txt
+------------------------------
+=== Page 51 ===
+IBA Annual Report 2023 
+48. IBA 
+(EUR 000) 
+FY 2023 
+FY 2022 
+Variance 
+Variance % 
+Net sales 
+362 807 
+307 299 
+55 508 
+18.1% 
+Proton Therapy 
+229 065 
+218 761 
+10 304 
+4.7% 
+Other Accelerators 
+133 742 
+88 538 
+45 204 
+51.1% 
+REBITDA 
+10 487 
+18 443 
+-7 956 
+-43.1% 
+% of Sales 
+2.9% 
+6.0% 
+REBIT 
+271 
+10 397 
+-10 126 
+-97.4% 
+Proton Therapy 
+-23 403 
+4 383 
+-27 786 
+-634.0% 
+Other Accelerators 
+23 675 
+6 014 
+17 661 
+293.7% 
+% of Sales 
+0.1% 
+3.4%

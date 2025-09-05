@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 381 of 1106
+SIZE: 525 characters
+PREVIOUS: chunk_0380_annual_report_text (1).txt
+NEXT: chunk_0382_annual_report_text (1).txt
+------------------------------
+=== Page 77 ===
+IBA Annual Report 2023 
+74. IBA 
+Remuneration report Managing 
+Directors 
+and 
+Executive 
+Management Team in 2023 
+This 
+remuneration 
+report 
+outlines 
+the 
+implementation of the remuneration policy and 
+will be annually submitted to the Annual 
+Shareholders Meeting for an advisory vote 
+Shareholder vote (section 7: 149, 3, of the 
+BCAC). Annual Shareholders Meeting advisory vote on 
+the previous remuneration report was 85,85 % in 
+favor. No remarks were made to consider for the 
+edition of this report.

@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 322 of 1106
+SIZE: 585 characters
+PREVIOUS: chunk_0321_annual_report_text (1).txt
+NEXT: chunk_0323_annual_report_text (1).txt
+------------------------------
+e Finance and VP Finance, Medical Accelerators Solutions/ 5 
+years as Senior Auditor at EY 
+Frederic Nolf 
+Chief Human Resources & 
+Sustainability Officer 
+Joined IBA in 2007 as HR Director Particle Therapy/ Previously working 
+at Abbott Vascular (Guidant) and GSK in various HR roles 
+DIVERSITY, EQUITY AND INCLUSION POLICY 
+(SECTION 3:6, 2, 6, OF THE BCAC) 
+The Code of Business Conduct sets out the 
+principles of IBAs social and staff-related policy. It is, among others, based on the International 
+Labor 
+Organizations 
+Declaration 
+on 
+Fundamental Principles and Rights at Work.

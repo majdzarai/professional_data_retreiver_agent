@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1036 of 1106
+SIZE: 475 characters
+PREVIOUS: chunk_1035_annual_report_text (1).txt
+NEXT: chunk_1037_annual_report_text (1).txt
+------------------------------
+(i.e. the average 
+closing price of the previous 30 days). This plan 
+will vest on January 1, 2025 and the options will 
+expire on December 31, 2026. All stock options may also be exercised in the 
+event of a takeover bid on IBA or of an increase 
+of shareholders equity with preemptive rights. On 9 November 2022, it was noted that 63,500 
+shares were subscribed by exercising 63. 500 
+warrants offered for subscription by decision of 
+27 June 2014 taken in execution of the

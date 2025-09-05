@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 264 of 1106
+SIZE: 681 characters
+PREVIOUS: chunk_0263_annual_report_text (1).txt
+NEXT: chunk_0265_annual_report_text (1).txt
+------------------------------
+adrid, Spain, and Dublin, Ireland. The branches were 
+established as part of the Companys Proton 
+Therapy business (section 3:6, 1, 5, of the 
+BCAC). Conflicts of interests and other information to 
+be disclosed pursuant to section 3:6, 1, 7, of 
+the BCAC 
+During the 2023 financial year, there was no 
+conflict of interest matter between the Company 
+and some of its directors, in the meaning of 
+section 7:96 of the BCAC. === Page 61 ===
+IBA Annual Report 2023 
+58. IBA 
+Competence and independence of members of 
+the audit committee (sections 3:6, 1, 9 and 
+3:32, 1, 6, of the BCAC) 
+In accordance with section 3:6, 1, 9, of the 
+BCAC, IBAs Board of Directors reports that: Mrs.

@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 203 of 1106
+SIZE: 519 characters
+PREVIOUS: chunk_0202_annual_report_text (1).txt
+NEXT: chunk_0204_annual_report_text (1).txt
+------------------------------
+Other Accelerators had a positive year of sales, with 18 machines sold, alongside agreements 
+for upgrades, with an order intake of EUR 81 
+million. Overall revenues grew more than 50%, with equipment revenues alone increasing 
+58.2% to EUR 99.1 million. REBIT grew to EUR 
+23.7 million, an increase of 293.7% year on year. This strong performance was underpinned by 
+high value backlog conversion. 26 installations 
+began in 2023, with 16 of them starting in the 
+second half. 17 installations were completed in 
+2023.

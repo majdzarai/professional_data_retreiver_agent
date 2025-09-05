@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 685 of 1106
+SIZE: 555 characters
+PREVIOUS: chunk_0684_annual_report_text (1).txt
+NEXT: chunk_0686_annual_report_text (1).txt
+------------------------------
+s of the consideration transferred and the fair value of non-controlling interest 
+over the net identifiable assets acquired and liabilities assumed. If this consideration is lower than the fair value of the net 
+assets of the subsidiary acquired, the difference is a gain from a bargain purchase and is recognized in profit or loss. Goodwill is not amortized but instead is tested for impairment annually (or more frequently if circumstances so require). === Page 129 ===
+IBA Annual Report 2023 
+126. 4. Operating segments and IBA Group 
+performance
+4.1.

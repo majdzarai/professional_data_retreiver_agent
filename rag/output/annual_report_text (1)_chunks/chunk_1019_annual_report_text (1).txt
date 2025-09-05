@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1019 of 1106
+SIZE: 551 characters
+PREVIOUS: chunk_1018_annual_report_text (1).txt
+NEXT: chunk_1020_annual_report_text (1).txt
+------------------------------
+ired resulting from the audit, whether the directors report on 
+the consolidated accounts and the other information included in the annual report on the consolidated 
+accounts, containing IBA world leader, Our values, IBA in 2023 at a glance, Message from Olivier 
+Legrain, Patient care what makes our heart beat and A committed company is materially misstated or 
+contains information which is inadequately disclosed or otherwise misleading. In light of the 
+procedures we have performed, there are no material misstatements we have to report to you.

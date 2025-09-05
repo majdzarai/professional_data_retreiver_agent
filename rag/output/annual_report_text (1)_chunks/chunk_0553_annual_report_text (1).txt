@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 553 of 1106
+SIZE: 291 characters
+PREVIOUS: chunk_0552_annual_report_text (1).txt
+NEXT: chunk_0554_annual_report_text (1).txt
+------------------------------
+or the last 2020 and 2021 stock option 
+plans, no new shares will be created; these will 
+be settled by means of own shares acquired by 
+the company. The allocation of the result proposed to the 
+General Meeting is as follows: Addition to the legal reserve for an 
+amount of EUR 0.02 million

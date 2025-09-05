@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 262 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0261_annual_report_text (1).txt
+NEXT: chunk_0263_annual_report_text (1).txt
+------------------------------
+nst Cyberfraud. IBA has intensified its security program during 
+2022 
+to 
+further 
+enhance 
+employee 
+assertiveness in Cybersecurity through further 
+training modules on the correct and safe use of 
+the Companys hardware and employees 
+activities on social media, and through surprise 
+tests around phishing. IBA's intention is also to move part of its on-
+premises infrastructure to the cloud in order to 
+benefit from the high level of security of its 
+technology partners. This program is currently being rolled out and 
+IBA's intention is to achieve the level of security 
+required by ISO27001 (

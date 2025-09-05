@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 967 of 1106
+SIZE: 650 characters
+PREVIOUS: chunk_0966_annual_report_text (1).txt
+NEXT: chunk_0968_annual_report_text (1).txt
+------------------------------
+, 2022). The Group is paying financial interest at a fixed 
+rate on its financial guarantees. The interest 
+depends on the duration of the guarantee. Therefore, the Group is not exposed to financial 
+credit risk. 10.1.2 Other commitments 
+As at December 31, 2023, IBA had signed 
+leases for future Rights of Use assets for a total 
+of EUR 6.1 million (EUR 3.9 million as at 
+December 31, 2022) related to company cars 
+which are on order for delivery as from 2024. 10.2. CONTINGENT LIABILITIES 
+As at December 31, 2023, IBA did not identify any contingent liabilities. 10.3. CONTINGENT ASSETS 
+The Group has filed an insurance claim on faulty 
+parts.

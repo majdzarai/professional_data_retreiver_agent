@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 261 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0260_annual_report_text (1).txt
+NEXT: chunk_0262_annual_report_text (1).txt
+------------------------------
+on. IBA is 
+continuously increasing the quality of its 
+processes and increasing the ownership and 
+control of data quality amongst the organization. Integrity risk 
+To face the global increase of security threats 
+and higher levels of professionalism in computer 
+crime, IBA has developed a security program 
+since 2016 to ensure employee awareness, govern our data protection procedures, and 
+protect the information technology infrastructure 
+against Cyberfraud. IBA has intensified its security program during 
+2022 
+to 
+further 
+enhance 
+employee 
+assertiveness in Cybersecurity through further

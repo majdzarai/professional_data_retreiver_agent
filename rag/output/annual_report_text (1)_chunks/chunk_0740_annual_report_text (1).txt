@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 740 of 1106
+SIZE: 577 characters
+PREVIOUS: chunk_0739_annual_report_text (1).txt
+NEXT: chunk_0741_annual_report_text (1).txt
+------------------------------
+o EUR 5 million in December 2022 at 
+which point IBA recognised the corresponding variable consideration in the income statement of respective years. In 
+December 2023, it was agreed with CGN to cancel the remaining portion of the performance bond which was finally 
+forfeited in January 2024 after finalisation of the administrative processes of both CGN and the bank. Given that the 
+uncertainty attached to the bond is now fully removed, IBA Group has released the remaining EUR 5 million of the variable 
+consideration in its Income Statement in the current financial year.

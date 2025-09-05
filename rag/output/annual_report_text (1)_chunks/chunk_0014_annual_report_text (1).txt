@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 14 of 1106
+SIZE: 665 characters
+PREVIOUS: chunk_0013_annual_report_text (1).txt
+NEXT: chunk_0015_annual_report_text (1).txt
+------------------------------
+IBA completed its B Corp 
+recertification in april 2024 with a score of 114 points, making a significant progress 
+along our sustainability journey. In early 2024, IBA also launched Oncia Community, a public utility foundation focused on supporting access to holistic cancer care, alongside high-quality cancer treatments. The foundation has been established 
+with the support of industrial partners and various European cancer care centers. Looking ahead, IBA remains focused on keeping its supply chain moving and accelerating 
+backlog conversion. Alongside this, investment is important for the business and will 
+be executed with an agile and targeted approach.

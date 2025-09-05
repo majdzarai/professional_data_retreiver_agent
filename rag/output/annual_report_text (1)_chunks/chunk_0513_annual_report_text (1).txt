@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 513 of 1106
+SIZE: 671 characters
+PREVIOUS: chunk_0512_annual_report_text (1).txt
+NEXT: chunk_0514_annual_report_text (1).txt
+------------------------------
+-7.3 million, decrease of deposits by EUR -9.9 million 
+and the decrease accured income on 
+service contracts for EUR -6.0 million and 
+the deposit. A decrease of the trade receivable by EUR -
+4.1 million due to a high level of significant 
+milestone completion at the end of 2022; Offset by: An increase of the inventories and contract 
+in progress by EUR 28.6 million: an increase of work in progress for EUR 2.8 
+million, an increase of raw material and supplies for 
+EUR 28.5 million, an increase of the write-off on inventories for 
+EUR -2.3 million. Non-current liabilities decreased by EUR -8.1 
+million to close with a balance of EUR 38.7 
+million at end of 2023.

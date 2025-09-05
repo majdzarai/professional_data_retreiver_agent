@@ -1,0 +1,34 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 304 of 1106
+SIZE: 694 characters
+PREVIOUS: chunk_0303_annual_report_text (1).txt
+NEXT: chunk_0305_annual_report_text (1).txt
+------------------------------
+(chairwoman) 
+Executive Director at Credit Mutuel Equity, Credit 
+Mutuel 
+Alliance 
+Federaless 
+Subsidiary 
+Consultance Marcel Miller SCS 
+(represented by Marcel Miller) (2) 
+2011 
+GM 
+2026 
+Independent Director / AC / RC / NC / 
+SC / PC 
+/ Former Chairman of Alstom Benelux / 
+Member of the Board of Directors of 
+Schreder / Chairman of the Board of 
+Directors of Technord 
+Hedvig Hricak (2) 
+2017 
+GM 
+2025 
+Independent Director / PC / SC 
+Chair of the Department of Radiology at 
+Memorial Sloan Kettering Cancer Center / 
+Professor of Radiology at Weill Medical 
+College, Cornell University / Professor at the 
+Gerstner Sloan-Kettering Graduate School 
+of Biomedical Sciences. Dr. Richard A.

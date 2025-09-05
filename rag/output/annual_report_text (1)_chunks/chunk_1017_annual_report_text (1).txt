@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1017 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1016_annual_report_text (1).txt
+NEXT: chunk_1018_annual_report_text (1).txt
+------------------------------
+In the context of our engagement and in accordance with the Belgian standard which is 
+complementary to the International Standards on Auditing (ISAs) as applicable in Belgium, our 
+responsibility is to verify, in all material respects, the directors report on the consolidated accounts, the separate report on non-financial information and the other information included in the annual report 
+on the consolidated accounts and to report on these matters. Aspects related to the directors report on the consolidated accounts and to the other 
+information included in the annual report on the consolida

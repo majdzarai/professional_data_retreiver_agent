@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 481 of 1106
+SIZE: 270 characters
+PREVIOUS: chunk_0480_annual_report_text (1).txt
+NEXT: chunk_0482_annual_report_text (1).txt
+------------------------------
+omplies with the defined minimum 
+safeguards. Different means may be required for an activity 
+to make a substantial contribution to each 
+objective. The 
+EU 
+Taxonomy 
+Regulation 
+requires the disclosure of the percentage of 
+turnover, capital 
+expenditure 
+(CapEx) 
+or

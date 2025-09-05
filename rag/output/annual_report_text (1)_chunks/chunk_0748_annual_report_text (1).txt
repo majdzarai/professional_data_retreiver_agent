@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 748 of 1106
+SIZE: 562 characters
+PREVIOUS: chunk_0747_annual_report_text (1).txt
+NEXT: chunk_0749_annual_report_text (1).txt
+------------------------------
+ted into the functional currency of the Group entity party to the transaction, using 
+the exchange rates prevailing at the dates of the transactions. The functional currency of each subsidiary of the group is 
+the official currency of the countries where they are established. Foreign exchange gains and losses resulting from the settlement of such transactions and from the conversion at the period-
+end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognized in financial expenses 
+and income in the income statement.

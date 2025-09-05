@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 476 of 1106
+SIZE: 551 characters
+PREVIOUS: chunk_0475_annual_report_text (1).txt
+NEXT: chunk_0477_annual_report_text (1).txt
+------------------------------
+The legal landscape is still evolving and what is 
+presented today is a snapshot of the current 
+status. With respect to taxonomy, what must be 
+examined is 6 criteria versus IBAs activities. If 
+within scope, then compliance is reported. Today, IBA revenues do not fall within scope, while some capital and operational expenditures 
+do. The Global Reporting Initiative (GRI) is a 
+non-financial reporting tool on a voluntary basis, but which could become part of the mandatory 
+reporting obligations in the future. For 2023, no 
+changes are expected.

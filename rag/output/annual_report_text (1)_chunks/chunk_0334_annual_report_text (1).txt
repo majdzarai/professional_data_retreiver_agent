@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 334 of 1106
+SIZE: 580 characters
+PREVIOUS: chunk_0333_annual_report_text (1).txt
+NEXT: chunk_0335_annual_report_text (1).txt
+------------------------------
+holder 
+may, with 
+its 
+affiliated 
+companies and persons, vote at a general 
+assembly for more than 35% of the voting rights 
+issued by the Company. Moreover, insofar as 
+other 
+non-affiliated 
+shareholders 
+holding 
+individually at least 15% of the voting rights 
+issued by the Company take part in the 
+assembly, no shareholder may, together with its 
+affiliated companies and persons, take part in 
+the vote, for each resolution put to vote, for more 
+than 50% less one security of the total securities 
+admitted to vote and cast respectively for each 
+resolution put to vote.

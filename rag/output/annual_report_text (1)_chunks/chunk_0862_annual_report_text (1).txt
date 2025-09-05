@@ -1,0 +1,36 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 862 of 1106
+SIZE: 289 characters
+PREVIOUS: chunk_0861_annual_report_text (1).txt
+NEXT: chunk_0863_annual_report_text (1).txt
+------------------------------
+ORROWINGS 
+December 31, 2022 
+December 31, 2023 
+(EUR '000) 
+Bank borrowings Leases 
+Total 
+Bank borrowings 
+Leases 
+Total 
+Non-current 
+10 647 
+20 811 
+31 458 
+7 114 
+21 896 
+29 010 
+Current 
+3 734 
+5 676 
+9 410 
+6 469 
+6 104 
+12 573 
+Total 
+14 381 
+26 487 
+40 868 
+13 583 
+28 000 
+41 583

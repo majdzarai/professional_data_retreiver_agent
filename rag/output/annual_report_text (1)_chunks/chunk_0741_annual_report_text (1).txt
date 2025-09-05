@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 741 of 1106
+SIZE: 604 characters
+PREVIOUS: chunk_0740_annual_report_text (1).txt
+NEXT: chunk_0742_annual_report_text (1).txt
+------------------------------
+lly removed, IBA Group has released the remaining EUR 5 million of the variable 
+consideration in its Income Statement in the current financial year. Contract termination: Depending on the contract terms with the customers, IBA may terminate a sale contract when the counterpart is in breach 
+of the contract terms. Management always focusses on finding a solution with the customer through negotiations but in 
+some rare circumstances, contracts may need to be terminated to mitigate risks and losses for the Group. If after negotiation 
+no agreement has been reached, a termination letter will be sent.

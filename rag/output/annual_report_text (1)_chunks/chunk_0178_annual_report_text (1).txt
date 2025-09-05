@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 178 of 1106
+SIZE: 482 characters
+PREVIOUS: chunk_0177_annual_report_text (1).txt
+NEXT: chunk_0179_annual_report_text (1).txt
+------------------------------
+This report on the FY 2023 has been drafted 
+pursuant to sections 3:23 and 3:32, 1, in fine, of 
+the Belgian Companies and Associations Code 
+(hereafter the BCAC), which allow to combine 
+the management report on the annual accounts 
+of the Company (rapport de gestion sur les 
+comptes annuels) with the management report 
+on the group consolidated annual accounts 
+(rapport de gestion sur les comptes consolides). Hence, the present report is a consolidated and 
+integrated report.

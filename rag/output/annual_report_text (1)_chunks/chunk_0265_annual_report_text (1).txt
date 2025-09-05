@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 265 of 1106
+SIZE: 695 characters
+PREVIOUS: chunk_0264_annual_report_text (1).txt
+NEXT: chunk_0266_annual_report_text (1).txt
+------------------------------
+tee (sections 3:6, 1, 9 and 
+3:32, 1, 6, of the BCAC) 
+In accordance with section 3:6, 1, 9, of the 
+BCAC, IBAs Board of Directors reports that: Mrs. Christine 
+Dubus 
+(representing 
+Nextstepefficiency SRL), chairwoman of the 
+Audit Committee since August 24, 2020, member of the Audit Committee and Board 
+member since August 24, 2020, is also 
+Executive Director at Credit Mutuel Equity, a 
+subsidiary of Credit Mutuel Alliance Federalee. Previously an audit partner at a leading 
+international firm, she has extensive experience 
+in all financial matters including group financial 
+reporting, working 
+capital 
+management, transversal finance transformation programs, and efficiency tracking.

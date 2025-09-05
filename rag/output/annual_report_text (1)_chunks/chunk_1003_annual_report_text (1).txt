@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1003 of 1106
+SIZE: 487 characters
+PREVIOUS: chunk_1002_annual_report_text (1).txt
+NEXT: chunk_1004_annual_report_text (1).txt
+------------------------------
+The board of directors is responsible for the preparation of consolidated accounts that give a true and 
+fair view in accordance with International Financial Reporting Standards as adopted by the European 
+Union and with the legal and regulatory requirements applicable in Belgium, and for such internal 
+control as the board of directors determines is necessary to enable the preparation of consolidated 
+accounts that are free from material misstatement, whether due to fraud or error.

@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 519 of 1106
+SIZE: 447 characters
+PREVIOUS: chunk_0518_annual_report_text (1).txt
+NEXT: chunk_0520_annual_report_text (1).txt
+------------------------------
+=== Page 100 ===
+IBA Annual Report 2023 
+97. IBA 
+S.R.I.W. loan of EUR 2.7 million, and the 
+short-term portion of S.F.P.I. loan of EUR 1 
+million as well as the unpaid portion of 2023. Short-term provisions amount to EUR 8.8 
+million at the end of 2023, increased by EUR 
+1.1 million. The total provisions (short-term 
+and long-term) remained stable despite the 
+following main changes: An increase of the warranty provisions for 
+EUR 0.6 million

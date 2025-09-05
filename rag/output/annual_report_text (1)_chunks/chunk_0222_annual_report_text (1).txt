@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 222 of 1106
+SIZE: 670 characters
+PREVIOUS: chunk_0221_annual_report_text (1).txt
+NEXT: chunk_0223_annual_report_text (1).txt
+------------------------------
+areas 
+IBA has decided to present its risks as follows: Customers, Competitors, Investors 
+Evaluate risks that drive the IBAs 
+mission and strategy. Processes, Systems, People, Value Chain 
+Identify the risk of loss from 
+inadequate 
+internal 
+processes, people, or systems that will affect 
+IBA to execute its strategic plan. Law, Regulation, Politics, and Corporate 
+Governance 
+Assess the performance of the 
+IBAs corporate compliance program, focusing 
+on the regulatory risks of Medical Devices. Market Changes and 
+the Economy 
+Assess market movements that 
+could affect the organizations 
+performance or risk exposure and 
+effectiveness of key financial controls.

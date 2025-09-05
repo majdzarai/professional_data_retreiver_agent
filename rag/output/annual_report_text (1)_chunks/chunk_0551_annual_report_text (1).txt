@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 551 of 1106
+SIZE: 610 characters
+PREVIOUS: chunk_0550_annual_report_text (1).txt
+NEXT: chunk_0552_annual_report_text (1).txt
+------------------------------
+a balance 
+per the end of 2023 of EUR 15.9 million. These 
+accounts are used to ensure that revenues and 
+charges are correctly cut off at year-end. Liabilities 
+Shareholders equity 
+Share capital and share premium 
+The subscribed capital is EUR 42.5 million as per 
+December 31, 2023. Share premiums amount to 
+EUR 43.5 million. Both subscribed capital and 
+share premium remained unchanged compared 
+to 2022. === Page 104 ===
+IBA Annual Report 2023 
+101. IBA 
+IBA SA currently has four stock option plans in 
+place, fully subscribed per December 31, 2023. The plans for 2014 and 2015 expire on June 30, 2024.

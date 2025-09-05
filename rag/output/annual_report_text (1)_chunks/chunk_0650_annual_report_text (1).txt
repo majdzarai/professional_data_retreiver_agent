@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 650 of 1106
+SIZE: 626 characters
+PREVIOUS: chunk_0649_annual_report_text (1).txt
+NEXT: chunk_0651_annual_report_text (1).txt
+------------------------------
+n-financial 
+assets. Goodwill impairment test: the 5-year strategic 
+plan used as a basis for the impairment test was 
+prepared in December 2023 using the latest 
+inflation forecasts taking into account energy 
+and transport prices increases, as well as a 
+higher discount rate. Despite these prudent 
+inputs, the group has sufficient headroom in the 
+impairment test to conclude that the risk is 
+relatively low. The conflict was assessed as having little 
+impact on IBAs global supply chain; the high 
+energy prices and other materials costs were 
+considered when applying inflation in the 
+strategic forecasts of the group.

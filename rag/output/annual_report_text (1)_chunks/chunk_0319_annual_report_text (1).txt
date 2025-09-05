@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 319 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0318_annual_report_text (1).txt
+NEXT: chunk_0320_annual_report_text (1).txt
+------------------------------
+l Report 2023 
+66. IBA 
+Consultance Marcel Miller SCS, represented by 
+its permanent representative, Marcel Miller, Ms. Hedvig Hricak, Dr. Richard A. Hausmann, and 
+Bridging for Sustainability SRL represented by 
+its permanent representative Ms. Sybille van den 
+Hove. The Product Board is chaired by Mr. Pierre Mottet. PT Strategy Committee met on October 18, 2023. Management Team as of December 31, 2023: MANAGEMENT TEAM MEMBERS 
+POSITIONS 
+OTHER AND PRIOR DUTIES 
+Olivier 
+Legrain 
+(representing 
+Lamaris Group SRL) 
+Chief Executive Officer 
+Internal Director/ Managing Director/ Member of Nomina

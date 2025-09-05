@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 144 of 1106
+SIZE: 324 characters
+PREVIOUS: chunk_0143_annual_report_text (1).txt
+NEXT: chunk_0145_annual_report_text (1).txt
+------------------------------
+More than 200 bicycles are for instance under lease in Belgium 
+and Germany, representing a more than 20% uptake by IBA 
+staff. As a recognition of IBAs commitment, we were awarded 
+5 stars at the Belgian Active Bike challenge, ranking among 
+the most proactive Belgian companies in this area. CORPORATE BROCHURE 2024
+IBA
+37

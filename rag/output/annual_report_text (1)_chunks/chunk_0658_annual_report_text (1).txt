@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 658 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0657_annual_report_text (1).txt
+NEXT: chunk_0659_annual_report_text (1).txt
+------------------------------
+erved that employee 
+attractivity and retention is increasingly 
+impacted by the continuous investments 
+made by IBA in being a sustainable 
+company. In order to mitigate the risks and contribute 
+positively to climate change, IBA is committed 
+to several targets: Reduction of GHG emissions of our 
+infrastructure and mobility by 50% at the 
+latest by 2030 (base year 2018): A decrease of the energy consumption 
+of our infrastructure with additional 
+solar panels and other smaller scale 
+projects such as the installation of more 
+energy efficient lights and the renewal 
+of and the decarbonizatio

@@ -1,0 +1,84 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 592 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0591_annual_report_text (1).txt
+NEXT: chunk_0593_annual_report_text (1).txt
+------------------------------
+defined 
+benefit 
+plans 
+(Note 
+28) 
+Other 
+reserves - 
+Revaluation 
+reserves 
+(Note 9) 
+Currency 
+translation 
+difference 
+(Note 17) 
+Retained 
+earnings 
+(Note 
+17) 
+TOTAL 
+Shareholders 
+equity and 
+reserves 
+As at January 1, 2022 
+42 413 
+42 836 
+-12 613 
+-8 440 
+16 838 
+-4 064 
+4 014 
+-6 315 
+51 227 
+125 896 
+Profit/(loss) for the 
+period 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+6 057 
+6 057 
+Other comprehensive 
+income 
+0 
+0 
+0 
+38 
+0 
+3 548 
+-10 422 
+730 
+0 
+-6 106 
+Total comprehensive 
+income for the period 
+0 
+0 
+0 
+38 
+0 
+3 548 
+-10 422 
+730 
+6 057 
+-49 
+Capital increase 
+89 
+642 
+-555 
+0 
+0 
+0 
+0 
+0

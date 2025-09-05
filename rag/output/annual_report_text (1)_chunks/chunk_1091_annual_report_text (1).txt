@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1091 of 1106
+SIZE: 522 characters
+PREVIOUS: chunk_1090_annual_report_text (1).txt
+NEXT: chunk_1092_annual_report_text (1).txt
+------------------------------
+a recommendation at 80 eur/t as of 2024. 5For the fourth consecutive year, IBA is supporting European farmers in their transition to regenerative agriculture, thereby contributing to the Global 
+Net Zero and financing resilience of local food systems. Through its partnership with Soil Capital, IBA supports farmers for their integration of legumes 
+in their rotation, a crop which through its ability to fix atmospheric nitrogen, plays an essential role in emissions reduction, soil fertilization and yield 
+preservation.

@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1050 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_1049_annual_report_text (1).txt
+NEXT: chunk_1051_annual_report_text (1).txt
+------------------------------
+rt / corporate governance statement 
+2-13 
+Delegation of responsibility for managing 
+impacts 
+p58 AR2023 Management report / corporate governance statement 
+2-14 
+Role of the highest governance body in 
+sustainability reporting 
+p65 AR2023 Management report / corporate governance statement / sustainability 
+board meeting 
+2-15 
+Conflicts of interest 
+p57 AR2023 Management report / corporate governance statement / conflict of 
+interest 
+2-16 
+Communication of critical concerns 
+p51 AR2023 Management report / principal risks and uncertainties faced by the 
+company 
+p80 AR2023 Management report

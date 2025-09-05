@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 70 of 1106
+SIZE: 561 characters
+PREVIOUS: chunk_0069_annual_report_text (1).txt
+NEXT: chunk_0071_annual_report_text (1).txt
+------------------------------
+de by 
+facilitating local production of medical isotopes and 
+reducing the logistical challenges associated with the 
+transportation of radiotracers. This can help improve patient 
+care by allowing more patients to have access to the benefits 
+of PET imaging. Major technological breakthroughs were achieved in the 
+diagnosis of coronary heart disease through PET. IBAs 70MeV 
+cyclotron enables the production of Rubidium-82, while the 
+CycloneKIUBE produces 13N-Ammonia both are used for 
+non-invasive myocardial perfusion tests. 18
+IBA
+CORPORATE BROCHURE 2024

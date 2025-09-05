@@ -1,0 +1,49 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 572 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0571_annual_report_text (1).txt
+NEXT: chunk_0573_annual_report_text (1).txt
+------------------------------
+ation gains 
+- 
+- 
+Reserves 
+21 653 
+16 953 
+Legal reserve 
+4 231 
+4 250 
+Reserves not available for distribution 
+17 219 
+12 703 
+Untaxed reserves 
+203 
+- 
+Retained earnings 
+118 983 
+132 566 
+Capital grants 
+2 912 
+1 906 
+PROVISIONS AND DEFERRED TAXES 
+11 009 
+10 089 
+LIABILITIES 
+445 748 
+425 635 
+Accounts payable in more than one year 
+212 442 
+216 779 
+Financial debts 
+20 183 
+15 785 
+Advances received on contracts in progress 
+179 190 
+199 027 
+Other accounts payable 
+13 069 
+1 967 
+Accounts payable within one year 
+225 017 
+197 029 
+Financial debts - current portion of long-term financi

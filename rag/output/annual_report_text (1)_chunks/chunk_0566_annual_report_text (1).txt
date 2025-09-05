@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 566 of 1106
+SIZE: 334 characters
+PREVIOUS: chunk_0565_annual_report_text (1).txt
+NEXT: chunk_0567_annual_report_text (1).txt
+------------------------------
+educe. In addition, guidance is 
+on the basis that order intake remains solid, especially in the Proton Therapy and Industrial 
+Solutions businesses. As a reminder, subject to 
+these factors, IBA, expects: === Page 106 ===
+IBA Annual Report 2023 
+103. 15% CAGR 2022-2026 on revenues, nearly 
+doubling revenues over the next four years

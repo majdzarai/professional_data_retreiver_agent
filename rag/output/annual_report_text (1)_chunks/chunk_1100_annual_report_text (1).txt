@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1100 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_1099_annual_report_text (1).txt
+NEXT: chunk_1101_annual_report_text (1).txt
+------------------------------
+creasing, with program in place internally and with our waste 
+management partner to increase awareness, improve process and source reduce the waste. Targets/goals: we have set ourselves the goal of reducing our unsorted waste intensity by a factor of 3 (15%/yr) below 2018 levels by 2025. We have 
+set ourselves the goal of reducing our hazardous waste intensity by 10% below 2020 levels by 2025. Unit 
+2021 
+2022 
+2023 
+403-9 Employee health and safety 
+Lost time accident cases 
+# 
+0 
+7 
+10 
+Lost time accident frequency rate 
+# LTA/million 
+worked hours 
+0 
+5 
+5 
+Medical treatment cases 
+# 
+10

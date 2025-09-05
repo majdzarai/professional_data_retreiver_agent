@@ -1,0 +1,29 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 985 of 1106
+SIZE: 607 characters
+PREVIOUS: chunk_0984_annual_report_text (1).txt
+NEXT: chunk_0986_annual_report_text (1).txt
+------------------------------
+nstruction and production of the 
+associated 
+equipment 
+and 
+incurred 
+in 
+connection with the provision of the operation 
+and maintenance services. Reason: Gross 
+profit 
+indicates 
+IBAs 
+performance by showing how it is able to 
+generate revenue from the expenses incurred in 
+the construction, operation and maintenance of 
+dosimetry, proton-therapy 
+and 
+other 
+accelerators. EBIT 
+Definition: Earning before interests and taxes 
+(EBIT) shows the performance of the group (or 
+segment) before financial income/expenses and 
+taxes. It shows all operating income and 
+expenses incurred during the period.

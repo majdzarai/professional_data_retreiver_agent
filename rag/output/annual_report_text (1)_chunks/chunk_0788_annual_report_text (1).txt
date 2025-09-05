@@ -1,0 +1,76 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 788 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0787_annual_report_text (1).txt
+NEXT: chunk_0789_annual_report_text (1).txt
+------------------------------
+carrying amount as at 
+December 31, 2022 
+11 173 
+22 394 
+3 634 
+14 
+3 000 
+4 708 
+1 145 
+46 068 
+Gross carrying amount as at 
+January 1, 2023 
+22 730 
+32 606 
+17 631 
+25 
+14 981 
+10 157 
+1 145 
+99 275 
+Additions 
+1 684 
+3 381 
+912 
+0 
+1 067 
+4 914 
+1 563 
+13 521 
+Disposals 
+-16 
+243 
+-15 
+0 
+-103 
+-1 978 
+0 
+-1 869 
+Transfers 
+354 
+0 
+452 
+0 
+204 
+-11 
+-1 336 
+-337 
+Gross carrying amount of assets 
+acquired in business combinations 
+15 
+0 
+12 
+0 
+1 
+0 
+0 
+28 
+Currency translation difference 
+-26 
+-188 
+-50 
+0 
+-179 
+-14 
+-1 
+-458 
+Gross carrying amount as at 
+December 31, 2023 
+24 741 
+36 04

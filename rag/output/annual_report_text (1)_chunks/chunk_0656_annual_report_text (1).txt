@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 656 of 1106
+SIZE: 509 characters
+PREVIOUS: chunk_0655_annual_report_text (1).txt
+NEXT: chunk_0657_annual_report_text (1).txt
+------------------------------
+pricing as used for our 
+contribution to the decarbonization program 
+of Soil Capital and could result in a EUR 1.0 
+million impact on future costs. IBA is 
+continuously looking for opportunities to 
+offset 
+the 
+remaining 
+part 
+of 
+the 
+organisations footprint. Opportunity: Development of new products 
+or services through R&D and innovation: IBA continues to invest heavily in research 
+and developpement to decrease the energy 
+consumtion and CO2 emissions of our 
+products, giving 
+these 
+a 
+competitive

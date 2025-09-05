@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 505 of 1106
+SIZE: 693 characters
+PREVIOUS: chunk_0504_annual_report_text (1).txt
+NEXT: chunk_0506_annual_report_text (1).txt
+------------------------------
+ds bankruptcy in 2022. For the year-ended December 31, 2023, the 
+other operating result (profit) was EUR -1.2 
+million (2022: EUR -6.1 million); it mainly 
+includes some reorganisation expenses for EUR 
+2.5 million and the costs incurred for the Stock 
+Option plan for EUR 1.0 million, offset by a net 
+gain on the contribution in kind of the IP to the 
+groups new Joint Venture Pantera for EUR 2.2 
+million (net of other investors interests). The 
+reorganization expenses mostly relate to the 
+discontinuation of the Dynamitron line of 
+business in the US. This was a non-major 
+business for IBA and Management decided to re-
+focus the efforts on developing its other 
+sterilization devices.

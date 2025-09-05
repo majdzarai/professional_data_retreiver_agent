@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1029 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1028_annual_report_text (1).txt
+NEXT: chunk_1030_annual_report_text (1).txt
+------------------------------
+corporate 
+purpose. It may acquire an interest, by 
+contribution, merger, purchase of shares, or any 
+other means, in companies, partnerships, or 
+corporations 
+whose 
+purpose 
+is 
+similar, comparable, related, or 
+useful 
+to 
+the 
+achievement of its corporate purpose in whole or 
+in part. === Page 186 ===
+IBA Rapport annuel 2023 
+183. In addition, following a resolution of the 
+Extraordinary General Meeting of shareholders 
+of the Company held on March 10, 2020, article 
+3 of the Articles of association has been 
+amended to add the following two paragraphs: The Company's objectives include ha

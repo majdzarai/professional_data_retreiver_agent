@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 119 of 1106
+SIZE: 631 characters
+PREVIOUS: chunk_0118_annual_report_text (1).txt
+NEXT: chunk_0120_annual_report_text (1).txt
+------------------------------
+=== Page 35 ===
+IBAs consideration of its stakeholders lies at 
+the heart of its entrepreneurial ethos. For, just 
+as we are committed to our customers, patients, and shareholders, we realize that a commitment 
+to our people, to society and to the planet is key 
+to maintaining the quality of life of both present 
+and future generations. Nothing less than our societal 
+and environmental legitimacy as a company is 
+at stake. B CORP AS A TOOL TO OPERATIONALIZE 
+OUR STAKEHOLDER APPROACH. Assess: 360 thinking to identify our strengths 
+and improvement opportunities in 5 impact areas, based on a recognized and evolving standard..

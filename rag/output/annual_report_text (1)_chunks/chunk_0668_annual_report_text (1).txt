@@ -1,0 +1,33 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 668 of 1106
+SIZE: 662 characters
+PREVIOUS: chunk_0667_annual_report_text (1).txt
+NEXT: chunk_0669_annual_report_text (1).txt
+------------------------------
+Impairment: in preparing the goodwill 
+impairment tests and in reviewing indicators 
+of impairment, Management has taken into 
+consideration a high inflation in the forecast 
+costs in the budget and strategic financial 
+plans. Given the available headroom, this 
+had no impact on the conclusion of the 
+impairment test. Revenue 
+recognition 
+and 
+Onerous 
+contracts: most contracts signed by IBA 
+have an indexation clause linked to 
+inflation. The costs to complete of each 
+significant 
+equipment 
+and 
+installation 
+contract 
+as 
+well 
+as 
+operation 
+and 
+maintenance contrat have been reviewed 
+with the latest price increases and expected 
+future inflation.

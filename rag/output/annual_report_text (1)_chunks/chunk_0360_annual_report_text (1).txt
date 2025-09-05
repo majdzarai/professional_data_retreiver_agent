@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 360 of 1106
+SIZE: 356 characters
+PREVIOUS: chunk_0359_annual_report_text (1).txt
+NEXT: chunk_0361_annual_report_text (1).txt
+------------------------------
+ation and long-
+term incentives. The weight of the different 
+remuneration components, as part of total 
+remuneration differs on an individual basis. In 
+general terms, the weight of each component of 
+remuneration accounts for a part of total 
+remuneration that may be summarized as 
+follows: Managing directors and other executive management team members

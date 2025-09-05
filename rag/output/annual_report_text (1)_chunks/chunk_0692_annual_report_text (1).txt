@@ -1,0 +1,57 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 692 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0691_annual_report_text (1).txt
+NEXT: chunk_0693_annual_report_text (1).txt
+------------------------------
+=== Page 130 ===
+IBA Annual Report 2023 
+127. (EUR 000) 
+Year ended December 31, 2023 
+Proton Therapy and 
+Other Accelerators Dosimetry 
+Total 
+segments Eliminations 
+IBA Group 
+Sales of equipments and licences 
+216 138 
+55 644 
+271 782 
+0 
+271 782 
+Sales of services 
+150 268 
+6 667 
+156 935 
+0 
+156 935 
+Internal sales 
+22 
+3 599 
+3 621 
+-3 621 
+0 
+Total sales 
+366 428 
+65 910 
+432 338 
+-3 621 
+428 717 
+Costs of sales and services (-) 
+-257 422 
+-36 854 
+-294 276 
+0 
+-294 276 
+Internal Costs of sales 
+-4 582 
+787 
+-3 795 
+3 795 
+0 
+Total Cost of sales (-) 
+-262 004 
+-36 067 
+-298 071 
+3 795 
+-

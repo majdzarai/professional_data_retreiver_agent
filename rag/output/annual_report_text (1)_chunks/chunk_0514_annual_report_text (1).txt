@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 514 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0513_annual_report_text (1).txt
+NEXT: chunk_0515_annual_report_text (1).txt
+------------------------------
+nventories for 
+EUR -2.3 million. Non-current liabilities decreased by EUR -8.1 
+million to close with a balance of EUR 38.7 
+million at end of 2023. This decrease is mainly 
+attributable to the following factors: long-term borrowings decreased by EUR -
+3.6 million due to reclassifications of the 
+portion of the remaining facilities due in 2024 
+for EUR -3.7 million to short term liabilities. Other long term liabilities have decreased by 
+EUR 
+-2.9 
+million 
+mainly 
+due 
+to 
+reclassifications to current liabilities; Long term provisions have decreased by 
+EUR -1.2 million; The fair value of th

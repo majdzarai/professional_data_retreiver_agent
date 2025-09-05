@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 475 of 1106
+SIZE: 210 characters
+PREVIOUS: chunk_0474_annual_report_text (1).txt
+NEXT: chunk_0476_annual_report_text (1).txt
+------------------------------
+screening. And we closely survey the applicable 
+and 
+forthcoming 
+non-financial 
+reporting 
+regulations (GRI 2021, taxonomy, CSRD, due 
+diligence). THE 
+NEW 
+AND 
+FORTHCOMING 
+EU 
+SUSTAINABLE FINANCE LANDSCAPE

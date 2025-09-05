@@ -1,0 +1,41 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 743 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0742_annual_report_text (1).txt
+NEXT: chunk_0744_annual_report_text (1).txt
+------------------------------
+further claims from the customer is deemed sufficiently low to avoid future reversal of 
+revenue. === Page 137 ===
+IBA Annual Report 2023 
+134. 4.5. FINANCIAL EXPENSES AND INCOME 
+4.5.1 Financial expenses 
+ (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Interest paid on debts 
+1 282 
+735 
+Interests on lease liabilities 
+774 
+589 
+Total interest expenses 
+2 056 
+1 324 
+Foreign exchange losses 
+4 789 
+4 270 
+Loss on the change in fair value of derivatives 
+8 205 
+2 188 
+Unwinding of discount 
+426 
+716 
+Impact of hyperinflation 
+0 
+1 956 
+Other financial expenses 
+795 
+727 
+TOTAL 
+16 271 
+11 1

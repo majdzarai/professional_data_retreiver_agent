@@ -1,0 +1,39 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 686 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0685_annual_report_text (1).txt
+NEXT: chunk_0687_annual_report_text (1).txt
+------------------------------
+(or more frequently if circumstances so require). === Page 129 ===
+IBA Annual Report 2023 
+126. 4. Operating segments and IBA Group 
+performance
+4.1. PERFORMANCE OF EACH SEGMENTS
+The following tables provide details of the perfomance and financial position of each segment: (EUR 000) 
+Year ended December 31, 2022 
+Proton Therapy and 
+Other Accelerators Dosimetry 
+Total 
+segments Eliminations 
+IBA 
+Group 
+Sales of equipments and licences 
+174 279 
+46 255 
+220 534 
+0 
+220 534 
+Sales of services 
+134 530 
+6 206 
+140 736 
+0 
+140 736 
+Internal sales 
+24 
+1 510 
+1 534 
+-1 534 
+0 
+Total sales 
+308 833

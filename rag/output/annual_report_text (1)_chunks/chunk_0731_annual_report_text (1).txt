@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 731 of 1106
+SIZE: 562 characters
+PREVIOUS: chunk_0730_annual_report_text (1).txt
+NEXT: chunk_0732_annual_report_text (1).txt
+------------------------------
+Combining performance obligations: The equipment and installation services are always contracted and sold as a bundle package. Thisis because the equipment 
+is specialized in nature and only IBA can provide the installation services to the customers. As a result, IBA promises relate 
+to the transfer of a combined output integrating both the promised equipment and relating installation services. The Group 
+determined that due to the nature of its promises, the equipment and installation services contract have to be considered as 
+one performance obligation.

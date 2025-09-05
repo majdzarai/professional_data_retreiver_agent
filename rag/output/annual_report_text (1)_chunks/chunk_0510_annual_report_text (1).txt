@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 510 of 1106
+SIZE: 433 characters
+PREVIOUS: chunk_0509_annual_report_text (1).txt
+NEXT: chunk_0511_annual_report_text (1).txt
+------------------------------
+An increase of the value of equity accounted 
+investments by EUR 18.0 million following 
+the additional contributions in kind to the 
+capital of the Joint Venture PanTera with a 
+machine to be built and IP. An increase of the receivables with Joint 
+Venture following the issuance of a new 
+convertible loan to PanTera for EUR 1.0 
+million; The increase of the Research tax credit 
+receivable in Belgium by EUR 1.1 million 
+Offset by

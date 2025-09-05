@@ -1,0 +1,34 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 983 of 1106
+SIZE: 632 characters
+PREVIOUS: chunk_0982_annual_report_text (1).txt
+NEXT: chunk_0984_annual_report_text (1).txt
+------------------------------
+IBA sold the first Cyclone KEY, launched
+to 
+enable 
+small 
+and 
+medium-sized
+hospitals 
+to 
+produce 
+their 
+own
+radiopharmaceutical products in-house, for
+installation at a hospital in Benin. IBA 
+acquired 
+a 
+US-based 
+Radcal
+Corporation, a pioneer in X-ray imaging
+quality assurance. The acquisition is
+anticipated to be revenue accretive and 
+EBIT positive from 2024 onwards, and will 
+further strengthen IBA Dosimetrys product 
+offering. IBA subscribed to a convertible loan issued
+by PanTera for EUR 3.5 millions to further
+support the development of the production
+of Ac.225. === Page 177 ===
+IBA Annual Report 2023 
+174. 15.

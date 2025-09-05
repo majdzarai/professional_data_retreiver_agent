@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 762 of 1106
+SIZE: 437 characters
+PREVIOUS: chunk_0761_annual_report_text (1).txt
+NEXT: chunk_0763_annual_report_text (1).txt
+------------------------------
+on the intangible assets with a finite 
+useful life recognised as part of the purchase 
+price allocation exercise done on the 
+acquisition of Modus. Deferred tax assets are recognized on tax loss 
+carry-forwards to the extent that it is probable 
+that they can be recovered through future 
+earnings. On December 31, 2023, EUR 39.5 million (EUR 
+38.4 million in 2022) of deferred taxes were not 
+recognized 
+as 
+assets 
+in 
+the 
+financial

@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 108 of 1106
+SIZE: 565 characters
+PREVIOUS: chunk_0107_annual_report_text (1).txt
+NEXT: chunk_0109_annual_report_text (1).txt
+------------------------------
+their treatment depend upon it. In medical imaging, the objective is to reduce patient exposure 
+to radiation, while maintaining good image quality. In radiotherapy and proton therapy, the goal is to expose tumors 
+with millimeter precision to a high dose of rays, while reducing 
+the exposure to healthy tissue as much as possible. In each case, the accuracy of the equipment and the control 
+of the dose are of paramount importance. To achieve this, dosimetry instruments and software are needed to calibrate 
+and control the diagnostic and therapeutic equipment.

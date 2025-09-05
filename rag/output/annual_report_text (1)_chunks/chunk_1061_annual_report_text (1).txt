@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1061 of 1106
+SIZE: 581 characters
+PREVIOUS: chunk_1060_annual_report_text (1).txt
+NEXT: chunk_1062_annual_report_text (1).txt
+------------------------------
+=== Page 192 ===
+IBA Annual Report 2023 
+189. Profitability GRI 2016: 201 - Economic 
+performance 
+p108 AR2023 IFRS consolidated financial 
+GRI 2016 
+Research and development 
+p7 AR2023 Patient care, what makes our heart beat 
+p45 AR2023 Management report / highlights of the year 
+Ref 
+Disclosure 
+Cross reference, URL and/or information 
+GRI 204 PROCUREMENT PRACTICES v2016
+
+204-1 
+Proportion of spending on local suppliers 
+p191 AR2023 GRI appendix 204-1 / proportion of spending on local suppliers 
+Ref 
+Disclosure 
+Cross reference, URL and/or information 
+GRI 302 ENERGY v2016

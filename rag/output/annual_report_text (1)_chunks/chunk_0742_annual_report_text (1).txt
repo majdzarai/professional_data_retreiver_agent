@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 742 of 1106
+SIZE: 510 characters
+PREVIOUS: chunk_0741_annual_report_text (1).txt
+NEXT: chunk_0743_annual_report_text (1).txt
+------------------------------
+to be terminated to mitigate risks and losses for the Group. If after negotiation 
+no agreement has been reached, a termination letter will be sent. Deposits and non-refundable milestone payments can be 
+recognised as revenue in the income statement; this will only be accounted for by the Group after a reasonable amount of 
+time, which is once the risk of any further claims from the customer is deemed sufficiently low to avoid future reversal of 
+revenue. === Page 137 ===
+IBA Annual Report 2023 
+134. 4.5.

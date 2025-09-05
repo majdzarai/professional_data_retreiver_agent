@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1095 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1094_annual_report_text (1).txt
+NEXT: chunk_1096_annual_report_text (1).txt
+------------------------------
+o 7% of the installed base) 
+2The 2023 reporting is based upon updated CO2 emissions factors per country in accordance to IEA emissions factors 2023. For consistency, same 
+updated emission factors have been applied to the reporting of previous years based on the same guidelines 
+Unit 
+2021 
+2022 
+2023 
+303-3 Water withdrawal 
+Water consumption IBA Group 
+Amount of water used for the organization operations 
+m3 
+8.525 
+8.838 
+8.258 
+Amount of water used for the organization operations - intensity per FTE 
+m3 / FTE 
+5,4 
+5,0 
+4,4 
+Amount of water used for the organization operations - intensity

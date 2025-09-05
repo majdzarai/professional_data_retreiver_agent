@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 301 of 1106
+SIZE: 329 characters
+PREVIOUS: chunk_0300_annual_report_text (1).txt
+NEXT: chunk_0302_annual_report_text (1).txt
+------------------------------
+articles of association were amended on 
+March 28, 2023, an extract of which was 
+published in the appendix to the Moniteur belge 
+of April 18, 2023. Whose articles of association 6 al.2,9 al 3 and 10 
+were last amended by deed dated September 4, 2023, an extract of which will be published in the 
+appendix to the Moniteur belge

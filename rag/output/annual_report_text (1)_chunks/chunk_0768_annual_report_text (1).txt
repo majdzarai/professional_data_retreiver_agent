@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 768 of 1106
+SIZE: 657 characters
+PREVIOUS: chunk_0767_annual_report_text (1).txt
+NEXT: chunk_0769_annual_report_text (1).txt
+------------------------------
+t possible to make a reliable estimate 
+of the remaining exposure and therefore no provision has been accrued for in the Groups financial statements. Recoverability of deferred tax assets 
+The Group recognizes deferred tax assets on unused losses carried forward to the extent that the taxable profit against 
+which these assets are available can be used. The amounts recognized in the financial position are prudent estimates made 
+on the basis of recent financial plans approved by the Board of Directors and depend on certain judgments with respect to 
+the amounts and location of the future taxable profits of the Groups subsidiaries and parent company.

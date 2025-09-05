@@ -1,0 +1,39 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 964 of 1106
+SIZE: 515 characters
+PREVIOUS: chunk_0963_annual_report_text (1).txt
+NEXT: chunk_0965_annual_report_text (1).txt
+------------------------------
+(EUR 000) 
+Note 
+December 31, 2022 
+December 31, 2023 
+CASH FLOW FROM FINANCING ACTIVITIES 
+Repayment of borrowings 
+18 
+-24 734 
+-1 000 
+Repayment of lease liabilities 
+23.2 
+-6 074 
+-6 489 
+Interest paid 
+-2 311 
+-761 
+Interest received 
+1 496 
+1 650 
+Capital increase (or proceeds from issuance of ordinary shares) 
+16 
+176 
+0 
+Dividends paid 
+-5 579 
+-6 121 
+(Acquisitions)/disposal of treasury of shares 
+-5 160 
+115 
+Other financing cash flows 
+710 
+-1 778 
+Net cash (used)/generated from financing activities

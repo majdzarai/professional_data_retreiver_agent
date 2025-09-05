@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 157 of 1106
+SIZE: 543 characters
+PREVIOUS: chunk_0156_annual_report_text (1).txt
+NEXT: chunk_0158_annual_report_text (1).txt
+------------------------------
+ons is both 
+direct and indirect:. A direct impact through our operations: our offices and 
+manufacturing infrastructures, and our employees travel.. An indirect impact through our installed product base: production at our suppliers facilities, transport within the 
+value chain, and, once installed at the customers location, via electricity consumption, servicing, and decommissioning. It was very positive to see behavior 
+changes in the participants and 
+their families during this challenge. Some of these changes will 
+definitely remain.

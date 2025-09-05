@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 175 of 1106
+SIZE: 277 characters
+PREVIOUS: chunk_0174_annual_report_text (1).txt
+NEXT: chunk_0176_annual_report_text (1).txt
+------------------------------
+g dialogue that IBA has established with all 
+its stakeholders, through formal and informal exchanges 
+and from publications on environmental issues. For more information on our yearly results, please refer to 
+the GRI Index in our annual report. CORPORATE BROCHURE 2024
+IBA
+43

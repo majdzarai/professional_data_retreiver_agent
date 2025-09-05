@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 354 of 1106
+SIZE: 642 characters
+PREVIOUS: chunk_0353_annual_report_text (1).txt
+NEXT: chunk_0355_annual_report_text (1).txt
+------------------------------
+tion 
+policy. The 
+Committee 
+ensures 
+that 
+remuneration is in line with market practice, as 
+determined by studies performed by specialized 
+firms. The Compensation Committee monitors 
+and reviews the remuneration policy for 
+Executive Management Team Members, adopted by the Chief Executive Officer. For the 
+purpose of the above and in general, the Board 
+of Directors, the Compensation Committee and 
+individual directors have the authority and duty, subject to the rules defined in the Corporate 
+Governance Charter, to assign themselves 
+sufficient resources, including the assistance of 
+external consultants, if and when appropriate.

@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 559 of 1106
+SIZE: 594 characters
+PREVIOUS: chunk_0558_annual_report_text (1).txt
+NEXT: chunk_0560_annual_report_text (1).txt
+------------------------------
+Other debts mainly include the dividend for 
+the year to be distributed (EUR 5.0 million). === Page 105 ===
+IBA Annual Report 2023 
+102. IBA 
+Financial instruments (article 3:6, 1, 8, of the 
+BCAC) 
+The main financial instruments consist of inter-
+company loans, bank loans, bank balances, and 
+bank and / or intragroup deposits. The main 
+objective of these financial instruments is to raise 
+funds for the financing of the activities of the 
+company. The Company also has other financial assets 
+and liabilities such as trade receivables and 
+payables, which arise directly from its activity.

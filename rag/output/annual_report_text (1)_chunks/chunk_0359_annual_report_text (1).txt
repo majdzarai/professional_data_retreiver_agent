@@ -1,0 +1,31 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 359 of 1106
+SIZE: 557 characters
+PREVIOUS: chunk_0358_annual_report_text (1).txt
+NEXT: chunk_0360_annual_report_text (1).txt
+------------------------------
+externally and internally, which may result in an 
+adjustment 
+when 
+deemed 
+necessary 
+or 
+appropriate. === Page 74 ===
+IBA Annual Report 2023 
+71. IBA 
+Total Remuneration components for 
+Managing Directors and other Executive 
+Management Team members 
+For Managing Directors and other Executive 
+Management 
+Team 
+members, total 
+remuneration 
+generally 
+consists 
+of 
+fixed 
+remuneration, variable remuneration and long-
+term incentives. The weight of the different 
+remuneration components, as part of total 
+remuneration differs on an individual basis.

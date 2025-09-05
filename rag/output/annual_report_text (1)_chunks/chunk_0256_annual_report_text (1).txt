@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 256 of 1106
+SIZE: 545 characters
+PREVIOUS: chunk_0255_annual_report_text (1).txt
+NEXT: chunk_0257_annual_report_text (1).txt
+------------------------------
+S.R.I.W. and S.F.P.I. subordinated bonds 
+S.R.I.W. and S.F.P.I. are two Belgian public 
+investment funds (respectively, at regional and 
+federal levels). As at December 31, 2023, the bank and other 
+borrowings include unsecured subordinated 
+bonds from S.R.I.W. for a total of EUR 10.7 
+million (EUR 10.5 million in 2022) and an 
+unsecured subordinated bond from S.F.P.I. for 
+EUR 2.9 million (EUR 3.9 million in 2022) as well 
+as unused revolving (short term) credit facilities 
+(unchanged from 2022), and unused overdraft 
+facilities in China.

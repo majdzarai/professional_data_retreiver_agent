@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 729 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0728_annual_report_text (1).txt
+NEXT: chunk_0730_annual_report_text (1).txt
+------------------------------
+consideration (or an amount of consideration is due) from the customer and will be recognized as revenue when the Group 
+performs under the contract. Trade receivables 
+A receivable represents IBAs right to an amount of consideration that is unconditional. Trade receivables will be 
+recognised when a milestone included in the contract has been reached, which is usually a significant progress step in the 
+completion of the contractual obligations. Refund liabilities 
+A refund liability is recognised for consideration that IBA has received in advance from a customer and expects to refund 
+to the

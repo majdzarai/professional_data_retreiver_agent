@@ -1,0 +1,41 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 584 of 1106
+SIZE: 488 characters
+PREVIOUS: chunk_0583_annual_report_text (1).txt
+NEXT: chunk_0585_annual_report_text (1).txt
+------------------------------
+5 
+Current borrowings 
+5.10. 3 734 
+6 469 
+Current lease liabilities 
+5.10. 5 675 
+6 104 
+Current provisions 
+5.11 
+7 647 
+8 783 
+Current derivative financial liabilities 
+7.3. 2 907 
+555 
+Trade payables 
+5.12.1. 65 559 
+76 564 
+Current income tax liabilities 
+5.12. 3 853 
+1 723 
+Other payables 
+5.12. 75 578 
+68 914 
+Contract liabilities 
+4.3.1. 296 219 
+283 489 
+Current liabilities 
+461 172 
+452 601 
+TOTAL LIABILITIES 
+507 948 
+491 316 
+TOTAL EQUITY AND LIABILITIES 
+623 899 
+597 528

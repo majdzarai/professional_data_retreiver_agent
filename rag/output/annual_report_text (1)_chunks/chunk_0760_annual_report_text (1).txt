@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 760 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0759_annual_report_text (1).txt
+NEXT: chunk_0761_annual_report_text (1).txt
+------------------------------
+UR 13.6 million with the view to 
+using these in future years and EUR 3.7 million 
+as deferred tax assets and liabilities for 
+temporary differences. In 2023 and in 2022, the recognized temporary 
+differences are mainly related to taxable 
+deferred revenues, non-deductible allowance for 
+doubtful accounts, expenses accrual and 
+inventory in the US entities. (EUR 000) 
+DEFERRED TAX ASSETS DEFERRED TAX LIABILITIES 
+As at January 1, 2022 
+8 642 
+-197 
+Credited/(charged) to the income statement 
+11 426 
+-182 
+Deferred tax recognised from a business combinations 
+0 
+-375 
+Currency translation diffe

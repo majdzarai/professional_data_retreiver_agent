@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 341 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0340_annual_report_text (1).txt
+NEXT: chunk_0342_annual_report_text (1).txt
+------------------------------
+re than two of these other directors may 
+be "directly or indirectly related to the same 
+shareholder" (or to a company or person linked 
+to it) within the meaning of indent 2 of this Article 
+12; (d) 
+no more than one-third of its members 
+have been elected on the proposal or by the 
+deciding vote of a private institutional investor or 
+group of private institutional investors; and 
+(e) 
+no more than one-third of its members 
+may be "directly or indirectly related to a 
+shareholder" or group of shareholders (or to a 
+company or person related to it or them) within 
+the meaning of indent 2 of

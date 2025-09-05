@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 831 of 1106
+SIZE: 506 characters
+PREVIOUS: chunk_0830_annual_report_text (1).txt
+NEXT: chunk_0832_annual_report_text (1).txt
+------------------------------
+pact on reserves of EUR 
+0.4 million as at December 31, 2023). Invest.BW SA 
+On January 1st, 2023, the Group acquired 7 500 
+shares of Invest.BW S.A. As IBA was already 
+holding 150 shares from a previous capital 
+increase, IBA is now holding 25% of the issued 
+shares of Invest.BW SA. InvestBW is providing 
+financing and support to entrepreneurs in 
+Walloon Brabant, as a venture capital partner 
+InvestBW is an investment fund representing 
+equity and subordinated or convertible loan to 
+entrepreneurs.

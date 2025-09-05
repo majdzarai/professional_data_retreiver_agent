@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 2 of 1106
+SIZE: 522 characters
+PREVIOUS: chunk_0001_annual_report_text (1).txt
+NEXT: chunk_0003_annual_report_text (1).txt
+------------------------------
+celerators and dosimetry equipment 
+designed, produced, maintained and upgraded 
+by IBA, making our mission to protect, enhance 
+and save lives true. IBA
+world leader
+Our life-driven mission and the open relationships 
+we have built with our customers and partners 
+over time, together with our innovative mindset 
+and our willingness to always strive for technological 
+and scientific progress, make IBA a unique scientific 
+company. We are characterized by a deep human 
+connection that is illustrated by: Life, Science.

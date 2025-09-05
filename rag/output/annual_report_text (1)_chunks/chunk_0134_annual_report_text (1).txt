@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 134 of 1106
+SIZE: 615 characters
+PREVIOUS: chunk_0133_annual_report_text (1).txt
+NEXT: chunk_0135_annual_report_text (1).txt
+------------------------------
+60
+nationalities
+within IBA Group
+PROMOTING A DIVERSE, EQUITABLE 
+AND INCLUSIVE WORKPLACE
+Diversity is fundamental to our culture. As an equal opportunity 
+employer, we value the uniqueness of individuals and 
+the different perspectives and talents they bring to IBA. We learn from and respect the cultures in which we work, promote diversity within our workforce, and have an inclusive 
+environment that helps each and every one of us to fully 
+contribute to IBAs success. IBA is committed to providing equal employment and training 
+opportunities, and to treating applicants and employees 
+without discrimination.

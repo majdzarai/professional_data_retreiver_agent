@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 533 of 1106
+SIZE: 535 characters
+PREVIOUS: chunk_0532_annual_report_text (1).txt
+NEXT: chunk_0534_annual_report_text (1).txt
+------------------------------
+spectively over 36 months, starting the month following the expenditure. For 
+Research (EUR 3.9 million) expenditure is 
+depreciated within the year. IBA presented a financial profit of EUR 0.6 
+million compared to a loss of EUR -7.2 million in 
+2022. The profit of 2023 is mostly the result of a 
+dividend received from the Chinese subsidiary 
+(amounting to EUR 13.8 million); the other 
+categories of cost include interest expenses, foreign exchange impacts, and bank charges. The operational perspectives of IBA SA remain 
+positive.

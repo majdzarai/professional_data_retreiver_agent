@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 511 of 1106
+SIZE: 587 characters
+PREVIOUS: chunk_0510_annual_report_text (1).txt
+NEXT: chunk_0512_annual_report_text (1).txt
+------------------------------
+A reduction of the fair value of the groups 
+investment by EUR -1.4 million following the 
+financial 
+difficulties 
+of 
+HIL 
+Applied 
+Technologies, offset by an investment in 
+InvestBW. A reduction of the deferred tax assets by 
+EUR -2.6 million mainly driven by changes 
+in the operating losses recoverability 
+following the new strategic plan; The reclassification to current assets of the 
+portion of some bonds and receivables that 
+will become due in 2024 for EUR -3.1 million 
+Current assets amount to EUR 452.0 million at 
+the end of 2023 and have decreased by EUR -
+48.4 million.

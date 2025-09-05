@@ -1,0 +1,44 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 586 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0585_annual_report_text (1).txt
+NEXT: chunk_0587_annual_report_text (1).txt
+------------------------------
+(EUR 000) 
+Note 
+December 31, 2022 
+December 31, 2023 
+Sales of equipment and licences 
+220 558 
+271 761 
+Sales of services 
+140 712 
+156 956 
+Total sales 
+4.3. 361 270 
+428 717 
+Cost of sales and services (-) 
+4.1. -234 505 
+-294 276 
+Gross profit 
+4.1. 126 765 
+134 441 
+Selling and marketing expenses (-) 
+-24 787 
+-26 283 
+General and administrative expenses (-) 
+-49 089 
+-53 818 
+Research and development expenses (-) 
+-41 839 
+-47 923 
+Other operating expenses (-) 
+4.4.1. -6 088 
+-3 525 
+Other operating income 
+4.4.2. 0 
+2 200 
+Operating result (EBIT) 
+4.1. 4 962 
+5 092 
+Financial expenses

@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 676 of 1106
+SIZE: 618 characters
+PREVIOUS: chunk_0675_annual_report_text (1).txt
+NEXT: chunk_0677_annual_report_text (1).txt
+------------------------------
+=== Page 127 ===
+IBA Annual Report 2023 
+124. loan can be converted into shares with the 
+conversion price set in the agreement if some 
+conditions are met, in which case interests are 
+forfeited. Given the materiality, interests have 
+been accrued and the fair value of the equity 
+element has not been determined separately. 2.5. SIGNIFICANT ACCOUNTING ESTIMATES AND 
+JUDGEMENTS
+In preparing these consolidated financial 
+statements, management is required to make 
+estimates and judgements that affect the 
+application of accounting policies and the 
+reported amounts of assets and liabilities, income and expenses.

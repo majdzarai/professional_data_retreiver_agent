@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 937 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0936_annual_report_text (1).txt
+NEXT: chunk_0938_annual_report_text (1).txt
+------------------------------
+The effective portion of changes in the fair value of derivatives that are designated and qualify as cash flow hedges is 
+recognized in equity. Gain or loss relating to the ineffective portion of the hedge is recognized immediately in the income 
+statement. Amounts accumulated in equity are reclassified to the income statement in the periods when the hedged item affects the 
+income statement (e.g. when the revenue from the forecast sale that is hedged is recognised). When a hedging instrument expires or is sold, any cumulative gain or loss existing in equity at that time remains in equity 
+and

@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 651 of 1106
+SIZE: 519 characters
+PREVIOUS: chunk_0650_annual_report_text (1).txt
+NEXT: chunk_0652_annual_report_text (1).txt
+------------------------------
+al supply chain; the high 
+energy prices and other materials costs were 
+considered when applying inflation in the 
+strategic forecasts of the group. The 
+assessment has led to the conclusion that the 
+current economic situation does not represent 
+an indicator of impairment on IBA groups 
+assets. 2.1.3 Other accounting 
+considerations 
+IBA does not have cash flow hedge derivatives 
+with respect to its activities in Russia, therefore 
+no further consideration has been given to the 
+application of hedge accounting.

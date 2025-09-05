@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1096 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1095_annual_report_text (1).txt
+NEXT: chunk_1097_annual_report_text (1).txt
+------------------------------
+er used for the organization operations - intensity per FTE 
+m3 / FTE 
+5,4 
+5,0 
+4,4 
+Amount of water used for the organization operations - intensity per million Eur 
+revenues 
+m3 / million Eur 
+27 
+24 
+19 
+Global water withdrawal intensity decreased, showing a continuous reduction thanks mainly to homeworking - showing alignment with the target we 
+set ourselves. Targets/goals: we have set ourselves the goal of reducing our water withdrawal intensity by 35% below 2020 levels by 2025. 306-2 Management of significant waste related impacts 
+Substituting inputs that have hazardous characteristic

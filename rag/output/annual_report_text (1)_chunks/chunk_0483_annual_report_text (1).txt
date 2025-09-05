@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 483 of 1106
+SIZE: 571 characters
+PREVIOUS: chunk_0482_annual_report_text (1).txt
+NEXT: chunk_0484_annual_report_text (1).txt
+------------------------------
+tly identifies eligible 
+activities among seven different sectors, as 
+making a substantial contribution to any of the 
+six environmental objectives. IBA core activities 
+are classified under NACE C26.6 (26600) 
+Manufacture of irradiation, electromedical and 
+electrotherapeutic equipment9). No portion of 
+IBA turnover is currently attributable to the 
+economic activities covered by the current 
+taxonomy. Capital expenditure (CapEx) 
+In 2023, IBA taxonomy-eligible capital 
+expenditure relates to: installation of bike shelter infrastructures 
+(taxonomy category 6.15)

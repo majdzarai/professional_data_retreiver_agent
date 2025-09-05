@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 472 of 1106
+SIZE: 675 characters
+PREVIOUS: chunk_0471_annual_report_text (1).txt
+NEXT: chunk_0473_annual_report_text (1).txt
+------------------------------
+s in place. We have been ranked 
+at B score by CDP (from C in 2020). Our 
+warehouse has suppressed toxic packaging 
+(polyurethan) from its processes. We have set 
+an internal carbon price at 40/ton with a 
+recommendation of 80/ton as of 2024. We have 
+purchased 1700t of CO2 certificates from carbon 
+farming projects (Soil Capital). A green mobility 
+project is in place, based on employee survey, in 
+view of defining a lower impact, yet attractive, mobility policy for our commuting employees. The stream diverse, equitable and inclusive 
+workplace aims to pro-actively incorporate 
+diversity, equality and inclusion into our business 
+as a major contributor to belonging.

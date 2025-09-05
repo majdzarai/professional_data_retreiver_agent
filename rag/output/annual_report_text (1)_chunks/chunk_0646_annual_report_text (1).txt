@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 646 of 1106
+SIZE: 564 characters
+PREVIOUS: chunk_0645_annual_report_text (1).txt
+NEXT: chunk_0647_annual_report_text (1).txt
+------------------------------
+r the 
+current sanctions and therefore, IBA has access 
+to the liquidities kept in Russia and the ability to 
+receive a return from its Russian subsidiary. 2.1.2 Impairment of non-
+financial assets 
+Assets in Russia 
+The non-current assets of the Russian 
+subsidiary represent RUB 56.2 million (EUR 0.6 
+million) and are composed of a Right of Use 
+asset for the lease of the building which is 
+renewed on a yearly basis and some deferred 
+tax assets on temporary differences. The current assets represent RUB 398.1 million 
+(EUR 4.1 million) and are the following

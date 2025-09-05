@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 103 of 1106
+SIZE: 615 characters
+PREVIOUS: chunk_0102_annual_report_text (1).txt
+NEXT: chunk_0104_annual_report_text (1).txt
+------------------------------
+the proton 
+Bragg peak.. Dose delivery in 1-2 beams, with no need for multi-field 
+delivery, dose-splitting and potentially losing the FLASH effect.. Improved conformality due to reduced entrance and exit dose.. 3-4 times more patients in ConformalFLASH than shoot-
+through FLASH, through more eligible indications like 
+abdominal cancers4. As the industry leader, IBA is collaborating with several leading 
+proton therapy centers in their pioneering research work 
+to better understand the mechanisms of FLASH irradiation. DYNAMICARC1
+IBA is developing a novel proton therapy delivery technique 
+called DynamicARC.

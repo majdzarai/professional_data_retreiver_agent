@@ -1,0 +1,29 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 661 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0660_annual_report_text (1).txt
+NEXT: chunk_0662_annual_report_text (1).txt
+------------------------------
+Decrease of water withdrawal intensity by 
+35% below 2020 levels by 2025 expressed 
+in m3 per million revenues or FTE 
+From the above analysis and more detailed 
+review of all risks and mitigation actions the 
+following 
+factors 
+were 
+assessed 
+by 
+Management: We do not see climate issues having an 
+impact on the outcome of the impairment 
+test of the goodwill, nor on the useful lives 
+of our non-current assets as IBA does not 
+foresee an early replacement of its 
+infrastructure and facilities; We have not identified any additional risk of 
+expected 
+credit 
+loss 
+on 
+our 
+trade 
+receivables

@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 503 of 1106
+SIZE: 629 characters
+PREVIOUS: chunk_0502_annual_report_text (1).txt
+NEXT: chunk_0504_annual_report_text (1).txt
+------------------------------
+s 
+bankruptcy. As of December 31, 2023, the Group operating 
+expenses were EUR 128.0 million, a 10.6%% 
+increase from 2022 (2022: EUR 115.7 million). Despite efficient control of overhead costs, careful spending and IBAs cost control 
+measures, the increase is to be observed on all 
+three types of expenses and reflects the 
+conditions of the general macro-economic 
+environment, however the increase is mainly to 
+be seen on Research and Development which 
+went up by 14.5%; this demonstrates the 
+strategic efforts that IBA is making on both 
+operating segments to maintain its technological 
+leadership in all business lines.

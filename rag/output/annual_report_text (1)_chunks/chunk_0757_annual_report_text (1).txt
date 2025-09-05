@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 757 of 1106
+SIZE: 577 characters
+PREVIOUS: chunk_0756_annual_report_text (1).txt
+NEXT: chunk_0758_annual_report_text (1).txt
+------------------------------
+hs - temporary differences 
+0 
+0 
+TOTAL 
+1 495 
+1 023 
+Deferred tax liabilities netted against the deferred tax assets in the statement of 
+financial position for entities that are part of the same fiscal group 
+-739 
+-737 
+Total DTL recognised 
+756 
+286 
+Net deferred tax assets 
+19 455 
+17 340 
+Deferred tax assets have decreased from EUR 
+20.2 million as at year ended December 31, 2022 to EUR 17.6 million as at December 31, 2023, representing a decrease of temporary 
+differences by EUR 0.3 million and a decrease 
+of usable tax losses carried forward by EUR 2.3 
+million.

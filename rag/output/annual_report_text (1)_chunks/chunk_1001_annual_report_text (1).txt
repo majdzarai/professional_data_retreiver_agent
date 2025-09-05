@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1001 of 1106
+SIZE: 273 characters
+PREVIOUS: chunk_1000_annual_report_text (1).txt
+NEXT: chunk_1002_annual_report_text (1).txt
+------------------------------
+3 of 6 
+Based on our audit procedures, we believe that management's estimates used for revenue recognition 
+are based on reasonable assumptions. The accounting policies applied are compliant in all material 
+respects with IFRS as adopted by the European Union. Other matter

@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 628 of 1106
+SIZE: 207 characters
+PREVIOUS: chunk_0627_annual_report_text (1).txt
+NEXT: chunk_0629_annual_report_text (1).txt
+------------------------------
+This right may be subject to the compliance 
+to 
+covenants 
+included 
+in 
+the 
+loan 
+agreement, but only the covenants effective 
+on or before the end of the reporting period 
+could impact the classification

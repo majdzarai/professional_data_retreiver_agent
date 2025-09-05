@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 15 of 1106
+SIZE: 584 characters
+PREVIOUS: chunk_0014_annual_report_text (1).txt
+NEXT: chunk_0016_annual_report_text (1).txt
+------------------------------
+accelerating 
+backlog conversion. Alongside this, investment is important for the business and will 
+be executed with an agile and targeted approach. And, as we continue to drive growth, Im pleased to announce Henri de Romrees appointment as Deputy CEO, where he will 
+focus on future opportunities and performance in the Other Accelerators business. Despite the current geopolitical situation and economic uncertainties, we have a clear visibility on our future performance, and we are confident in our 
+ability to grow in the years to come and create value for all our stakeholders.

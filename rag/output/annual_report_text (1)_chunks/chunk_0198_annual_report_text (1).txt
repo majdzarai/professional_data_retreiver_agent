@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 198 of 1106
+SIZE: 669 characters
+PREVIOUS: chunk_0197_annual_report_text (1).txt
+NEXT: chunk_0199_annual_report_text (1).txt
+------------------------------
+patients (aged 22 years 
+to 39 years), as well as patients with genetic 
+disorders, esophageal cancer, and advanced or 
+unresectable pelvic tumors2. Moreover, in the 
+United States, major insurance providers such 
+as AETNA, also expanded their authorized 
+indications to now include esophageal cancer 
+and primary central nervous system tumors, as 
+well as malignancies in patients under 21, amongst others3. There are a range of ongoing clinical studies 
+using PT, including in head and neck, esophageal, lung and breast cancer. Two Phase 
+3 trials4 in head and neck cancer have 
+completed patient recruitment in 2023, alongside 
+a multi-center trial5 for lung cancer.

@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 129 of 1106
+SIZE: 596 characters
+PREVIOUS: chunk_0128_annual_report_text (1).txt
+NEXT: chunk_0130_annual_report_text (1).txt
+------------------------------
+a friendly 
+environment conducive to their professional and personal 
+development. AT OUR BEST
+Peak performance is achieved when we are at our best. Accordingly a complete set of tools and practices is in place, covering the areas of performance management (working 
+collaboratively), engagement monitoring (constant dialogue), learning (develop knowledge and skills) and compensation 
+(sharing value created).. I am convinced that in future, talented individuals will list 
+sustainable development as 
+an essential criterion in their 
+choice of employer. Olivier Legrain, Chief Executive Officer

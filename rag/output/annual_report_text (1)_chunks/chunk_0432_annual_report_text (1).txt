@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 432 of 1106
+SIZE: 533 characters
+PREVIOUS: chunk_0431_annual_report_text (1).txt
+NEXT: chunk_0433_annual_report_text (1).txt
+------------------------------
+& 14 due to specific functions with a high market 
+salary rate with very limited female in function. No data privacy incident were reported in 2023. No incidents of discrimination or harassment 
+were reported in 2023. === Page 87 ===
+IBA Annual Report 2023 
+84. IBA 
+Risks and Risk Management 
+The risks and risk management of the social and 
+staff related matters are both described above, in the dedicated Section Principal Risks and 
+Uncertainties faced by the Company (Sections 
+3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the 
+BCAC).

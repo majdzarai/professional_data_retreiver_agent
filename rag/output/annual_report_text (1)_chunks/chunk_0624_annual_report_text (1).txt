@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 624 of 1106
+SIZE: 630 characters
+PREVIOUS: chunk_0623_annual_report_text (1).txt
+NEXT: chunk_0625_annual_report_text (1).txt
+------------------------------
+ion exception under IAS 12, so that it no 
+longer applies to transactions that give rise to 
+equal 
+taxable 
+and 
+deductible 
+temporary 
+differences. The amendments have been applied to 
+transactions that occur on or after January 1, 2023 with no material impacts on both the 
+current period and the previous periods 
+presented as comparatives. Amendments to IAS 12 Income Taxes: International Tax Reform Pillar Two 
+Model Rules 
+In 2023, the IASB introduced some exceptions 
+to the accounting of deferred tax related to the 
+application of the International Tax Reform 
+Pillar 
+II 
+and 
+clarifies 
+the 
+disclosures 
+requirements.

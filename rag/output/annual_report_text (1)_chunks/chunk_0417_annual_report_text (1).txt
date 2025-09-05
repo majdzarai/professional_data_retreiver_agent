@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 417 of 1106
+SIZE: 643 characters
+PREVIOUS: chunk_0416_annual_report_text (1).txt
+NEXT: chunk_0418_annual_report_text (1).txt
+------------------------------
+Conduct (training, monitoring, investigations, conflict of interest 
+notifications and suggestions for improvement) 
+to the Companys Audit Committee. In 2023, over 90% of IBAs employees passed 
+the training on the Code of Business Conduct 
+(with a score of more than 80%). IBA has also implemented a set of ethical 
+principles of doing business with Suppliers. All 
+suppliers of goods and services of IBA are 
+required to subscribe to these principles. The 
+Suppliers Code is attached to all contract 
+templates and final contracts signed by IBAs 
+suppliers. Annual ad hoc audits are carried out 
+to monitor compliance with the Suppliers Code.

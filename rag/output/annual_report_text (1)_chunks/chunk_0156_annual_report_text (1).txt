@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 156 of 1106
+SIZE: 684 characters
+PREVIOUS: chunk_0155_annual_report_text (1).txt
+NEXT: chunk_0157_annual_report_text (1).txt
+------------------------------
+=== Page 43 ===
+COMMITTED TO OUR PLANET
+IBA is conscious of the current major environmental crisis. Amongst the many challenges to address, we are today 
+specifically focusing on two: our greenhouse gas emissions 
+and our waste. Our aim is to regularly broaden this focus 
+to include other environmental impacts, stricter targets 
+and ultimately restorative actions. Soil Capital
+Watch the IBA Soil Capital 
+Partnership video. Ma Petite Planete challenge, Winter edition 2022-23
+CLIMATE
+Our impact on global Greenhouse Gas (GHG) emissions is both 
+direct and indirect:. A direct impact through our operations: our offices and 
+manufacturing infrastructures, and our employees travel..

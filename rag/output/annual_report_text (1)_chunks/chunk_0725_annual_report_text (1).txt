@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 725 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0724_annual_report_text (1).txt
+NEXT: chunk_0726_annual_report_text (1).txt
+------------------------------
+an a right to access the 
+intellectual property 
+When the rights are being 
+transferred 
+This revenue is presented in the 
+income statement as Sales. Dosimetry 
+At a point in time 
+When the control has passed 
+to the customer 
+This revenue is presented in the 
+income statement as Sales. Contract costs in the input method 
+Expected contract costs comprise: - 
+Direct and indirect production costs (e.g. resources consumed, labour hours expended, costs incurred, time 
+elapsed or machine hours used); - 
+Such other costs as are specifically chargeable to the customer under the terms of the contract;

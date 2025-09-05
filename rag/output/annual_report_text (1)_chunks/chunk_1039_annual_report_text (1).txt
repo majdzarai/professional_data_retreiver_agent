@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1039 of 1106
+SIZE: 634 characters
+PREVIOUS: chunk_1038_annual_report_text (1).txt
+NEXT: chunk_1040_annual_report_text (1).txt
+------------------------------
+the Company. PATENTS AND TECHNOLOGIES 
+IBA is careful to patent all aspects of its 
+technology for which a patent provides a 
+commercial advantage. In addition, the Company has maintained the 
+secrecy of a significant portion of its know-how 
+that is not patentable or for which the Company 
+believes 
+secrecy 
+is 
+more 
+effective 
+than 
+publication in a patent application. More 
+fundamentally, the Company believes that the 
+best way to protect itself from its competitors is 
+not only by patenting its inventions, but by 
+maintaining its technological lead. IBA also licenses patents from third parties and 
+pays royalties to them.

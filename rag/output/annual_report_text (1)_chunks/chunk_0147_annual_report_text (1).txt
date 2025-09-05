@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 147 of 1106
+SIZE: 617 characters
+PREVIOUS: chunk_0146_annual_report_text (1).txt
+NEXT: chunk_0148_annual_report_text (1).txt
+------------------------------
+ver the long term, we will continue to support partnerships 
+with NGOs, foundations and universities which will help improve 
+learning and education. In 2023, IBA renewed its collaboration 
+with Foundation for Future Generations, as a partner of the Hera 
+Awards program, with the Philippe de Woot Awards, and with 
+the University of Louvain by supporting the Civil Biomedical 
+Engineer diploma program, enabling the Louvain School of 
+Engineering (Ecole Polytechnique de Louvain - EPL) to expand 
+its range of courses. IBA employees regularly share their experience and knowledge 
+with universities and high schools.

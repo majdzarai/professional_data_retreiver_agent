@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 632 of 1106
+SIZE: 633 characters
+PREVIOUS: chunk_0631_annual_report_text (1).txt
+NEXT: chunk_0633_annual_report_text (1).txt
+------------------------------
+the group has not 
+entered into such arrangements as a buyer and 
+had therefore concluded that the additional 
+disclosures are not applicable to IBA. Amendment to IAS 21 the Effects of 
+Changes in Foreign Exchange Rates 
+The IASB amended IAS 21 to add requirements 
+to help entities to determine whether a currency 
+is exchangeable into another currency and 
+which rate to use. A currency is exchangeable when there is an 
+ability to obtain the other currency (with a 
+normal 
+administrative 
+delay), and 
+the 
+transaction would take place through a market 
+or 
+exchange 
+mechanism 
+that 
+creates 
+enforceable rights and obligations.

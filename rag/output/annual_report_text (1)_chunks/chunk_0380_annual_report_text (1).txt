@@ -1,0 +1,50 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 380 of 1106
+SIZE: 524 characters
+PREVIOUS: chunk_0379_annual_report_text (1).txt
+NEXT: chunk_0381_annual_report_text (1).txt
+------------------------------
+T OF 
+TERM 
+END OF TERM 
+APPLICABLE NOTICE 
+PERIOD 
+TERMINATION 
+AGREEMENT 
+Saint-Denis SA, represented 
+by Pierre Mottet 
+1998 
+GAM 2025 
+None 
+None 
+Consultance Marcel Miller 
+SCS, represented by Marcel 
+Miller) 
+2011 
+GAM 2026 
+None 
+None 
+Hedvig Hricak 
+2017 
+GAM 2025 
+None 
+None 
+Nextstepefficiency SAS 
+(represented by Christine 
+Dubus) 
+2020 
+GAM 2024 
+None 
+None 
+Dr. Richard A. Hausmann 
+2020 
+GAM 2024 
+None 
+None 
+Bridging for Sustainability 
+SRL, represented by Sybille 
+van den Hove 
+2015 
+GAM 2026 
+None 
+None

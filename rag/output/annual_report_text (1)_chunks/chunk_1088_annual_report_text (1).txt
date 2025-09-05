@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1088 of 1106
+SIZE: 597 characters
+PREVIOUS: chunk_1087_annual_report_text (1).txt
+NEXT: chunk_1089_annual_report_text (1).txt
+------------------------------
+green car policy enforcing electric vehicles only in the fleet 
+- 100% reimbursement of public transportation 
+- Bike commuting allowance at 0.37/km. Bike leasing policy, with more than 274 bikes in lease by 31st December 2023 
+85+% of our electricity is from renewable sources, either purchased through renewable energy credits, or autoproduced through photovoltaic 
+installation at our facilities. Related emissions are however currently included in the above figures based on average national energy mix. - Launch of a 500kWc solar carport installation, equipped with 50 additional EV chargers.

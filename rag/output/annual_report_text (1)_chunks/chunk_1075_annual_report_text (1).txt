@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1075 of 1106
+SIZE: 383 characters
+PREVIOUS: chunk_1074_annual_report_text (1).txt
+NEXT: chunk_1076_annual_report_text (1).txt
+------------------------------
+GRI 2016 
+Affordability and accessibility of our solutions 
+p7 AR2023 Patient care, what makes our heart beat 
+p45 AR2023 Management report / highlights of the year 
+GRI 2016 
+Awareness of proton therapy and thought 
+leadership 
+p7 AR2023 Patient care, what makes our heart beat 
+GRI 2016 
+Satisfaction of customer: Customer's voice 
+p7 AR2023 Patient care, what makes our heart beat

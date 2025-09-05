@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1080 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1079_annual_report_text (1).txt
+NEXT: chunk_1081_annual_report_text (1).txt
+------------------------------
+r of ASTRO (corporate membership) and ESTRO (gold membership), two major associations in the field of radiotherapy, in the United 
+States and Europe. IBA is also a corporate member of the EANM, European Association of Nuclear Medicine, NAPT, an independent nonprofit 
+organization to educate and increase awareness about the clinical benefits of proton therapy, iiA Global, an organization which aims to support the 
+global irradiation industry and scientific community, the Alliance for Protontherapy, aiming to increase patient access to proton therapy for cancer 
+patients by educating insurers, p

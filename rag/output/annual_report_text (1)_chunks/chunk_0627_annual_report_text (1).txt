@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 627 of 1106
+SIZE: 396 characters
+PREVIOUS: chunk_0626_annual_report_text (1).txt
+NEXT: chunk_0628_annual_report_text (1).txt
+------------------------------
+Amendment to IAS 21 the Effects of 
+Changes in Foreign Exchange Rates, effective 1 January 2025 
+Amendments to IAS 1 classification of 
+liabilities as current or non-current and 
+Non-Current Liabilities with Covenants 
+The amendments clarify the requirements for 
+classifying liabilities as current or non-current. In specific, the amendments clarify: What is meant by a right to defer settlement

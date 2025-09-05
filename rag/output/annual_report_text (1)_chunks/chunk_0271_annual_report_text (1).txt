@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 271 of 1106
+SIZE: 661 characters
+PREVIOUS: chunk_0270_annual_report_text (1).txt
+NEXT: chunk_0272_annual_report_text (1).txt
+------------------------------
+nnual Report 2023 
+59. IBA 
+MAIN FEATURES OF THE INTERNAL CONTROL & 
+RISK MANAGEMENT SYSTEMS (SECTIONS 3:6, 2, 3 AND 3:32, 1, 7, OF THE BCAC) 
+Management has established an Internal Control 
+system addressing its operations and financial 
+reporting objectives. Control environment 
+The Board of Directors and senior management 
+establish the tone at the top regarding the 
+importance of internal control. Management sets 
+expectations at the various levels of the 
+organization. The process of preparing consolidated financial 
+information is supported by procedures and work 
+instructions 
+to 
+guide 
+subsidiaries 
+in 
+the 
+preparation of their local accounts.

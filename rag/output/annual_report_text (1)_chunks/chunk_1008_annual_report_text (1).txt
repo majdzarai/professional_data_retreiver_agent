@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1008 of 1106
+SIZE: 575 characters
+PREVIOUS: chunk_1007_annual_report_text (1).txt
+NEXT: chunk_1009_annual_report_text (1).txt
+------------------------------
+t at Group level. Our responsibilities in respect of the use of the going 
+concern basis of accounting by the board of directors are described below. As part of an audit in accordance with ISAs, we exercise professional judgment and maintain 
+professional skepticism throughout the audit. We also: Identify and assess the risks of material misstatement of the consolidated accounts, whether 
+due to fraud or error, design and perform audit procedures responsive to those risks, and obtain 
+audit evidence that is sufficient and appropriate to provide a basis for our opinion.

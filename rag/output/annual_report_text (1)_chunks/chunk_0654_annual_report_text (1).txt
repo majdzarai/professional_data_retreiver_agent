@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 654 of 1106
+SIZE: 648 characters
+PREVIOUS: chunk_0653_annual_report_text (1).txt
+NEXT: chunk_0655_annual_report_text (1).txt
+------------------------------
+overs the risk identification, the risk 
+analysis and scoring, the risk strategy, risk 
+mitigation and closure as well as the review and 
+monitoring. Several risks and opportunities that 
+have been identified as having the higher 
+impact on the organization are the following: Risk: Extreme 
+weather 
+conditions 
+(droughts, flooding, tsunami etc): these 
+could significantly disrupt the supply chain 
+downstream processes of IBA by impacting 
+our 
+vendors 
+production 
+and 
+freight 
+capacities and consequently affect our 
+revenue. A high level assessment has been 
+performed with an expected potential loss 
+of revenue of EUR 1.0 million per year.

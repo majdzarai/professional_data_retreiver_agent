@@ -1,0 +1,51 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 409 of 1106
+SIZE: 410 characters
+PREVIOUS: chunk_0408_annual_report_text (1).txt
+NEXT: chunk_0410_annual_report_text (1).txt
+------------------------------
+ER 
+12 000 
+8 800 
+4 800 
+N/A 
+3 200 
+1 600 
+NONE 
+Bridging for Sustainability, represented 
+by Sybille van den Hove (independent 
+director, chairwoman of the Sustainability 
+Committee) 
+26 400 
+9 000 
+BM 
+AC 
+CC/NC 
+MAC 
+PC 
+SC 
+OTHER 
+12 000 
+N/A 
+N/A 
+N/A 
+3 200 
+2 200 
+NONE 
+Hedvig Hricak (independent director) 
+32 000 
+16 000 
+BM 
+AC 
+CC/NC 
+MAC 
+PC 
+SC 
+OTHER 
+11 200 
+N/A 
+N/A 
+N/A 
+3 200 
+1 600 
+NONE

@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 284 of 1106
+SIZE: 590 characters
+PREVIOUS: chunk_0283_annual_report_text (1).txt
+NEXT: chunk_0285_annual_report_text (1).txt
+------------------------------
+ategic plan, and 
+follow-up on investments and treasury are 
+presented to the Audit Committee before being 
+submitted 
+to 
+the 
+Board 
+of 
+Directors. Furthermore, the Board of Directors is regularly 
+informed about the financial state of the Group 
+via monthly management dashboards. The communication of financial information to 
+the market is managed by the communication, finance, and 
+legal 
+departments 
+of 
+the 
+organization. Shareholder concentration in the 
+Belgian market allows this process to be 
+centralized with a limited number of people, with 
+the CFO playing a leading role.

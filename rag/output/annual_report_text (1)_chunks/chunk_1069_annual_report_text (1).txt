@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1069 of 1106
+SIZE: 249 characters
+PREVIOUS: chunk_1068_annual_report_text (1).txt
+NEXT: chunk_1070_annual_report_text (1).txt
+------------------------------
+3-1 
+Management of material topics 
+p34 AR2023 A committed company / employees 
+401-1 
+New employee hires and employee 
+turnover 
+p191 AR2023 GRI appendix 2-7 / information on employees and other workers 
+GRI 403 OCCUPATIONAL HEALTH AND SAFETY v2016

@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 601 of 1106
+SIZE: 219 characters
+PREVIOUS: chunk_0600_annual_report_text (1).txt
+NEXT: chunk_0602_annual_report_text (1).txt
+------------------------------
+199 270 
+158 366 
+Net change in cash and cash equivalents 
+-38 899 
+-47 477 
+Exchange (profits)/losses on cash and cash equivalents 
+-2 005 
+-1 583 
+Net cash and cash equivalents at end of the year 
+15 
+158 366 
+109 306

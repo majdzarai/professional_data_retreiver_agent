@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 388 of 1106
+SIZE: 387 characters
+PREVIOUS: chunk_0387_annual_report_text (1).txt
+NEXT: chunk_0389_annual_report_text (1).txt
+------------------------------
+At the group level, the Order Intake portion and 
+the PBT portion did not generate any payment, and a B-Corp interim assessment by an 
+independent body led to a payment of 150. This 
+resulted in a final pay-out of 51%. The variable pay is capped at 150% of target 
+payment. There was no need to apply this cap 
+for performance year 2023. Score 
+Unsatisfactory 
+Improvement Needed 
+Medium

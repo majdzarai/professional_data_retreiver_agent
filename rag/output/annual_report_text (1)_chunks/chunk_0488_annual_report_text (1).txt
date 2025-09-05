@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 488 of 1106
+SIZE: 514 characters
+PREVIOUS: chunk_0487_annual_report_text (1).txt
+NEXT: chunk_0489_annual_report_text (1).txt
+------------------------------
+ure that the technical 
+screening criteria are met. IBA therefore deems 
+them to be not taxonomy-aligned. === Page 93 ===
+IBA Annual Report 2023 
+90. IBA 
+When 
+it 
+comes 
+to 
+studies 
+related 
+to 
+environmental solutions for the treatment of 
+forever chemicals (PFAS), IBA acknowledges 
+that more information is needed about the 
+benefits of such solutions to ensure that the 
+technical screening criteria are met. IBA 
+therefore deems them to be not taxonomy-
+aligned. === Page 94 ===
+IBA Annual Report 2023 
+91.

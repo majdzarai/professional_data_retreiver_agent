@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 348 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0347_annual_report_text (1).txt
+NEXT: chunk_0349_annual_report_text (1).txt
+------------------------------
+pendent director", an "internal 
+director" or a "director related, directly or 
+indirectly, to a shareholder" within the meaning 
+of this Article 12. If the general meeting does not vote in favor of 
+the proposals submitted to it in accordance with 
+the preceding paragraphs, new proposals shall 
+be formulated following the same procedure and 
+the general meeting shall be reconvened to 
+decide on the new proposals. (b) Rules applicable to the amendment 
+to 
+the 
+Companys 
+Articles 
+of 
+Association 
+In this respect, as of 31 December 2023, article 
+29, 2, of the Company's Articles of Association

@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 548 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0547_annual_report_text (1).txt
+NEXT: chunk_0549_annual_report_text (1).txt
+------------------------------
+ction. Short-term receivables 
+Short-term receivables decreased with EUR -
+48.5 million from EUR 181.6 million in 2022 to 
+EUR 133.1 million in 2023. This decrease is on 
+the one side driven by a decrease of the Trade 
+Accounts Receivable section, decrease of EUR 
+-32.0 million, in which predominantly the 
+intercompany receivables decreased (EUR -
+21.8 million). The other receivables, on the other side, amounting to EUR 13.5 million, decreased with 
+EUR -16.5 million a/o because of the release of 
+a 7.3 million payment from the Russian 
+subsidiary that had temporarily been blocked by 
+the Belg

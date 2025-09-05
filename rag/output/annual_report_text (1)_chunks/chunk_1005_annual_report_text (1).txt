@@ -1,0 +1,8 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1005 of 1106
+SIZE: 228 characters
+PREVIOUS: chunk_1004_annual_report_text (1).txt
+NEXT: chunk_1006_annual_report_text (1).txt
+------------------------------
+accounting unless the board of directors either intends to liquidate 
+the Group or to cease operations, or has no realistic alternative but to do so. Statutory auditors responsibilities for the audit of the consolidated accounts

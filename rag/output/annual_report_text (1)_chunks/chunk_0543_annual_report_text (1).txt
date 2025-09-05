@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 543 of 1106
+SIZE: 320 characters
+PREVIOUS: chunk_0542_annual_report_text (1).txt
+NEXT: chunk_0544_annual_report_text (1).txt
+------------------------------
+A 33% stake in Cyclhad, a French company 
+active in treatment of patients using Proton 
+Therapy. The short term outlook for this entity 
+remains identical as in 2021, the impairment 
+on both investment and subordinated loan for 
+a total of EUR 3.0 million is maintained. === Page 103 ===
+IBA Annual Report 2023 
+100. IBA

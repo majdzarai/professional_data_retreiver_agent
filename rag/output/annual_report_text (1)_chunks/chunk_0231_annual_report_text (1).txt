@@ -1,0 +1,30 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 231 of 1106
+SIZE: 655 characters
+PREVIOUS: chunk_0230_annual_report_text (1).txt
+NEXT: chunk_0232_annual_report_text (1).txt
+------------------------------
+t our customers. IBA 
+optimizes the level of inventory required for 
+production and support on sites for our 
+customers under a maintenance contract. Nevertheless, the evolution of the product and 
+variability of the demand may impact the 
+provision required for obsolete and excess 
+inventory, which would have an impact on our 
+operating results. Unanticipated 
+or 
+uncontrolled 
+construction 
+delays on a customer site, cancellations or 
+rescheduling by customers, a change in 
+customers 
+financial 
+condition 
+to 
+obtain 
+financing, delays 
+in 
+obtaining 
+regulatory 
+approvals or authorizations may have an impact 
+on the level of inventory required.

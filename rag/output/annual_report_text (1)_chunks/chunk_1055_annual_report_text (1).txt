@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1055 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1054_annual_report_text (1).txt
+NEXT: chunk_1056_annual_report_text (1).txt
+------------------------------
+ate governance statement / codes of 
+conduct 
+2-24 
+Embedding policy commitments 
+p51 AR2023 Management report / principal risks and uncertainties faced by the 
+company 
+p80 AR2023 Management report / corporate governance statement / codes of 
+conduct 
+2-25 
+Processes to remediate negative impacts 
+p51 AR2023 Management report / principal risks and uncertainties faced by the 
+company 
+p80 AR2023 Management report / corporate governance statement / codes of 
+conduct 
+p121 AR2023 IFRS consolidated financial / notes to consolidated financial 
+statements / climate related matters 
+2-26 
+Mechanisms

@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 235 of 1106
+SIZE: 677 characters
+PREVIOUS: chunk_0234_annual_report_text (1).txt
+NEXT: chunk_0236_annual_report_text (1).txt
+------------------------------
+ired to comply with quality standards 
+in the manufacture of its medical devices and is 
+subject to the supervision of various national 
+authorities. Conditions imposed by such national 
+regulatory authorities could result in product 
+recalls or a temporary ban on products. This 
+could have an impact on IBAs reputation, customer satisfaction, and could lead to financial 
+losses. Errors or accidents could arise from the 
+operation of our products. As a result, IBA could 
+face substantial liability to patients, customers 
+and others for damages caused. Adverse 
+publicity regarding accidents or mistreatments 
+could cause patients to seek alternative methods 
+of treatment.

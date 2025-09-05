@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 118 of 1106
+SIZE: 278 characters
+PREVIOUS: chunk_0117_annual_report_text (1).txt
+NEXT: chunk_0119_annual_report_text (1).txt
+------------------------------
+e company continues 
+on this path, and believes that three drivers are essential 
+to further innovate QA:. Meaningful Innovation. Flexible Solutions. Customer-first Service
+myQA Phoenix
+Discover Dosimetrys innovative and 
+independent QA solutions. 30
+IBA
+CORPORATE BROCHURE 2024

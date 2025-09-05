@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 251 of 1106
+SIZE: 676 characters
+PREVIOUS: chunk_0250_annual_report_text (1).txt
+NEXT: chunk_0252_annual_report_text (1).txt
+------------------------------
+=== Page 59 ===
+IBA Annual Report 2023 
+56. IBA 
+transactions, with reporting to the Audit 
+Committee of the Group four times a year. The Group has certain investments In foreign 
+operations, whose net assets are exposed to 
+foreign currency translation risk. As appropriate, currency exposure arising from the net assets of 
+the Groups foreign operations may be managed 
+through borrowings denominated in the relevant 
+currencies. Proton Therapy segment is impacted by the 
+fluctuation of the USD exchange rate against 
+EUR. In 2023 a fluctuation of -3% of USD 
+against EUR would have had a negative impact 
+on the sales of Proton Therapy segment of -
+1.12% (-1.10% in 2022).

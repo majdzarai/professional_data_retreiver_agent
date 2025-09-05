@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 213 of 1106
+SIZE: 559 characters
+PREVIOUS: chunk_0212_annual_report_text (1).txt
+NEXT: chunk_0214_annual_report_text (1).txt
+------------------------------
+he acquisition is 
+anticipated to be revenue accretive and EBIT 
+positive from 2024 onwards and will further 
+strengthen Dosimetrys product offering. This 
+acquisition, combined with that of Modus QA in 
+Canada in 2022 as well as organic growth, has 
+doubled IBA Dosimetrys footprint in North 
+America, both in terms of staff and revenues. Dosimetry continues to work towards offering its 
+customers a fully end to end solution, that may 
+be supported by further strategic acquisitions 
+and a stronger presence in key geographical 
+areas like India and China.

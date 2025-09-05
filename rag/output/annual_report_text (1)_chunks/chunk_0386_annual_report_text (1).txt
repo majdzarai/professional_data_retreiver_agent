@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 386 of 1106
+SIZE: 654 characters
+PREVIOUS: chunk_0385_annual_report_text (1).txt
+NEXT: chunk_0387_annual_report_text (1).txt
+------------------------------
+The variable compensation paid in 2023 
+relates to 2022 performance year. The plan 
+was based on business results vs pre-
+defined goals which were measured for 33% 
+against Profit Before Tax (PBT), for 33% 
+against Order Intake and for 34% on 
+Sustainability. The choice of these performance criteria 
+contributes to the long term development of 
+the company, being a mix of current financial 
+performance (backlog conversion), new 
+business 
+(backlog 
+creation) 
+and 
+stakeholders impact (sustainability). In order to protect its competitive 
+position, IBA does not disclose targets. Each criteria is assessed separately 
+against 
+pre-approved 
+targets.

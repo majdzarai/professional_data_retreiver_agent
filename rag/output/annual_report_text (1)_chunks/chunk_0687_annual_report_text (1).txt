@@ -1,0 +1,65 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 687 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0686_annual_report_text (1).txt
+NEXT: chunk_0688_annual_report_text (1).txt
+------------------------------
+46 255 
+220 534 
+0 
+220 534 
+Sales of services 
+134 530 
+6 206 
+140 736 
+0 
+140 736 
+Internal sales 
+24 
+1 510 
+1 534 
+-1 534 
+0 
+Total sales 
+308 833 
+53 971 
+362 804 
+-1 534 
+361 270 
+Cost of sales and services (-) 
+-201 733 
+-32 772 
+-234 505 
+0 
+-234 505 
+Internal Costs of sales 
+-3 840 
+2 223 
+-1 617 
+1 617 
+0 
+Total Cost of sales (-) 
+-205 573 
+-30 549 
+-236 122 
+1 617 
+-234 505 
+Operating expenses (-) 
+-96 679 
+-19 036 
+-115 715 
+0 
+-115 715 
+Internal Operating expenses (-) 
+3 816 
+-3 733 
+83 
+-83 
+0 
+Total Operating expenses (-) 
+-92 863 
+-22 769 
+-115 632 
+-83 
+-115 715 
+Other operati

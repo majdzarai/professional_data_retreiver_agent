@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1042 of 1106
+SIZE: 565 characters
+PREVIOUS: chunk_1041_annual_report_text (1).txt
+NEXT: chunk_1043_annual_report_text (1).txt
+------------------------------
+=== Page 188 ===
+IBA Rapport annuel 2023 
+185. The stock market and the shareholders 
+IBA stock 
+IBA stock is listed on the Euronext Brussels 
+continuous market (Compartment B since 
+January 17, 2013). It was introduced on the 
+Stock Exchange on June 22, 1998 at a price of 
+EUR 11.90 (adjusted for a 5 to 1 split in June 
+1999). IBA stock closed at EUR 11.54 on December 31, 2023. The total number of outstanding stock options as 
+of December 31, 2023 amounts to 1.110.231. There are no convertible bonds or bonds with 
+warrants outstanding as of 31 December 2023.

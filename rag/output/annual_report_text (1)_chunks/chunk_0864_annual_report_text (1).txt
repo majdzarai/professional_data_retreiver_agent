@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 864 of 1106
+SIZE: 686 characters
+PREVIOUS: chunk_0863_annual_report_text (1).txt
+NEXT: chunk_0865_annual_report_text (1).txt
+------------------------------
+=== Page 156 ===
+IBA Annual Report 2023 
+153. unsecured subordinated bond from S.F.P.I. for 
+EUR 2.9 million (EUR 3.9 million in 2022) as well 
+as unused revolving (short term) credit facilities 
+(unchanged from 2022), and unused overdraft 
+facilities in China. The term loan of EUR 21 million was fully repaid 
+in 2022. The facilities expiring within one year include the 
+short-term portion of long-term debt, annual 
+facilities subject to review at various dates during 
+the 12 months following the end of the financial 
+year, and uncommitted facilities having no firm 
+expiry date (available until further notice). Repayment of borrowings relate to S.F.P.I. bonds (EUR 1.0 million).

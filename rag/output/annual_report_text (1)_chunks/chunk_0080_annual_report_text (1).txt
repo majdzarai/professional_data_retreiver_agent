@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 80 of 1106
+SIZE: 570 characters
+PREVIOUS: chunk_0079_annual_report_text (1).txt
+NEXT: chunk_0081_annual_report_text (1).txt
+------------------------------
+era is working on developing 
+actinium-225-based radiopharmaceuticals to treat a variety 
+of cancers, including prostate cancer and multiple myeloma. IBA SUPPORTS THE 
+ONCIDIUM FOUNDATION
+The Oncidium Foundation is a non-profit organization 
+dedicated to advancing access to radioligand therapies 
+in underprivileged communities worldwide through 
+various initiatives, including educational programs, the 
+creation of a worldwide community focused on supporting 
+patients and the support of research programs. More information on Oncidium: 20
+IBA
+CORPORATE BROCHURE 2024

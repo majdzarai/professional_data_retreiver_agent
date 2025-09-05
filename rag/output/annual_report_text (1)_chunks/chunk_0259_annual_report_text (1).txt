@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 259 of 1106
+SIZE: 516 characters
+PREVIOUS: chunk_0258_annual_report_text (1).txt
+NEXT: chunk_0260_annual_report_text (1).txt
+------------------------------
+tatutory accounts published and established in 
+compliance with accounting principles applicable 
+in Belgium), which was met as of December 31, 2023. The financial covenants applying to the 
+syndicated bank facilities consist in (a) a 
+maximum net leverage ratio (calculated as the 
+consolidated net senior indebtedness divided by 
+the consolidated REBITDA over the last 12 
+months) and (b) a minimum corrected equity 
+level (calculated as the sum of the consolidated 
+equity- with certain reclassifications- and the

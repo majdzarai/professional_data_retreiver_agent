@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 140 of 1106
+SIZE: 354 characters
+PREVIOUS: chunk_0139_annual_report_text (1).txt
+NEXT: chunk_0141_annual_report_text (1).txt
+------------------------------
+ployees 
+refreshing team building or individual activities during 
+lunchtime. Social clubs are promoted by IBA and organized by 
+voluntary employees. Climbing, golf, biking, running, hockey, photography and indoor fitness are a few of the employee clubs 
+organized at lunchtime or after hours. Keynote on burnout prevention
+36
+IBA
+CORPORATE BROCHURE 2024

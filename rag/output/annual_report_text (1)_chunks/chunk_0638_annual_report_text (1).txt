@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 638 of 1106
+SIZE: 646 characters
+PREVIOUS: chunk_0637_annual_report_text (1).txt
+NEXT: chunk_0639_annual_report_text (1).txt
+------------------------------
+urrency, which is the currency of the primary economic 
+environment in which they operate and 
+corresponds for most of them to their local 
+currency. All monetary and non-monetary assets and 
+liabilities (including goodwill) are translated to 
+euros at the closing rate. Income and expenses 
+are translated at the average rate for the month, except 
+for 
+foreign 
+operations 
+in 
+hyperinflationary 
+economies 
+which 
+are 
+translated at the closing rate of the year. Differences arising from translation at these 
+different rates are recognized directly in equity 
+under Currency translation difference and 
+have no impact on the Income Statement.

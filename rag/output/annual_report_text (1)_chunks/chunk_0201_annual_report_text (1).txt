@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 201 of 1106
+SIZE: 594 characters
+PREVIOUS: chunk_0200_annual_report_text (1).txt
+NEXT: chunk_0202_annual_report_text (1).txt
+------------------------------
+lop Proton ARC Therapy and completed a 
+comprehensive integration test at the Proton 
+Therapy Center of William Beaumont Hospital in 
+Michigan, US, at the end of 2023, paving the way 
+for commercial launch of DynamicARC7. 4 Torpedo ISRCTN 1642014, The Christies NHS and 
+NCT03164460 MD Anderson 
+5 RTOG 1308 
+6 ConformalFLASH is a registered brand of IBAs Proton 
+FLASH irradiation solution currently under research and 
+development phase 
+7 DynamicARC is a registered brand of the IBAs Proton 
+Arc therapy solution currently under development phase. === Page 53 ===
+IBA Annual Report 2023 
+50.

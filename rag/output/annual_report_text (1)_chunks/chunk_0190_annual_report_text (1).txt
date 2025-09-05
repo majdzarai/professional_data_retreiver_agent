@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 190 of 1106
+SIZE: 212 characters
+PREVIOUS: chunk_0189_annual_report_text (1).txt
+NEXT: chunk_0191_annual_report_text (1).txt
+------------------------------
+Other Accelerators REBIT on the other hand 
+grew strongly to a record EUR 23.7 million, attributable to growing order intake, high value 
+backlog conversion and the growth of its 
+Services revenue 
+Proton therapy

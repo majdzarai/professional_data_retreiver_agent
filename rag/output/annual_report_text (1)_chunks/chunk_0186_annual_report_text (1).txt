@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 186 of 1106
+SIZE: 211 characters
+PREVIOUS: chunk_0185_annual_report_text (1).txt
+NEXT: chunk_0187_annual_report_text (1).txt
+------------------------------
+Gross margin was 31.4%, compared to 
+35.1% in 2022, impacted by product mix 
+alongside a one-off positive impact in 2022 
+of 
+a 
+customer 
+bankruptcy 
+related 
+indemnities (FY22: 33.4% on a like-for-like 
+basis)

@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 283 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_0282_annual_report_text (1).txt
+NEXT: chunk_0284_annual_report_text (1).txt
+------------------------------
+asures are tested periodically to ensure their 
+effectiveness. The maintenance of the IT 
+systems is an integral part of the IT departments 
+mission. Accounting 
+and 
+financial 
+information 
+are 
+communicated to Management monthly in the 
+form of reports from the management controllers 
+and consolidated financial statements. This 
+information is provided directly to division 
+presidents and financial management. The 
+annual accounts, budget, strategic plan, and 
+follow-up on investments and treasury are 
+presented to the Audit Committee before being 
+submitted 
+to 
+the 
+Board 
+of 
+Directors.

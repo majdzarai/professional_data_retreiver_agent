@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 678 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0677_annual_report_text (1).txt
+NEXT: chunk_0679_annual_report_text (1).txt
+------------------------------
+fore 
+differ 
+from 
+estimates. Where 
+applicable, the estimates and judgements are 
+described per note within the consolidated 
+financial statements. The estimates and assumptions that have a 
+significant risk of causing a material adjustment 
+to the carrying amounts of assets and liabilities 
+within the next financial year are described in 
+the following notes: Particular area involving significant estimates and 
+judgements 
+Note 
+Judgements in applying accounting policies 
+Revenue recognition Equipment and installation considered as one 
+performance obligation 
+Note 4.3 Revenue 
+Determinatio

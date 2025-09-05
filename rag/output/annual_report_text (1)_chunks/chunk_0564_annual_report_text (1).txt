@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 564 of 1106
+SIZE: 523 characters
+PREVIOUS: chunk_0563_annual_report_text (1).txt
+NEXT: chunk_0565_annual_report_text (1).txt
+------------------------------
+full year, as expected. Looking ahead, the 
+Group 
+anticipates 
+continued 
+positive 
+development in revenues and margins across all 
+business units. Targeted investment for the 
+future growth of the business will continue with a 
+focus 
+on 
+investment 
+into 
+sustainability, digitalization and innovation. IBAs supply chain 
+remains 
+under 
+control, with 
+inflationary 
+pressures closely monitored. The balance sheet 
+remains strong, providing the Group with 
+significant flexibility for both organic and 
+inorganic growth.

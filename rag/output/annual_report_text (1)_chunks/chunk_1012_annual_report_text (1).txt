@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1012 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1011_annual_report_text (1).txt
+NEXT: chunk_1013_annual_report_text (1).txt
+------------------------------
+res are inadequate, to modify our opinion. Our conclusions are based on the 
+audit evidence obtained up to the date of our statutory auditors report. However, future events 
+or conditions may cause the Group to cease to continue as a going concern; Evaluate the overall presentation, structure and content of the consolidated accounts, including 
+the disclosures, and whether the consolidated accounts represent the underlying transactions 
+and events in a manner that achieves fair presentation; Obtain sufficient and appropriate audit evidence regarding the financial information of the 
+entities o

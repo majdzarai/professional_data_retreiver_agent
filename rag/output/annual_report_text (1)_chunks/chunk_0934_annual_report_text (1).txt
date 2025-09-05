@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 934 of 1106
+SIZE: 582 characters
+PREVIOUS: chunk_0933_annual_report_text (1).txt
+NEXT: chunk_0935_annual_report_text (1).txt
+------------------------------
+ether the derivatives that are used in 
+hedging transactions are highly effective in offsetting changes in fair values or cash flows of hedged items. Cash flow hedges 
+Derivative financial instruments used for the protection of future cash flows are designated as hedges under cash flow hedge 
+accounting. === Page 167 ===
+IBA Annual Report 2023 
+164. 7.4. FINANCIAL ASSETS AND FINANCIAL 
+LIABILITIES AT FAIR VALUE 
+The following table provides an analysis of 
+financial 
+instruments 
+that 
+are 
+measured 
+subsequent to initial recognition at fair value, grouped into Levels 1 to 3.

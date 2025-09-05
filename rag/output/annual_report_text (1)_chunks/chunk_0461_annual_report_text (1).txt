@@ -1,0 +1,29 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 461 of 1106
+SIZE: 669 characters
+PREVIOUS: chunk_0460_annual_report_text (1).txt
+NEXT: chunk_0462_annual_report_text (1).txt
+------------------------------
+isks 
+and Uncertainties faced by the Company 
+(Sections 3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the BCAC). === Page 90 ===
+IBA Annual Report 2023 
+87. IBA 
+Dealing code - code of conduct to 
+prevent insider dealing and 
+market abuse 
+The Company has a Dealing Code in place to 
+protect the Company and the market against 
+insider trading and market abuse. All employees 
+have access to the Code through the Companys 
+website and a targeted group has received a 
+copy of this code. Furthermore, executives as 
+well as those employees that have continuous 
+access to sensitive financial data (recurring 
+insiders) 
+have 
+signed 
+the 
+Code 
+for 
+acknowledgment and consent.

@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 924 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0923_annual_report_text (1).txt
+NEXT: chunk_0925_annual_report_text (1).txt
+------------------------------
+t December 31, 2022 and 2023, the net 
+carrying value of these financial assets and 
+liabilities did not differ significantly from their fair 
+value. The headings Hedging derivative products and 
+Derivative products other in assets and 
+liabilities include the fair value of forward 
+exchange contracts and currency swaps. The table below summarises the financial assets held by IBA: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+FINANCIAL ASSETS 
+Non-current Current 
+Fair value 
+Non-current 
+Current Fair value 
+At fair value through OCI 
+3 806 
+0 
+3 806 
+2 438 
+0 
+2 438 
+Shares in listed entit

@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 161 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0160_annual_report_text (1).txt
+NEXT: chunk_0162_annual_report_text (1).txt
+------------------------------
+, via incentives for low-impact transportation, mandatory electric 
+car leasing, home working practices and a more efficient 
+servicing organization. Through the carbon farming project led by Soil Capital, IBA 
+buys carbon certificates from local regenerative agriculture, aiding in decarbonizing regional operations. This voluntary 
+effort boosts Wallonias carbon farming market by backing 
+agricultural practices that cut greenhouse gas emissions 
+at the farm level. Through the introduction of eco-design rules and practices, IBA also continuously reduces the CO2 footprint per functional 
+unit of

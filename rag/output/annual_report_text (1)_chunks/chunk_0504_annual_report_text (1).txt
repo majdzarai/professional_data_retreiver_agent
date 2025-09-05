@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 504 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0503_annual_report_text (1).txt
+NEXT: chunk_0505_annual_report_text (1).txt
+------------------------------
+s demonstrates the 
+strategic efforts that IBA is making on both 
+operating segments to maintain its technological 
+leadership in all business lines. Recurring operating profits before interest and 
+taxes (REBIT10) decreased from a gain of EUR 
+11.1 million in 2022 to a gain of EUR 6.4million, reflecting the current inflation and factors related 
+to the current macro-economic environment, coupled with one off indemnities related to the 
+Rutherfords bankruptcy in 2022. For the year-ended December 31, 2023, the 
+other operating result (profit) was EUR -1.2 
+million (2022: EUR -6.1 million); it m

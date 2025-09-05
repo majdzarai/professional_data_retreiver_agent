@@ -1,0 +1,37 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 403 of 1106
+SIZE: 525 characters
+PREVIOUS: chunk_0402_annual_report_text (1).txt
+NEXT: chunk_0404_annual_report_text (1).txt
+------------------------------
+fiscal year. Determination 
+of 
+the 
+target 
+annual 
+remuneration (fixed + variable) per person 
+based on the gross remuneration as of 
+December 
+31. This 
+remuneration 
+is 
+determined at the individual activity rate 
+applicable on the same date. Sum of all target annual remuneration 
+amounts. The average is obtained by dividing the sum 
+by 
+the 
+number 
+of 
+FTEs 
+(full-time 
+equivalents) 
+present 
+and 
+active 
+on 
+December 31. The number of FTEs 
+corresponds to the sum of the activity rate, 2019 
+2020 
+2021 
+2022 
+2023

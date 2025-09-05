@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 479 of 1106
+SIZE: 544 characters
+PREVIOUS: chunk_0478_annual_report_text (1).txt
+NEXT: chunk_0480_annual_report_text (1).txt
+------------------------------
+assess the sustainability of economic activities 
+taking into account the different circumstances 
+and obligations of the different economic actors. It sets out six environmental objectives: - 
+Mitigation of climate change 
+- 
+Adaptation to climate change 
+- 
+Sustainable use and protection of water 
+and marine resources 
+- 
+Transition to a circular economy 
+- 
+Pollution prevention and control 
+- 
+Protection and restoration of 
+biodiversity and ecosystems 
+Activities covered by the taxonomy are referred 
+to as taxonomy-eligible activities.

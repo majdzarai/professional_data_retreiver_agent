@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 850 of 1106
+SIZE: 549 characters
+PREVIOUS: chunk_0849_annual_report_text (1).txt
+NEXT: chunk_0851_annual_report_text (1).txt
+------------------------------
+ification to trade receivable of some 
+invoices to customers which had extended 
+payment terms but becoming due in 2024; The reclassification of prepaid shares to 
+Other investments as ownership of these 
+shares was confirmed in January 2023 for 
+EUR -1.5 million; The decrease of other Current income tax 
+receivable for EUR -2.6 million. In 2022, IBA had an open tax litigation regarding the 
+deductibility of some R&D expenditures for 
+EUR 0.9 million which was resolved early 
+2023 at which point the asset was settled. The decrease is offset by

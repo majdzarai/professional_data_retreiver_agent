@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 280 of 1106
+SIZE: 509 characters
+PREVIOUS: chunk_0279_annual_report_text (1).txt
+NEXT: chunk_0281_annual_report_text (1).txt
+------------------------------
+ssets, based on an 
+approval matrix; Long-term contracts and partnership contracts; Treasury, financing and financial instruments; Supervision 
+of 
+signatory 
+powers 
+and 
+delegation of local authority; Capital operations; Provisions and commitments. The procedures for establishing the financial 
+statements of the Group are applicable to all the 
+units within the scope of consolidation. The 
+results of audits conducted by local external 
+auditors are shared directly with the Groups 
+financial department.

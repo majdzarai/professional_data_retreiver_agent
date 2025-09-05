@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 67 of 1106
+SIZE: 500 characters
+PREVIOUS: chunk_0066_annual_report_text (1).txt
+NEXT: chunk_0068_annual_report_text (1).txt
+------------------------------
+d 
+a better return-on-investment. Cardiac PET imaging can be very useful 
+for the management of many patients 
+with suspected or known heart disease. Cardiac PET imaging is increasingly used 
+as new centers are established and 
+clinical guidelines incorporate cardiac PET 
+imaging into the management algorithms. Terrence D. Ruddy, MD, FRCPC, FACC, FAHA, FCCS Professor of 
+Medicine and Radiology, University of Ottawa, Director of Nuclear Cardiology, University of Ottawa 
+Heart Institute
+CycloneKEY

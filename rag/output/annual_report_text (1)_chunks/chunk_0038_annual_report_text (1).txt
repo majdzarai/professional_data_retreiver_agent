@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 38 of 1106
+SIZE: 674 characters
+PREVIOUS: chunk_0037_annual_report_text (1).txt
+NEXT: chunk_0039_annual_report_text (1).txt
+------------------------------
+=== Page 15 ===
+BEYONDTM, FOUR END-TO-END SOLUTIONS 
+THAT REFLECT CUSTOMERS AMBITION
+BE-EFFICIENT
+The solution that takes advantage of the Rhodotron power 
+and high-end conveying solutions to treat large volumes 
+with the highest efficiency. BE SOFT
+The ideal solution to process fragile and high-value products 
+that require handling with care. BE-WIDE
+The unique solution to irradiate pallets with X-rays with 
+the guarantee of reaching an optimal Dose Uniformity Ratio. BE-FLEX
+The solution for multi-purpose centers that provides 
+the advantage of having a unique Rhodotron to produce 
+either E-beam or X-rays, with different energies in one or several 
+treatment rooms.

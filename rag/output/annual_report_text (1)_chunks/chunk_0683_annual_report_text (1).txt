@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 683 of 1106
+SIZE: 637 characters
+PREVIOUS: chunk_0682_annual_report_text (1).txt
+NEXT: chunk_0684_annual_report_text (1).txt
+------------------------------
+business combinations 
+Business combinations: All business combinations (acquisitions of businesses) are accounted for using the acquisition method. During the purchase 
+price allocation process, IBA determines the fair value of the acquirees identifiable net assets, liabilities, and contingent 
+liabilities and allocates the consideration to these. The consideration transferred for the acquisition of a subsidiary is measured at fair value and includes any contingent 
+consideration. It is common to have an element of variable consideration such as an earn out which is contingent to the 
+future performance of the acquired business.

@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 167 of 1106
+SIZE: 622 characters
+PREVIOUS: chunk_0166_annual_report_text (1).txt
+NEXT: chunk_0168_annual_report_text (1).txt
+------------------------------
+our logistics, manufacturing and offices. Product packaging, for instance, is being continually improved to reduce its overall 
+environmental impact. Recently, the warehouse team replaced 
+a machine using non-recyclable materials with three new 
+ones utilizing recovered or recycled materials. These include 
+a padding machine for reusing cardboard boxes, an air cushion 
+machine minimizing plastic waste, and a paper compression 
+machine utilizing recycled paper. Through the introduction of eco-design practices, our product 
+development processes implement the principles of circularity 
+ avoid, reduce, reuse, recycle.

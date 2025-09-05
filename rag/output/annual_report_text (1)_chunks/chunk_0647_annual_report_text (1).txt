@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 647 of 1106
+SIZE: 577 characters
+PREVIOUS: chunk_0646_annual_report_text (1).txt
+NEXT: chunk_0648_annual_report_text (1).txt
+------------------------------
+Inventory which is being consumed in the 
+maintenance project as needed, and for 
+which obsolescence has been evaluated 
+considering the expected future spare parts 
+needs of the site. Given that all parts are 
+considered 
+as 
+recommended 
+to 
+be 
+available 
+on 
+a 
+maintenance 
+site, Management did not identify excessive 
+inventory levels for which additional write off 
+should be recognised. Trade receivable: there are no large 
+overdue balances requiring expected credit 
+loss allowances and customers have been 
+paying regularly, in accordance with the 
+contractual terms

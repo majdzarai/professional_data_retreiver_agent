@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 435 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0434_annual_report_text (1).txt
+NEXT: chunk_0436_annual_report_text (1).txt
+------------------------------
+porting as much as possible any 
+personal or collective initiative that would 
+help reduce the impact of the Companys 
+activities on the environment. IBA is attentive to the impact of its activities, products, and services on the environment and 
+takes measures to decrease its ecological 
+footprint, including initiatives to: consume 
+less 
+energy 
+and 
+resources 
+(including promoting circular economy and 
+sustainable transport) through ecodesign 
+practices; reduce emissions (in particular greenhouse 
+gas); protect surrounding nature (substance of 
+concern 
+management, ground 
+and 
+groundwater

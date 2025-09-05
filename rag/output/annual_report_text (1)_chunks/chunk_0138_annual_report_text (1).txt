@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 138 of 1106
+SIZE: 616 characters
+PREVIOUS: chunk_0137_annual_report_text (1).txt
+NEXT: chunk_0139_annual_report_text (1).txt
+------------------------------
+ther disruptive behavior. We do not permit any form of violence, whether physical, verbal, or mental. We consider all threats of violence as serious. IBA is committed to implementing best practices in the field 
+of Occupational Health and Safety to keep our promise of 
+No Harm to our people. To achieve this result, we:. ensure IBA operations comply with applicable occupational 
+health and safety regulations, and when appropriate, implement additional controls to meet company requirements.. empower all employees to stop any activity which they judge 
+to be hazardous and that goes against our No Harm principle.

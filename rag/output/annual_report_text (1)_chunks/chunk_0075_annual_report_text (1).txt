@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 75 of 1106
+SIZE: 632 characters
+PREVIOUS: chunk_0074_annual_report_text (1).txt
+NEXT: chunk_0076_annual_report_text (1).txt
+------------------------------
+ces. Nuclear medicine is emerging as a relevant modality to address 
+this gap by extending overall survival and quality of life for 
+cancer patients. Theranostics and targeted therapies allow 
+the administration of radiation directly to the targeted cells, with minimal toxic side effects to surrounding healthy cells, unlike traditional modalities. The growing number of clinical 
+trials (200+) and ongoing increase of new radiotherapeutic 
+molecule developments support the great potential of 
+radioligand therapy. To enable this revolution, we must enhance the availability of 
+novel isotopes and boost their production capacity.

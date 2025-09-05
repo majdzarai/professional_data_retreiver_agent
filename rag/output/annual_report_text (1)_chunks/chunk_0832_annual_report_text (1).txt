@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 832 of 1106
+SIZE: 585 characters
+PREVIOUS: chunk_0831_annual_report_text (1).txt
+NEXT: chunk_0833_annual_report_text (1).txt
+------------------------------
+on Brabant, as a venture capital partner 
+InvestBW is an investment fund representing 
+equity and subordinated or convertible loan to 
+entrepreneurs. Although it is presumed that, with 25% of the shares, IBA has a significant 
+influence over InvestBW, we have rebutted the 
+significant influence on the basis that IBA 
+currently has made the choice to not participate 
+in the decision making process of InvestBW. The investment is accounted for as an equity 
+investment financial asset under IFRS9, at fair 
+value and gains and losses will be recognised 
+in Other Comprehensive Income.

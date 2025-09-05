@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 349 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0348_annual_report_text (1).txt
+NEXT: chunk_0350_annual_report_text (1).txt
+------------------------------
+dment 
+to 
+the 
+Companys 
+Articles 
+of 
+Association 
+In this respect, as of 31 December 2023, article 
+29, 2, of the Company's Articles of Association 
+provided the following: Article 29, 2: However, any amendments to the following 
+articles of the Articles of Association: Article 11, Article 12, Article 13, Article 14, Article 19, Article 
+27 and Article 29, may solely be adopted insofar 
+as those attending the meeting represent half of 
+the share capital and as the proposed 
+amendments are approved by at least eighty-five 
+per cent (85%) of the votes cast. (x) Powers of the board of director

@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 180 of 1106
+SIZE: 255 characters
+PREVIOUS: chunk_0179_annual_report_text (1).txt
+NEXT: chunk_0181_annual_report_text (1).txt
+------------------------------
+ancial nature related to 
+the specific activity of the Company, in particular 
+information related to environmental, societal 
+and employees aspects. The 
+management 
+report 
+also 
+includes 
+information on: The 
+foreseeable 
+development 
+of 
+the 
+business

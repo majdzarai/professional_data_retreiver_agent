@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 800 of 1106
+SIZE: 616 characters
+PREVIOUS: chunk_0799_annual_report_text (1).txt
+NEXT: chunk_0801_annual_report_text (1).txt
+------------------------------
+=== Page 146 ===
+IBA Annual Report 2023 
+143. 5.3. IMPAIRMENT OF ASSETS 
+IBA does not have tangible nor intangible 
+assets with indefinite useful life, other than 
+goodwill. Despite 
+the 
+macro-economic 
+conditions and other events of the year 
+described in Note 2, IBA did not identify any 
+indication of impairment on assets in 2023 and 
+2022 financial years. 5.3.1 Goodwill impairment 
+testing: The goodwill recognised on the acquisition of 
+Modus Medical Devices Inc, relates to the 
+Dosimetry business and has been added to the 
+CGU of Dosimetry given the cross synergies that 
+will arise from this acquisition.

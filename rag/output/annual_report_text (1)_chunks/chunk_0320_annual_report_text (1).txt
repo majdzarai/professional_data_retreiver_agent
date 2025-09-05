@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 320 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0319_annual_report_text (1).txt
+NEXT: chunk_0321_annual_report_text (1).txt
+------------------------------
+AND PRIOR DUTIES 
+Olivier 
+Legrain 
+(representing 
+Lamaris Group SRL) 
+Chief Executive Officer 
+Internal Director/ Managing Director/ Member of Nomination 
+Committee/ Member of the Product Committee (prior to its integration)/ 
+Member of the Sustainability Committee (prior to its integration) 
+Yves 
+Jongen 
+(representing 
+Research Management Systems 
+SRL) 
+Chief Research Officer 
+Internal Director / Managing Director / Member of the Nomination 
+Committee / Member of the Product Committee (prior to its integration)/ 
+Member of the Sustainability Committee (prior to its integration) 
+Before the

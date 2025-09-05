@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 405 of 1106
+SIZE: 642 characters
+PREVIOUS: chunk_0404_annual_report_text (1).txt
+NEXT: chunk_0406_annual_report_text (1).txt
+------------------------------
+to 
+834 963, which corresponds to the target 
+annual remuneration of the CEO, Mr Olivier 
+Legrain, applicable as of December 31 of 
+the fiscal year. When considering base pay only, the 
+ratio between the highest and the lowest 
+employee remuneration of the company in 
+Belgium is 10-1 
+Table of Total Remuneration non-Managing Directors 
+The gross amounts that were paid to non-Managing Directors in 2023 are as follows: * BM Board meeting; AC Audit Committee meeting; NC Nomination Committee meeting; CC Compensation Committee 
+meeting; MAC Mergers & Acquisitions Committee meeting; PC Product Committee meeting; SC Sustainability Committee.

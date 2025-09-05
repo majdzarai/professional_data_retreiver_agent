@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 824 of 1106
+SIZE: 610 characters
+PREVIOUS: chunk_0823_annual_report_text (1).txt
+NEXT: chunk_0825_annual_report_text (1).txt
+------------------------------
+ociates and Joint Ventures 
+An associate is an entity in which IBA has significant influence, but which is neither a subsidiary nor a joint 
+venture. Joint ventures (JVs) are the arrangements in which IBA has joint control. Associates and JVs are accounted for 
+using the equity method. When IBAs share of losses exceeds the carrying amount of the associate or joint venture, the 
+carrying amount is reduced to nil and recognition of further losses is discontinued except to the extent that IBA has 
+committed to further contributions to that associate or JV. === Page 150 ===
+IBA Annual Report 2023 
+147. 5.5.

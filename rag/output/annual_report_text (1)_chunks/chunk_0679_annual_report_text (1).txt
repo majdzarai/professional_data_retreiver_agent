@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 679 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0678_annual_report_text (1).txt
+NEXT: chunk_0680_annual_report_text (1).txt
+------------------------------
+applying accounting policies 
+Revenue recognition Equipment and installation considered as one 
+performance obligation 
+Note 4.3 Revenue 
+Determination of the lease term of contract with renewal and/or 
+termination option as a lessee 
+Note 5.2 Property, plant and 
+equipment 
+Contract termination 
+Note 4.3 Revenue 
+Assumptions and sources of estimation uncertainty 
+Assessment of the recoverability of tax losses carryforward 
+Note 4.7.2 Deferred tax 
+Revenue recognition - Estimating the progress under the equipment 
+and installation services contract 
+Note 4.3 Revenue 
+Revenue recognition licens

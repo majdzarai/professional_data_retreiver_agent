@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 906 of 1106
+SIZE: 680 characters
+PREVIOUS: chunk_0905_annual_report_text (1).txt
+NEXT: chunk_0907_annual_report_text (1).txt
+------------------------------
+e 4.3 for EUR 5.0 million. As 
+the performance bond was fully released at the 
+end of 2023, the amount has been recognized 
+as a revenue in the year. The non-trade payables of EUR 9.8 million 
+(2022: EUR 16.2 million) represent primarily 
+VAT due in different countries where the Group 
+operates. The significant decrease is driven by 
+a high level of customer invoices raised at the 
+end of 2022. 6. Stock options and share-based payments 
+Stock option plans launched in 2014 and 2015 
+have the following vesting scheme: 100 percent 
+vesting as at December 31, 2018 and can be 
+exercised until June 30, 2024. In 2016, 2017, 2018 and 2019, no stock option 
+plan has been launched.

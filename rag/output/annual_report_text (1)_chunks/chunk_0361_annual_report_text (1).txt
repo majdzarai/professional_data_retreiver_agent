@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 361 of 1106
+SIZE: 580 characters
+PREVIOUS: chunk_0360_annual_report_text (1).txt
+NEXT: chunk_0362_annual_report_text (1).txt
+------------------------------
+Annual Fixed Remuneration 
+Annual fixed remuneration is a cash component 
+of remuneration, defined in accordance with an 
+individuals position, as well as his or her 
+competencies and experience in the position. Annual Variable Remuneration 
+The annual variable remuneration program 
+rewards 
+performance 
+against 
+specified 
+objectives, defined and formalized at the 
+beginning of the performance period. Payout 
+levels currently are targeted at between 15% and 
+50% of annual fixed remuneration, depending on 
+the position. Actual payout levels are subject to 
+IBAs performance.

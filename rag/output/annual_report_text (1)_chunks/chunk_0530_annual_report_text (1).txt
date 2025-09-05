@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 530 of 1106
+SIZE: 585 characters
+PREVIOUS: chunk_0529_annual_report_text (1).txt
+NEXT: chunk_0531_annual_report_text (1).txt
+------------------------------
+eased substantially year-on-year, from EUR 346.1 million in 2022 to EUR 449.4 
+million in 2023, predominantly due to an 
+increased level of activity. The operating profit amounted to EUR 17.3 
+million in 2023 against a loss of EUR -6.6 million 
+in 2022, a net increase of EUR 23.9 million. This 
+is again driven by a higher activity level, hence 
+higher gross margin, but also by higher 
+investments by the company to remain ready for 
+the future, which partially offsets the postive 
+trend in the margin. Operating expenses increased by EUR 81.6 
+million in 2023 to EUR 434.3 million.

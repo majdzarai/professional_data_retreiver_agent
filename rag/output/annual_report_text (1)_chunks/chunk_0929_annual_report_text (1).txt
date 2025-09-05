@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 929 of 1106
+SIZE: 553 characters
+PREVIOUS: chunk_0928_annual_report_text (1).txt
+NEXT: chunk_0930_annual_report_text (1).txt
+------------------------------
+Accounting policy 
+Classification and measurement 
+Financial assets: The classification and measurement of the Groups financial assets are, as follows: Debt instruments at amortized cost: this category includes the Groups Trade receivables, long-term receivables on 
+contracts in progress, other receivables and loans included under other long-term assets, non-trade receivables/advance 
+payments, short-term receivables and cash and cash equivalents. Equity instruments at FVOCI, with no recycling of gains or losses to profit or loss on derecognition.

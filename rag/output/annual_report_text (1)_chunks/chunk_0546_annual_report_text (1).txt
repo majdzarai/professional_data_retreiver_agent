@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 546 of 1106
+SIZE: 652 characters
+PREVIOUS: chunk_0545_annual_report_text (1).txt
+NEXT: chunk_0547_annual_report_text (1).txt
+------------------------------
+eived 
+for 
+Research 
+and 
+Development activities (CIRD). Given these 
+R&D activities increased compared to last year, the tax credit also increased. Current assets 
+Inventories and work/contracts in 
+progress 
+Inventories and contracts in progress amounted 
+to EUR 168.1 million in 2023 compared to EUR 
+146.2 million in 2022. Supplies and work in 
+progress increased by EUR 30.1 million. Contracts in progress decreased from EUR 66.7 
+million to EUR 58.5 million. The overall increase 
+of the inventories is the result of the significant 
+ramp-up of activities after the two covid-years 
+2020 and 2021, which is also visible in the 
+operating income.

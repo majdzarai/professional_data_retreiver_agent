@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 866 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0865_annual_report_text (1).txt
+NEXT: chunk_0867_annual_report_text (1).txt
+------------------------------
+the interest rates, this represents a non-
+substantial change to the contract terms in the 
+sense of IFRS and is treated as a contract 
+modification. As a result, IFRS 9 requires the 
+revised future cash flows to be amortised with 
+the initial effective interest rate, leading to a one 
+off gain of EUR 0.6 million in 2022 (recognised 
+in Other financial income in the consolidated 
+statement of income). The maturities of bank and other borrowings and 
+lease liabilities are detailed as follows: (EUR 000) 
+Bank borrowings 
+Leases 
+Total 
+Bank borrowings Leases 
+Total 
+Due 
+0 
+0 
+0 
+2 734 
+0 
+2 734

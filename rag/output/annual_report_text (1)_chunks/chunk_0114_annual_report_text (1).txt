@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 114 of 1106
+SIZE: 635 characters
+PREVIOUS: chunk_0113_annual_report_text (1).txt
+NEXT: chunk_0115_annual_report_text (1).txt
+------------------------------
+ilable resources. myQA PROactive workflow
+Watch the video. myQA iON provides high level 
+of automation and an easy 
+overview of all patient QA tasks. We added some scripts to our TPS 
+to automatically send the DICOM 
+data to myQA iON as soon as a plan 
+is approved. myQA iON calculates 
+the dose and evaluates the data 
+during the preparation work inside 
+the OIS automatically; this speeds 
+up our QA. When we finish prep, the QA is ready. The Monte Carlo 
+algorithm provides high specificity 
+and sensitivity to capture real 
+clinical errors. myQA iONs accuracy 
+and performance give us high 
+confidence in our patient QA 
+processes.

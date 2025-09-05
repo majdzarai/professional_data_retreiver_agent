@@ -1,0 +1,29 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 588 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0587_annual_report_text (1).txt
+NEXT: chunk_0589_annual_report_text (1).txt
+------------------------------
+=== Page 114 ===
+IBA Annual Report 2023 
+111. Consolidated statement of other 
+comprehensive income for the year ended 
+December 31, 2023 
+(EUR 000) 
+Notes 
+December 31, 2022 
+December 31, 2023 
+Profit/(loss) for the period (net of tax) 
+6 057 
+-9 110 
+Other comprehensive income to be reclassified to profit or loss in 
+subsequent periods (net of tax): - Exchange differences on translation of foreign operations 
+545 
+2 451 
+- Exchange difference related to net investment in foreign operation 
+185 
+981 
+- Net movement on cash flow hedges 
+7.4.1. 38 
+5 057 
+Net other comprehensive income to be re

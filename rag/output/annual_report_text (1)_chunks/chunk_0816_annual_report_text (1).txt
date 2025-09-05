@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 816 of 1106
+SIZE: 622 characters
+PREVIOUS: chunk_0815_annual_report_text (1).txt
+NEXT: chunk_0817_annual_report_text (1).txt
+------------------------------
+in Normandy 
+Hadrontherapy SAS remained at 39.81 % (no 
+change from 2019) of this entity following 
+financing by several public and private players. The objective of this project is to launch the 
+development of the worlds first cyclotron-based 
+carbon therapy system in Caen, France through 
+its subsidiary Normandy Hadrontherapy (NHa), in collaboration with the Normandy Region and 
+several other private and public players, including 
+SAPHYN 
+(SAnte 
+et 
+PHYsique 
+Nucleaire). The overall investment by all partners in NHa is 
+over EUR 60 million, in equity and bond 
+financing 
+(guaranteed 
+by 
+the 
+Normandy 
+Region).

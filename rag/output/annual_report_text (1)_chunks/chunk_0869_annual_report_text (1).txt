@@ -1,0 +1,48 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 869 of 1106
+SIZE: 618 characters
+PREVIOUS: chunk_0868_annual_report_text (1).txt
+NEXT: chunk_0870_annual_report_text (1).txt
+------------------------------
+0 454 10 454 
+16 222 
+28 127 44 349 
+14 691 
+29 720 44 411 
+Future interest expense on bank and other borrowings (-) 
+-1 841 
+-1 641 
+-3 482 
+-1 108 
+-1 721 
+-2 829 
+TOTAL 
+14 381 
+26 486 40 867 
+13 583 
+27 999 41 582 
+5.10.1 Bank borrowings and credit facilities 
+The table below outlines the key terms and conditions of the existing credit facilities: Loan/Credit line 
+Ranking 
+Status 
+Total due 
+December 
+31, 2022 
+(EUR 000) 
+Carrying 
+amount 
+December 
+31, 2022 
+(EUR 000) 
+Total due 
+December 
+31, 2023 
+(EUR 000) 
+Carrying 
+amount 
+December 
+31, 2023 
+(EUR 000) 
+Currency Interest 
+Maturity Repayment 
+S.R.I.W.

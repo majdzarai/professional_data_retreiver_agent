@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 474 of 1106
+SIZE: 611 characters
+PREVIOUS: chunk_0473_annual_report_text (1).txt
+NEXT: chunk_0475_annual_report_text (1).txt
+------------------------------
+r 
+mission, accountability and transparency, and building a 
+sustainable supply chain, by screening our 
+suppliers societal and environmental impact. We 
+have achieved B Corp 2023 score of 106+pts 
+(proforma as measured by a 3rd party 
+verification interim report on B Corp progress). 34% of 2023 variable targets for Management 
+and Opt-Ins are linked to said B Corp score 
+increase. We have selected Ecovadis as our 
+service 
+provider 
+for 
+Supply 
+Chain 
+ESG 
+screening. And we closely survey the applicable 
+and 
+forthcoming 
+non-financial 
+reporting 
+regulations (GRI 2021, taxonomy, CSRD, due 
+diligence).

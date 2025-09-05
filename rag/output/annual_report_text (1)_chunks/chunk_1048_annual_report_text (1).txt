@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1048 of 1106
+SIZE: 322 characters
+PREVIOUS: chunk_1047_annual_report_text (1).txt
+NEXT: chunk_1049_annual_report_text (1).txt
+------------------------------
+ernance statement / diversity, equity and inclusion policy 
+p80 AR2023 Management report / corporate governance statement / codes of 
+conduct 
+p191 AR2023 GRI appendix 2-7 / information on employees and other workers 
+2-8 
+Workers who are not employees 
+At 31.12.2023, IBA called on 136 external contractors 
+3. Governance

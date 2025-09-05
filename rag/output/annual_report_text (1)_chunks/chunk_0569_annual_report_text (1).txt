@@ -1,0 +1,44 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 569 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0568_annual_report_text (1).txt
+NEXT: chunk_0570_annual_report_text (1).txt
+------------------------------
+on does not contain all the 
+appendices and the auditors report, who 
+expressed an unqualified opinion. === Page 108 ===
+IBA Annual Report 2021 
+105. ASSETS (EUR 000) 
+2022 
+2023 
+FIXED ASSETS 
+213 636 
+258 999 
+Formation expenses 
+- 
+- 
+Intangible fixed assets 
+46 367 
+68 968 
+Tangible fixed assets 
+28 249 
+29 671 
+Land and buildings 
+10 742 
+11 978 
+Plant, machinery, and equipment 
+2 139 
+2 313 
+Furniture and vehicles 
+2 173 
+2 372 
+Leases and similar rights 
+12 139 
+11 717 
+Assets under construction and advance payments 
+1 056 
+1 291 
+Financial assets 
+139 020 
+160 360 
+Affiliated companies

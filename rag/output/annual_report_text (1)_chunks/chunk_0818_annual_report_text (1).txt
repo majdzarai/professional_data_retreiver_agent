@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 818 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0817_annual_report_text (1).txt
+NEXT: chunk_0819_annual_report_text (1).txt
+------------------------------
+no capital commitments as at December 
+31, 2022 and December 31, 2023 to participate 
+in any potential future funding of Normandy 
+Hadrontherapy SAS. IBA has therefore not accounted for its share of 
+the loss and negative equity of Normandy 
+Hadrontherapy SAS beyond its value of the 
+capital invested. The following table illustrates the summarized financial information of the associates: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Investment in affiliated companies 
+Current assets 
+31 942 
+28 364 
+Non-current assets 
+89 035 
+88 949 
+Current liabilities (-) 
+-14 505 
+-21 637 
+Non-Current l

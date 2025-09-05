@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 780 of 1106
+SIZE: 546 characters
+PREVIOUS: chunk_0779_annual_report_text (1).txt
+NEXT: chunk_0781_annual_report_text (1).txt
+------------------------------
+ical Device Regulation. The 
+costs incurred are mainly internal staff costs and 
+are considered as development as all criteria 
+under IAS 38 are met. The project is still in 
+progress and the related costs are capitalised in 
+the heading Other for EUR 5.7 million, out of 
+which EUR 3.7 million were incurred this year. Finally, further investments were made in 
+software development. In 2022, additional investments were made in 
+software, mainly for the development of the IT 
+internal service management system and an SAP 
+HR central platform.

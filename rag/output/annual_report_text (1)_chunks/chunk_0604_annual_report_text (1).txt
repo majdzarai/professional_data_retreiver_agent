@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 604 of 1106
+SIZE: 676 characters
+PREVIOUS: chunk_0603_annual_report_text (1).txt
+NEXT: chunk_0605_annual_report_text (1).txt
+------------------------------
+ns. 147 
+5.6. Inventories. 148 
+5.7. Trade receivables and other operating 
+assets. 149 
+5.8. Cash and cash equivalents. 151 
+5.9. Equity. 151 
+5.10. Borrowings. 152 
+5.11. Long-term and short-term provisions. 155 
+5.12. Trade payables and other operating 
+liabilities. 158 
+6. Stock options and share-based payments. 159 
+7. Description of financial risk management. 161 
+8. Cash flow statement. 167 
+9. Litigation. 168 
+10. Liabilities and contingent assets. 169 
+11. Related party transactions. 169 
+12. List of subsidiaries and equity-
+accounted investments. 172 
+13. Fees for services rendered by the 
+statutory auditors. 173 
+14.Events after the reporting date. 173 
+15.

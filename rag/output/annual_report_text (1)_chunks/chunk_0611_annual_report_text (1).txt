@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 611 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0610_annual_report_text (1).txt
+NEXT: chunk_0612_annual_report_text (1).txt
+------------------------------
+===
+IBA Annual Report 2023 
+116. 1.2.1 Material accounting policies 
+IBA discloses the material accounting policies in the notes to which they refer. Here is the list of the 
+policies presented and references to Notes: Accounting policies 
+Note 
+Business combinations 
+3 Business combinations and other changes in 
+the composition of the group 
+Goodwill 
+3 Business combinations and other changes in 
+the composition of the group 
+Operating segments 
+4 Operating segments and IBA Group 
+performance 
+Revenue recognition 
+4.3 Revenue 
+Pensions and similar obligations 
+5.11.1 Defined employee benefit

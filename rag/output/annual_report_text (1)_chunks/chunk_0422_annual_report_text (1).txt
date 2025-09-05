@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 422 of 1106
+SIZE: 609 characters
+PREVIOUS: chunk_0421_annual_report_text (1).txt
+NEXT: chunk_0423_annual_report_text (1).txt
+------------------------------
+A 
+is also committed to a workplace free of 
+harassment. Social rights, as an integral part of 
+human rights, are actively protected by the 
+Company. IBA also ensures the highest standards of safety 
+for all employees. IBAs target, as defined in the 
+Code of Business Conduct, is No Harm to our 
+people. As an example, the Code of Business 
+Conduct clearly states that all employees are 
+empowered to stop any activity which they judge 
+hazardous and goes against the No Harm 
+principle. The Code also defines working times 
+that cannot be exceeded, even if local rules and 
+regulations allow for such excess.

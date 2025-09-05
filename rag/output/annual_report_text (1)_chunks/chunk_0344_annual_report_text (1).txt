@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 344 of 1106
+SIZE: 544 characters
+PREVIOUS: chunk_0343_annual_report_text (1).txt
+NEXT: chunk_0345_annual_report_text (1).txt
+------------------------------
+d a power of attorney from that 
+shareholder; (b) has a business, shareholding or family 
+relationship with that shareholder (or an 
+associated company or person) or with a person 
+referred to in (a), that is such as to influence the 
+conditions under which he exercises his 
+mandate as director; or 
+(c) has been appointed on the proposal or by the 
+decisive vote of that shareholder. For the purposes of this Article 12, the 
+expression "related" company or person must be 
+construed within the meaning of section 1:20, 1 
+and 2, of the BCAC.

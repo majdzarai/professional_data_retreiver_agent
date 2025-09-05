@@ -51,6 +51,18 @@ class ReportGenerator:
         self.output_dir = Path(config.output_dir)
         self.output_dir.mkdir(exist_ok=True, parents=True)
         
+        # Create specific output directories for each agent
+        self.planner_dir = self.output_dir / "planner"
+        self.researcher_dir = self.output_dir / "researcher"
+        self.writer_dir = self.output_dir / "writer"
+        self.editor_dir = self.output_dir / "editor"
+        
+        # Create all directories
+        self.planner_dir.mkdir(exist_ok=True, parents=True)
+        self.researcher_dir.mkdir(exist_ok=True, parents=True)
+        self.writer_dir.mkdir(exist_ok=True, parents=True)
+        self.editor_dir.mkdir(exist_ok=True, parents=True)
+        
         # Initialize agents
         self.planner = PlannerAgent(config)
         self.researcher = ResearcherAgent(config)
@@ -64,11 +76,12 @@ class ReportGenerator:
         self.section_drafts = {}
         self.final_report = None
 
-    def load_report_structure(self, structure_file: str) -> Dict:
+    def load_report_structure(self, structure_file: str, topic: str = None) -> Dict:
         """Load the report structure from a JSON file.
 
         Args:
             structure_file: Path to the JSON file containing the report structure
+            topic: Topic of the report to replace <REPORT_TOPIC> placeholder
 
         Returns:
             The loaded report structure as a dictionary
@@ -76,6 +89,12 @@ class ReportGenerator:
         self.logger.info(f"Loading report structure from {structure_file}")
         with open(structure_file, 'r') as f:
             self.report_structure = json.load(f)
+        
+        # Replace <REPORT_TOPIC> placeholder with the provided topic
+        if topic and 'topic' in self.report_structure and self.report_structure['topic'] == '<REPORT_TOPIC>':
+            self.logger.info(f"Setting report topic to: {topic}")
+            self.report_structure['topic'] = topic
+        
         return self.report_structure
 
     def generate_section_plans(self) -> Dict:
@@ -95,10 +114,11 @@ Generate plans for each section using the Planner Agent.
             section_plan = self.planner.generate_plan(chapter)
             self.section_plans[chapter_id] = section_plan
             
-            # Save the plan to disk
-            plan_file = self.output_dir / f"plan_{chapter_id}.json"
+            # Save the plan to disk in the planner directory
+            plan_file = self.planner_dir / f"plan_{chapter_id}.json"
             with open(plan_file, 'w') as f:
                 json.dump(section_plan, f, indent=2)
+            self.logger.info(f"Saved plan to {plan_file}")
             
             # Process each section within the chapter if any
             if 'sections' in chapter and chapter['sections']:
@@ -115,10 +135,11 @@ Generate plans for each section using the Planner Agent.
                     section_plan = self.planner.generate_plan(section)
                     self.section_plans[section_id] = section_plan
                     
-                    # Save the plan to disk
-                    plan_file = self.output_dir / f"plan_{section_id}.json"
+                    # Save the plan to disk in the planner directory
+                    plan_file = self.planner_dir / f"plan_{section_id}.json"
                     with open(plan_file, 'w') as f:
                         json.dump(section_plan, f, indent=2)
+                    self.logger.info(f"Saved plan to {plan_file}")
         
         return self.section_plans
 
@@ -143,10 +164,11 @@ Generate plans for each section using the Planner Agent.
                         evidence = self.researcher.retrieve_evidence(question)
                         self.retrieved_evidence[question_id] = evidence
                         
-                        # Save the evidence to disk
-                        evidence_file = self.output_dir / f"evidence_{question_id}.json"
+                        # Save evidence to disk in the researcher directory
+                        evidence_file = self.researcher_dir / f"evidence_{question_id}.json"
                         with open(evidence_file, 'w') as f:
                             json.dump(evidence, f, indent=2)
+                        self.logger.info(f"Saved evidence to {evidence_file}")
         else:
             # Process each section plan individually
             for section_id, section_plan in self.section_plans.items():
@@ -159,10 +181,11 @@ Generate plans for each section using the Planner Agent.
                         evidence = self.researcher.retrieve_evidence(question)
                         self.retrieved_evidence[question_id] = evidence
                         
-                        # Save the evidence to disk
-                        evidence_file = self.output_dir / f"evidence_{question_id}.json"
+                        # Save the evidence to disk in the researcher directory
+                        evidence_file = self.researcher_dir / f"evidence_{question_id}.json"
                         with open(evidence_file, 'w') as f:
                             json.dump(evidence, f, indent=2)
+                        self.logger.info(f"Saved evidence to {evidence_file}")
         
         return self.retrieved_evidence
 
@@ -243,9 +266,15 @@ Generate plans for each section using the Planner Agent.
                 self.section_drafts[section_id] = content
                 
                 # Save the draft to disk
-                draft_file = self.output_dir / f"draft_{section_id}.md"
+                draft_file = self.writer_dir / f"draft_{section_id}.md"
                 with open(draft_file, 'w') as f:
                     f.write(content)
+        
+        # Save the section drafts to disk in the writer directory
+        drafts_file = self.writer_dir / "section_drafts.json"
+        with open(drafts_file, 'w') as f:
+            json.dump(self.section_drafts, f, indent=2)
+        self.logger.info(f"Saved section drafts to {drafts_file}")
         
         return self.section_drafts
 
@@ -281,27 +310,29 @@ Generate plans for each section using the Planner Agent.
         
         self.final_report = self.editor.compile_report(formatted_section_drafts)
         
-        # Save the final report to disk
-        report_file = self.output_dir / "final_report.md"
+        # Save the final report to disk in the editor directory
+        report_file = self.editor_dir / "final_report.md"
         with open(report_file, 'w') as f:
             f.write(self.final_report)
+        self.logger.info(f"Saved final report to {report_file}")
         
         return self.final_report
 
-    def run(self, structure_file: str) -> str:
-        """Run the complete report generation process.
+    def run(self, structure_file: str, topic: str = None) -> str:
+        """Run the report generation process.
 
         Args:
             structure_file: Path to the JSON file containing the report structure
+            topic: Topic of the report to replace <REPORT_TOPIC> placeholder
 
         Returns:
-            Path to the generated report
+            Path to the generated report file
         """
         start_time = time.time()
         self.logger.info("Starting report generation process")
         
         # Step 1: Load report structure
-        self.load_report_structure(structure_file)
+        self.load_report_structure(structure_file, topic)
         
         # Step 2: Generate section plans
         self.generate_section_plans()
@@ -331,6 +362,8 @@ def main():
     parser = argparse.ArgumentParser(description="Generate a report using the multi-agent framework")
     parser.add_argument('--structure', '-s', required=True,
                        help='Path to the JSON file containing the report structure')
+    parser.add_argument('--topic', '-t', required=True,
+                       help='Topic of the report to replace <REPORT_TOPIC> placeholder')
     parser.add_argument('--output-dir', '-o', default='output/reports',
                        help='Directory to save the generated report and intermediate files')
     parser.add_argument('--verbose', '-v', action='store_true',
@@ -370,7 +403,7 @@ def main():
     
     # Create and run the report generator
     generator = ReportGenerator(config)
-    report_file = generator.run(args.structure)
+    report_file = generator.run(args.structure, args.topic)
     
     print(f"\n🎉 Report generation completed!")
     print(f"📄 Report saved to: {report_file}")

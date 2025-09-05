@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 94 of 1106
+SIZE: 579 characters
+PREVIOUS: chunk_0093_annual_report_text (1).txt
+NEXT: chunk_0095_annual_report_text (1).txt
+------------------------------
+never patient demand grows. It is also designed to be 
+compatible with upcoming proton therapy innovations, futureproofing centers for years to come. THE MOST VERSATILE SYSTEM ON THE MARKET
+From routine to research, ProteusONEs high modularity allows 
+customers to select the best configuration for their center, and 
+gives physicians the flexibility to choose the best treatment 
+option for their patients. Physicians gain access to all the clinical benefits of Intensity 
+Modulated Proton Therapy (IMPT) with Pencil Beam Scanning 
+(PBS) with no compromise on patient treatment.

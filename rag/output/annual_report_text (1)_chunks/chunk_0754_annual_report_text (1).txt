@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 754 of 1106
+SIZE: 301 characters
+PREVIOUS: chunk_0753_annual_report_text (1).txt
+NEXT: chunk_0755_annual_report_text (1).txt
+------------------------------
+nts 
+-1 161 
+-1 105 
+Adjustments in respect of income tax charges of previous years 
+-105 
+1 058 
+Share of result of an associate 
+1 
+42 
+Other tax (income)/expense 
+-20 
+1 187 
+Booked tax charge/(profit) 
+-6 487 
+8 795 
+Theoretical tax rate 
+-464.19% 
+133.97% 
+Effective tax rate 
+1508.66% 
+-2792.14%

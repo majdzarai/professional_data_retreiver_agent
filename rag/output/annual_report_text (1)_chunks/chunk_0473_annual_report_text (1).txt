@@ -1,0 +1,32 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 473 of 1106
+SIZE: 671 characters
+PREVIOUS: chunk_0472_annual_report_text (1).txt
+NEXT: chunk_0474_annual_report_text (1).txt
+------------------------------
+and inclusive 
+workplace aims to pro-actively incorporate 
+diversity, equality and inclusion into our business 
+as a major contributor to belonging. A number of 
+collective intelligence initiatives are in place such 
+a 
+sounding 
+board 
+to 
+involve 
+voluntary 
+employees into strategic, management, or day to 
+day initiatives such as ecodesign, biodiversity 
+protection, volunteering policy, or green mobility. The 
+stream 
+company 
+accountable 
+to 
+sustainability addresses the policies and 
+practices 
+pertaining 
+to 
+our 
+mission, accountability and transparency, and building a 
+sustainable supply chain, by screening our 
+suppliers societal and environmental impact.

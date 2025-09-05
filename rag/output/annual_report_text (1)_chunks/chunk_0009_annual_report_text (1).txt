@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 9 of 1106
+SIZE: 556 characters
+PREVIOUS: chunk_0008_annual_report_text (1).txt
+NEXT: chunk_0010_annual_report_text (1).txt
+------------------------------
+=== Page 6 ===
+We care about the well-being of our clients 
+and patients, our employees, our society, our 
+planet and our shareholders. CARE
+We share our ideas and expertise with our 
+stakeholders to create better results. SHARE
+We implement our mission to protect, enhance and save lives through ethical 
+standards and transparency to remain worthy 
+of our stakeholders trust. BE FAIR
+Creativity, innovation and passion are 
+mandatory for a company that continually 
+stretches the frontiers of technology. Day after 
+day, we dare to create better results.

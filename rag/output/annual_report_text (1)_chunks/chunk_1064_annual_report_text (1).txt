@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1064 of 1106
+SIZE: 287 characters
+PREVIOUS: chunk_1063_annual_report_text (1).txt
+NEXT: chunk_1065_annual_report_text (1).txt
+------------------------------
+3-1 
+Management of material topics 
+p40 AR2023 A committed company / planet 
+p84 AR2023 Management report / corporate governance statement / codes of 
+conduct / environmental matters 
+304-3 
+Habitats protected or restored 
+p40 AR2023 A committed company / planet 
+GRI 305 EMISSIONS v2016

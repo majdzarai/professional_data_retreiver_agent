@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 917 of 1106
+SIZE: 296 characters
+PREVIOUS: chunk_0916_annual_report_text (1).txt
+NEXT: chunk_0918_annual_report_text (1).txt
+------------------------------
+risk, covenant risks. 7.2. CAPITAL MANAGEMENT 
+The Groups aim is to optimize the capital 
+structure in order to maximize its value for the 
+shareholders while maintaining the financial 
+flexibility required carrying out the strategy 
+approved by the Board of Directors. 7.3. FINANCIAL INSTRUMENTS

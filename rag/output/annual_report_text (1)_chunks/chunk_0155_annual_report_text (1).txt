@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 155 of 1106
+SIZE: 398 characters
+PREVIOUS: chunk_0154_annual_report_text (1).txt
+NEXT: chunk_0156_annual_report_text (1).txt
+------------------------------
+ancer events. Associations such as Compass to Care Childhood Cancer 
+Foundation in the US, Muni Seva Ashram in India, La Vie-
+la and LEssentiel in Belgium, which support people with 
+cancer in order to offer them a better quality of life, have also 
+benefited from the ongoing support of IBA and its employees 
+for many years. Rock Against Cancer
+Golf Against Cancer 
+CORPORATE BROCHURE 2024
+IBA
+39

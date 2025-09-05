@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 242 of 1106
+SIZE: 624 characters
+PREVIOUS: chunk_0241_annual_report_text (1).txt
+NEXT: chunk_0243_annual_report_text (1).txt
+------------------------------
+=== Page 58 ===
+IBA Annual Report 2023 
+55. IBA 
+maintains insurance to protect itself in the event 
+of damages arising from a product liability 
+lawsuit or from the use of its products. In a 
+country such as the United States, where the 
+slightest incident may result in major lawsuits, there is always a risk that a patient who is 
+dissatisfied with services received by products 
+delivered by IBA may initiate legal action against 
+it. The Company cannot guarantee that its 
+insurance coverage will always be sufficient to 
+protect it from such risks or that it will always be 
+possible to obtain coverage for such risks.

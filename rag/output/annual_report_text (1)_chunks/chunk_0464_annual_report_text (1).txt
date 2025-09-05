@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 464 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0463_annual_report_text (1).txt
+NEXT: chunk_0465_annual_report_text (1).txt
+------------------------------
+Corps (Benefit 
+Corporations) are part of a movement to 
+transform businesses to contribute to a more 
+sustainable and inclusive economy and society. The B Corp certification has been awarded to 
+IBA by B Lab, the non-profit organization behind 
+the B Corp movement worldwide. The rigorous 
+assessment of the company's business model 
+and operations demonstrates that IBA meets 
+some 
+of 
+the 
+highest 
+environmental, transparency 
+and 
+social 
+responsibility 
+standards. This prestigious label, internationally 
+recognized as one of the most comprehensive 
+and demanding in its field, attests to IBA

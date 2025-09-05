@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 73 of 1106
+SIZE: 681 characters
+PREVIOUS: chunk_0072_annual_report_text (1).txt
+NEXT: chunk_0074_annual_report_text (1).txt
+------------------------------
+diotheranostics can be used 
+to treat a wide range of cancers, including neuroendocrine 
+tumors, prostate cancer, and certain types of breast cancer. Overall, radiotheranostics represents a promising avenue for 
+cancer care that is gaining increasing attention from health 
+care professionals and researchers alike. As more research is conducted in this area, it is expected 
+that radiotheranostics will continue to play an important role 
+in the fight against cancer. This theranostic principle has acquired greater importance in 
+personalized medicine in recent years, particularly in oncology, where advanced tumors can potentially be treated effectively 
+with low side effects.

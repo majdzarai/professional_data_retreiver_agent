@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 31 of 1106
+SIZE: 485 characters
+PREVIOUS: chunk_0030_annual_report_text (1).txt
+NEXT: chunk_0032_annual_report_text (1).txt
+------------------------------
+=== Page 14 ===
+MAKING MORE ECO-RESPONSIBLE 
+SOLUTIONS: A DAILY MISSION
+The Rhodotron electric accelerator is the most 
+environmentally-friendly option as it avoids the use 
+of toxic chemicals and radioactive materials, as well 
+as the pollution and hazards associated with them. And yet, IBAs ambition is to go even further. IBA is now 
+deploying more resources and investigating further options 
+to ensure that the entire solution offered is part of a more 
+eco-responsible approach.

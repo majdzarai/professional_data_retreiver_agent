@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 437 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0436_annual_report_text (1).txt
+NEXT: chunk_0438_annual_report_text (1).txt
+------------------------------
+better manage waste (minimization and 
+recycling). Within IBA, every employee is expected to 
+perform 
+his/her 
+job 
+with 
+environmental 
+awareness and to apply the principles of 
+prevention, precaution and rectification at 
+source. Through its Code of Conduct for Suppliers, the 
+Company further encourages its major suppliers 
+to share its commitment to the environment and 
+to reduce the environmental impact of their 
+designs, manufacturing processes, waste, and 
+emissions. Upstream, the IBAs Articles of Associations now 
+specify in article 3 (.) The Company's 
+objectives include having, in th

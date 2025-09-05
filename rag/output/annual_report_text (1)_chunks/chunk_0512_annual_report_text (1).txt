@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 512 of 1106
+SIZE: 662 characters
+PREVIOUS: chunk_0511_annual_report_text (1).txt
+NEXT: chunk_0513_annual_report_text (1).txt
+------------------------------
+ill become due in 2024 for EUR -3.1 million 
+Current assets amount to EUR 452.0 million at 
+the end of 2023 and have decreased by EUR -
+48.4 million. The main factor of this decrease are: A decrease of cash and cash equivalents by 
+EUR -49.1 million to maintain a high balance 
+of EUR 109.3 million at December 31, 2023. A decrease of other receivables by EUR -
+24.5 million which were impacted by the 
+release of cash rapatriated from Russia 
+which temporarely blocked by the belgian 
+authorities in 2022 for EUR -7.3 million, decrease of deposits by EUR -9.9 million 
+and the decrease accured income on 
+service contracts for EUR -6.0 million and 
+the deposit.

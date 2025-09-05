@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 730 of 1106
+SIZE: 376 characters
+PREVIOUS: chunk_0729_annual_report_text (1).txt
+NEXT: chunk_0731_annual_report_text (1).txt
+------------------------------
+Refund liabilities 
+A refund liability is recognised for consideration that IBA has received in advance from a customer and expects to refund 
+to the customer, and is measured at the amount of consideration received for which the entity does not expect to be entitled 
+(ie amounts not included in the transaction price). Source of estimation uncertainty and critical judgments

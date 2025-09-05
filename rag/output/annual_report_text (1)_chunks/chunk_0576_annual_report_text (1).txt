@@ -1,0 +1,44 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 576 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0575_annual_report_text (1).txt
+NEXT: chunk_0577_annual_report_text (1).txt
+------------------------------
+ancial income 
+14 530 
+22 467 
+Income from financial assets 
+0 
+0 
+Income from current assets 
+2 157 
+15 044 
+Other financial income 
+12 373 
+7 423 
+Extraordinary financial income 
+0 
+0 
+Financial expenses (-) 
+-21 686 
+-21 848 
+Interest expense 
+-952 
+-1 046 
+Amounts written off on current assets other than inventories, work in 
+progress and trade debtors - increase (decrease) 
+0 
+0 
+Other financial charges 
+-13 633 
+-11 335 
+Extraordinary financial expenses (-) 
+-7 101 
+-9 467 
+Profit/(loss) for the period before taxes 
+-13 748 
+15 716 
+Income taxes (-) (+) 
+-773 
+-1 871 
+Profit/(loss) for t

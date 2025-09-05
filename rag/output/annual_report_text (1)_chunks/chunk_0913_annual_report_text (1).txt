@@ -1,0 +1,59 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 913 of 1106
+SIZE: 514 characters
+PREVIOUS: chunk_0912_annual_report_text (1).txt
+NEXT: chunk_0914_annual_report_text (1).txt
+------------------------------
+June 30, 2024 
+31.84 
+20 000 
+31.84 
+20 000 
+May 31, 2026 
+7.54 
+172 500 
+7.54 
+166 250 
+May 31, 2030 
+7.54 
+172 500 
+7.54 
+166 250 
+December 31, 2026 
+13.39 
+631 997 
+13.39 
+627 204 
+December 31, 2026 
+15.77 
+7 190 
+15.77 
+7 190 
+December 31, 2026 
+14.39 
+31 156 
+14.39 
+19 173 
+December 31, 2027 
+17.15 
+16 839 
+17.15 
+16 839 
+December 31, 2028 
+n/a 
+n/a 
+17.60 
+14 117 
+December 31, 2028 
+n/a 
+n/a 
+15.74 
+19 708 
+December 31, 2028 
+n/a 
+n/a 
+10.76 
+46 000 
+TOTAL outstanding stock options 
+1 115 682 
+1 156 231

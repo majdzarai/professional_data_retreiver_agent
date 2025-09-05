@@ -1,0 +1,31 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 736 of 1106
+SIZE: 476 characters
+PREVIOUS: chunk_0735_annual_report_text (1).txt
+NEXT: chunk_0737_annual_report_text (1).txt
+------------------------------
+=== Page 136 ===
+IBA Annual Report 2023 
+133. 4.4. OTHER OPERATING EXPENSES AND INCOME 
+4.4.1 Other operating expenses 
+The other operating expenses can be broken down as follows: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Reorganization expenses 
+0 
+2 453 
+Costs related to specific projects 
+656 
+64 
+Costs of share-based payments 
+941 
+1 008 
+Pension plan past service cost 
+1 938 
+0 
+Costs relating to significant bankruptcy of client 
+2 553 
+0 
+ TOTAL 
+6 088 
+3 525

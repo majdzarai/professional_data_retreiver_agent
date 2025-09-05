@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 384 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0383_annual_report_text (1).txt
+NEXT: chunk_0385_annual_report_text (1).txt
+------------------------------
+ommend that the 
+members of the executive management team 
+(MT), considered as such by the CEO and the 
+Remuneration Committee from time to time, provide management consultancy services to 
+the 
+Company 
+through 
+an 
+independently 
+organized management company, and not 
+through an employment relationship. The Board 
+believes, together with the Belgian regulator, that the framework allowing for the executive 
+management to perform its duties i.e. under 
+Principles 2.19, 2.20, 20.21, and 2.22 of the 
+Belgian Code of Corporate Governance (2020) 
+in collegial uniformity and with the greatest 
+impa

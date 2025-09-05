@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 270 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0269_annual_report_text (1).txt
+NEXT: chunk_0271_annual_report_text (1).txt
+------------------------------
+w applicable to some 
+non-executive directors of IBA prohibits them 
+from receiving part of their remuneration in the 
+form of shares of the company. Therefore, IBA is 
+not in a position to abide by principle 7.6 of the 
+2020 Belgian Corporate Governance Code. The Company has complied with all the 
+provisions of the 2020 Corporate Governance 
+Code, except those from which it has deviated 
+for the reasons explained hereabove. === Page 62 ===
+IBA Annual Report 2023 
+59. IBA 
+MAIN FEATURES OF THE INTERNAL CONTROL & 
+RISK MANAGEMENT SYSTEMS (SECTIONS 3:6, 2, 3 AND 3:32, 1, 7, OF THE BCAC) 
+Managem

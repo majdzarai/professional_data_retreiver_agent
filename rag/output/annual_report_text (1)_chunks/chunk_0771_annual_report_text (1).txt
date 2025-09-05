@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 771 of 1106
+SIZE: 300 characters
+PREVIOUS: chunk_0770_annual_report_text (1).txt
+NEXT: chunk_0772_annual_report_text (1).txt
+------------------------------
+BASIC EARNINGS PER SHARE 
+December 31, 2022 
+December 31, 2023 
+Earnings attributable to parent equity holders (EUR 000) 
+6 057 
+-9 110 
+Weighted average number of ordinary shares 
+29 143 354 
+29 126 615 
+Net earnings per share from operations (EUR per share) 
+0.2078 
+-0.3128 
+4.7.2 Diluted earnings

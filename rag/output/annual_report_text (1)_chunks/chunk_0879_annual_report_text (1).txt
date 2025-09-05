@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 879 of 1106
+SIZE: 389 characters
+PREVIOUS: chunk_0878_annual_report_text (1).txt
+NEXT: chunk_0880_annual_report_text (1).txt
+------------------------------
+=== Page 158 ===
+IBA Annual Report 2023 
+155. The following are the amounts recognized in the 
+income statement: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Depreciation expenses of right-of-use assets 
+5 478 
+5 657 
+Interest expenses on lease liabilities 
+776 
+588 
+Expenses relating to leases of low-value assets 
+394 
+550 
+ TOTAL AMOUNT RECOGNIZED IN INCOME STATEMENT 
+6 648 
+6 795

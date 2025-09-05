@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 703 of 1106
+SIZE: 682 characters
+PREVIOUS: chunk_0702_annual_report_text (1).txt
+NEXT: chunk_0704_annual_report_text (1).txt
+------------------------------
+s 
+demonstrates the strategic efforts that IBA is 
+making on both operating segments to maintain 
+its technological leadership in all business lines. For the year-ended December 31, 2023, the 
+other operating result (loss) was EUR -3.5 million 
+(2022: EUR -6.1 million); it mainly includes some 
+reorganisation expenses for EUR 2.5 million and 
+the costs incurred for the Stock Option plan for 
+EUR 1.0 million, offset by a net gain on the 
+contribution in kind of the IP to the groups new 
+Joint Venture Pantera for EUR 2.2 million (net of 
+other investors interests). The reorganization 
+expenses mostly relate to the discontinuation of 
+the Dynamitron line of business in the US.

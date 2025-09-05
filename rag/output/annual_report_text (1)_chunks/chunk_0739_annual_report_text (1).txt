@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 739 of 1106
+SIZE: 489 characters
+PREVIOUS: chunk_0738_annual_report_text (1).txt
+NEXT: chunk_0740_annual_report_text (1).txt
+------------------------------
+its kind for 
+IBA). Instead, the remaining amount of variable consideration that is highly sensitive to factors outside the entitys influence 
+was recognized as a refund liability until the uncertainty associated with the variable consideration is resolved. The 
+performance bond was officially reduced to EUR 10 million in December 2021, to EUR 5 million in December 2022 at 
+which point IBA recognised the corresponding variable consideration in the income statement of respective years.

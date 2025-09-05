@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1052 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1051_annual_report_text (1).txt
+NEXT: chunk_1053_annual_report_text (1).txt
+------------------------------
+=== Page 191 ===
+IBA Annual Report 2023 
+188. p191 AR2023 GRI appendix 2-16 / key Impacts, risks and opportunities 
+p121 AR2023 IFRS consolidated financial / notes to consolidated financial 
+statements / climate related matters 
+2-17 
+Collective knowledge of the highest 
+governance body 
+p58 AR2023 Management report / corporate governance statement 
+2-18 
+Evaluation of the performance of the highest 
+governance body 
+p58 AR2023 Management report / corporate governance statement 
+2-19 
+Remuneration policies 
+p70 AR2023 Management report / corporate governance statement / remuneration 
+report 
+2

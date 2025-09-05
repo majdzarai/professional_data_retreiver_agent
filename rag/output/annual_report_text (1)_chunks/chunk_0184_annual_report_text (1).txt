@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 184 of 1106
+SIZE: 583 characters
+PREVIOUS: chunk_0183_annual_report_text (1).txt
+NEXT: chunk_0185_annual_report_text (1).txt
+------------------------------
+this annual report contains a true and 
+fair view of the business evolution, the 
+results, and the position of IBA SA and 
+the 
+undertakings 
+included 
+in 
+the 
+consolidation perimeter, as well as a 
+description of the main risks and 
+uncertainties they face. Highlights of the year (sections 3:6, 1, 1 and 
+3:32, 1, 1, of the BCAC)
+The main events of the 2023 
+financial year, further details of 
+which are contained in the 
+Management report, were as 
+follows: 18 Other Accelerators systems sold in 2023 
+(2022: 36 systems), with a strong uptick in 
+Equipment and Services revenues

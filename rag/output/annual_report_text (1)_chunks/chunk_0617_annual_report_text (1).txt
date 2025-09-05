@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 617 of 1106
+SIZE: 472 characters
+PREVIOUS: chunk_0616_annual_report_text (1).txt
+NEXT: chunk_0618_annual_report_text (1).txt
+------------------------------
+=== Page 120 ===
+IBA Annual Report 2023 
+117. following new standards, amendments and/or 
+interpretations are described below: IFRS 17 Insurance Contracts, effective 1 
+January 2023 and 'Amendments to IFRS 17 
+Insurance contracts: Initial Application of 
+IFRS 17 and IFRS 9 Comparative 
+Information (effective 1 January 2023). Amendments to IAS 8 Accounting Policies, Changes in Accounting Estimates and 
+Errors Definition of accounting estimates, effective 1 January 2023

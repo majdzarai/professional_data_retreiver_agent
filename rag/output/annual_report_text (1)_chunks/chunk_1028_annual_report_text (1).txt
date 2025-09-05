@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1028 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1027_annual_report_text (1).txt
+NEXT: chunk_1029_annual_report_text (1).txt
+------------------------------
+CLE 3 OF THE 
+ARTICLES OF ASSOCIATION) 
+The purpose of the Company is to engage in 
+research and development and to acquire 
+intellectual property rights with a view to the 
+operation, manufacturing, and marketing of 
+applications and equipment in the field of applied 
+physics. It may carry out financial, commercial 
+and industrial transactions, and all transactions 
+involving movable or immovable property, relating directly or indirectly to its corporate 
+purpose. It may acquire an interest, by 
+contribution, merger, purchase of shares, or any 
+other means, in companies, partnerships, or 
+cor

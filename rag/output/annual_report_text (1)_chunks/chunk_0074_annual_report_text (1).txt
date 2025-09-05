@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 74 of 1106
+SIZE: 670 characters
+PREVIOUS: chunk_0073_annual_report_text (1).txt
+NEXT: chunk_0075_annual_report_text (1).txt
+------------------------------
+personalized medicine in recent years, particularly in oncology, where advanced tumors can potentially be treated effectively 
+with low side effects. CycloneIKON
+NEW THERANOSTIC RADIOPHARMACEUTICALS
+PRODUCTION SOLUTIONS
+In 2021, IBA introduced its new high energy and high-capacity 
+cyclotron, the CycloneIKON, which offers the largest energy 
+spectrum for PET and SPECT isotopes from 13 MeV to 30 MeV. Currently, there are still a large number of patients for whom 
+cancer treatment fails, despite major scientific advances. Nuclear medicine is emerging as a relevant modality to address 
+this gap by extending overall survival and quality of life for 
+cancer patients.

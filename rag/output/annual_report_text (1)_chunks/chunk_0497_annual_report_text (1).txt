@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 497 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0496_annual_report_text (1).txt
+NEXT: chunk_0498_annual_report_text (1).txt
+------------------------------
+IBA SA releases a statement on its non-financial 
+activities. This non-financial statement has been 
+prepared in accordance with the GRI Standards: GRI 
+1: Foundation 2021. (https://www.globalreporting.org/standards/). Part of this non-financial information is mentioned in 
+the previous section and completed by information 
+included in the GRI appendix section. Please refer to 
+the GRI content index at the end of the present report. Consolidated annual financial statement 
+(sections 3:23, 3:31 and 3:32, of the BCAC) 
+INCOME STATEMENT 
+IBA reported a 18.7% increase in revenues to 
+EUR 428.7 mil

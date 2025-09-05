@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 130 of 1106
+SIZE: 552 characters
+PREVIOUS: chunk_0129_annual_report_text (1).txt
+NEXT: chunk_0131_annual_report_text (1).txt
+------------------------------
+=== Page 38 ===
+SHARING PROFITS
+Our profit-sharing plan assigned to each employee matches 
+the dividend paid to shareholders. This aligns shareholders and 
+employees interests with a proper balance between short-term 
+performance and long-term goals in support of the realization 
+of IBAs strategic commitment to its stakeholder approach. OFFERING FLEXIBLE BENEFITS
+We believe in flexibility. In selected countries, the new 
+MyChoice plan is designed to better align the individual value 
+of a salary benefit with the individual needs of IBA employees.

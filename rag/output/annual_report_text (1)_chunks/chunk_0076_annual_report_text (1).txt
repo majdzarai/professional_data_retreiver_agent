@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 76 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0075_annual_report_text (1).txt
+NEXT: chunk_0077_annual_report_text (1).txt
+------------------------------
+otential of 
+radioligand therapy. To enable this revolution, we must enhance the availability of 
+novel isotopes and boost their production capacity. The cyclotron 
+must play its part as a reliable and sustainable production 
+source of isotopes for the radiopharmaceutical industry. This is particularly the case for Germanium-68 (used for 
+Germanium-68/Gallium-68 generators), Iodine-123 and other 
+radioisotopes such as Copper-64, for which the demand has 
+been consistently expanding year after year. Watch the video: IBA new CycloneIKON. IBA has been a trusted partner 
+of Curium for a long time.

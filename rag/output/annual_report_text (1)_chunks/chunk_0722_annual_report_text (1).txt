@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 722 of 1106
+SIZE: 565 characters
+PREVIOUS: chunk_0721_annual_report_text (1).txt
+NEXT: chunk_0723_annual_report_text (1).txt
+------------------------------
+mers. Such contracts with customers are referred to as equipment and installation services, it represents the most important portion of IBAs revenue. Services 
+The Group provides operation and maintenance services which relate to the daily functioning and maintenance activity of 
+the proton therapy centers once those have been transferred to the customer. Licence revenue 
+Occasionally, IBA group sells a licence for the intellectual property. This is not part of IBAs main business activity and 
+will, in most cases, constitute a distinct performance obligation.

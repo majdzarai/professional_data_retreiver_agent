@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 966 of 1106
+SIZE: 631 characters
+PREVIOUS: chunk_0965_annual_report_text (1).txt
+NEXT: chunk_0967_annual_report_text (1).txt
+------------------------------
+otential damages seems 
+actual, are either adequately covered by 
+provisions or insurance policies. === Page 172 ===
+IBA Annual Report 2023 
+169. 10. Commitments, contingent liabilities and 
+contingent assets 
+10.1. COMMITMENTS 
+10.1.1 Financial guarantees 
+As at December 31, 2023, IBA held financial 
+guarantees for EUR 140.6 million given by 
+Groups business units as security for debts or 
+commitments, mainly in advance payment 
+guarantees (EUR 164.6 million as at December 
+31, 2022). The Group is paying financial interest at a fixed 
+rate on its financial guarantees. The interest 
+depends on the duration of the guarantee.

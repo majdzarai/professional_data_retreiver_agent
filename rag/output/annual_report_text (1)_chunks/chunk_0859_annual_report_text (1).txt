@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 859 of 1106
+SIZE: 635 characters
+PREVIOUS: chunk_0858_annual_report_text (1).txt
+NEXT: chunk_0860_annual_report_text (1).txt
+------------------------------
+s 
+51 431 
+36 051 
+The hedging reserves include changes in the fair 
+value of financial instruments used to hedge 
+cash flows of future transactions. Hedging 
+reserves have increased in 2023 following 
+fluctuation in the foreign currencies as well as 
+ineffective 
+portions 
+of 
+instruments 
+being 
+released to the Income Statement. The treasury shares reserve includes shares of 
+IBA S.A. acquired by group entities and are 
+valued at acquisition cost. Most of these shares 
+are held by the Group to cover the Stock Option 
+Plans and have been acquired in the previous 
+years with the aim of hedging against share price 
+fluctuations.

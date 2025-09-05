@@ -1,0 +1,50 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 973 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_0972_annual_report_text (1).txt
+NEXT: chunk_0974_annual_report_text (1).txt
+------------------------------
+=== Page 174 ===
+IBA Annual Report 2023 
+171. The main transactions completed with the shareholders are the following: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+ASSETS 
+Receivables 
+Long-term receivables 
+5 807 
+5 711 
+Trade and other receivables 
+27 
+183 
+Impairment of receivables 
+0 
+0 
+TOTAL RECEIVABLES 
+5 834 
+5 894 
+LIABILITIES 
+Payables 
+Bank and other borrowings 
+18 671 
+13 583 
+Trade and other payables 
+106 
+0 
+TOTAL PAYABLES 
+18 777 
+13 583 
+INCOME STATEMENT 
+Sales 
+0 
+0 
+Costs (-) 
+-216 
+0 
+Financial income 
+27 
+183 
+Financial expense (-) 
+-1 075 
+732 
+Other operating income

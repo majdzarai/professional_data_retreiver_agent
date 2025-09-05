@@ -1,0 +1,32 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 802 of 1106
+SIZE: 536 characters
+PREVIOUS: chunk_0801_annual_report_text (1).txt
+NEXT: chunk_0803_annual_report_text (1).txt
+------------------------------
+ecember 31, 2022 
+December 31, 2023 
+(EUR 000) 
+Proton therapy and Other 
+accelerators 
+Dosimetry 
+Proton therapy and Other 
+accelerators 
+Dosimetry 
+Amount recognised 
+0 
+10 262 
+21 
+10 173 
+Pre-tax discount rate applied (1) 
+n/a 
+3.44% 
+n/a 
+8.33% 
+Long-term growth rate (2) 
+n/a 
+3.60% 
+n/a 
+4.30% 
+(1) The pre tax discount rate used has been derived from the WACC specific to Dosimetry entities. (2) Rate consistent with expected growth in the sector. The recoverable amount of goodwill has been 
+determined on a value in use basis.

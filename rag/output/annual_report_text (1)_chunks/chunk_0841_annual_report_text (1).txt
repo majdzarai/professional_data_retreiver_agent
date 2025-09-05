@@ -1,0 +1,47 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 841 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0840_annual_report_text (1).txt
+NEXT: chunk_0842_annual_report_text (1).txt
+------------------------------
+short term deposits 
+11 138 
+309 
+Other current receivables 
+2 090 
+3 713 
+Other short-term receivables 
+81 922 
+57 378 
+Prepaid expenses 
+5 724 
+6 029 
+Research tax credit 
+2 247 
+2 028 
+Other short-term assets 
+7 971 
+8 057 
+TOTAL Current trade and other receivable and 
+201 542 
+173 011 
+Non-current 
+Long-term receivables on contracts in progress 
+436 
+355 
+Subordinated loan to NHA 
+1 520 
+1 520 
+Convertible loan to Pantera 
+0 
+1 000 
+Subordinated bond to proton therapy customers 
+4 688 
+4 525 
+Financial notes granted to proton therapy 
+4 748 
+4 250 
+Loan to shareholders 
+5 769 
+5 711 
+Custo

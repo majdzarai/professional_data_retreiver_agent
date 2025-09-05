@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 857 of 1106
+SIZE: 360 characters
+PREVIOUS: chunk_0856_annual_report_text (1).txt
+NEXT: chunk_0858_annual_report_text (1).txt
+------------------------------
+investments with less than three months maturity from the date of acquisition to 
+be cash equivalents. === Page 155 ===
+IBA Annual Report 2023 
+152. Number of shares 
+2022 
+2023 
+As at January 1 
+30 197 420 
+30 260 920 
+Capital increase 
+63 500 
+0 
+Purchase of treasury shares 
+0 
+0 
+Disposal of treasury shares 
+0 
+0 
+As at December 31 
+30 260 920 
+30 260 920

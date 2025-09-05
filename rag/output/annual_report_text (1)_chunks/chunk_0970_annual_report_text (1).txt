@@ -1,0 +1,41 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 970 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0969_annual_report_text (1).txt
+NEXT: chunk_0971_annual_report_text (1).txt
+------------------------------
+=== Page 173 ===
+IBA Annual Report 2023 
+170. 11.1. TRANSACTIONS WITH AFFILIATED 
+COMPANIES (ASSOCIATES AND JOINT 
+VENTURES) 
+The main transactions completed with affiliated companies (companies accounted for using the equity 
+accounting method) are the following: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+ASSETS 
+Receivables 
+Long-term receivables 
+1 520 
+2 520 
+Inventory and contracts in progress 
+0 
+0 
+Trade and other receivables 
+0 
+3 045 
+Impairment of receivables 
+0 
+0 
+TOTAL RECEIVABLES 
+1 520 
+5 565 
+LIABILITIES 
+Payables 
+Trade and other payables 
+0 
+0 
+TOTAL PAYABLES 
+0 
+0 
+INC

@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 456 of 1106
+SIZE: 639 characters
+PREVIOUS: chunk_0455_annual_report_text (1).txt
+NEXT: chunk_0457_annual_report_text (1).txt
+------------------------------
+nation. IBA is aware of the 
+importance of this right as our generation faces 
+a serious environmental crisis and associated 
+impact on Human Rights. The environment (the 
+Planet) is therefore included as one of the five 
+stakeholders of IBA and receives central 
+attention in the day-to-day work within the 
+Company. Compliance with Human Rights is not only 
+required by IBA and its employees, but also from 
+its customers and suppliers. Through its Code of 
+Conduct for Suppliers, the Company ensures to 
+work with third parties that share its commitment 
+to Human Rights and that do not violate the 
+Human 
+Rights 
+of 
+their 
+employees.

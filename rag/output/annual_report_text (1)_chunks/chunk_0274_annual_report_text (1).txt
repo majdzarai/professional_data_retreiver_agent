@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 274 of 1106
+SIZE: 611 characters
+PREVIOUS: chunk_0273_annual_report_text (1).txt
+NEXT: chunk_0275_annual_report_text (1).txt
+------------------------------
+A monthly management dashboard (versus 
+budget, versus previous year); Treasury forecast tables; Project status reports; Procedures 
+for 
+establishing 
+technical 
+documents; Request forms for recruitment approvals; A committee to approve major investments; A table of the firm and current orders for the 
+Equipment sector; A 
+signature 
+matrix 
+for 
+all 
+Group 
+commitments to third parties; A dual-signature authorization for payments 
+and bank-related transactions 
+In addition, the Chief Compliance Officer is 
+responsible for monitoring compliance with the 
+Code of Business Conduct and company 
+procedures.

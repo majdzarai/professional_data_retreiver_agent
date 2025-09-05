@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 911 of 1106
+SIZE: 371 characters
+PREVIOUS: chunk_0910_annual_report_text (1).txt
+NEXT: chunk_0912_annual_report_text (1).txt
+------------------------------
+15.79; 10.75 
+Contractual life (years) 
+5.78; 5.47; 5.04 
+Settlement 
+Shares 
+Expected volatility 
+48.26%; 47.33%. 45.57% 
+Risk-free interest rate 
+2.43%; 2.93%; 2.23% 
+Expected dividend (stated as % of share price at grant date) 
+0.02 
+Expected departures at grant date 
+0.04 
+Fair value per granted option at grant date 
+7.26; 6.4; 4.0 
+Valuation model 
+Black & Scholes

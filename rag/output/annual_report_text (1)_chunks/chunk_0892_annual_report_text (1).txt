@@ -1,0 +1,9 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 892 of 1106
+SIZE: 283 characters
+PREVIOUS: chunk_0891_annual_report_text (1).txt
+NEXT: chunk_0893_annual_report_text (1).txt
+------------------------------
+, the present obligation under the contract is recognized as a provision 
+against cost of sales. The provision is reassessed at least 3 times a year. The group applies the most likely amount method to estimate these provisions 
+Source of estimation uncertainty and critical judgments

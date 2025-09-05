@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 935 of 1106
+SIZE: 268 characters
+PREVIOUS: chunk_0934_annual_report_text (1).txt
+NEXT: chunk_0936_annual_report_text (1).txt
+------------------------------
+le provides an analysis of 
+financial 
+instruments 
+that 
+are 
+measured 
+subsequent to initial recognition at fair value, grouped into Levels 1 to 3. During this past financial year, there was no 
+transfer 
+between 
+the 
+various 
+categories 
+presented below: (EUR 000)

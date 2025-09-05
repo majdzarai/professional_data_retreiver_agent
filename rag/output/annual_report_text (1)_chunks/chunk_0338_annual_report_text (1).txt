@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 338 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0337_annual_report_text (1).txt
+NEXT: chunk_0339_annual_report_text (1).txt
+------------------------------
+ransfer 
+of shares and/or the exercise of the 
+voting right 
+There are no such arrangements in place. ix) Rules applicable to the appointment and 
+the replacement of the directors and to 
+the 
+amendment 
+to 
+the 
+articles 
+of 
+association of the issuer 
+(a) Rules applicable to the appointment 
+and replacement of the Directors 
+In this respect, as of 31 December 2023, articles 
+11 and 12 of the Company's Articles of 
+Association provided the following: Article 11: The company is managed by a board of directors 
+comprised of a minimum of three members and 
+a maximum of twelve members, appointed

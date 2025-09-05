@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 517 of 1106
+SIZE: 266 characters
+PREVIOUS: chunk_0516_annual_report_text (1).txt
+NEXT: chunk_0518_annual_report_text (1).txt
+------------------------------
+liabilities have decreasd by 
+EUR -12.7 million thanks to backlog 
+conversion but also a high level of invoicing 
+was to be noted at the end of 2023. The fair value of the derivative instruments 
+used for cash flow hedging purpose have 
+decreased by EUR -2.4 million

@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 532 of 1106
+SIZE: 634 characters
+PREVIOUS: chunk_0531_annual_report_text (1).txt
+NEXT: chunk_0533_annual_report_text (1).txt
+------------------------------
+ly driven by the index 
+adjustment beginning of the year. The R&D expenditure of EUR 55.7 million in 
+2023 (EUR 46.7 million in 2022) is capitalized. Development expenditure up to and including 
+2022 was capitalized and depreciated over three 
+years, while 
+research 
+expenses 
+were 
+depreciated immediately in the year of the 
+expenditure. For 
+the 
+expenditure 
+on 
+Development (EUR 51.8 million), as from 2023 
+onwards, depreciation is done pro rate temporis 
+on a monthly basis, respectively over 36 months, starting the month following the expenditure. For 
+Research (EUR 3.9 million) expenditure is 
+depreciated within the year.

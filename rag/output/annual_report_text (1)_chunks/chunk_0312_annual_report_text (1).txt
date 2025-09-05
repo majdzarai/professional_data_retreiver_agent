@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 312 of 1106
+SIZE: 672 characters
+PREVIOUS: chunk_0311_annual_report_text (1).txt
+NEXT: chunk_0313_annual_report_text (1).txt
+------------------------------
+ector, Mr. Pierre 
+Mottet, Consultance 
+Marcel 
+Miller 
+SCS 
+represented by its permanent representative, Mr. Marcel Miller, Mr. Olivier Legrain, Mr. Yves 
+Jongen, and Dr. Richard A. Hausmann. This 
+Committee is chaired by Mr. Pierre Mottet. Audit committee 
+The Audit Committee met 2 times in 2023, in the 
+presence of Mr. Olivier Legrain and occasionally 
+of Mr. Pierre Mottet. On each occasion, the 
+Committee reported on its meetings to the Board 
+of Directors. The main topics addressed were 
+the financial results, liquidity situation, analysis 
+of the external auditors' review, examination of 
+the 2024 budget, and follow-up of internal audit 
+and risk management.

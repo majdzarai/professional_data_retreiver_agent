@@ -1,0 +1,63 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 390 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0389_annual_report_text (1).txt
+NEXT: chunk_0391_annual_report_text (1).txt
+------------------------------
+nt 
+benefits 
+Other benefits 
+Olivier 
+Legrain (1) 
+CEO 
+EUR 
+% of total 
+2023 
+421 949 
+52% 
+393 942 
+48% 
+None 
+0% 
+None 
+0% 
+EUR 
+% of total 
+2022 
+411 840 
+47% 
+468 164 
+53% 
+None 
+0% 
+None 
+0% 
+Yves 
+Jongen (2) 
+CRO 
+EUR 
+% of total 
+2023 
+347 235 
+62% 
+216 848 
+38% 
+None 
+0% 
+None 
+0% 
+EUR 
+% of total 
+2022 
+317 082 
+55% 
+259 838 
+45% 
+None 
+0% 
+None 
+0% 
+1. Managing Director and representative of Lamaris Group SRL 
+2. Managing Director and representative of Research Management Systems SRL and subsequently Exoplanets Research SRL 
+Details of 2023 variable pay for Managing Directors 
+Name

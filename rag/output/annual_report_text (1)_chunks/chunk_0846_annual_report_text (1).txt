@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 846 of 1106
+SIZE: 239 characters
+PREVIOUS: chunk_0845_annual_report_text (1).txt
+NEXT: chunk_0847_annual_report_text (1).txt
+------------------------------
+s not at risk 
+-785 
+-933 
+-161 
+-44 704 
+-46 584 
+Provision for credit loss recognised at 
+December 31, 2023 
+304 
+134 
+185 
+3 116 
+3 739 
+Trade receivable, net of credit loss allowances 
+30 374 
+26 168 
+4 053 
+2 000 
+277 
+44 704 
+107 576

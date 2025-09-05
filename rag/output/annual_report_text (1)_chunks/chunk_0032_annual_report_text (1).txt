@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 32 of 1106
+SIZE: 564 characters
+PREVIOUS: chunk_0031_annual_report_text (1).txt
+NEXT: chunk_0033_annual_report_text (1).txt
+------------------------------
+deploying more resources and investigating further options 
+to ensure that the entire solution offered is part of a more 
+eco-responsible approach. Coupled with the latest technologies in terms of green energy 
+production, increased efficiency of the ionization process, recovery of fatal calories, co-generation, numerical modelling, digitalization, and product handling developed for the logistics 
+industry, irradiation can be further optimized to reduce the total 
+ecological footprint of the sterilization industry compared to 
+other established technologies.

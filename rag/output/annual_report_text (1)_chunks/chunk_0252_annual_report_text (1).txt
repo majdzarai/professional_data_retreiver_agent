@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 252 of 1106
+SIZE: 592 characters
+PREVIOUS: chunk_0251_annual_report_text (1).txt
+NEXT: chunk_0253_annual_report_text (1).txt
+------------------------------
+n 2023 a fluctuation of -3% of USD 
+against EUR would have had a negative impact 
+on the sales of Proton Therapy segment of -
+1.12% (-1.10% in 2022). The Dosimetry segment is impacted by the 
+fluctuation of the USD exchange rate against 
+EUR. In 2023 a fluctuation of -3% of USD 
+against EUR would have had a negative impact 
+on the sales of the Dosimetry segment of -0.46% 
+(-0.40% in 2022). Interest rate risk 
+The Groups exposure to changes in market 
+interest rates relates primarily to the Groups 
+long-term debt obligations with floating interest 
+rates which were fully repaid in 2023.

@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 168 of 1106
+SIZE: 485 characters
+PREVIOUS: chunk_0167_annual_report_text (1).txt
+NEXT: chunk_0169_annual_report_text (1).txt
+------------------------------
+the introduction of eco-design practices, our product 
+development processes implement the principles of circularity 
+ avoid, reduce, reuse, recycle. All products from the four 
+business lines, namely Proton Therapy Solutions, RadioPharma 
+Solutions, Dosimetry Solutions, and Industrial Solutions are 
+designed to facilitate maintenance and servicing. A circular 
+process to return defective or surplus parts deployed to our 
+customers is now in place, for repair, resale or recycling.

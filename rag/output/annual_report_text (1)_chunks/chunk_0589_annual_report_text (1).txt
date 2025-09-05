@@ -1,0 +1,29 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 589 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0588_annual_report_text (1).txt
+NEXT: chunk_0590_annual_report_text (1).txt
+------------------------------
+elated to net investment in foreign operation 
+185 
+981 
+- Net movement on cash flow hedges 
+7.4.1. 38 
+5 057 
+Net other comprehensive income to be reclassified to profit or loss in 
+subsequent periods 
+768 
+8 489 
+Other comprehensive income not to be reclassified to profit or loss in 
+subsequent periods (net of tax): - Revaluation at fair value of other investments 
+5.5. -10 422 
+-2 904 
+- Remeasurement gain/(loss) on defined benefit plans 
+5.11.1 
+3 548 
+-1 067 
+Net other comprehensive income not to be reclassified to profit or loss 
+in subsequent periods 
+-6 874 
+-3 971 
+Total Other compreh

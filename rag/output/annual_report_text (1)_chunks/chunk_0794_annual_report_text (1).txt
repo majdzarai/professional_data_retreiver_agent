@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 794 of 1106
+SIZE: 639 characters
+PREVIOUS: chunk_0793_annual_report_text (1).txt
+NEXT: chunk_0795_annual_report_text (1).txt
+------------------------------
+t are leased by IBA. The acquisition cost only included 
+third party invoices which were directly attributable to the work performed on these assets. Internal resources are usually 
+not capitalised unless it can be demonstrated that these are directly attributable to the asset being constructed and these 
+can be measured. In addition, no borrowing costs have been capitalised. Each asset is depreciated over its useful life using the straight-line method; assets are not revalued. Leased assets: The Group applies a single recognition and measurement approach for all leases, except for short-term leases and leases 
+of low-value assets.

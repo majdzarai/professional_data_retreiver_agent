@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 102 of 1106
+SIZE: 572 characters
+PREVIOUS: chunk_0101_annual_report_text (1).txt
+NEXT: chunk_0103_annual_report_text (1).txt
+------------------------------
+ajor innovation expected 
+in radiation therapy. IBA is investing heavily in developing a novel technique 
+using the Bragg peak called ConformalFLASH. IBAs 
+strategy to take FLASH today from research to a clinical 
+version of ConformalFLASH will take into consideration the 
+radiobiology, clinical safety, and future streamlined workflow 
+for FLASH. ConformalFLASH means:. Combining the benefit of FLASH with the benefit of the proton 
+Bragg peak.. Dose delivery in 1-2 beams, with no need for multi-field 
+delivery, dose-splitting and potentially losing the FLASH effect..

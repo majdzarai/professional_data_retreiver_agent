@@ -1,0 +1,32 @@
+Result #1 (Score: 0.4525)
+================================================================================
+up consolidated annual accounts 
+(rapport de gestion sur les comptes consolides). Hence, the present report is a consolidated and 
+integrated report. The management 
+report 
+contains 
+a 
+fair 
+presentation and a balanced and exhaustive 
+analysis of the business development, the 
+results and the situation of the Company, as well 
+as a description of the main associated risks and 
+uncertainties. The 
+management 
+report 
+includes 
+key 
+performance indicators of both financial and, where applicable, non-financial nature related to 
+the specific activity of the Company, in particular 
+information related to environmental, societal 
+and employees aspects.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 178
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

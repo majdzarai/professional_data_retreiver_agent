@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 516 of 1106
+SIZE: 638 characters
+PREVIOUS: chunk_0515_annual_report_text (1).txt
+NEXT: chunk_0517_annual_report_text (1).txt
+------------------------------
+An increase of the long term lease liabilities 
+by EUR 1.1 million, the main movements of 
+the year are: new lease liabilities under IFRS 16 for EUR 
+8.3 million. the accretion of interests for EUR 0.6 
+million; the reclassification to short-term of a 
+portion of the lease liabilities of EUR -7.7 
+million; Current liabilities amounted to EUR 452.6 million 
+at the end of 2023, with an decrease of EUR -8.6 
+million compared to 2022. The following 
+elements are to be noted: The contract liabilities have decreasd by 
+EUR -12.7 million thanks to backlog 
+conversion but also a high level of invoicing 
+was to be noted at the end of 2023.

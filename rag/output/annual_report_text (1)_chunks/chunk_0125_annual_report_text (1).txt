@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 125 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0124_annual_report_text (1).txt
+NEXT: chunk_0126_annual_report_text (1).txt
+------------------------------
+=== Page 36 ===
+LOW CARBON, LOW WASTE PRODUCTS
+Understand / reduce the C02 and waste impact of our products across 
+their lifecycles and value chains
+LOW CARBON LOW WASTE COMPANY
+Monitor the IBA organization carbon footprint, zeroing it by 2030 (reduce 
+and decarbonization contribution) 
+Monitor the IBA organization waste footprint, reducing the unsorted part 
+by 2/3 by 2025
+DIVERSE, EQUITABLE AND INCLUSIVE WORKPLACE
+Pro-actively incorporate diversity, equality and inclusion into our business 
+as a major contributor to belonging
+COMPANY ACCOUNTABLE TO SUSTAINABILITY
+Enhance policies and practi

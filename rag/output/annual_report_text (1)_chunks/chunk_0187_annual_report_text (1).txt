@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 187 of 1106
+SIZE: 537 characters
+PREVIOUS: chunk_0186_annual_report_text (1).txt
+NEXT: chunk_0188_annual_report_text (1).txt
+------------------------------
+PROTON THERAPY AND OTHER ACCELERATORS 
+The proton Therapy and other accelerators 
+segment covers: Proton therapy which offers turnkey solutions 
+for a more precise treatment of cancer, with 
+fewer side effects, through the use of proton 
+beams. Other accelerators which offer a line of 
+cyclotrons used for the production of PET or 
+SPECT radioisotopes and a line of industrial 
+accelerators for sterilization and ionization (E-
+beam and Rhodotron and Dynamitron types 
+of X-ray). Dosimetry
+15%
+Proton Therapy
+54%
+Other 
+accelerators
+31%

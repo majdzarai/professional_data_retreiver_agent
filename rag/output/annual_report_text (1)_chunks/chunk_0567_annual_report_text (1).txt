@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 567 of 1106
+SIZE: 225 characters
+PREVIOUS: chunk_0566_annual_report_text (1).txt
+NEXT: chunk_0568_annual_report_text (1).txt
+------------------------------
+CAPEX will be around EUR 10-12 million 
+per year until 2026 to support increased 
+investment in infrastructure, innovation, sustainability and digitalization to maintain 
+IBAs leading offering and invest in its future 
+growth

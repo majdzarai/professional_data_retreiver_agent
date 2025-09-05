@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 346 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0345_annual_report_text (1).txt
+NEXT: chunk_0347_annual_report_text (1).txt
+------------------------------
+tors defined in indent 1, (d) of this Article 
+12 may be a member of this committee, unless, as the case may be, he is an internal director as 
+well. Proposals for the appointment of "internal 
+directors" shall be submitted by the director or 
+directors 
+responsible 
+for 
+the 
+day-to-day 
+management who shall inform the board of 
+directors of the names of the candidates to be 
+submitted to the general meeting. No director may be appointed on the proposal of 
+one or more shareholders if this proposal, containing all pieces of information regarding the 
+proposed director necessary in particular

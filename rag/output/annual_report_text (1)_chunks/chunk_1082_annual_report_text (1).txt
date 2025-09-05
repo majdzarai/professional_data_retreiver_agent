@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1082 of 1106
+SIZE: 511 characters
+PREVIOUS: chunk_1081_annual_report_text (1).txt
+NEXT: chunk_1083_annual_report_text (1).txt
+------------------------------
+evelops synergies in both 
+Belgium and the United States and collaborates with numerous associations that aim to promote employment, education and awareness in relation to 
+proton therapy. 204-1 Proportion of spending on local suppliers 
+We define local suppliers as located in the surrounding vicinities of our plants. Expenses spent with suppliers local to the company's headquarters or 
+relevant facilities exceeds 60% of spent, with the expenses spent with independent local suppliers amounting exceeds 30%.

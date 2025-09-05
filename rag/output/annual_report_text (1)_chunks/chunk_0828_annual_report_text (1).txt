@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 828 of 1106
+SIZE: 528 characters
+PREVIOUS: chunk_0827_annual_report_text (1).txt
+NEXT: chunk_0829_annual_report_text (1).txt
+------------------------------
+ment which gives IBA the right to 
+purchase HILs laser-based proton accelerators 
+for the purpose of integrating them into proton 
+therapy solutions. In 2022, IBA has recorded a value increase of 
+the investment by EUR 1.0 million against the 
+Groups Statement of Other Comprehensive 
+Income, based on a valuation exercise using 
+the DCF method and future cash flow forecasts. In July 2023, the investee has formally informed 
+the stakeholder of the financial difficulties 
+encountered and the start of a voluntary 
+dissolution.

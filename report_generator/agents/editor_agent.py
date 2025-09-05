@@ -37,8 +37,10 @@ class EditorAgent:
         """
         self.config = config
         self.prompt_template = config.editor_prompt_template
+        # Set up output directory
         self.output_dir = Path(config.output_dir) / "editor"
         self.output_dir.mkdir(parents=True, exist_ok=True)
+        logger.info(f"Editor output directory: {self.output_dir}")
         
         # Initialize LLM client
         self.llm_client = LLMClient(config.model)
@@ -71,6 +73,12 @@ class EditorAgent:
         
         # Save the report to a file
         self._save_report(report)
+        
+        # Also save a copy directly in the editor directory
+        editor_report_file = self.output_dir / "final_report.md"
+        with open(editor_report_file, "w", encoding="utf-8") as f:
+            f.write(report)
+        logger.info(f"Saved final report to editor directory: {editor_report_file}")
         
         return report
 
@@ -387,9 +395,52 @@ class EditorAgent:
         Args:
             report: The report to save
         """
+        # Save the complete report to the output directory
         output_file = self.output_dir / "final_report.md"
         
         with open(output_file, "w", encoding="utf-8") as f:
             f.write(report)
-            
-        logger.info(f"Saved final report to {output_file}")
+        
+        # Also save a copy to the main output directory for easier access
+        main_output_file = Path(self.config.output_dir) / "final_report.md"
+        with open(main_output_file, "w", encoding="utf-8") as f:
+            f.write(report)
+        
+        # Save individual sections of the report for easier analysis
+        sections_dir = self.output_dir / "sections"
+        sections_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Split the report into sections based on markdown headings
+        sections = []
+        current_section = {"title": "", "content": ""}
+        
+        for line in report.split("\n"):
+            if line.startswith("# ") and not line.startswith("## "):
+                # If we have a previous section, save it
+                if current_section["title"] and current_section["content"]:
+                    sections.append(current_section)
+                    current_section = {"title": "", "content": ""}
+                
+                # Start a new section
+                current_section["title"] = line[2:].strip()
+                current_section["content"] = line + "\n"
+            else:
+                # Add to current section
+                current_section["content"] += line + "\n"
+        
+        # Add the last section
+        if current_section["title"] and current_section["content"]:
+            sections.append(current_section)
+        
+        # Save each section to a separate file
+        for i, section in enumerate(sections):
+            # Sanitize filename by removing invalid characters
+            sanitized_title = section['title'].lower().replace(' ', '_')
+            # Remove characters that are invalid in Windows filenames: \ / : * ? " < > |
+            sanitized_title = ''.join(c for c in sanitized_title if c not in '\\/:*?"<>|')
+            section_file = sections_dir / f"{i+1:02d}_{sanitized_title}.md"
+            with open(section_file, "w", encoding="utf-8") as f:
+                f.write(section["content"])
+        
+        logger.info(f"Saved final report to {output_file} and {main_output_file}")
+        logger.info(f"Saved individual sections to {sections_dir}")

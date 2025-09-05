@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 327 of 1106
+SIZE: 604 characters
+PREVIOUS: chunk_0326_annual_report_text (1).txt
+NEXT: chunk_0328_annual_report_text (1).txt
+------------------------------
+The Corporate Governance Charter, published 
+on the Groups website, defines the core 
+competencies the Board of Directors requires to 
+be effective. Members are nominated based on 
+the Boards needs in terms of knowledge, experience, and competence at that time, also 
+respecting the balance between outside, inside 
+and other Directors laid down in the Articles of 
+Association, the law, and the 2020 Corporate 
+Governance Code. The Board and the Nomination Committee fully 
+acknowledge the benefits of diversity among 
+employees, within the Executive Management 
+Team, and within the Board of Directors.

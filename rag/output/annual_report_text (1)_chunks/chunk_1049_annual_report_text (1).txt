@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1049 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_1048_annual_report_text (1).txt
+NEXT: chunk_1050_annual_report_text (1).txt
+------------------------------
+2-9 
+Governance structure and composition 
+p58 AR2023 Management report / corporate governance statement 
+2-10 
+Nomination and selection of the highest 
+governance body 
+p58 AR2023 Management report / corporate governance statement 
+2-11 
+Chair of the highest governance body 
+p58 AR2023 Management report / corporate governance statement 
+2-12 
+Role of the highest governance body in 
+overseeing the management of impacts 
+p58 AR2023 Management report / corporate governance statement 
+2-13 
+Delegation of responsibility for managing 
+impacts 
+p58 AR2023 Management report / corporate governance sta

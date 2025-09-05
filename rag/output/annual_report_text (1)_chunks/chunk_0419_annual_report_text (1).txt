@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 419 of 1106
+SIZE: 661 characters
+PREVIOUS: chunk_0418_annual_report_text (1).txt
+NEXT: chunk_0420_annual_report_text (1).txt
+------------------------------
+=== Page 84 ===
+IBA Annual Report 2023 
+81. IBA 
+Organizations Declaration on Fundamental 
+Principles and Rights at Work. IBAs employees are the most valuable 
+resources of the Company and are essential to 
+its success. Diversity is fundamental to IBAs 
+culture and the uniqueness of individuals and the 
+various perspectives and talents they bring are 
+recognized and valued. The Company promotes 
+diversity within our workforce and an inclusive 
+environment that helps each and every one of us 
+to fully contribute to its success. IBA is committed to provide equal employment 
+opportunities 
+and 
+treating 
+applicants 
+and 
+employees 
+without 
+discrimination.

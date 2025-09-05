@@ -46,13 +46,11 @@ class LLMClient:
         Returns:
             The generated text
         """
-        if self.is_local_llama:
-            return self._generate_with_local_llama(prompt, max_tokens)
-        else:
-            # For now, just return a placeholder response
-            # In a real implementation, this would call the OpenAI API or similar
-            logger.warning("Using placeholder LLM response. Implement actual API calls.")
-            return f"Placeholder response for prompt: {prompt[:50]}..."
+        # Always use local Llama model as requested
+        logger.info("Using local Llama 3.1 model for text generation")
+        self.is_local_llama = True
+        self.model = "llama3.1"
+        return self._generate_with_local_llama(prompt, max_tokens)
 
     def _generate_with_local_llama(self, prompt: str, max_tokens: int) -> str:
         """Generate text using a local Llama model.

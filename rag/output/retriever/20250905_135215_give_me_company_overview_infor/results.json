@@ -1,0 +1,83 @@
+{
+  "query": "give me company overview information  ",
+  "timestamp": "2025-09-05 13:52:15",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "up consolidated annual accounts \n(rapport de gestion sur les comptes consolides). Hence, the present report is a consolidated and \nintegrated report. The management \nreport \ncontains \na \nfair \npresentation and a balanced and exhaustive \nanalysis of the business development, the \nresults and the situation of the Company, as well \nas a description of the main associated risks and \nuncertainties. The \nmanagement \nreport \nincludes \nkey \nperformance indicators of both financial and, where applicable, non-financial nature related to \nthe specific activity of the Company, in particular \ninformation related to environmental, societal \nand employees aspects.",
+      "similarity_score": 0.4524667263031006,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 178,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "ancial nature related to \nthe specific activity of the Company, in particular \ninformation related to environmental, societal \nand employees aspects. The \nmanagement \nreport \nalso \nincludes \ninformation on: The \nforeseeable \ndevelopment \nof \nthe \nbusiness",
+      "similarity_score": 0.5650502443313599,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 179,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "ations. Our\nshareholders: we show that we are\nworthy of their trust by being \na sound financial investment \nand acting in accordance\nwith our values. How do we work? At IBA, we believe business has the mission to be a force \nfor good, through creating shared and long-term value \nfor all stakeholders. Our company is a Certified B Corporation (B Corp)TM. Why do we do it? TO PROTECT, ENHANCE \nAND SAVE LIVES\nFor over thirty years, we have placed the purpose \nof the company and our project at the heart of \nour activities, as expressed in our mission to \nProtect, Enhance and Save Lives.",
+      "similarity_score": 0.4573216736316681,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 4,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "corporate \npurpose. It may acquire an interest, by \ncontribution, merger, purchase of shares, or any \nother means, in companies, partnerships, or \ncorporations \nwhose \npurpose \nis \nsimilar, comparable, related, or \nuseful \nto \nthe \nachievement of its corporate purpose in whole or \nin part. === Page 186 ===\nIBA Rapport annuel 2023 \n183. In addition, following a resolution of the \nExtraordinary General Meeting of shareholders \nof the Company held on March 10, 2020, article \n3 of the Articles of association has been \namended to add the following two paragraphs: The Company's objectives include ha",
+      "similarity_score": 0.45008569955825806,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1028,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "nts and IBA Group \nperformance. 126 \n4.1. Performance of each Segments. 126 \n4.2. Performance of each geographic region. 129 \n4.3. Revenue. 130 \n4.4. Other operating expenses. 133 \n4.5. Other operating Income. 133 \n4.6. Financial expenses and income. 134 \n4.7. Taxation. 135 \n4.8. Net earnings per share. 138 \n5. Statement of financial position. 139 \n5.1. Intangible assets. 139 \n5.2. Property, plant and equipment. 141 \n5.3. Impairment of assets. 143 \n5.4. Associates and Joint Ventures. 144 \n5.5. Other shares and participations. 147 \n5.6. Inventories. 148 \n5.7. Trade receivables and other operating \nassets. 149 \n5.8. Cash and cash equivalents. 151 \n5.9. Equity. 151 \n5.10.",
+      "similarity_score": 0.45218971371650696,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 602,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1072 of 1106
+SIZE: 330 characters
+PREVIOUS: chunk_1071_annual_report_text (1).txt
+NEXT: chunk_1073_annual_report_text (1).txt
+------------------------------
+3-1 
+Management of material topics 
+p39 AR2023 A committed company / society / supply chain 
+414-1 
+New suppliers that were screened 
+using social criteria 
+p195 AR2023 GRI appendix 414-1 / suppliers code of business conduct 
+p195 AR2023 GRI appendix 414-1 / supplier ESG screening method 
+GRI 416 CUSTOMER HEALTH AND SAFETY v2016

@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 921 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0920_annual_report_text (1).txt
+NEXT: chunk_0922_annual_report_text (1).txt
+------------------------------
+The Company used the Black & Scholes model to value options, with no vesting conditions other than time. Expected 
+volatility for the stock option plans is based on historical volatility determined by statistical analysis of daily share price 
+movements. The exercise price of shares for the stock option plans was based on the average share price for the 30 days 
+preceding the grant date. === Page 165 ===
+IBA Annual Report 2023 
+162. (EUR 000) 
+FINANCIAL LIABILITIES 
+December 31, 2022 
+Due 
+< 1 year 1-2 years 2-5 years > 5 years Total contractual cash flows 
+Bank and other borrowings * 
+0 
+4 26

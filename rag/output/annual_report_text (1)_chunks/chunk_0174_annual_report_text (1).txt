@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 174 of 1106
+SIZE: 609 characters
+PREVIOUS: chunk_0173_annual_report_text (1).txt
+NEXT: chunk_0175_annual_report_text (1).txt
+------------------------------
+materiality assessment 
+based on a dialogue with its stakeholders and the 
+reference framework recommended by the Global Reporting 
+Initiative (GRI). It is in this broad area that we are concentrating our efforts, with the hierarchy of our priorities obtained by aligning the 
+concerns of the company (outside in view) with the interests 
+of our stakeholders (inside-out view). This results in a materiality matrix that takes into account data 
+from the ongoing dialogue that IBA has established with all 
+its stakeholders, through formal and informal exchanges 
+and from publications on environmental issues.

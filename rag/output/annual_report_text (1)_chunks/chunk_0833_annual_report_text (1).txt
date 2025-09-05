@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 833 of 1106
+SIZE: 370 characters
+PREVIOUS: chunk_0832_annual_report_text (1).txt
+NEXT: chunk_0834_annual_report_text (1).txt
+------------------------------
+nted for as an equity 
+investment financial asset under IFRS9, at fair 
+value and gains and losses will be recognised 
+in Other Comprehensive Income. Given that the 
+shares were recently acquired, the price paid is 
+considered as the fair value of the investment. Rutherford Estates Ltd 
+IBA had share investments in Rutherford 
+Estates Ltd which were valued at EUR 11.1

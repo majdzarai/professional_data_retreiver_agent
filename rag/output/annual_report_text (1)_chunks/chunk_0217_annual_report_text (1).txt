@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 217 of 1106
+SIZE: 485 characters
+PREVIOUS: chunk_0216_annual_report_text (1).txt
+NEXT: chunk_0218_annual_report_text (1).txt
+------------------------------
+practices, and 
+the 
+recommendations from internal and external 
+audits are reported and discussed periodically 
+with the Risk Management Committee. Internal 
+auditors monitor independently the quality of the 
+risk management, governance, and control 
+processes through operational, financial, and 
+compliance audits. The purpose and authority of 
+the Internal Audit function are documented in an 
+Audit Charter and the Head of Internal Audit 
+reports regularly to the Audit Committee.

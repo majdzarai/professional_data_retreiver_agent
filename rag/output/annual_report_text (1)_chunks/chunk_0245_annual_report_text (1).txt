@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 245 of 1106
+SIZE: 693 characters
+PREVIOUS: chunk_0244_annual_report_text (1).txt
+NEXT: chunk_0246_annual_report_text (1).txt
+------------------------------
+t 
+program seeks to minimize potential adverse 
+effects arising from the unpredictability of 
+financial markets on the Groups financial 
+performance. To this effect, the Group uses 
+derivative financial instruments to hedge certain 
+risk exposures. Financial risk management is carried out by a 
+central treasury department (Group Treasury). The latter issues and enforces written policies. These policies provide written principles related 
+to overall financial risk management, as well as 
+written policies covering specific areas, such as 
+foreign exchange risk, use of derivative and non-
+derivative financial instruments. Group Treasury 
+identifies, evaluates, and hedges financial risks.

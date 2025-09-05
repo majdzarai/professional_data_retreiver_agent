@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 943 of 1106
+SIZE: 518 characters
+PREVIOUS: chunk_0942_annual_report_text (1).txt
+NEXT: chunk_0944_annual_report_text (1).txt
+------------------------------
+reign exchange contracts and swaps - through Profit 
+and loss 
+0 
+-344 
+0 
+-344 
+Derivative financial liabilities 
+0 
+-772 
+0 
+-772 
+7.4.1 Derivatives financial 
+instruments 
+Some of these financial instruments are 
+designated as hedging instruments as they 
+hedge specific exchange rate risks to which the 
+Group is exposed. Hedge accounting has been 
+applied to these contracts because they are 
+deemed to be highly effective hedges. Those 
+transactions are highly probable as they are 
+linked to existing contracts.

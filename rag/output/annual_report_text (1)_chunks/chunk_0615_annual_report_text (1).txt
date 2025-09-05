@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 615 of 1106
+SIZE: 576 characters
+PREVIOUS: chunk_0614_annual_report_text (1).txt
+NEXT: chunk_0616_annual_report_text (1).txt
+------------------------------
+cial statements for the year ended 
+December 31, 2022, except for the adoption of 
+new standards and interpretations effective as 
+of 1 January 2023. Changes in estimates are accounted for 
+prospectively. Significant errors are accounted 
+for retrospectively, but there were no such 
+significant accounting errors recorded in these 
+consolidated financial statements. 1.2.3 Standards issued and 
+effective 
+The Group applied for the first time certain 
+standards and amendments endorsed by the 
+EU, which are effective for annual periods 
+beginning on or after 1 January 2023.

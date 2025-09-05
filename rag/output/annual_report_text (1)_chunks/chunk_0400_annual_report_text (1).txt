@@ -1,0 +1,50 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 400 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0399_annual_report_text (1).txt
+NEXT: chunk_0401_annual_report_text (1).txt
+------------------------------
+Management Team combined has evolved as 
+follows (): 2019 
+2020 
+2021 
+2022 
+2023 
+Actual total remuneration 
+1.508.119 
+1.747.635 
+2.046.994 
+2.114.414 
+2.117.461 
+Number of positions included 
+4 
+4 
+4 
+4 
+4 
+Annual fixed remuneration 
+1.106.793 
+1.100.658 
+1.103.271 
+1.204.385 
+1.338.158 
+Annual target variable remuneration 
+672.894 
+671.391 
+672.845 
+724.068 
+907.115 
+Annual actual variable remuneration (related to 
+prior year performance) 
+347.179 
+585.948 
+879.883 
+866.345 
+779.304 
+Annual target remuneration (fixed + variable) 
+1.779.687 
+1.772.049 
+1.776.116 
+1.928.453 
+2.245.273 
+Annua

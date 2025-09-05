@@ -1,0 +1,37 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 761 of 1106
+SIZE: 654 characters
+PREVIOUS: chunk_0760_annual_report_text (1).txt
+NEXT: chunk_0762_annual_report_text (1).txt
+------------------------------
+7 
+Credited/(charged) to the income statement 
+11 426 
+-182 
+Deferred tax recognised from a business combinations 
+0 
+-375 
+Currency translation difference 
+143 
+-2 
+As at December 31, 2022 
+20 211 
+-756 
+Credited/(charged) to the income statement 
+-2 319 
+421 
+Deferred tax recognised from a business combinations 
+0 
+0 
+Currency translation difference 
+-265 
+49 
+As at December 31, 2023 
+17 627 
+-286 
+The deferred tax recognised from a business 
+combination in 2022 represents the temporary 
+difference on the intangible assets with a finite 
+useful life recognised as part of the purchase 
+price allocation exercise done on the 
+acquisition of Modus.

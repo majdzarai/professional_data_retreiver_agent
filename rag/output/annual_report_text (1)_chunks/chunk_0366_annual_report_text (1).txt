@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 366 of 1106
+SIZE: 645 characters
+PREVIOUS: chunk_0365_annual_report_text (1).txt
+NEXT: chunk_0367_annual_report_text (1).txt
+------------------------------
+ided the share price appreciates sufficiently. IBA has a policy to buy shares on the market to 
+back-up LTI plan to neutralize the related 
+dilution. These plans come alongside a share 
+ownership guideline as described below 
+A Stock Option Plan has been launched in 2021. This plan covers several years and there is 
+currently no intention to open a new plan for the 
+same beneficiaries before its vesting. Any 
+proceeds earned under this plan will be handed 
+to beneficiaries in the form of full shares until 
+their Minimum Holding Requirement (MHR) as 
+set here below is met. When their MHR is met, === Page 75 ===
+IBA Annual Report 2023 
+72.

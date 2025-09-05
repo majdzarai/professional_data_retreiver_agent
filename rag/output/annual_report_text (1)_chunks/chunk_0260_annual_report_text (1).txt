@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 260 of 1106
+SIZE: 589 characters
+PREVIOUS: chunk_0259_annual_report_text (1).txt
+NEXT: chunk_0261_annual_report_text (1).txt
+------------------------------
+=== Page 60 ===
+IBA Annual Report 2023 
+57. IBA 
+subordinated indebtedness). Both covenants 
+were complied with as of December 31, 2023. Digital risks 
+Information quality risk 
+Erroneous 
+information 
+or 
+information 
+not 
+received in a timely manner may adversely affect 
+a users decision. The amount of data managed 
+by the organization is growing and new 
+technology infrastructures are suited to manage 
+voluminous amounts of information. IBA is 
+continuously increasing the quality of its 
+processes and increasing the ownership and 
+control of data quality amongst the organization.

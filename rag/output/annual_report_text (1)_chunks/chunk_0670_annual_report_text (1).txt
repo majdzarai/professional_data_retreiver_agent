@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 670 of 1106
+SIZE: 587 characters
+PREVIOUS: chunk_0669_annual_report_text (1).txt
+NEXT: chunk_0671_annual_report_text (1).txt
+------------------------------
+ereto, has been 
+based on the available information at the 
+end of year 2023, including a consideration 
+on the impact of inflation on our customers. As a result of this review, no additional 
+credit losses for customers facing financial 
+difficulties were recognised. 2.3.2 High interest rates 
+The increase in interest rates were reflected in 
+a higher WACC used in the discounting of the 
+future cash flows in the impairment model. In addition, the discount rates used in the 
+actuarial assumptions of the defined benefit 
+plan were increased, leading to a decrease of 
+the provision.

@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 642 of 1106
+SIZE: 537 characters
+PREVIOUS: chunk_0641_annual_report_text (1).txt
+NEXT: chunk_0643_annual_report_text (1).txt
+------------------------------
+ontract for this 
+center has been renewed in 2023 for another 
+year. At the same time, the installation of the 
+last treatment room is still ongoing. We have analyzed the impact of these 
+sanctions on the control of IBA SA on its 
+Russian subsidiary from a consolidation scope 
+perspective, access to its resources, and the 
+indicators of asset impairment the conflict may 
+raise: 2.1.1 Control 
+We have reviewed whether IBA Group still has 
+control over its Russian subsidiary (Ion Beam 
+Applications LLC, a 100% subsidiary of IBA 
+SA).

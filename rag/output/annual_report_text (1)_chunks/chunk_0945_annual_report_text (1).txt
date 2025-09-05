@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 945 of 1106
+SIZE: 570 characters
+PREVIOUS: chunk_0944_annual_report_text (1).txt
+NEXT: chunk_0946_annual_report_text (1).txt
+------------------------------
+erm financial assets (EUR -0.1 million in 
+2022) and EUR -0.4 million (EUR -2.5 million in 
+2022) as short-term and long-term financial 
+liabilities. In 2023, a profit of EUR 5.1 million (2022: immaterial profit) was therefore recorded in 
+other comprehensive income, impacting equity 
+(under Hedging Reserves in equity) resulting 
+in accumulated loss amounting to EUR 3.3 
+million as at December 31, 2023 (2022: EUR 
+8.4 million). The changes of fair value of the derivatives 
+which are not accounted for using hedge 
+accounting are recognised in the Income 
+Statement.

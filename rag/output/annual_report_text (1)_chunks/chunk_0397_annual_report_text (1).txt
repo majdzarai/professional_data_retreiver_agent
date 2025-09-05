@@ -1,0 +1,54 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 397 of 1106
+SIZE: 633 characters
+PREVIOUS: chunk_0396_annual_report_text (1).txt
+NEXT: chunk_0398_annual_report_text (1).txt
+------------------------------
+=== Page 80 ===
+IBA Annual Report 2023 
+77. IBA 
+Stock options 
+Name, Position 
+Stock option plan definition 
+Information related to the financial year covered by the 
+report 
+Opening 
+balance 
+During the year (*) 
+Closing 
+balance 
+1. Plan 
+2. Offer 
+date 
+3. Vesting 
+date 
+4. End of the 
+retention period 
+5. Exercise period 
+6. Exercise 
+price 
+7. Number 
+of options 
+at the 
+start of 
+the year 
+(2) 
+8.a) 
+Number of 
+options 
+offered 
+8.b) Value 
+of the 
+shares @ 
+Offer date 
+(3) 
+9.a) Number of 
+options vested 
+9.b) Value of the 
+shares @ Vesting 
+date 
+9.c) Value @ 
+Exercise price 
+9.d) Added value @ 
+Vesting date (4) 
+10.

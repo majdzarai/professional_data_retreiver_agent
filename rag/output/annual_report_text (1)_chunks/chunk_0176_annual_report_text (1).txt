@@ -1,0 +1,52 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 176 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0175_annual_report_text (1).txt
+NEXT: chunk_0177_annual_report_text (1).txt
+------------------------------
+=== Page 47 ===
+2
+2
+4
+4
+6
+6
+8
+8
+10
+10
+12
+12
+14
+14
+16
+16
+High importance
+Moderate importance
+Importance of issues for IBA Management & Leadership
+GRI 102-46 MATERIALITY MATRIX
+Affordability & accessibility
+Comfort Quality
+Safety
+Awarness PT
+& Leadership
+Customers
+Statisfaction
+Research & Development
+Importance of issues for our 5 stakeholders
+Employee development
+Employee 
+Health & 
+Safety
+Profitability
+Diversity, Equity, Inclusion
+Sustainable Invest. for
+shareholders
+Community Engagement
+Education
+Business Ethics
+Responsible Sourcing
+Waste Management
+GHG Emissions
+Biodiversity
+Resource Scarity

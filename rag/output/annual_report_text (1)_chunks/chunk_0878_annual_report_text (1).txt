@@ -1,0 +1,34 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 878 of 1106
+SIZE: 323 characters
+PREVIOUS: chunk_0877_annual_report_text (1).txt
+NEXT: chunk_0879_annual_report_text (1).txt
+------------------------------
+ation options that are not included in 
+the lease term. (EUR 000) 
+Credit 
+facilities 
+total 
+amount 
+Credit 
+facilities 
+used 
+Credit 
+facilities 
+available 
+S.R.I.W. - subordinated 
+10 676 
+10 676 
+0 
+S.F.P.I. - subordinated 
+2 906 
+2 906 
+0 
+Short-term credit facilities 
+44 458 
+0 
+44 458 
+TOTAL 
+58 040 
+13 582 
+44 458

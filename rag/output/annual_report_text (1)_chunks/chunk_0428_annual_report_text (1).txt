@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 428 of 1106
+SIZE: 557 characters
+PREVIOUS: chunk_0427_annual_report_text (1).txt
+NEXT: chunk_0429_annual_report_text (1).txt
+------------------------------
+=== Page 86 ===
+IBA Annual Report 2023 
+83. IBA 
+The percentage of women remains stable at 
+27% and employees of 65 different nationalities 
+are now part of IBA. At the level of the IBA group, we are already 
+tracking different Diversity and Inclusion data in 
+our recruitment, promotions, salary review to 
+make sure we do not have any conscious or 
+unconscious bias in our management decisions. Our recruitment policy and internal mobility offer 
+every year development opportunities to our 
+employees and for applicants to join IBA all 
+around the world.

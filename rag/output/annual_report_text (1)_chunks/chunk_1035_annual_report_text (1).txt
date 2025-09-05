@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1035 of 1106
+SIZE: 698 characters
+PREVIOUS: chunk_1034_annual_report_text (1).txt
+NEXT: chunk_1036_annual_report_text (1).txt
+------------------------------
+tions for the Group management. They 
+allow the beneficiary to purchase a new share at 
+7,54 EUR following certain procedures from 
+January 02, 2024. IBA decided on May 28, 2020 to render the 
+current SOPs exercisable on a continued period 
+(outside of anti-insider dealing blackout periods 
+and outside of any additional technical black out 
+period) as from January 02, 2024. In 2021, IBA issued a long-term incentive in the 
+form of a stock option plan (SOP2021) on IBA 
+shares. It was offered on January 25, 2021 with 
+an exercise price of 13.39 (i.e. the average 
+closing price of the previous 30 days). This plan 
+will vest on January 1, 2025 and the options will 
+expire on December 31, 2026.

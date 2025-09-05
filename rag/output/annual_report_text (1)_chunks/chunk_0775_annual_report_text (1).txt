@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 775 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_0774_annual_report_text (1).txt
+NEXT: chunk_0776_annual_report_text (1).txt
+------------------------------
+age annual 
+market share price of the Companys shares) based on the monetary value of the subscription rights attached to outstanding 
+stock options. The number of shares calculated is then compared with the number of shares that would have been issued 
+assuming the exercise of the stock options. === Page 142 ===
+IBA Annual Report 2023 
+139. 5. Statement of financial position 
+5.1. INTANGIBLE ASSETS 
+The table below summarises the main types of intangible assets: EUR 000 
+Goodwill 
+Software 
+Other 
+Total 
+Gross carrying amount as at January 1, 2022 
+3 821 
+28 517 
+4 886 
+37 224 
+Additions 
+0

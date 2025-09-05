@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 568 of 1106
+SIZE: 537 characters
+PREVIOUS: chunk_0567_annual_report_text (1).txt
+NEXT: chunk_0569_annual_report_text (1).txt
+------------------------------
+=== Page 107 ===
+IBA Annual Report 2021 
+104. In accordance with sections 3:23 et 3:32, 1 of 
+the Belgian Companies & Associations Code, the 
+following 
+statements 
+represent 
+an 
+abbreviated version of the annual financial 
+statements. The full text is available on request 
+at the headquarters of the Company and will be 
+filed with the National Bank of Belgium. This 
+abbreviated version does not contain all the 
+appendices and the auditors report, who 
+expressed an unqualified opinion. === Page 108 ===
+IBA Annual Report 2021 
+105.

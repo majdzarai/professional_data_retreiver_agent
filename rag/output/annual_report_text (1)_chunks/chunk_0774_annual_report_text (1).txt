@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 774 of 1106
+SIZE: 552 characters
+PREVIOUS: chunk_0773_annual_report_text (1).txt
+NEXT: chunk_0775_annual_report_text (1).txt
+------------------------------
+rnings: The weighted average number of ordinary shares used in the calculation excludes shares purchased by the Company and 
+held as treasury shares. Diluted earnings 
+IBA has only one category of dilutive potential on ordinary share: stock options. The calculation is performed for the stock 
+options to determine the number of shares that could have been acquired at fair value (determined as the average annual 
+market share price of the Companys shares) based on the monetary value of the subscription rights attached to outstanding 
+stock options.

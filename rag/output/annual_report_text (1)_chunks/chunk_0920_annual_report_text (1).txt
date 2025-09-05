@@ -1,0 +1,9 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 920 of 1106
+SIZE: 450 characters
+PREVIOUS: chunk_0919_annual_report_text (1).txt
+NEXT: chunk_0921_annual_report_text (1).txt
+------------------------------
+All transactions involving share-based payments are recognized as expenses in Other operating expenses and IBA 
+constitutes a reserve for share-based payments. On vesting, exercise or forfeiture of the options, IBA does not transfer any 
+amount from this reserve to other components of equity. Reversals of expense may however occur when vesting conditions are not met and claims are forfeited. Source of estimation uncertainty and critical judgments

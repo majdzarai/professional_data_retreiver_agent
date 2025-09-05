@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 60 of 1106
+SIZE: 224 characters
+PREVIOUS: chunk_0059_annual_report_text (1).txt
+NEXT: chunk_0061_annual_report_text (1).txt
+------------------------------
+maging. Its also very interesting for inhouse 
+production because the local hospital 
+will not depend on the big suppliers 
+of radio-pharmaceuticals. Muhammed Sarfaraz Mirza, Business Line Manager, Attieh Medico Saudi Arabia

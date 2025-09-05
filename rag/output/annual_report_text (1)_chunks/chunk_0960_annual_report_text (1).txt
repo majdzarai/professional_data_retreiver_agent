@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 960 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0959_annual_report_text (1).txt
+NEXT: chunk_0961_annual_report_text (1).txt
+------------------------------
+.9 million), the costs of the 
+stock option plan (EUR +1.0 million) and the net 
+impact of losses and write-downs on inventories 
+(EUR +2.4 million). As at December 31, 2022, the heading mainly 
+included the partial release of the refund liability 
+related to the performance bond issued to CGN 
+(EUR -5.0 million), the return in stock of a Proton 
+Therapy equipment from a bankrupt site, net of 
+the uncollected amounts (EUR -2.5 million), a 
+financial gain recognised on the interest rates 
+renegotiation with the S.F.P.I and S.R.I.W (EUR 
+-0.6 million), the net gain from a settlement
+agreement wi

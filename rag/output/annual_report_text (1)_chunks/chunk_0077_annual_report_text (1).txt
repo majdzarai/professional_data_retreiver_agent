@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 77 of 1106
+SIZE: 318 characters
+PREVIOUS: chunk_0076_annual_report_text (1).txt
+NEXT: chunk_0078_annual_report_text (1).txt
+------------------------------
+nd has 
+been consistently expanding year after year. Watch the video: IBA new CycloneIKON. IBA has been a trusted partner 
+of Curium for a long time. We selected IBA for its globally 
+recognized expertise and due to 
+the outstanding capabilities and 
+reliability of the Cyclotron. Renaud Dehareng, CEO of Curium Pharma

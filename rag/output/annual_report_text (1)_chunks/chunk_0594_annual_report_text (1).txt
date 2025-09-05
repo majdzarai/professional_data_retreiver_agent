@@ -1,0 +1,89 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 594 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0593_annual_report_text (1).txt
+NEXT: chunk_0595_annual_report_text (1).txt
+------------------------------
+247 
+-247 
+Other changes 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-8 
+-8 
+As at December 31, 2022 
+42 502 
+43 478 
+-18 328 
+-8 402 
+17 779 
+-516 
+-6 408 
+-5 585 
+51 431 
+115 951 
+As at January 1, 2023 
+42 502 
+43 478 
+-18 328 
+-8 402 
+17 779 
+-516 
+-6 408 
+-5 585 
+51 431 
+115 951 
+Profit/(loss) for the 
+period (note 4) 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-9 110 
+-9 110 
+Other comprehensive 
+income 
+0 
+0 
+0 
+5 057 
+0 
+-1 067 
+-2 904 
+3 432 
+0 
+4 518 
+Total comprehensive 
+income for the period 
+0 
+0 
+0 
+5 057 
+0 
+-1 067 
+-2 904 
+3 432 
+-9 110 
+-4 592 
+Dividends 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-6 118 
+-6 118 
+Employee stock optio

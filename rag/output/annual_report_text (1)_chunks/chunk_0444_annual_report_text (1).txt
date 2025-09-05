@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 444 of 1106
+SIZE: 614 characters
+PREVIOUS: chunk_0443_annual_report_text (1).txt
+NEXT: chunk_0445_annual_report_text (1).txt
+------------------------------
+ted if they 
+may affect or even appear to affect the integrity 
+or independence of the business partner, the 
+public official, IBA, or its employees. The duty of 
+integrity and trust are of primary importance 
+within the Company and any illegal or unethical 
+act would not be tolerated. Through its Code of Conduct for Suppliers, the 
+Company moreover targets to work with third 
+parties that share its commitment to ethics and 
+that share its values of business integrity. Hence, the target is to achieve the objective of 
+no IBAs third-party providers, customers, and 
+partners involved in any corrupt practices.

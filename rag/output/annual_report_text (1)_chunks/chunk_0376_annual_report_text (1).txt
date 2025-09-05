@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 376 of 1106
+SIZE: 585 characters
+PREVIOUS: chunk_0375_annual_report_text (1).txt
+NEXT: chunk_0377_annual_report_text (1).txt
+------------------------------
+rs residing overseas, who, in order to 
+cover the specific time implications and 
+constraints related to intercontinental travel, receive EUR 16,000. The Chairman of the Board 
+receives an annual lump-sum fee of EUR 
+12,000, whilst the Chairs of the Audit Committee 
+and of the Sustainability Committee receive an 
+annual lump-sum fee of EUR 9,000 each. The annual lump-sum fee is supplemented with 
+a fixed fee of EUR 1,600 per Board or committee 
+meeting the director has been invited to and 
+which he has attended. The Chairman of the Board receives EUR 3 000 
+per meeting attended.

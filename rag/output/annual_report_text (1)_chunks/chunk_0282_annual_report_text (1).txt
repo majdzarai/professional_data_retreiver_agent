@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 282 of 1106
+SIZE: 667 characters
+PREVIOUS: chunk_0281_annual_report_text (1).txt
+NEXT: chunk_0283_annual_report_text (1).txt
+------------------------------
+ems are 
+sufficiently secured by: A right-of-access procedure to data and 
+programs; An anti-virus protection system; A protection system for networking; A data safeguard and preservation system; Availability 
+and 
+continuity 
+of 
+service 
+measures; A portal centralizes incidents, requests for 
+information, and other requests that staff 
+may have concerning IT services. The IT department works with consultants based 
+on specific requirements. Work with these 
+service providers is defined by contract. Security 
+measures are tested periodically to ensure their 
+effectiveness. The maintenance of the IT 
+systems is an integral part of the IT departments 
+mission.

@@ -1,0 +1,37 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 394 of 1106
+SIZE: 402 characters
+PREVIOUS: chunk_0393_annual_report_text (1).txt
+NEXT: chunk_0395_annual_report_text (1).txt
+------------------------------
+=== Page 79 ===
+IBA Annual Report 2023 
+76. IBA 
+Details of 2023 variable pay for Executive Management Team 
+Title 
+Currency 
+Profit 
+Before Tax 
+a. % pay-out 
+b. amount 
+Order Intake 
+a. % pay-out 
+b. amount 
+Sustainability 
+a. % pay-out 
+b. amount 
+Profit Sharing 
+a. sharing value 
+b. amount 
+Executive 
+Management 
+Team 
+EUR 
+a. 0% 
+b. 0 
+a. 150% 
+b. 43 188 
+a. 120% 
+b. 35 598 
+a. 10,36 
+b. 89 728

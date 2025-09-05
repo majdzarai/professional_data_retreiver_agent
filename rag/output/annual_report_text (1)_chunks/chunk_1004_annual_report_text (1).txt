@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1004 of 1106
+SIZE: 540 characters
+PREVIOUS: chunk_1003_annual_report_text (1).txt
+NEXT: chunk_1005_annual_report_text (1).txt
+------------------------------
+determines is necessary to enable the preparation of consolidated 
+accounts that are free from material misstatement, whether due to fraud or error. In preparing the consolidated accounts, the board of directors is responsible for assessing the Groups 
+ability to continue as a going concern, disclosing, as applicable, matters related to going concern and 
+using the going concern basis of accounting unless the board of directors either intends to liquidate 
+the Group or to cease operations, or has no realistic alternative but to do so.

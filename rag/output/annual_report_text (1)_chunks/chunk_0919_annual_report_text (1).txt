@@ -1,0 +1,30 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 919 of 1106
+SIZE: 227 characters
+PREVIOUS: chunk_0918_annual_report_text (1).txt
+NEXT: chunk_0920_annual_report_text (1).txt
+------------------------------
+rs 
+2-5 years 
+> 5 years Total contractual cash flows 
+Trade receivables 
+77 202 
+30 374 
+0 
+0 
+0 
+107 576 
+Other ST and LT assets 
+293 
+57 824 
+2 977 
+6 778 
+11 432 
+79 304 
+TOTAL 
+77 495 
+88 198 
+2 977 
+6 778 
+11 432 
+186 880

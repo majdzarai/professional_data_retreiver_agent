@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 205 of 1106
+SIZE: 522 characters
+PREVIOUS: chunk_0204_annual_report_text (1).txt
+NEXT: chunk_0206_annual_report_text (1).txt
+------------------------------
+n the previous year, with impacts still felt from 
+post-COVID overstocking of medical equipment, leading to lower demand for sterilization 
+services. Investments were made in recruitment 
+and training over the year to prepare for a 
+growing installed base, particularly in the US. IBA sees strong interest in its E-beam and X-ray 
+technologies that provide efficient and greener 
+sterilization solutions, illustrating its importance 
+alongside the more traditional ethylene oxide- 
+and gamma-based sterilization solutions.

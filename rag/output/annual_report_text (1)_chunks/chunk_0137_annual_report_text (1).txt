@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 137 of 1106
+SIZE: 681 characters
+PREVIOUS: chunk_0136_annual_report_text (1).txt
+NEXT: chunk_0138_annual_report_text (1).txt
+------------------------------
+=== Page 39 ===
+COMMITTED TO HEALTH, WELLNESS 
+AND SAFETY
+Respect for universal human rights is at the core of IBAs 
+business. IBA is committed to providing a positive, productive, and 
+safe work environment with freedom of association, good 
+ergonomics and great employee facilities. We promote 
+the prevention of involuntary labor and human trafficking, as well as the prevention of underage labor and burnout, in a work environment that is free from violence, threats, harassment, intimidation, mental or physical coercion, and other disruptive behavior. We do not permit any form of violence, whether physical, verbal, or mental. We consider all threats of violence as serious.

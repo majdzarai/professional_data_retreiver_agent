@@ -1,0 +1,9 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 810 of 1106
+SIZE: 282 characters
+PREVIOUS: chunk_0809_annual_report_text (1).txt
+NEXT: chunk_0811_annual_report_text (1).txt
+------------------------------
+ation is allocated among the Groups cash-generating units (CGU) that are 
+expected to benefit from synergies as a result of the business combination. This allocation is based on Managements 
+assessment of the synergies gained. Source of estimation uncertainty and critical judgments

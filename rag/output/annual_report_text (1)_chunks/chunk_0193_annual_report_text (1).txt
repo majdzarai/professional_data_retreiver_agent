@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 193 of 1106
+SIZE: 518 characters
+PREVIOUS: chunk_0192_annual_report_text (1).txt
+NEXT: chunk_0194_annual_report_text (1).txt
+------------------------------
+=== Page 52 ===
+IBA Annual Report 2023 
+49. IBA 
+continued in overheads and R&D to drive the 
+future growth of the business, alongside 
+inflationary 
+pressures 
+and 
+some 
+foreign 
+exchange impacts. There are 33 PT projects under construction or 
+installation. This consists of nine ProteusPLUS 
+and 24 ProteusONE systems. IBA is the 
+market leader in proton therapy with a 42% 
+market share, and there continues to be an 
+active pipeline of potential projects, with 
+particular interest coming from Asia and the 
+USA.

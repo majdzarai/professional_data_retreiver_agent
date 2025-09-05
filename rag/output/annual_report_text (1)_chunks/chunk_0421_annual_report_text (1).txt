@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 421 of 1106
+SIZE: 635 characters
+PREVIOUS: chunk_0420_annual_report_text (1).txt
+NEXT: chunk_0422_annual_report_text (1).txt
+------------------------------
+policy is 
+that no one at IBA should ever be subject to any 
+kind of discrimination. The membership or non-
+membership of a trade union is also free. IBA commits itself to a positive, productive, and 
+safe work environment that is free from violence, threats, harassment, intimidation, mental or 
+physical coercion, and other disruptive behavior. The Company does not permit any form of 
+violence, whether physical, verbal, or mental; all 
+threats of violence are considered serious. IBA 
+is also committed to a workplace free of 
+harassment. Social rights, as an integral part of 
+human rights, are actively protected by the 
+Company.

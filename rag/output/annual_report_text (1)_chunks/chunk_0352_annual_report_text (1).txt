@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 352 of 1106
+SIZE: 301 characters
+PREVIOUS: chunk_0351_annual_report_text (1).txt
+NEXT: chunk_0353_annual_report_text (1).txt
+------------------------------
+and 7:202 (public takeover bid) of the [Belgian] 
+Companies & Associations Code (hereafter, the 
+BCAC). === Page 73 ===
+IBA Annual Report 2023 
+70. IBA 
+REMUNERATION REPORT (SECTION 3:6, 3, OF THE 
+BCAC) 
+Remuneration Policy: Managing 
+Directors and other Executive 
+Management Team Members 
+Procedure

@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 621 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0620_annual_report_text (1).txt
+NEXT: chunk_0622_annual_report_text (1).txt
+------------------------------
+f that 
+period. The amendments did not have a material 
+impact on the Group as the clarifications are 
+confirming the current practices of the Group. Amendments to IAS 1 and IFRS 
+Practice Statement 2 - Disclosure of 
+Accounting Policies 
+The IASB provides guidance and examples to 
+help entities apply materiality judgements to 
+accounting 
+policy 
+disclosures. The 
+amendments aim to help entities provide 
+accounting policy disclosures that are more 
+useful by replacing the requirement for entities 
+to disclose their significant accounting policies 
+with a requirement to disclose their material

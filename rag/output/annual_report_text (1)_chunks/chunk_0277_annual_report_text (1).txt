@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 277 of 1106
+SIZE: 602 characters
+PREVIOUS: chunk_0276_annual_report_text (1).txt
+NEXT: chunk_0278_annual_report_text (1).txt
+------------------------------
+chievements and performance; The strategic plan and budgets for the 
+following period; The analysis of the treasury position; Internal audit reports. Control activities 
+The control of risks to which the Company is 
+exposed is undertaken by financial controllers 
+and an internal auditor reporting to both the CFO 
+and the Audit Committee. These two functions 
+help to identify new operational or accounting 
+issues, apply suitable accounting procedures 
+and ensure the safeguarding of assets. Through 
+their work, they remain vigilant for any situation 
+that could indicate internal or external fraud.

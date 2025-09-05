@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 330 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0329_annual_report_text (1).txt
+NEXT: chunk_0331_annual_report_text (1).txt
+------------------------------
+ted 
+market 
+(B.S.G. 03/12/2007), the 
+corporate 
+governance 
+statement contains the following information. i) 
+Structure of the share capital, classes of 
+shares, rights attached to each category 
+of shares and % of the share capital that 
+they represent 
+As of 31 December 2023, the Company has 
+issued 30 282 218 shares, without a nominal 
+value, each representing 1/30 282 218 th of the 
+Companys share capital and each granting the 
+same rights to its owner. No classes of shares 
+have been created. ii) Legal restrictions or restrictions included 
+in the companys articles of association, on th

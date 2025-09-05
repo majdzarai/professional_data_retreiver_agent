@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 459 of 1106
+SIZE: 528 characters
+PREVIOUS: chunk_0458_annual_report_text (1).txt
+NEXT: chunk_0460_annual_report_text (1).txt
+------------------------------
+This 
+assessment is dependent on the nature of the 
+services that are required from the supplier and 
+on the geographical location of this supplier. By 2023, all new IBA suppliers have recognized 
+and signed the Supplier Code of Conduct. No incident with respect to Human Rights 
+relating to the IBAs activities or decisions were 
+noticed in 2023. A large majority of IBAs facilities are accessible 
+to persons with reduced mobility. As an example, the four main buildings in Louvain-la-Neuve are 
+fully adapted for such people.

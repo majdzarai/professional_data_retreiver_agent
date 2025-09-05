@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 375 of 1106
+SIZE: 654 characters
+PREVIOUS: chunk_0374_annual_report_text (1).txt
+NEXT: chunk_0376_annual_report_text (1).txt
+------------------------------
+=== Page 76 ===
+IBA Annual Report 2023 
+73. IBA 
+Remuneration 
+Policy: Non-
+Managing Directors 
+In accordance with IBAs Corporate Governance 
+Charter, published on the group website, the 
+Board of Directors determines the remuneration 
+policy and amounts paid to non-Managing 
+Directors, based on recommendations made by 
+the Compensation Committee. It is reviewed 
+regularly in the light of market practice. IBA directors are currently remunerated by an 
+annual lump-sum fee of EUR 6,000, except 
+directors residing overseas, who, in order to 
+cover the specific time implications and 
+constraints related to intercontinental travel, receive EUR 16,000.

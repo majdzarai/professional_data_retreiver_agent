@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1067 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_1066_annual_report_text (1).txt
+NEXT: chunk_1068_annual_report_text (1).txt
+------------------------------
+3-1 
+Management of material topics 
+p40 AR2023 A committed company / planet 
+306-1 
+Waste generation and significant waste-
+related impacts 
+p40 AR2023 A committed company / planet 
+306-2 
+Management of significant waste-related 
+impacts 
+p40 AR2023 A committed company / planet 
+p9 AR2023 Patient care, what makes our heart beat / industrial solutions 
+p193 AR2023 GRI appendix 306-2 / management of significant waste related 
+impacts 
+306-3 
+Waste generated 
+p40 AR2023 A committed company / planet 
+p194 AR2023 GRI appendix 306-3 / waste generated 
+306-4 
+Waste diverted from disposal 
+p40 AR2023

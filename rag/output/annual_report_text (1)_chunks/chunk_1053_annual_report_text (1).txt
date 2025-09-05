@@ -1,0 +1,22 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1053 of 1106
+SIZE: 558 characters
+PREVIOUS: chunk_1052_annual_report_text (1).txt
+NEXT: chunk_1054_annual_report_text (1).txt
+------------------------------
+/ corporate governance statement 
+2-19 
+Remuneration policies 
+p70 AR2023 Management report / corporate governance statement / remuneration 
+report 
+2-20 
+Process to determine remuneration 
+p70 AR2023 Management report / corporate governance statement / remuneration 
+report 
+2-21 
+Annual total compensation ratio 
+p70 AR2023 Management report / corporate governance statement / remuneration 
+report 
+p81 AR2023 Management report / corporate governance statement / codes of 
+conduct / non-financial indicators and results 
+4. Strategy, policies and practices

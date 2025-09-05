@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 247 of 1106
+SIZE: 697 characters
+PREVIOUS: chunk_0246_annual_report_text (1).txt
+NEXT: chunk_0248_annual_report_text (1).txt
+------------------------------
+t of the equipment, or to contract a 
+specific credit insurance from either the Belgian 
+official export credit agency Credendo or private 
+insurers. Besides, the consolidated financial statements 
+presents the financial assets and the financial 
+liabilities of the Group by valuation method (fair 
+value and carrying amount). The carrying 
+amount of these financial assets represents the 
+maximum credit exposure of the Group. Foreign currency risk 
+The Group operates internationally and as such, is exposed to foreign exchange risks arising from 
+commercial transactions (sales and supply 
+contracts), from financial assets and liabilities, and from net investments in non-Eurozone 
+operations.

@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 467 of 1106
+SIZE: 692 characters
+PREVIOUS: chunk_0466_annual_report_text (1).txt
+NEXT: chunk_0468_annual_report_text (1).txt
+------------------------------
+for certification. In accordance with B 
+Lab requirements, IBA has also modified its 
+articles of Association to formally integrate its 
+commitment to consider the consequences of its 
+activities and the interests of all stakeholders 
+(patients, shareholders, employees, customers, suppliers, the community, the planet, etc.) in 
+social, economic, legal, societal 
+and 
+environmental areas. The B Corp certification was an important but 
+humble first step; IBA is becoming an 
+inspirational company for others, which brings 
+responsibility to us and inspiration to others. Inspired by the findings along the B Corp 
+certification process, we mapped our strengths 
+and weaknesses as a company.

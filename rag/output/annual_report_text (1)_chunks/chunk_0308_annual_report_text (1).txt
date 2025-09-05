@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 308 of 1106
+SIZE: 640 characters
+PREVIOUS: chunk_0307_annual_report_text (1).txt
+NEXT: chunk_0309_annual_report_text (1).txt
+------------------------------
+neral Meeting of 
+2026. Remuneration committee 
+The Remuneration Committee met 2 times in 
+2023. A report on each meeting was provided to 
+the Board. Topics of discussion included matters relating to 
+the 2023 bonuses, long terms incentives, and 
+compensation schemes in general. As of December 11, 2023, the Remuneration 
+Committee was comprised of Saint-Denis SA 
+represented by its managing director, Mr. Pierre 
+Mottet, Consultance 
+Marcel 
+Miller 
+SCS 
+represented by its permanent representative, Mr. Marcel Miller, Nextstepefficiency SAS, represented by its permanent representative 
+Mrs. Christine Dubus and Dr. Richard A. Hausmann.

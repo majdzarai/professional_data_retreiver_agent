@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 268 of 1106
+SIZE: 637 characters
+PREVIOUS: chunk_0267_annual_report_text (1).txt
+NEXT: chunk_0269_annual_report_text (1).txt
+------------------------------
+Report where and why it deviates 
+from the Code. The Charter was endorsed by IBAs Board of 
+Directors during its meeting held on 18th 
+December 2020. The Charter may be updated 
+from time to time as governance of the Company 
+evolves. According to section 3:6, 2, 2, of the BCAC, IBA reports that it deviates from principle 5.3/1 of 
+the 2020 Belgian Corporate Governance Code, which states that the Nomination Committee 
+should be composed of a majority of non-
+executive, independent, directors. The 
+explanation for such a deviation is that IBA has 
+a particular shareholder structure to preserve 
+and secure its anchorage in Belgium.

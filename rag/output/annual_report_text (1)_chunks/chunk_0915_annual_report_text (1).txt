@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 915 of 1106
+SIZE: 603 characters
+PREVIOUS: chunk_0914_annual_report_text (1).txt
+NEXT: chunk_0916_annual_report_text (1).txt
+------------------------------
+Accounting policy for share-based transactions 
+Share-based payments are transactions to be paid with shares, stock options, or other equity instruments (granted to 
+employees). These plans often include certain vesting conditions such as continuous employment for a period of time. As 
+the fair value of goods or services received in exchange for the employee options cannot be determined, the Group uses the 
+fair value of the equity instruments granted. === Page 164 ===
+IBA Annual Report 2023 
+161. 7. Description of financial risk management 
+(sections 3:6, 1, 8 and 3:32, 1, 5, of the 
+BCAC) 
+7.1.

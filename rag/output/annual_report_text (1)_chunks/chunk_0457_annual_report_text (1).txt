@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 457 of 1106
+SIZE: 643 characters
+PREVIOUS: chunk_0456_annual_report_text (1).txt
+NEXT: chunk_0458_annual_report_text (1).txt
+------------------------------
+pany ensures to 
+work with third parties that share its commitment 
+to Human Rights and that do not violate the 
+Human 
+Rights 
+of 
+their 
+employees. All 
+consultants and other parties acting on behalf of 
+IBA are also expected to fully respect the Human 
+Rights of their employees, suppliers, and 
+customers. Ad hoc audits of selected suppliers 
+are carried out every year. Non-financial Indicators and Results 
+As described hereabove, system of formal 
+reporting 
+(whistleblower 
+platform) 
+is 
+also 
+described in the Code of Business Conduct and 
+encourages the denunciation of practices that 
+would be contrary to IBAs Human Rights policy.

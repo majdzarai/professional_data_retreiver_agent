@@ -1,0 +1,31 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 852 of 1106
+SIZE: 686 characters
+PREVIOUS: chunk_0851_annual_report_text (1).txt
+NEXT: chunk_0853_annual_report_text (1).txt
+------------------------------
+Cash and cash equivalents are detailed as follows: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Bank balances and cash 
+108 366 
+109 306 
+Accounts with restrictions shorter than 3 months 
+0 
+0 
+Short-term bank deposits 
+50 000 
+0 
+CASH AND CASH EQUIVALENTS 
+158 366 
+109 306 
+5.9. EQUITY 
+As December 31, 2023, 49.11% of IBAs stock 
+was traded on Euronext. Full details of the 
+Groups shareholders are set out in the section 
+The stock market and shareholders of this 
+annual report. In 2023, the General Assembly 
+has approved a dividend of EUR 0.21 per share 
+as recommended by IBAs Board of Directors, for 
+a total amount of EUR 6.1 million, which has 
+been paid during the year.

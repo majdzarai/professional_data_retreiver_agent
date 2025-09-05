@@ -1,0 +1,54 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 918 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0917_annual_report_text (1).txt
+NEXT: chunk_0919_annual_report_text (1).txt
+------------------------------
+The tables below summarize the maturity profile 
+of the Groups financial assets and financial 
+liabilities: (EUR 000) 
+FINANCIAL ASSETS 
+December 31, 2022 
+Due 
+< 1 year 
+1-2 years 
+2-5 years 
+> 5 years Total contractual cash flows 
+Trade receivables 
+61 801 
+49 848 
+0 
+0 
+0 
+111 649 
+Other ST and LT assets 
+711 
+83 624 
+4 964 
+4 424 
+14 101 
+107 824 
+TOTAL 
+62 512 
+133 472 
+4 964 
+4 424 
+14 101 
+219 473 
+December 31, 2023 
+Due 
+< 1 year 
+1-2 years 
+2-5 years 
+> 5 years Total contractual cash flows 
+Trade receivables 
+77 202 
+30 374 
+0 
+0 
+0 
+107 576 
+Other ST and LT assets 
+293 
+57 824 
+2 977

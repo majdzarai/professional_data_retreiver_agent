@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 441 of 1106
+SIZE: 242 characters
+PREVIOUS: chunk_0440_annual_report_text (1).txt
+NEXT: chunk_0442_annual_report_text (1).txt
+------------------------------
+t and prohibit 
+bribes or any sort of corruption and as such, the 
+Company is compliant with the applicable anti-
+corruption and bribery legislation. IBA complies with anti-corruption and bribery 
+laws and enforces them, as well as the values

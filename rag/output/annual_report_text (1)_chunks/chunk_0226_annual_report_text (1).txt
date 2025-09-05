@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 226 of 1106
+SIZE: 539 characters
+PREVIOUS: chunk_0225_annual_report_text (1).txt
+NEXT: chunk_0227_annual_report_text (1).txt
+------------------------------
+possible 
+that the defection of certain key employees 
+possessing specific expertise could, for a short 
+time, affect one of the Companys activities. Competition risk and industry risk 
+Currently, IBA has no direct competitor covering 
+all the markets in which it is present. However, in 
+certain markets, it is competing against some of 
+the 
+worlds 
+largest 
+corporations. These 
+corporations have highly developed sales and 
+marketing networks and more importantly, extensive 
+financial 
+resources 
+beyond 
+comparison with those of IBA.

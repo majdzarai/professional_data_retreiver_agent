@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 340 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0339_annual_report_text (1).txt
+NEXT: chunk_0341_annual_report_text (1).txt
+------------------------------
+be independent directors, chosen for their 
+experience, discernment, and personality and 
+who meet the definition of section 7:87 of the 
+BCAC. (b) 
+at least one-third of its members 
+(hereinafter referred to as "internal directors") 
+must be elected on the proposal of the managing 
+director(s); (c) 
+the other directors (hereinafter referred 
+to as "other directors") shall be appointed freely 
+by the General Meeting, provided however that 
+no more than two of these other directors may 
+be "directly or indirectly related to the same 
+shareholder" (or to a company or person linked 
+to it) withi

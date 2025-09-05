@@ -1,0 +1,47 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 927 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0926_annual_report_text (1).txt
+NEXT: chunk_0928_annual_report_text (1).txt
+------------------------------
+=== Page 166 ===
+IBA Annual Report 2023 
+163. The table below summarises the financial liabilities held by IBA: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+FINANCIAL LIABILITIES 
+Non-current Current 
+Fair value 
+Non-current 
+Current Fair value 
+At fair value through Profit and loss 
+1 221 
+2 907 
+4 128 
+217 
+555 
+772 
+Derivative hedge-accounted financial 
+liabilities 
+844 
+1 687 
+2 531 
+95 
+334 
+429 
+Derivatives liabilities at fair value through the 
+income statement 
+377 
+1 220 
+1 597 
+122 
+221 
+343 
+At amortised cost 
+37 320 136 684 
+171 067 
+31 965 
+139 634 
+174 427 
+Trade payables 
+0

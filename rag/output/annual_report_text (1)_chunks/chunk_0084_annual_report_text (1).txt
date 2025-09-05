@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 84 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_0083_annual_report_text (1).txt
+NEXT: chunk_0085_annual_report_text (1).txt
+------------------------------
+ts
+Protect, enhance and save 
+lives by contributing to 
+MORE TARGETED TREATMENTS
+Proton therapy is one of the most advanced forms 
+of radiation therapy and a valuable treatment 
+modality for thousands of women, men and children 
+who are diagnosed with cancer. Proton therapy aims to destroy cancer cells by 
+delivering proton beams to a target tumor. Protons 
+release the maximum energy within the tumor target 
+area while limiting the radiation to the surrounding 
+healthy tissues. This is not the case for photon 
+radiotherapy, the most common type of radiation 
+currently used in cancer therapy.

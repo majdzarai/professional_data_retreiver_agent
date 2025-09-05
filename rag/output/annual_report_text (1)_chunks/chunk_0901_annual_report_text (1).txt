@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 901 of 1106
+SIZE: 649 characters
+PREVIOUS: chunk_0900_annual_report_text (1).txt
+NEXT: chunk_0902_annual_report_text (1).txt
+------------------------------
+ted for using the projected unit credit method. This method considers that each service period gives rise to 
+an additional benefit entitlement unit. According to this method, the plans cost is recognized as an expense in the income 
+statement so as to spread this cost evenly throughout the employees career, and this based on the recommendations of 
+actuaries who carry out complete assessments on these retirement plans each year. Actuarial differences include, for assets and liabilities, differences between previous actuarial assumptions and what 
+actually happened, and the impact of changes of actuarial assumptions on the plans liabilities.

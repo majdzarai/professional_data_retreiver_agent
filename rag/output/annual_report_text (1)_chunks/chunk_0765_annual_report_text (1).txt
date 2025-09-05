@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 765 of 1106
+SIZE: 565 characters
+PREVIOUS: chunk_0764_annual_report_text (1).txt
+NEXT: chunk_0766_annual_report_text (1).txt
+------------------------------
+res in the Consolidated Statement of Income. As most of these tax credits are not immediately utilizable by 
+IBA SA, a long-term asset is recognised. Deferred taxes: A deferred tax asset on deductible temporary differences and on unused tax losses carried forward is only recognised to the 
+extent that it is probable that taxable profit will be available against which the deductible temporary difference and/or tax 
+losses can be utilized. When assessing deferred tax assets, management ensure that it is based on a reasonable number of 
+years of taxable results.

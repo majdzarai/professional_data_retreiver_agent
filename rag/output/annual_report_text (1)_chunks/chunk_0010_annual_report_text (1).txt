@@ -1,0 +1,43 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 10 of 1106
+SIZE: 400 characters
+PREVIOUS: chunk_0009_annual_report_text (1).txt
+NEXT: chunk_0011_annual_report_text (1).txt
+------------------------------
+=== Page 7 ===
+130,000+
+patients treated 
+on IBA PT equipment
+429
+Million EUR revenues
+60
+nationalities
+B Corp 114
+certified score 2024
+42%
+proton therapy market share
+4
+business 
+activities
+12%
+of turnover 
+invested in R&D 
+5
+continents
+74
+PT centers 
+sold
+57
+proton therapy 
+service contracts
+40
+countries
+1,986
+employees
+670+
+accelerators sold
+IBA in 2023
+at a glance
+4
+IBA
+CORPORATE BROCHURE 2024

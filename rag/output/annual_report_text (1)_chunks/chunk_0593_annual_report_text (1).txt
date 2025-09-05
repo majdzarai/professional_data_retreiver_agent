@@ -1,0 +1,100 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 593 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_0592_annual_report_text (1).txt
+NEXT: chunk_0594_annual_report_text (1).txt
+------------------------------
+-6 106 
+Total comprehensive 
+income for the period 
+0 
+0 
+0 
+38 
+0 
+3 548 
+-10 422 
+730 
+6 057 
+-49 
+Capital increase 
+89 
+642 
+-555 
+0 
+0 
+0 
+0 
+0 
+0 
+176 
+Dividends 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-5 598 
+-5 598 
+Employee stock options 
+and share-based 
+payments (note 16.2) 
+0 
+0 
+0 
+0 
+941 
+0 
+0 
+0 
+0 
+941 
+(Purchase)/Sale of 
+treasury shares (note 
+16.1) 
+0 
+0 
+-5 160 
+0 
+0 
+0 
+0 
+0 
+0 
+-5 160 
+Hyperinflation 
+adjustment 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-247 
+-247 
+Other changes 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-8 
+-8 
+As at December 31, 2022 
+42 502 
+43 478 
+-18 328 
+-8 402 
+17 779 
+-516 
+-6 408 
+-5 585 
+51 4

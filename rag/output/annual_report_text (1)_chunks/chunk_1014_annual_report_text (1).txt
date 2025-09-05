@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1014 of 1106
+SIZE: 674 characters
+PREVIOUS: chunk_1013_annual_report_text (1).txt
+NEXT: chunk_1015_annual_report_text (1).txt
+------------------------------
+d 
+timing of the audit and significant audit findings, including any significant deficiencies in internal control 
+that we identify during our audit. We also provide the audit committee with a statement that we have complied with relevant ethical 
+requirements regarding independence, and to communicate with them all relationships and other 
+matters that may reasonably be thought to bear on our independence, and where applicable, related 
+safeguards. From the matters communicated with the audit committee, we determine those matters that were of 
+most significance in the audit of the consolidated accounts of the current period and are therefore the 
+key audit matters.

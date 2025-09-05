@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 269 of 1106
+SIZE: 640 characters
+PREVIOUS: chunk_0268_annual_report_text (1).txt
+NEXT: chunk_0270_annual_report_text (1).txt
+------------------------------
+irectors. The 
+explanation for such a deviation is that IBA has 
+a particular shareholder structure to preserve 
+and secure its anchorage in Belgium. Therefore, there is no majority of independent directors in 
+the Nomination Committee. IBA also reports that it deviates from principle 7.6 
+of the 2020 Belgian Corporate Governance 
+Code, which states that [a] non-executive board 
+member 
+should 
+receive 
+part 
+of 
+their 
+remuneration in the form of shares in the 
+company (.). National law applicable to some 
+non-executive directors of IBA prohibits them 
+from receiving part of their remuneration in the 
+form of shares of the company.

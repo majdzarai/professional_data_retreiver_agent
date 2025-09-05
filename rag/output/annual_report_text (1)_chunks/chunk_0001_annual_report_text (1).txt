@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1 of 1106
+SIZE: 484 characters
+NEXT: chunk_0002_annual_report_text (1).txt
+------------------------------
+=== Page 4 ===
+We are a world leader in particle accelerator 
+technology. We design, produce and market 
+innovative solutions for the diagnosis and treatment 
+of cancer and other serious illnesses, and for 
+industrial applications such as the sterilization 
+of medical devices. Around the world, thousands of hospitals use 
+particle accelerators and dosimetry equipment 
+designed, produced, maintained and upgraded 
+by IBA, making our mission to protect, enhance 
+and save lives true.

@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 223 of 1106
+SIZE: 355 characters
+PREVIOUS: chunk_0222_annual_report_text (1).txt
+NEXT: chunk_0224_annual_report_text (1).txt
+------------------------------
+the Economy 
+Assess market movements that 
+could affect the organizations 
+performance or risk exposure and 
+effectiveness of key financial controls. Hardware, Software, and Network Controls 
+Evaluate potential system failures 
+and innovation lag risks and 
+Strategic 
+Risks 
+Legal & 
+Compliance 
+Risks 
+Financial 
+Risks 
+Digital 
+Risks 
+Operational 
+Rsks

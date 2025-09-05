@@ -1,0 +1,27 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1031 of 1106
+SIZE: 685 characters
+PREVIOUS: chunk_1030_annual_report_text (1).txt
+NEXT: chunk_1032_annual_report_text (1).txt
+------------------------------
+ietal impacts. CONSULTATION OF CORPORATE DOCUMENTS 
+The Companys statutory and consolidated 
+statements are filed with the National Bank of 
+Belgium. Copies of the Companys consolidated 
+articles of incorporation, its annual and semi-
+annual reports, and all other shareholder 
+documentation 
+may 
+be 
+obtained 
+at 
+the 
+Companys website (www.iba-worldwide.com) 
+or by shareholders request to the Companys 
+registered office. CAPITAL 
+As of December 31, 2023, IBAs share capital 
+amounted to EUR 42.502.318,54 and was 
+represented by 30 282 218 fully paid-up shares 
+with no face value. In June 2014, the Company issued 250 000 
+stock options for the Group management (the 
+2014 Plan).

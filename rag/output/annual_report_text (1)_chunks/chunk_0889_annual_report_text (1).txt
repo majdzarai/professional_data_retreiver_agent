@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 889 of 1106
+SIZE: 632 characters
+PREVIOUS: chunk_0888_annual_report_text (1).txt
+NEXT: chunk_0890_annual_report_text (1).txt
+------------------------------
+end of warranty 
+periods. Utilizations of warranty provisions in 
+relation to Proton therapy and other 
+accelerators amounting to EUR -1.1 
+million 
+5.11.1 Defined employee benefit 
+In Belgium, the Group operates a contribution-
+based plan funded through payments to an 
+insurance company. The employer guarantees a 
+minimum return on employer contributions 
+resulting in a financial risk to be borne by the 
+Group. Since January 1, 2016, the Group uses the 
+projected unit credit method. In India, the Group also operates a defined 
+benefit pension plan, for which the benefit liability 
+is EUR 0.1 million as at December 31, 2023.

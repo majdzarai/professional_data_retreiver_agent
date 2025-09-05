@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 705 of 1106
+SIZE: 568 characters
+PREVIOUS: chunk_0704_annual_report_text (1).txt
+NEXT: chunk_0706_annual_report_text (1).txt
+------------------------------
+ets impairment and all other 
+future estimated unavoidable costs related to 
+that business, net of the proceeds received on 
+the sale of some assets. The 2022 loss mainly 
+included customer write offs net of the inventory 
+value recovered from Rutherfords bankrupcy for 
+EUR 2.5 million, a one-off pension plan past 
+service cost of EUR 1.9 million (resulting from 
+change in insurance company), the costs 
+incurred for the Stock Option plan for EUR 0.9 
+million and the contribution of the Group for the 
+decommissioning of a research Cyclone 30 for 
+EUR 0.6 million.

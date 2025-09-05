@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 36 of 1106
+SIZE: 684 characters
+PREVIOUS: chunk_0035_annual_report_text (1).txt
+NEXT: chunk_0037_annual_report_text (1).txt
+------------------------------
+soils, air and water. A NEW EXPERIENCE, A JOURNEY TOGETHER, A RELATIONSHIP FOR LIFE: BEYONDTM
+Initially focused on the development of performant electron 
+accelerators, IBA is now focusing on developing a wide range 
+of services and products to serve the irradiation industry. Along 
+with the iconic Rhodotron, prospects and customers are now 
+supported from their first idea to the operation of an efficient, profitable and sustainable ionization facility. This customer 
+experience is named BEYONDTM. In the BEYONDTM experience, customers can rely on digital 
+tools to model and optimize their product design, their future 
+process, and model their centers performance from day one.

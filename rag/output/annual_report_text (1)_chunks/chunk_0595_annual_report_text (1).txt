@@ -1,0 +1,89 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 595 of 1106
+SIZE: 552 characters
+PREVIOUS: chunk_0594_annual_report_text (1).txt
+NEXT: chunk_0596_annual_report_text (1).txt
+------------------------------
+come for the period 
+0 
+0 
+0 
+5 057 
+0 
+-1 067 
+-2 904 
+3 432 
+-9 110 
+-4 592 
+Dividends 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-6 118 
+-6 118 
+Employee stock options 
+and share-based 
+payments (note 16.2) 
+0 
+0 
+0 
+0 
+1 008 
+0 
+0 
+0 
+0 
+1 008 
+(Purchase)/Sale of 
+treasury shares' of 
+treasury shares (note 
+16.1) 
+0 
+0 
+115 
+0 
+0 
+0 
+0 
+0 
+0 
+115 
+Hyperinflation 
+adjustment 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-143 
+-143 
+Other changes 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-9 
+-9 
+As at December 31, 2023 
+42 502 
+43 478 
+-18 213 
+-3 345 
+18 787 
+-1 583 
+-9 312 
+-2 153 
+36 051 
+106 212

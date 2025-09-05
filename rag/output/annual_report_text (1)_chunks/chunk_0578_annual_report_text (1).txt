@@ -1,0 +1,48 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 578 of 1106
+SIZE: 592 characters
+PREVIOUS: chunk_0577_annual_report_text (1).txt
+NEXT: chunk_0579_annual_report_text (1).txt
+------------------------------
+APPROPRIATION OF RESULTS (EUR 000) 
+2022 
+2023 
+Profit/(Loss) to be appropriated 
+130 807 
+132 828 
+Profit/(loss) for the period available for appropriation 
+-14 521 
+13 845 
+Profit/(Loss) carried forward 
+145 328 
+118 983 
+Transfers to capital and reserves 
+0 
+0 
+On capital stock and capital surplus 
+0 
+0 
+From reserves 
+0 
+0 
+Appropriations to capital and reserves 
+0 
+0 
+To capital stock and capital surplus 
+0 
+0 
+To legal reserve 
+0 
+0 
+To other reserves 
+5 698 
+-4 699 
+Profit/(Loss) to be carried forward 
+118 983 
+132 566 
+Profit to distribute 
+6 126 
+4 961 
+Dividends 
+6 126 
+4 961

@@ -1,0 +1,56 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 402 of 1106
+SIZE: 682 characters
+PREVIOUS: chunk_0401_annual_report_text (1).txt
+NEXT: chunk_0403_annual_report_text (1).txt
+------------------------------
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+PBT 
+ (894) 
+ 10.766 
+ 33.054 
+8.255 
+(430) 
+(315) 
+Order Intake 
+ 167.797 
+ 306.021 
+ 165.696 
+278.000 
+523.000 
+256.955 
+Net profit 
+ (4.401) 
+ 7.610 
+ 31.921 
+3.879 
+ 6.057 
+(9.110) 
+*the table above is used to calculate the bonus paid during the first quarter of the following year 
+c) 
+Annual 
+evolution 
+of 
+average 
+employee remuneration ()
+The 
+average 
+employee 
+remuneration 
+is 
+calculated as follows: Selection of all people under employment 
+present and active on December 31 of the 
+fiscal year. Determination 
+of 
+the 
+target 
+annual 
+remuneration (fixed + variable) per person 
+based on the gross remuneration as of 
+December 
+31.

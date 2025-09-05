@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 716 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0715_annual_report_text (1).txt
+NEXT: chunk_0717_annual_report_text (1).txt
+------------------------------
+during the period of acquisition of tangible 
+and intangible assets investments, except goodwill. === Page 133 ===
+IBA Annual Report 2023 
+130. 4.3. REVENUE 
+During the financial years, the revenue was 
+recognised at a point in time or over time 
+depending on the type of revenue stream and 
+performance obligations as detailed below: Timing of revenue recognition 
+December 31, 2022 
+December 31, 2023 
+Goods and services transferred at a point in time 
+64 839 
+97 683 
+Goods and services transferred over time 
+296 431 
+331 034 
+Total revenue from contracts with customers 
+361 270 
+428 717 
+The t

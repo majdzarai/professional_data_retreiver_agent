@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 106 of 1106
+SIZE: 256 characters
+PREVIOUS: chunk_0105_annual_report_text (1).txt
+NEXT: chunk_0107_annual_report_text (1).txt
+------------------------------
+, intrinsic small beam, fast 
+scanning, and the ability to modulate dose rate within a layer. Watch the video: Shaping the future 
+of proton therapy. ProteusONE
+At the forefront of research with 
+DynamicARC and ConformalFLASH
+26
+IBA
+CORPORATE BROCHURE 2024

@@ -1,0 +1,9 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1016 of 1106
+SIZE: 300 characters
+PREVIOUS: chunk_1015_annual_report_text (1).txt
+NEXT: chunk_1017_annual_report_text (1).txt
+------------------------------
+The board of directors is responsible for the preparation and the content of the directors report on the 
+consolidated accounts, the separate report on non-financial information and the other information 
+included in the annual report on the consolidated accounts. Statutory auditors responsibilities

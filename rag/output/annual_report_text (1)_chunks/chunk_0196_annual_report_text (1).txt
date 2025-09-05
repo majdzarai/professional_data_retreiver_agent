@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 196 of 1106
+SIZE: 379 characters
+PREVIOUS: chunk_0195_annual_report_text (1).txt
+NEXT: chunk_0197_annual_report_text (1).txt
+------------------------------
+023, in Arkansas, USA and Milan, Italy. PT 
+Services continued on its growth trajectory of the 
+past few years, increasing by 6.5% compared to 
+2022. The expansion of PT as a recommended 
+modality for the treatment of a wide range of 
+cancer cases continued at pace in 2023. ASTRO 
+further updated its guidelines to include the use 
+of PT for the curative treatment of Adolescent

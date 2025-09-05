@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 24 of 1106
+SIZE: 215 characters
+PREVIOUS: chunk_0023_annual_report_text (1).txt
+NEXT: chunk_0025_annual_report_text (1).txt
+------------------------------
+ed area of the patients body. Precision and control are vital to patient safety 
+and proper dose administration. 03
+Treatment
+04
+Quality assurance
+PATIENT CARE
+what makes our heart beat
+CORPORATE BROCHURE 2024
+IBA
+7

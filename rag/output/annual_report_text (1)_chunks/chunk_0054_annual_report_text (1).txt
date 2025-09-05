@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 54 of 1106
+SIZE: 658 characters
+PREVIOUS: chunk_0053_annual_report_text (1).txt
+NEXT: chunk_0055_annual_report_text (1).txt
+------------------------------
+=== Page 19 ===
+EARLY DETECTION SUBSTANTIALLY 
+INCREASES THE CHANCES OF SURVIVAL 
+3 million undiagnosed cases of childhood cancer. A modeling study published in The Lancet Oncology1 
+projected cancer incidence for 200 countries 
+worldwide and suggested that the number 
+of undiagnosed cases of childhood cancer could 
+account for more than half of the total in Africa, south-central Asia and the islands of the Pacific. In North America and Europe, by contrast, only 3% 
+of cases are undiagnosed. If there is no improvement, the authors of the study estimated that more than 
+3 million new cases of childhood cancer would 
+be missed between 2015 and 2030. 1.

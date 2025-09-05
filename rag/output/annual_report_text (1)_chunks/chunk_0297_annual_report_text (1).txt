@@ -1,0 +1,24 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 297 of 1106
+SIZE: 659 characters
+PREVIOUS: chunk_0296_annual_report_text (1).txt
+NEXT: chunk_0298_annual_report_text (1).txt
+------------------------------
+f the voting rights 
+issued by the Company. The Board of Directors appoints among its 
+members a chairman and, as the case may be, a deputy chairman. Unless otherwise decided by 
+unanimous 
+resolution 
+of 
+the 
+Board, the 
+chairman, and deputy chairman may not be the 
+type of directors as defined in the preceding 
+paragraph. The Board of Directors meets whenever 
+necessary and whenever at least two members 
+require a meeting. In practice, the Board gathers at least four times 
+a year. The major topics of discussion include market 
+situation, strategy, technological developments, financial 
+developments, human 
+resources 
+management and sustainability.

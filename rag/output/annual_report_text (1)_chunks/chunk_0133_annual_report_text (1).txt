@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 133 of 1106
+SIZE: 207 characters
+PREVIOUS: chunk_0132_annual_report_text (1).txt
+NEXT: chunk_0134_annual_report_text (1).txt
+------------------------------
+I am really grateful for the welcome 
+you all have given me at IBA, and for 
+this collaboration which is for my 
+part positive and fulfilling. Thanks 
+for the trust you have placed in me. Passwerk Consultant

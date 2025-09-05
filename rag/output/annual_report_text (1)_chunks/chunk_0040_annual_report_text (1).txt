@@ -1,0 +1,31 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 40 of 1106
+SIZE: 538 characters
+PREVIOUS: chunk_0039_annual_report_text (1).txt
+NEXT: chunk_0041_annual_report_text (1).txt
+------------------------------
+o continue raising the bar and augment its offering, IBA 
+increased the span of services it offers for an even more 
+integrated irradiation facility. Prospects can now start 
+their projects with a so-called pre-engineering, opt for 
+a customized service for production ramp-up and training, and even choose financing and leasing options. Beyond is an experience we live together trough the whole journey. 01
+Idea
+START
+BEYOND
+Definition
+02
+Evaluation
+03
+Finance
+04
+Design
+05
+Installation
+06
+Care
+08
+Start
+07
+12
+IBA
+CORPORATE BROCHURE 2024

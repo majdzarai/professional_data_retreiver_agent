@@ -1,0 +1,32 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 718 of 1106
+SIZE: 688 characters
+PREVIOUS: chunk_0717_annual_report_text (1).txt
+NEXT: chunk_0719_annual_report_text (1).txt
+------------------------------
+4.3.1 Contract assets and contract liabilities 
+Contracts in progress have the following balances at the end of the year: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Costs to date and recognized revenue 
+383 734 
+393 154 
+Less: progress billings 
+-344 343 
+-354 710 
+Contracts assets 
+39 391 
+38 444 
+Contract liabilities 
+-296 219 
+-283 489 
+Net amounts on contracts in progress 
+-256 828 
+-245 046 
+Amounts invoiced on contracts in progress but for which payment has not yet 
+been received at financial position date 
+11 161 
+9 263 
+As at December 31, 2023 and December 31, 2022, there are no contract assets set as a 
+warranty to cover the financing of a proton 
+therapy contract.

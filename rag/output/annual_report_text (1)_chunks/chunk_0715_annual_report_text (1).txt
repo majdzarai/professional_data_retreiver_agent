@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 715 of 1106
+SIZE: 533 characters
+PREVIOUS: chunk_0714_annual_report_text (1).txt
+NEXT: chunk_0716_annual_report_text (1).txt
+------------------------------
+ns and 
+services that maximize efficiency and minimize errors in radiation therapy and medical imaging Quality 
+Assurance and calibration procedures. The segment results, assets and liabilities include the items directly related to a segment, as well as those that may be 
+allocated on a reasonable basis. The segment investment expenses include the total cost of investments incurred during the period of acquisition of tangible 
+and intangible assets investments, except goodwill. === Page 133 ===
+IBA Annual Report 2023 
+130. 4.3.

@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 244 of 1106
+SIZE: 684 characters
+PREVIOUS: chunk_0243_annual_report_text (1).txt
+NEXT: chunk_0245_annual_report_text (1).txt
+------------------------------
+ralia (TGA), Russia (Gost-R), South Korea (MFDS) and 
+Taiwan (TFDA), Singapore (SFDA), and Japan 
+(Shonin). Authorizations 
+may 
+always 
+be 
+revoked. Moreover, as IBAs equipment evolves 
+technologically, further authorizations may be 
+required. Financial risks (sections 3:6, 1, 8 and 3:32, 1, 5, of the BCAC) 
+More details regarding section 3:6, 1, 8, and 
+3:32, 1, 5 of the BCAC is provided, where 
+appropriate, in 
+the 
+section 
+Financial 
+Instruments of this annual report, see page 162. The Groups overall financial risk management 
+program seeks to minimize potential adverse 
+effects arising from the unpredictability of 
+financial markets on the Groups financial 
+performance.

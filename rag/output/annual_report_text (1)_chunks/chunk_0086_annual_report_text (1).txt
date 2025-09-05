@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 86 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0085_annual_report_text (1).txt
+NEXT: chunk_0087_annual_report_text (1).txt
+------------------------------
+=== Page 26 ===
+IBA is the world leader in 
+proton therapy
+IBA is the world leader in proton therapy with IBA customers 
+having treated more than half of all the proton therapy patients 
+treated on commercial systems. The company has been a leader in proton therapy development 
+for the last 30 years and has built the largest user community 
+worldwide. IBA offers maximum uptime rates and can install 
+a system in less than 12 months. IBA PROTON THERAPY CENTERS AT END OF 
+2023 LARGEST NETWORK & EXPERIENCE
+IBA continued to strengthen its market leadership in 2023 with 
+the sale of several proton t

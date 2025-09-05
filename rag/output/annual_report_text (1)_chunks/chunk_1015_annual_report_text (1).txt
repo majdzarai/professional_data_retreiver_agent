@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1015 of 1106
+SIZE: 287 characters
+PREVIOUS: chunk_1014_annual_report_text (1).txt
+NEXT: chunk_1016_annual_report_text (1).txt
+------------------------------
+ose matters that were of 
+most significance in the audit of the consolidated accounts of the current period and are therefore the 
+key audit matters. We describe these matters in our auditors report unless law or regulation precludes 
+public disclosure about the matter. === Page 183 ===

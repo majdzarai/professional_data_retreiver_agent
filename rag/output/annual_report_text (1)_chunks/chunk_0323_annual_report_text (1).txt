@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 323 of 1106
+SIZE: 632 characters
+PREVIOUS: chunk_0322_annual_report_text (1).txt
+NEXT: chunk_0324_annual_report_text (1).txt
+------------------------------
+ff-related policy. It is, among others, based on the International 
+Labor 
+Organizations 
+Declaration 
+on 
+Fundamental Principles and Rights at Work. In addition, the Board approved in its meeting of 
+December 2021 the Companys Diversity, Equity 
+and Inclusion Policy (DEI Policy") as follows: Diversity, Equity and Inclusion are fundamental 
+aspects of IBAs sustainability approach. We 
+value the uniqueness. We define Diversity not only as statistics, but as 
+the accumulated richness of peoples unique 
+backgrounds, lives, cultural experiences, and 
+the diversity of thought and ways of acting that 
+this brings to our workplace.

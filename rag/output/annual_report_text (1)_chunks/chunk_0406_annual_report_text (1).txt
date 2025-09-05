@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 406 of 1106
+SIZE: 405 characters
+PREVIOUS: chunk_0405_annual_report_text (1).txt
+NEXT: chunk_0407_annual_report_text (1).txt
+------------------------------
+meeting; CC Compensation Committee 
+meeting; MAC Mergers & Acquisitions Committee meeting; PC Product Committee meeting; SC Sustainability Committee. N/A indicates that the director is not a member of the Committee or that no Committee meeting has taken place; Other 
+Attendance of other meetings, such as client user meetings and/or strategic meetings 
+Board Member 
+TOTAL FEES 
+(EUR) 
+LUMP-SUM FEE (EUR)

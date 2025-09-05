@@ -1,0 +1,28 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 293 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0292_annual_report_text (1).txt
+NEXT: chunk_0294_annual_report_text (1).txt
+------------------------------
+All transparency notifications received by the 
+Company are available on its website, on the 
+following 
+page: https://iba-
+worldwide.com/investor-relations/legal. To 
+the 
+Companys 
+Board 
+of 
+Directors 
+knowledge, there is no agreement in force 
+regarding the Company among its shareholders. === Page 66 ===
+IBA Annual Report 2023 
+63. IBA 
+LIST OF THE MEMBERS, AND DECISION PROCESS 
+OF THE BOARD OF DIRECTORS AND OF ITS 
+VARIOUS COMMITTEES (SECTION 3:6, 2, 5, OF 
+THE BCAC) 
+Board of directors 
+In accordance with the Companys Articles of 
+Association (art. 11), the Company is managed 
+by a Board

@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 550 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_0549_annual_report_text (1).txt
+NEXT: chunk_0551_annual_report_text (1).txt
+------------------------------
+nd cash equivalents amount to EUR 63.3 
+million as per the end of 2023 which is an 
+increase compared to prior year-end balance of 
+EUR 24.5 million. The main drivers for this 
+increase are the general increase of activity 
+which absorbs more working capital offset by the 
+release of an investment in short-term deposits 
+(EUR 50 million in 2022). Cut-off accounts 
+The assets-side cut-off accounts decreased 
+year-on-year with EUR -1.6 million, to a balance 
+per the end of 2023 of EUR 15.9 million. These 
+accounts are used to ensure that revenues and 
+charges are correctly cut off at year-end.

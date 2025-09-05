@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 50 of 1106
+SIZE: 672 characters
+PREVIOUS: chunk_0049_annual_report_text (1).txt
+NEXT: chunk_0051_annual_report_text (1).txt
+------------------------------
+areas where it 
+is already present, including adding resources for installations 
+and services, hubs for parts logistics, and third-party suppliers. As indicated above, 2023 marked a major turning point in 
+the deployment of X-ray, mainly in the United States, with 
+several systems under final commissioning. The end of 
+the year was also marked by the sale of a new in-house X-ray 
+system in the United States which also reflects the changing 
+needs of the market. The growing interest in X-ray technology in China is also 
+becoming more and more obvious. The Chinese market is today 
+dominated by scattered ethyle oxide centers and more than 
+one hundred Gamma centers.

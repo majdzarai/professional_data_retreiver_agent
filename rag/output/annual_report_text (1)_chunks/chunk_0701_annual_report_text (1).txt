@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 701 of 1106
+SIZE: 501 characters
+PREVIOUS: chunk_0700_annual_report_text (1).txt
+NEXT: chunk_0702_annual_report_text (1).txt
+------------------------------
+n 
+and lower overhead absorption. The previous 
+year performance was also positively impacted 
+by indemnities related to the Rutherfords 
+bankruptcy. For the year-ended December 31, 2023, Group 
+operating expenses were EUR 128.0 million, a 
+10.6% increase from 2022 (2022: EUR 115.7 
+million). These expenses include General and 
+Administrative expenses for EUR 53.8 million, Sales and Marketing expenses for EUR 26.3 
+million and Research and Development net of 
+research credit for EUR 47.9 million.

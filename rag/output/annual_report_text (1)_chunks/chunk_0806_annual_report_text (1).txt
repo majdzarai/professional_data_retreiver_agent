@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 806 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0805_annual_report_text (1).txt
+NEXT: chunk_0807_annual_report_text (1).txt
+------------------------------
+hey need to 
+be adjusted to reflect the terms and conditions of the lease (for example, when leases are not in the subsidiarys functional 
+currency). The Group estimates the IBR using observable inputs (such as market interest rates) when available and is required to make 
+certain entity-specific estimates (such as the subsidiarys stand-alone credit rating). === Page 147 ===
+IBA Annual Report 2023 
+144. 5.4. ASSOCIATES AND JOINT VENTURES 
+Associates and Joint Ventures are listed in note 
+12.2 
+and 
+are 
+Cyclhad 
+SAS, Normandy 
+Hadrontherapy SAS, Normandy Hadrontherapy 
+SARL and PanTera SA/NV.

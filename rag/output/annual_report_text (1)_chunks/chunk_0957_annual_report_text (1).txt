@@ -1,0 +1,42 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 957 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0956_annual_report_text (1).txt
+NEXT: chunk_0958_annual_report_text (1).txt
+------------------------------
+rofits)/losses 
+-3 591 
+654 
+Changes in provisions 
+19 
+6 143 
+2 074 
+Deferred taxes 
+10 
+-11 244 
+1 898 
+Share of result of associates and joint ventures accounted for using the equity method 
+9.1 
+-3 
+169 
+Other non-cash items 
+-7 864 
+-5 478 
+Net cash flow changes before changes in working capital 
+-540 
+2 185 
+Trade receivables, other receivables and deferrals 
+-72 997 
+3 716 
+Inventories and contracts in progress 
+66 009 
+-53 159 
+Trade payables, other payables and accruals 
+40 720 
+11 354 
+Other short-term assets and liabilities 
+-7 615 
+19 564 
+Changes in working capital 
+26 117 
+-18 52

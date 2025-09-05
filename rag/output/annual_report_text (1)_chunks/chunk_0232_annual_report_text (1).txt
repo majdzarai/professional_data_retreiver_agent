@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 232 of 1106
+SIZE: 262 characters
+PREVIOUS: chunk_0231_annual_report_text (1).txt
+NEXT: chunk_0233_annual_report_text (1).txt
+------------------------------
+dition 
+to 
+obtain 
+financing, delays 
+in 
+obtaining 
+regulatory 
+approvals or authorizations may have an impact 
+on the level of inventory required. Product development risk 
+Because IBA does not have a full product in-
+house testing capability, new products or

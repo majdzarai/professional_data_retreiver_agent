@@ -1,0 +1,40 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 712 of 1106
+SIZE: 583 characters
+PREVIOUS: chunk_0711_annual_report_text (1).txt
+NEXT: chunk_0713_annual_report_text (1).txt
+------------------------------
+-243 
+135 895 
+293 065 
+428 717 
+Non-current assets 
+93 977 
+9 263 
+23 939 
+127 179 
+Current assets 
+329 393 
+31 691 
+90 961 
+452 045 
+Segment assets 
+423 370 
+40 954 
+114 900 
+579 224 
+Investments accounted for using the equity method 
+18 304 
+18 304 
+TOTAL ASSETS 
+441 674 
+40 954 
+114 900 
+597 528 
+Capital expenditure Intangible assets and Property, Plant and Equipment 
+11 309 
+140 
+825 
+12 274 
+*There is no breakdown of sales and services available by geographical sector. As at December 31, 2023, no single customer represents more than 10% of the Groups sales and 
+services.

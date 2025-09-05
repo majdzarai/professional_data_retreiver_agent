@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 5 of 1106
+SIZE: 587 characters
+PREVIOUS: chunk_0004_annual_report_text (1).txt
+NEXT: chunk_0006_annual_report_text (1).txt
+------------------------------
+ations. Our
+shareholders: we show that we are
+worthy of their trust by being 
+a sound financial investment 
+and acting in accordance
+with our values. How do we work? At IBA, we believe business has the mission to be a force 
+for good, through creating shared and long-term value 
+for all stakeholders. Our company is a Certified B Corporation (B Corp)TM. Why do we do it? TO PROTECT, ENHANCE 
+AND SAVE LIVES
+For over thirty years, we have placed the purpose 
+of the company and our project at the heart of 
+our activities, as expressed in our mission to 
+Protect, Enhance and Save Lives.

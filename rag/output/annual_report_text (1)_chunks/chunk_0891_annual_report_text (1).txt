@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 891 of 1106
+SIZE: 502 characters
+PREVIOUS: chunk_0890_annual_report_text (1).txt
+NEXT: chunk_0892_annual_report_text (1).txt
+------------------------------
+year and the warranty period starts when the 
+equipment is accepted by the customer. Provisions for product warranty are recognized as cost of sales. Onerous contract provision 
+If IBA has an onerous contract (that is, if the unavoidable costs of meeting the obligations under the contract exceed the 
+economic benefits expected to be received under it), the present obligation under the contract is recognized as a provision 
+against cost of sales. The provision is reassessed at least 3 times a year.

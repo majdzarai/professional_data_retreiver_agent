@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 660 of 1106
+SIZE: 209 characters
+PREVIOUS: chunk_0659_annual_report_text (1).txt
+NEXT: chunk_0661_annual_report_text (1).txt
+------------------------------
+Reduction by 2/3rd of the unsorted waste 
+(base year 2018) to be achieved by waste 
+sorting awareness campains, production of 
+user-centric sorting rules and new waste 
+bins, in offices and manufacturing areas

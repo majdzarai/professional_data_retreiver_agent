@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 173 of 1106
+SIZE: 538 characters
+PREVIOUS: chunk_0172_annual_report_text (1).txt
+NEXT: chunk_0174_annual_report_text (1).txt
+------------------------------
+been implemented 
+to support biodiversity, such as green roofs, planting native 
+species and differential mowing to reduce our ecological 
+footprint. A pilot micro-compost of green waste is now in 
+place, in partnership with a local company to test and hopefully 
+develop this innovative practice around our facilities. MATERIALITY AND REPORTING
+To clarify its priorities, IBA maintains a materiality assessment 
+based on a dialogue with its stakeholders and the 
+reference framework recommended by the Global Reporting 
+Initiative (GRI).

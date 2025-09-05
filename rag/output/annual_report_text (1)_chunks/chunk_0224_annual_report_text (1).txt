@@ -1,0 +1,26 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 224 of 1106
+SIZE: 690 characters
+PREVIOUS: chunk_0223_annual_report_text (1).txt
+NEXT: chunk_0225_annual_report_text (1).txt
+------------------------------
+=== Page 56 ===
+IBA Annual Report 2023 
+53. IBA 
+inadequate infrastructure, access controls, data 
+privacy, and security protections. The October Sustainability Board focussed 
+amongst others on environmental risks and the 
+plan to continue working on an action plan for 
+2024 and the following years. Strategic risks 
+Offering evolution risk 
+IBA continues to invest heavily in research and 
+development and cannot exclude the possibility 
+that a prototype may not be commercially viable 
+or may become obsolete during its development 
+because 
+of 
+competing 
+technological 
+development. Asset depreciation risk 
+IBA invests in companies whose business sector 
+is complementary to its own.

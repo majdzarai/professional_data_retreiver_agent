@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 110 of 1106
+SIZE: 393 characters
+PREVIOUS: chunk_0109_annual_report_text (1).txt
+NEXT: chunk_0111_annual_report_text (1).txt
+------------------------------
+g medical imaging and radiotherapy. In 2022, IBA acquired Modus Medical Devices and added 
+its sophisticated QA solutions to IBAs existing portfolio. The entity was rebranded as IBA QUASAR and is recognized 
+for its advanced tools for MR image guidance and motion 
+management capabilities. 04
+Dosimetry
+MagicMax
+Modus QA - QUASARTM MRgRT Insight Phantom
+myQA SRS
+28
+IBA
+CORPORATE BROCHURE 2024

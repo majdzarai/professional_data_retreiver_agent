@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 455 of 1106
+SIZE: 626 characters
+PREVIOUS: chunk_0454_annual_report_text (1).txt
+NEXT: chunk_0456_annual_report_text (1).txt
+------------------------------
+kind of discrimination because 
+of accession to or creation of a trade union nor 
+because of the employees choice not to join or 
+create such group. The right to a healthy and sustainable 
+environment is the cornerstone between Human 
+Rights 
+and 
+their 
+interaction 
+with 
+the 
+environment. It includes the environments 
+impact on many rights such as the right to life, health, food, water, sanitation, property, housing, private life, culture, development, and 
+non- discrimination. IBA is aware of the 
+importance of this right as our generation faces 
+a serious environmental crisis and associated 
+impact on Human Rights.

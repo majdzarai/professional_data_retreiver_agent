@@ -1,0 +1,36 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 48 of 1106
+SIZE: 477 characters
+PREVIOUS: chunk_0047_annual_report_text (1).txt
+NEXT: chunk_0049_annual_report_text (1).txt
+------------------------------
+methods. Previously dominated by ethylene oxide 
+and Gamma technologies, the landscape is now 
+transitioning towards a more equitable distribution. In particular, technologies such as E-beam and X-ray, where IBA holds a leadership position, are expected 
+Today
+In 10 years
+Service
+(~40%)
+Service
+(~60%)
+ETO
+(~40%)
+ETO
+(~60%)???? Gamma
+(~25%)
+Gamma
+(~35%)
+EB & XR
+(~35%)
+EB & XR
+(~5%)
++7%/year
+In-House
+(~60%)
+In-House
+(~40%)
+~3,000 MCi
+~1,500 MCi
+CORPORATE BROCHURE 2024
+IBA
+13

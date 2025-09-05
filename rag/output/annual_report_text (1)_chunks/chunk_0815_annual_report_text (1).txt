@@ -1,0 +1,18 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 815 of 1106
+SIZE: 631 characters
+PREVIOUS: chunk_0814_annual_report_text (1).txt
+NEXT: chunk_0816_annual_report_text (1).txt
+------------------------------
+Cyclhad SAS 
+The Group has a 33.33% interest in Cyclhad 
+SAS, which built a proton therapy center that is 
+operational since the summer of 2018. IBA has no capital commitments as at December 
+31, 2022 and December 31, 2023 to participate 
+in any potential future funding of Cyclhad SAS. IBA has therefore not accounted for its share of 
+the loss and negative equity of Cyclhad SAS 
+beyond its value of the capital invested. Normandy Hadrontherapy SAS 
+Since June 2019, IBA ownership in Normandy 
+Hadrontherapy SAS remained at 39.81 % (no 
+change from 2019) of this entity following 
+financing by several public and private players.

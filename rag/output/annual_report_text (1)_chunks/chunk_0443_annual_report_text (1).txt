@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 443 of 1106
+SIZE: 564 characters
+PREVIOUS: chunk_0442_annual_report_text (1).txt
+NEXT: chunk_0444_annual_report_text (1).txt
+------------------------------
+h, IBA, including its employees and 
+representatives, must not accept, neither 
+directly, nor through any family member or 
+anyone else, gifts or favours of any kind from a 
+business partner, or offer the same to the latter, or to any public official, except if they are 
+courtesy gifts, considered as modest in value 
+and to the extent that the time and place is 
+appropriate. In any case, such favours are prohibited if they 
+may affect or even appear to affect the integrity 
+or independence of the business partner, the 
+public official, IBA, or its employees.

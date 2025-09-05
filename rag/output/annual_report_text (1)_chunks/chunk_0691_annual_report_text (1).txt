@@ -1,0 +1,30 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 691 of 1106
+SIZE: 228 characters
+PREVIOUS: chunk_0690_annual_report_text (1).txt
+NEXT: chunk_0692_annual_report_text (1).txt
+------------------------------
+of intangible assets 
+1 135 
+587 
+1 722 
+0 
+1 722 
+Personnel expenses 
+154 788 
+18 294 
+173 082 
+0 
+173 082 
+Non-cash expenses/(income) 
+-16 759 
+237 
+-16 522 
+0 
+-16 522 
+Headcount at year-end (EFT) 
+1 512 
+252 
+1 764 
+0 
+1 764

@@ -1,0 +1,25 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 965 of 1106
+SIZE: 673 characters
+PREVIOUS: chunk_0964_annual_report_text (1).txt
+NEXT: chunk_0966_annual_report_text (1).txt
+------------------------------
+As at December 31, 2023, Other financing 
+cash flows includes new payment of grants in 
+Belgium and advances from local government 
+in Belgium for EUR +0.1 million (2022: EUR 
++1.3 million) and repayments of advances from 
+local government in Belgium for EUR -1.9 
+million (2022: EUR -0.5 million). 9. Litigation 
+The Group is currently not involved in any 
+significant 
+litigation. The 
+potential 
+risks 
+connected to minor proceedings are deemed to 
+be either groundless or insignificant, or when 
+the risk of payment of potential damages seems 
+actual, are either adequately covered by 
+provisions or insurance policies. === Page 172 ===
+IBA Annual Report 2023 
+169. 10.

@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 463 of 1106
+SIZE: 580 characters
+PREVIOUS: chunk_0462_annual_report_text (1).txt
+NEXT: chunk_0464_annual_report_text (1).txt
+------------------------------
+year 2022 were: from February 22, 2023, to March 23, 2023, for the annual report; from 1st August, 2023, to August 30, 2023, for the mid-year report. B Corp 
+By obtaining the B Corp certification on 1st of 
+April 2021, IBA joined a community of around 
+8000+ businesses globally, that promote strong 
+values of change, making companies "a force for 
+good" and highlighting those that reconcile profit 
+with societal purpose. The B Corps (Benefit 
+Corporations) are part of a movement to 
+transform businesses to contribute to a more 
+sustainable and inclusive economy and society.

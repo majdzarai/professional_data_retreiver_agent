@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 528 of 1106
+SIZE: 488 characters
+PREVIOUS: chunk_0527_annual_report_text (1).txt
+NEXT: chunk_0529_annual_report_text (1).txt
+------------------------------
+ued securities concerned, for a minimum 
+equivalent of ten cents (0,10 EUR) and a 
+maximum of twenty percent (20%) higher than 
+the last share price. This authorization is granted 
+for a renewable period of five years starting on 
+the date of publication of this statutory 
+authorization (or of its renewal).(.) 
+During financial year 2023, IBA SA did not buy 
+additional own shares. As of December 31, 2023, IBA SA held 1 100 781 treasury shares 
+and IBA Investments SCRL, 51 973 shares.

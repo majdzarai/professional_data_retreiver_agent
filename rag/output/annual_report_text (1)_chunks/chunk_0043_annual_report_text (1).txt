@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 43 of 1106
+SIZE: 623 characters
+PREVIOUS: chunk_0042_annual_report_text (1).txt
+NEXT: chunk_0044_annual_report_text (1).txt
+------------------------------
+y is 
+recognized by major sterilizers and manufacturers as the safest 
+technology to handle the volume growth, both for businesses 
+and for patients. Thanks to its ambitious R&D program, which was started 
+in 2010, the Rhodotron based X-ray solutions are recognized 
+as the most high-performing and sustainable product in the field. An IBA X-ray facility can treat up to 100,000 pallets and run 24/7 
+with a limited number of operators and only a few days of servicing 
+per year. Through strong digitalization and sustainability 
+programs, this performance will continue to advance and lead 
+the market in the coming years.

@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 55 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0054_annual_report_text (1).txt
+NEXT: chunk_0056_annual_report_text (1).txt
+------------------------------
+no improvement, the authors of the study estimated that more than 
+3 million new cases of childhood cancer would 
+be missed between 2015 and 2030. 1. Zachary J Ward, MPH, Jennifer M Yeh, PhD, Nickhill Bhakta, MD, A Lindsay 
+Frazier, MD, Prof Rifat Atun, FRCP, Estimating the total incidence of global 
+childhood cancer: a simulation-based analysis. 26 February 2019. https://www.thelancet.com/journals/ lanonc/article/
+PIIS1470-2045(18)30909-4/fulltext
+Protect, enhance and save 
+lives by contributing to 
+MORE ACCURATE DIAGNOSIS
+IBA leverages its extensive knowledge to assist 
+hospitals and radioph

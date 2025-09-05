@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 158 of 1106
+SIZE: 210 characters
+PREVIOUS: chunk_0157_annual_report_text (1).txt
+NEXT: chunk_0159_annual_report_text (1).txt
+------------------------------
+very positive to see behavior 
+changes in the participants and 
+their families during this challenge. Some of these changes will 
+definitely remain. Augustin, IBA participant to the Ma Petite 
+Planete challenge

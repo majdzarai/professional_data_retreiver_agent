@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 565 of 1106
+SIZE: 549 characters
+PREVIOUS: chunk_0564_annual_report_text (1).txt
+NEXT: chunk_0566_annual_report_text (1).txt
+------------------------------
+sures closely monitored. The balance sheet 
+remains strong, providing the Group with 
+significant flexibility for both organic and 
+inorganic growth. IBA reiterates its previously announced mid-term 
+guidance, based on the assumption that macro-
+economic factors normalize over the coming 
+years: supply chain issues stabilize, inflation 
+drops towards 3%, and challenges accessing 
+certain regions reduce. In addition, guidance is 
+on the basis that order intake remains solid, especially in the Proton Therapy and Industrial 
+Solutions businesses.

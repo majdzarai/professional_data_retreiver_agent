@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 120 of 1106
+SIZE: 627 characters
+PREVIOUS: chunk_0119_annual_report_text (1).txt
+NEXT: chunk_0121_annual_report_text (1).txt
+------------------------------
+ROACH. Assess: 360 thinking to identify our strengths 
+and improvement opportunities in 5 impact areas, based on a recognized and evolving standard.. Compare: a community of 8,000+ companies 
+worldwide, to benchmark our performance and share 
+best practices.. Improve: a framework to set milestones on our 
+sustainability journey.. Advocate: an inspiration for others, a contribution 
+to the advancement of sustainability standards. BUSINESS AS A FORCE FOR GOOD
+As expressed by our Stakeholder Approach, we at IBA believe 
+in a business model that is a force for good, creating shared 
+and long-term value for all stakeholders.

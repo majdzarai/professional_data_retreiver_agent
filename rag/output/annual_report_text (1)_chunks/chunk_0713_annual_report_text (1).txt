@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 713 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0712_annual_report_text (1).txt
+NEXT: chunk_0714_annual_report_text (1).txt
+------------------------------
+nd services available by geographical sector. As at December 31, 2023, no single customer represents more than 10% of the Groups sales and 
+services. Accounting policy for Operating segments 
+Operating segments are reported in a manner consistent with the internal reporting provided to the chief 
+operating decision maker (CODM), being the Management Team who is responsible for allocating resources and assessing 
+performance of the operating segments. On the basis of its internal financial reports and given the Groups primary source 
+of risk and profitability, IBA has identified two operating s

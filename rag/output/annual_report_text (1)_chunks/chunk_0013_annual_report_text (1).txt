@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 13 of 1106
+SIZE: 635 characters
+PREVIOUS: chunk_0012_annual_report_text (1).txt
+NEXT: chunk_0014_annual_report_text (1).txt
+------------------------------
+=== Page 9 ===
+IBA continued to progress on its four strategic sustainability streams using its B 
+Corp certification as a tool to operationalize a stakeholder approach. The company 
+implemented eco-design practices and launched research on environmental 
+applications of electron-beam technology, in particular in solutions to capture forever 
+chemicals (PFAs). A new reverse logistics process was also deployed in the US that 
+decreased logistics CO2 emissions by 96%. Alongside this, IBA completed its B Corp 
+recertification in april 2024 with a score of 114 points, making a significant progress 
+along our sustainability journey.

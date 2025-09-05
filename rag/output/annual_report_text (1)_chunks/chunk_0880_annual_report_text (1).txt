@@ -1,0 +1,74 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 880 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0879_annual_report_text (1).txt
+NEXT: chunk_0881_annual_report_text (1).txt
+------------------------------
+5.11. LONG-TERM AND SHORT-TERM PROVISIONS 
+ (EUR 000) 
+Environment Warranties Litigation 
+Defined 
+employee 
+benefits 
+Other 
+employee 
+benefits 
+Other 
+Total 
+As at January 1, 2022 
+111 
+4 678 
+140 
+5 444 
+279 
+4 226 
+14 878 
+Additions (+) 
+7 
+3 877 
+0 
+834 
+554 
+1 928 
+7 200 
+Write-backs (-) 
+0 
+-1 059 
+0 
+0 
+0 
+2 
+-1 057 
+Utilizations (-) 
+0 
+-1 207 
+0 
+0 
+-80 
+-961 
+-2 248 
+Actuarial (gains)/losses generated during the year 
+0 
+0 
+0 
+-3 549 
+0 
+0 
+-3 549 
+Currency translation difference 
+0 
+-46 
+0 
+-3 
+-21 
+-28 
+-98 
+Total movement 
+7 
+1 565 
+0 
+-2 718 
+453 
+941 
+248 
+As at December 31, 20

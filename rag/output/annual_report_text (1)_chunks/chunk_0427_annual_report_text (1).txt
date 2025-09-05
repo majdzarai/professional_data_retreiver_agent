@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 427 of 1106
+SIZE: 366 characters
+PREVIOUS: chunk_0426_annual_report_text (1).txt
+NEXT: chunk_0428_annual_report_text (1).txt
+------------------------------
+ate 
+measuresto bring the situation back into 
+conformity with the Code and the Companys 
+policies, and to prevent a recurrence of such a 
+situation. The age distribution within the IBA Group is quite 
+wide, ranging from 20 to over 60, indicating a fair 
+and balanced value between employees. === Page 85 ===
+IBA Annual Report 2023 
+82. IBA 
+IBA Employee age pyramid

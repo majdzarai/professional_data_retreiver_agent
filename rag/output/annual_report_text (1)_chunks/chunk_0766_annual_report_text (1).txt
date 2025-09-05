@@ -1,0 +1,8 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 766 of 1106
+SIZE: 203 characters
+PREVIOUS: chunk_0765_annual_report_text (1).txt
+NEXT: chunk_0767_annual_report_text (1).txt
+------------------------------
+losses can be utilized. When assessing deferred tax assets, management ensure that it is based on a reasonable number of 
+years of taxable results. Source of estimation uncertainty and critical judgments

@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 96 of 1106
+SIZE: 527 characters
+PREVIOUS: chunk_0095_annual_report_text (1).txt
+NEXT: chunk_0097_annual_report_text (1).txt
+------------------------------
+nity, IBA 
+is perfectly positioned to understand, and invest in, users 
+needs. These investments are directly translated into benefits 
+for patients. The ProteusONE design enhances the patient 
+experience by fostering a soothing environment while making 
+the medical staffs daily practice safe and easier. SUPPORT & SERVICES
+With the largest proton therapy installed base, IBA has built a 
+strong and reliable service team to guarantee the availability of 
+its proton therapy technology and consistently achieve system 
+uptime.

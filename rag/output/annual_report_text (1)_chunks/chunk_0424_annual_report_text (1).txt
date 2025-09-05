@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 424 of 1106
+SIZE: 568 characters
+PREVIOUS: chunk_0423_annual_report_text (1).txt
+NEXT: chunk_0425_annual_report_text (1).txt
+------------------------------
+vention at 
+Work. Beyond mere compliance with the law, IBA 
+conducts its business in accordance with the 
+highest standards of honesty and integrity. In addition to the Code of Business Conduct, IBAs Data Handling Policy explains how IBA 
+complies with the General Data Protection 
+Regulation (GDPR) to protect the Personal Data 
+of 
+clients, suppliers, patients, investors, contractors, staff members, and anyone else IBA 
+is doing business with. IBA supports local businesses, strengthening 
+communities, and 
+reducing 
+emissions 
+associated with transporting goods.

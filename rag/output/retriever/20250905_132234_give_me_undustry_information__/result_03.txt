@@ -1,0 +1,32 @@
+Result #3 (Score: 0.2201)
+================================================================================
+or the intellectual property. This is not part of IBAs main business activity and 
+will, in most cases, constitute a distinct performance obligation. Dosimetry 
+IBA Dosimetry develops solutions that give medical staff the quality assurance tools and softwares to obtain the treatment 
+results they need. Timing of recognition 
+Method 
+Other information 
+Equipment 
+and 
+installation 
+services 
+Over time as the goods are 
+highly 
+specialised, the 
+equipments are unique and 
+not interchangeable and 
+IBA is entitled to payment 
+for progress to date 
+Input method based on the 
+expected contract costs. This revenue is presented in the 
+income statement as Sales.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 722
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

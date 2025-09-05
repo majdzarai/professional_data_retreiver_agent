@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 149 of 1106
+SIZE: 537 characters
+PREVIOUS: chunk_0148_annual_report_text (1).txt
+NEXT: chunk_0150_annual_report_text (1).txt
+------------------------------
+oosting the local economy. This is our way of 
+making a positive contribution to the future of society at large, and of attracting new talent to IBA. And, since 2021, we support YouthStart, an association 
+which every year trains more than 1,000 young people not in 
+Education, Employment or Training (NEETs), preparing them 
+to enter the professional world. YouthStart, an association which every year trains young people not in Education, Employment or Training (NEETs). Watch the video: Hera sponsoring. 38
+IBA
+CORPORATE BROCHURE 2024

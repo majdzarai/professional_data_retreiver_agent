@@ -1,0 +1,12 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1007 of 1106
+SIZE: 639 characters
+PREVIOUS: chunk_1006_annual_report_text (1).txt
+NEXT: chunk_1008_annual_report_text (1).txt
+------------------------------
+in the aggregate, they could reasonably be expected to influence the economic decisions of users 
+taken on the basis of these consolidated accounts. In performing our audit, we comply with the legal, regulatory and normative framework applicable to 
+the audit of the consolidated accounts in Belgium. A statutory audit does not provide any assurance as 
+to the Groups future viability nor as to the efficiency or effectiveness of the board of directors current 
+or future business management at Group level. Our responsibilities in respect of the use of the going 
+concern basis of accounting by the board of directors are described below.

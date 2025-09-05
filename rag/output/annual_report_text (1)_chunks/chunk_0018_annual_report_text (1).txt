@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 18 of 1106
+SIZE: 547 characters
+PREVIOUS: chunk_0017_annual_report_text (1).txt
+NEXT: chunk_0019_annual_report_text (1).txt
+------------------------------
+o support infrastructure development, innovation, sustainability, and digitization, to maintain IBAs cutting-edge offer and foster its future growth. Following the results of the 2023 fiscal year, the Board of Directors intends 
+to recommend to the Annual General Meeting the payment of a gross 
+dividend of EUR 0.17 per share in 2024. If approved, the annual bonus paid 
+to employees will be established at the same level as the dividend, in accordance with 
+the companys initiative to share the value created with all its stakeholders equitably.

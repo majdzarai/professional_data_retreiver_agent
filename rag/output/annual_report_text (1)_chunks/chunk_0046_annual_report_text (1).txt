@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 46 of 1106
+SIZE: 567 characters
+PREVIOUS: chunk_0045_annual_report_text (1).txt
+NEXT: chunk_0047_annual_report_text (1).txt
+------------------------------
+insights into machine parameters.. Implementation of the IBA Technical Support Center (TSC) 
+along with IBA RadioPharma Solutions and Proton Therapy. The TSC serves as an intelligent knowledge repository 
+facilitating efficient knowledge sharing, accelerating 
+troubleshooting processes, and fostering autonomy in 
+problem-solving endeavors. E-BEAM AND X-RAY IRRADIATION IS 
+RECOGNIZED AS THE SAFEST TECHNOLOGY 
+TO HANDLE THE GROWTH OF THE MEDICAL 
+DEVICE INDUSTRY
+The medical device industry has a wide range of products that 
+enable patient diagnosis and treatment.

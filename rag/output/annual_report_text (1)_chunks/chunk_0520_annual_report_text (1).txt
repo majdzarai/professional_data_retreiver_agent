@@ -1,0 +1,17 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 520 of 1106
+SIZE: 514 characters
+PREVIOUS: chunk_0519_annual_report_text (1).txt
+NEXT: chunk_0521_annual_report_text (1).txt
+------------------------------
+A decrease of the other provision (onerous 
+contract mainly) for EUR -1.1 million following 
+the revision of costs and synergies to be 
+reached 
+Other short-term payables at the end of 2023 
+amount to EUR 68.9 million which represents a 
+decrease of EUR -6.7 million compared to 2022. This decrease is mainly explained by the 
+decrease of non-trade payables by EUR -6.4 
+million, the decrease of other current liabilies for 
+EUR -3.8 million which includes the release of 
+the refund liability of EUR -5.0 million.

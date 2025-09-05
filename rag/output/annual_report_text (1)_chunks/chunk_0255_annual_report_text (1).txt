@@ -1,0 +1,35 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 255 of 1106
+SIZE: 377 characters
+PREVIOUS: chunk_0254_annual_report_text (1).txt
+NEXT: chunk_0256_annual_report_text (1).txt
+------------------------------
+023, the Group has at its 
+disposal credit facilities amounting to EUR 58.0 
+million of which 23.4% are used. (EUR 000) 
+Credit 
+facilities 
+total 
+amount 
+Credit 
+facilities 
+used 
+Credit 
+facilities 
+available 
+S.R.I.W. - subordinated 
+10 676 
+10 676 
+0 
+S.F.P.I. - subordinated 
+2 906 
+2 906 
+0 
+Short-term credit facilities 
+44 458 
+0 
+44 458 
+TOTAL 
+58 040 
+13 582 
+44 458

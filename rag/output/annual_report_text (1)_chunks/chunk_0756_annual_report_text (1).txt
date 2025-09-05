@@ -1,0 +1,31 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 756 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0755_annual_report_text (1).txt
+NEXT: chunk_0757_annual_report_text (1).txt
+------------------------------
+hin 12 months - Temporary differences 
+4 607 
+4 313 
+TOTAL 
+20 950 
+18 363 
+Deferred tax liabilities netted against the deferred tax assets in the statement of 
+financial position for entities that are part of the same fiscal group 
+-739 
+-737 
+Total DTA recognised 
+20 211 
+17 626 
+DEFERRED TAX LIABILITIES 
+Deferred tax liabilities to be paid after 12 months - temporary differences 
+1 495 
+1 023 
+Deferred tax liabilities to be paid within 12 months - temporary differences 
+0 
+0 
+TOTAL 
+1 495 
+1 023 
+Deferred tax liabilities netted against the deferred tax assets in the statement of 
+financial

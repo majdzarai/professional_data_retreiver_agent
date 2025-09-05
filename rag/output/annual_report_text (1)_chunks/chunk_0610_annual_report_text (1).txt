@@ -1,0 +1,29 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 610 of 1106
+SIZE: 655 characters
+PREVIOUS: chunk_0609_annual_report_text (1).txt
+NEXT: chunk_0611_annual_report_text (1).txt
+------------------------------
+nless 
+stated otherwise. The preparation of financial statements in 
+accordance with IFRS requires the use of 
+certain critical accounting estimates. It also 
+requires Management to exercise judgment in 
+the process of applying the Companys 
+accounting policies. Areas involving a higher 
+degree of judgment or complexity, or areas 
+where 
+assumptions 
+and 
+estimates 
+are 
+significant 
+to 
+the 
+consolidated 
+financial 
+statements are disclosed in the relevant notes 
+refered to in Note 2.6. === Page 119 ===
+IBA Annual Report 2023 
+116. 1.2.1 Material accounting policies 
+IBA discloses the material accounting policies in the notes to which they refer.

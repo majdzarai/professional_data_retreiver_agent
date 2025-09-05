@@ -1,0 +1,35 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 975 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0974_annual_report_text (1).txt
+NEXT: chunk_0976_annual_report_text (1).txt
+------------------------------
+tages: yearly with a variable amount 
+linked to IBAs dividends proceeds and a final 
+reimbursement on the term of the loan, being 
+August 30th, 2031. To the best of the Companys knowledge, there 
+are 
+no 
+other 
+relationships 
+or 
+special 
+agreements 
+among 
+the 
+shareholders 
+at 
+December 31, 2023. 11.3. DIRECTORS AND MANAGEMENT 
+The remuneration of the key management personnel is as follow
+Compensation of key management personnel of the 
+group 
+December 31, 2022 
+December 31, 2023 
+Short-term employee benefits 
+2 071 
+2 117 
+Post-employment pension 
+44 
+0 
+Share-base payment transactions 
+41

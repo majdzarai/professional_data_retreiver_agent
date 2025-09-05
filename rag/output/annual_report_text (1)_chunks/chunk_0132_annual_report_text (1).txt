@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 132 of 1106
+SIZE: 426 characters
+PREVIOUS: chunk_0131_annual_report_text (1).txt
+NEXT: chunk_0133_annual_report_text (1).txt
+------------------------------
+Dosimetry
+One of the ideas behind this change is that before we evaluated people and granted them 
+a bonus on the basis of objectives they achieved. Now, we have changed the mindset and 
+we award the bonus because we trust they are engaged and will fulfill the tasks, projects, and objectives that are required on a daily basis - and these objectives might be reviewed 
+more often. Soumya Chandramouli, Chief Financial Officer

@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1094 of 1106
+SIZE: 622 characters
+PREVIOUS: chunk_1093_annual_report_text (1).txt
+NEXT: chunk_1095_annual_report_text (1).txt
+------------------------------
+thereof ProtonTherapy 
+t CO2eq 
+43.026 
+45.619 
+47.620 
+thereof ProtonTherapy per treated patient 
+t CO2eq / 
+patient 
+3,5 
+3,6 
+3,5 
+The emission intensity of PT installed base (tCO2eq/ patient (functional unit)) remains stable in 2023, as the increased number of treated patients 
+balances the additional consumption of the newly installed equipments 
+1Scope 3: includes most impacting products, supported by a maintenance contract (in case of Dynamitrons, this amounts to 7% of the installed base) 
+2The 2023 reporting is based upon updated CO2 emissions factors per country in accordance to IEA emissions factors 2023.

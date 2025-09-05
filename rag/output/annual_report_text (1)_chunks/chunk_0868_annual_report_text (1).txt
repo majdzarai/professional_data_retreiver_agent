@@ -1,0 +1,52 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 868 of 1106
+SIZE: 598 characters
+PREVIOUS: chunk_0867_annual_report_text (1).txt
+NEXT: chunk_0869_annual_report_text (1).txt
+------------------------------
+The payments of bank and other borrowings and lease liabilities are as follows: December 31, 2022 
+December 31, 2023 
+ (EUR 000) 
+Bank borrowings 
+Leases 
+Total 
+Bank borrowings Leases 
+Total 
+Due 
+0 
+0 
+0 
+2 734 
+0 
+2 734 
+One year or less 
+4 264 
+6 087 10 351 
+4 120 
+6 646 10 766 
+Between 1 and 2 years 
+4 120 
+4 675 
+8 795 
+3 980 
+4 507 
+8 487 
+Between 2 and 5 years 
+7 838 
+6 074 13 912 
+3 857 
+8 113 11 970 
+Over 5 years 
+0 
+11 291 11 291 
+0 
+10 454 10 454 
+16 222 
+28 127 44 349 
+14 691 
+29 720 44 411 
+Future interest expense on bank and other borrowings (-) 
+-1 841 
+-1 641 
+-3 482 
+-1 108

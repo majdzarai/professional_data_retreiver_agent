@@ -1,0 +1,10 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1087 of 1106
+SIZE: 512 characters
+PREVIOUS: chunk_1086_annual_report_text (1).txt
+NEXT: chunk_1088_annual_report_text (1).txt
+------------------------------
+tenance, and more intense use of local resources. - The impact of the car fleet decreases slightly compared to 2022, and drops 48% lower than prepandemic year 2019 per FTE (2268t CO2eq), thanks 
+to a continuous shift towards more efficient cars (hybrid/elec) within the fleet. In 2023, IBA continued its policy of encouraging cleaner mobility alternatives: - New green car policy enforcing electric vehicles only in the fleet 
+- 100% reimbursement of public transportation 
+- Bike commuting allowance at 0.37/km.

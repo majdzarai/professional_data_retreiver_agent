@@ -1,0 +1,31 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 495 of 1106
+SIZE: 378 characters
+PREVIOUS: chunk_0494_annual_report_text (1).txt
+NEXT: chunk_0496_annual_report_text (1).txt
+------------------------------
+tegory transitional 
+activity 
+(21) 
+Climate change 
+mitigation (5) 
+Climate change 
+adaption (6) 
+Water and marine 
+resources (7) 
+Circular economy 
+(8) 
+Pollution (9) 
+Biodiversity and 
+eco systems (10) 
+Climate change 
+mitigation (11) 
+Climate change 
+adaption (12) 
+Water and marine 
+resources (13) 
+Circular economy 
+(14) 
+Pollution (15) 
+Biodiversity and 
+eco systems (16)

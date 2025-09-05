@@ -1,0 +1,20 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 944 of 1106
+SIZE: 621 characters
+PREVIOUS: chunk_0943_annual_report_text (1).txt
+NEXT: chunk_0945_annual_report_text (1).txt
+------------------------------
+contracts because they are 
+deemed to be highly effective hedges. Those 
+transactions are highly probable as they are 
+linked to existing contracts. For these cash flow 
+hedges, movements are recognized directly in 
+other comprehensive income and released to 
+the income statement to offset the impact of the 
+underlying transactions. As at December 31, 2023, this is represented 
+by cash flow hedges with the following 
+balances: EUR 1.1 million as short-term and 
+long-term financial assets (EUR -0.1 million in 
+2022) and EUR -0.4 million (EUR -2.5 million in 
+2022) as short-term and long-term financial 
+liabilities.

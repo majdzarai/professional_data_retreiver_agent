@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 160 of 1106
+SIZE: 599 characters
+PREVIOUS: chunk_0159_annual_report_text (1).txt
+NEXT: chunk_0161_annual_report_text (1).txt
+------------------------------
+apacity such photovoltaic carports now 
+enhance our headquarter facilities to further increase the ratio 
+of low impact renewable energy consumption. We are assessing the impact of our digital infrastructures 
+and software usage, to better understand the carbon footprint 
+of this ever-increasing part of modern organizations. We have released a new mobility policy to address both the 
+attractivity and the carbon footprint of our employees mobility, via incentives for low-impact transportation, mandatory electric 
+car leasing, home working practices and a more efficient 
+servicing organization.

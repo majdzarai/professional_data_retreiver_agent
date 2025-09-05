@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 714 of 1106
+SIZE: 684 characters
+PREVIOUS: chunk_0713_annual_report_text (1).txt
+NEXT: chunk_0715_annual_report_text (1).txt
+------------------------------
+nts. On the basis of its internal financial reports and given the Groups primary source 
+of risk and profitability, IBA has identified two operating segments: - 
+Proton therapy and other accelerators: This segment constitutes the technological basis of the Groups many 
+businesses and encompasses development, fabrication, and services associated with medical and industrial 
+particle accelerators and proton therapy systems. - 
+Dosimetry: This segment includes the activities that offer a full range of innovative high-quality solutions and 
+services that maximize efficiency and minimize errors in radiation therapy and medical imaging Quality 
+Assurance and calibration procedures.

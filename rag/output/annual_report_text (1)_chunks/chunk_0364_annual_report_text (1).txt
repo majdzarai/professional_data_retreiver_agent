@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 364 of 1106
+SIZE: 681 characters
+PREVIOUS: chunk_0363_annual_report_text (1).txt
+NEXT: chunk_0365_annual_report_text (1).txt
+------------------------------
+ing in a common view of 
+success. IBAs commitment is to distribute the 
+same amount to its employees as the total 
+dividend paid to its shareholders. A number of 
+Profit-Sharing Points is assigned to each IBA 
+employee, proportionate to their responsibility 
+level. Managing Directors and other Executive 
+Management Team members participate to this 
+plan alongside with employees. Agreements with the Managing Directors and 
+members of the Executive Management Team 
+do contain claw-back provisions in relation to any 
+payments that would be made based on 
+erroneous financial information. Long-term Incentives (LTI) 
+IBA issues LTI usually under the form of a Stock 
+Option Plan.

@@ -1,0 +1,40 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 710 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0709_annual_report_text (1).txt
+NEXT: chunk_0711_annual_report_text (1).txt
+------------------------------
+. PERFORMANCE OF EACH GEOGRAPHIC 
+REGION
+The Group operates in three main geographical 
+areas, Belgium, the United States and the rest of 
+the world. The sales figures presented below are 
+based on customer location, whereas non-
+current and current assets are based on the 
+physical location of the assets. (EUR 000) 
+December 31, 2022 
+Belgium 
+USA 
+ROW 
+Group 
+Sales of equipment, licences and services* 
+4 252 
+127 716 
+229 303 
+361 270 
+Non-current assets 
+85 977 
+11 262 
+25 912 
+123 150 
+Current assets 
+346 033 
+35 382 
+119 060 
+500 476 
+Segment assets 
+432 010 
+46 644 
+144 972 
+623 626 
+Inv

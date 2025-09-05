@@ -1,0 +1,21 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 1098 of 1106
+SIZE: 580 characters
+PREVIOUS: chunk_1097_annual_report_text (1).txt
+NEXT: chunk_1099_annual_report_text (1).txt
+------------------------------
+ical solutions allow in-house customers or contract sterilizers to sterilize medical devices either by E-beam in boxes or X-ray in 
+pallets, or both. They offer an readily available and ecological alternative to classical sterilisation processes, by eliminating the toxic waste linked to 
+chemical inputs such as ethylene oxide gas and nuclear materials such as cobalt 60. They avoid the associated pollutants and hazards. === Page 197 ===
+IBA Annual Report 2023 
+194. Unit 
+2021 
+2022 
+2023 
+306-3 Waste generated 
+Waste and recycling IBA Group 
+Waste generated 
+t 
+144 
+160 
+182

@@ -1,0 +1,15 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 166 of 1106
+SIZE: 698 characters
+PREVIOUS: chunk_0165_annual_report_text (1).txt
+NEXT: chunk_0167_annual_report_text (1).txt
+------------------------------
+=== Page 45 ===
+WASTE
+IBA also has an impact on waste production:. A direct impact through our operations: offices and manu- 
+facturing processes.. An indirect impact through our installed product base: production processes at our suppliers facilities, transport 
+within the value chain, and, once installed at the customer 
+location, servicing and decommissioning. We have set ourselves targets for reducing our unsorted waste 
+intensity by a factor of 3x below 2018 levels by 2025. This will be achieved by making changes at all levels impacting 
+our logistics, manufacturing and offices. Product packaging, for instance, is being continually improved to reduce its overall 
+environmental impact.

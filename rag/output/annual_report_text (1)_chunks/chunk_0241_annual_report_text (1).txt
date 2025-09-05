@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 241 of 1106
+SIZE: 349 characters
+PREVIOUS: chunk_0240_annual_report_text (1).txt
+NEXT: chunk_0242_annual_report_text (1).txt
+------------------------------
+he associated financing. Such 
+clauses are applicable only to a limited number 
+of contracts, essentially those relating to proton 
+therapy projects. The possibility that a customer 
+may one day exercise such a warranty or penalty 
+clause cannot be excluded. The use of products made by IBA may expose 
+the Company to certain liability lawsuits. IBA

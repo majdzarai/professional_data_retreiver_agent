@@ -1,0 +1,19 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 537 of 1106
+SIZE: 613 characters
+PREVIOUS: chunk_0536_annual_report_text (1).txt
+NEXT: chunk_0538_annual_report_text (1).txt
+------------------------------
+compared to EUR 46.4 
+million per December 31, 2022. These intangible 
+assets relate mainly to: Research and Development costs for EUR 
+57.7 million. The net amount is higher 
+because of the change in Depreciation (cf. next paragraph) and the increased spend 
+compared to 2022. Intangible assets under construction for a 
+net worth of EUR 9.0 million which includes 
+development costs related to Product 
+Lifecycle Management and the EU Medical 
+Device Regulation. In accordance with the Royal Decree of 
+December 15, 2015, research costs have been 
+capitalized and amortized over the year since 
+January 1, 2016.

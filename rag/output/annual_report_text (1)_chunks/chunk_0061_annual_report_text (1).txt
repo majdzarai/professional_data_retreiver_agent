@@ -1,0 +1,16 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 61 of 1106
+SIZE: 633 characters
+PREVIOUS: chunk_0060_annual_report_text (1).txt
+NEXT: chunk_0062_annual_report_text (1).txt
+------------------------------
+Watch the video: IBA CycloneKey - 
+F-18 access granted! IMPROVED DIAGNOSIS ACCESS 
+World Health Organization1 (WHO) figures from 2022 
+indicate that 10 million people die from cancer each 
+year, and yet patients lives and chances of survival are 
+significantly improved if the cancer is detected early. In fact, a cancer diagnosed at an earlier stage is more likely 
+to be treated successfully, resulting in a higher likelihood 
+of survival, reduction of morbidity and lower cost of care. Cancer Research UK2 confirmed that the average cancer 
+survival rate for the 8 most common cancers amongst patients 
+with stage 1 cancer is 90%.

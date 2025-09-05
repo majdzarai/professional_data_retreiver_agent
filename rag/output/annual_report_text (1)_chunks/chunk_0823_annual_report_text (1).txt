@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 823 of 1106
+SIZE: 636 characters
+PREVIOUS: chunk_0822_annual_report_text (1).txt
+NEXT: chunk_0824_annual_report_text (1).txt
+------------------------------
+Equity 
+497 
+40 959 
+Groups share in equity 
+249 
+20 480 
+Unrealized gain on contribution of an intangible asset 
+0 
+-2 200 
+Groups carrying amount of Investment accounted for using the equity method 
+249 
+18 280 
+The large non-current assets of Pantera are the contributions from both IBA as an asset under 
+construction for the Rhodotron and IP and the contribution the other venturer SCK-CEN for the right of 
+use of the nuclear raw material and relevant IP. Accounting policy for associates and Joint Ventures 
+An associate is an entity in which IBA has significant influence, but which is neither a subsidiary nor a joint 
+venture.

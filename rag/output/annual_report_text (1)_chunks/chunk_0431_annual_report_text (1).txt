@@ -1,0 +1,23 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 431 of 1106
+SIZE: 663 characters
+PREVIOUS: chunk_0430_annual_report_text (1).txt
+NEXT: chunk_0432_annual_report_text (1).txt
+------------------------------
+Here below are the latest data 15-02-2024 at the 
+group level. The graph shows the average of the 
+ratio 
+between 
+ABS+ (annual 
+base 
+salary 
+excluding bonuses) and the local base rate 
+salary. The conclusion of these analyses is that IBA's 
+policy is not only respectful of women and men 
+but tends to respect all people without 
+distinction, across the groups. Note: small 
+number may distort comparison especially 
+above grade 12. We are also doing our lesson 
+learned about the discrepancies in the grades 13 
+& 14 due to specific functions with a high market 
+salary rate with very limited female in function. No data privacy incident were reported in 2023.

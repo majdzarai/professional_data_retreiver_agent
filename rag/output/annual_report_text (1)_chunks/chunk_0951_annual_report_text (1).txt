@@ -1,0 +1,11 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 951 of 1106
+SIZE: 516 characters
+PREVIOUS: chunk_0950_annual_report_text (1).txt
+NEXT: chunk_0952_annual_report_text (1).txt
+------------------------------
+This category mainly includes cash equivalents, deposits, loans to customers and related parties 
+as well as financial bonds that IBA subscribed 
+to. More details are to be found in Note 6.2. Accounting policy 
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly 
+transaction between market participants at the measurement date. Derivatives: The fair value of derivative financial instruments is either the quoted market price or is calculated using pricing.

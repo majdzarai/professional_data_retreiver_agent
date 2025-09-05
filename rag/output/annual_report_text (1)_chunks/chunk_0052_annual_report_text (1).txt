@@ -1,0 +1,13 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 52 of 1106
+SIZE: 600 characters
+PREVIOUS: chunk_0051_annual_report_text (1).txt
+NEXT: chunk_0053_annual_report_text (1).txt
+------------------------------
+hed our Proton Therapy center. We later discovered the benefits of IBA 
+Industrial for disposable medical device sterilization and food applications. Realizing the absence of X-ray irradiation services in Taiwan, we decided 
+to introduce this technology. IBAs system, offering both E-beam for medical 
+devices and X-ray for food applications, was crucial for us. Taiwan is also 
+famous for its semiconductor industry, and we believe that E-beam 
+technology can provide favorable results for those products. With E-beam and X-ray treatments, we can offer faster 
+and better solutions to our customers.

@@ -1,0 +1,14 @@
+SOURCE: annual_report_text (1).txt
+CHUNK: 836 of 1106
+SIZE: 629 characters
+PREVIOUS: chunk_0835_annual_report_text (1).txt
+NEXT: chunk_0837_annual_report_text (1).txt
+------------------------------
+general obsolescence as well as the NRV 
+adjustment for the inventories related to the 
+Dynamitron business being closed as described 
+in Note 3.2. Accounting policy for other shares and participations 
+Other shares and participations represents the holding of shares in which IBA does not hold a significant 
+influence. These are carried at fair value and are not held for trading, IBA has designated these investments as FVOCI 
+whereby all changes in fair value are recognised in OCI and will never recycle in profit and loss. Accounting policy for inventories 
+Inventory is valued at the lower of cost or net realizable value.
