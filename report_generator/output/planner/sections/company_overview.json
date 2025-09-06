@@ -4,38 +4,46 @@
   "chapter_id": "introduction_background",
   "chapter_title": "Introduction / Background",
   "description": "Basic company identification and registration details (name, incorporation date, registration number, legal form, jurisdiction, address, ownership structure).",
-  "topic": "Company Analysis Report",
+  "topic": "i want to make a very clear detailed conpamy report",
   "questions": [
     {
-      "question": "What is the name of the company?",
+      "question": "What is the exact name of the company as per official records?",
       "queries": [
-        "company name",
-        "entity name search",
-        "corporate entity identifier"
+        "company name search",
+        "official company name registration",
+        "exact company name identification"
       ]
     },
     {
-      "question": "When was the company incorporated?",
+      "question": "When was the company initially incorporated or registered?",
       "queries": [
-        "incorporation date",
-        "founding date search",
-        "company establishment timeline"
+        "company incorporation date",
+        "date of company registration",
+        "founding date of the company"
       ]
     },
     {
-      "question": "What is the registration number of the company?",
+      "question": "What is the unique registration number assigned to the company?",
       "queries": [
-        "registration number",
-        "business identifier search",
-        "corporate filing ID"
+        "company registration number",
+        "business registry number",
+        "unique identifier for the company"
       ]
     },
     {
-      "question": "What is the legal form of the company?",
+      "question": "What is the legal form or structure of the company, e.g., private limited, public company, etc.?",
       "queries": [
-        "legal structure",
-        "business entity type",
-        "company incorporation status"
+        "company legal form",
+        "structure of the company",
+        "type of business entity"
+      ]
+    },
+    {
+      "question": "In what jurisdiction is the company registered or incorporated?",
+      "queries": [
+        "company registration jurisdiction",
+        "country of incorporation",
+        "registered location of the company"
       ]
     }
   ]
