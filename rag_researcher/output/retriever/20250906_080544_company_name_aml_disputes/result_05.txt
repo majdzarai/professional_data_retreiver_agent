@@ -1,0 +1,26 @@
+Result #5 (Score: 0.0581)
+================================================================================
+In accordance with the Royal Decree of 
+December 15, 2015, research costs have been 
+capitalized and amortized over the year since 
+January 1, 2016. Development costs in 2023 
+were, as mentioned before, as from 2023 
+onwards depreciated monthly on a pro rata 
+temporis basis (36 months). For research costs 
+all expenditure was depreciated within the year. Investments in tangible assets 
+Tangible fixed assets represent EUR 29.7 million 
+as of December 31, 2023. The increase of EUR 
+1.4 million year-on-year is mainly related to 
+investments for a total amount of EUR 4.3 
+million, among 
+others
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 537
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

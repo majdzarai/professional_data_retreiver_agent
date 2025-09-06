@@ -1,0 +1,83 @@
+{
+  "query": "money laundering allegations against [company name]",
+  "timestamp": "2025-09-06 08:21:41",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "replacement of its \ninfrastructure and facilities; We have not identified any additional risk of \nexpected \ncredit \nloss \non \nour \ntrade \nreceivables and other financial assets; As the commitments for carbon emissions \nreductions, waste management and water \nconsumtion described above relate to future \nevents and actions are to be taken, we have \nnot \nidentified \nconstructive \nobligations \nresulting from these commitments, nor the \nneed to record any operational onerous \ncontract provisions other than those already \npresented in these consolidated financial \nstatements; Currently, IBA is not i",
+      "similarity_score": 0.05079010521092698,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 661,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "15.79; 10.75 \nContractual life (years) \n5.78; 5.47; 5.04 \nSettlement \nShares \nExpected volatility \n48.26%; 47.33%. 45.57% \nRisk-free interest rate \n2.43%; 2.93%; 2.23% \nExpected dividend (stated as % of share price at grant date) \n0.02 \nExpected departures at grant date \n0.04 \nFair value per granted option at grant date \n7.26; 6.4; 4.0 \nValuation model \nBlack & Scholes",
+      "similarity_score": 0.06061794996562775,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 910,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "at the farm level. Through the introduction of eco-design rules and practices, IBA also continuously reduces the CO2 footprint per functional \nunit of its installed base by increasing the energy efficiency \nand reducing the mass of its product portfolio. The ProteusONE proton therapy system has significantly \nimproved energy performance thanks to the use of super- \nconductivity. Our RadioPharma Solutions division offers the CycloneKIUBE, with significantly greater compactness (less resources used) \nand energy efficiency. Our Industrial Solutions division has developed the new \ngeneration Rhodotron, the energy performance of which has \ngreatly improved.",
+      "similarity_score": 0.054651943499206504,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 161,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "ties are accessible \nto persons with reduced mobility. As an example, the four main buildings in Louvain-la-Neuve are \nfully adapted for such people. If necessary, a \nconstructive discussion is held with the person \nwith reduced mobility in order to guarantee him \nor her a workspace where he or she can move \naround as independently as possible. Risks and Risk Management \nThe risks and risk management of the protection \nand respect of Human Rights are described \nabove, in the dedicated Section Principal Risks \nand Uncertainties faced by the Company \n(Sections 3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the BCAC). === Page 90 ===\nIBA Annual Report 2023 \n87.",
+      "similarity_score": 0.0521458854520471,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 459,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "3-1 \nManagement of material topics \np34 AR2023 A committed company / employees \n405-1 \nDiversity of governance bodies and \nemployees \np66 AR2023 Management report / corporate governance statement / diversity, equity and inclusion policy \np194 AR2023 GRI appendix 405-1 / diversity of employees \n405-2 \nRatio of basic salary and remuneration of \nwomen to men \np80 AR2023 Management report / corporate governance statement / codes of \nconduct \nGRI 414 SUPPLIER SOCIAL ASSESSMENT v2016",
+      "similarity_score": 0.06018359531085952,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1070,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

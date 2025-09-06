@@ -1,0 +1,31 @@
+Result #2 (Score: 0.7801)
+================================================================================
+bute to its success. IBA is committed to provide equal employment 
+opportunities 
+and 
+treating 
+applicants 
+and 
+employees 
+without 
+discrimination. No 
+discrimination is based on race, color, age, sex 
+(including pregnancy, sexual orientation, or 
+gender 
+identity), national 
+origin, religion, language, veteran status, genetic information 
+(including family medical history), and physical 
+or mental disability. The Companys DEI policy is 
+that no one at IBA should ever be subject to any 
+kind of discrimination. The membership or non-
+membership of a trade union is also free.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 419
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

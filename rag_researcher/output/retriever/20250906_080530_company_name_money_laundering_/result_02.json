@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "text": "ets \n5.7. 35 184 \n33 743 \nNon-current assets \n123 423 \n145 483 \nInventories \n5.6. 101 017 \n130 545 \nContract assets \n4.3.1. 39 391 \n38 444 \nTrade receivables \n5.7.1. 111 649 \n107 576 \nOther current assets and receivables \n5.7. 89 893 \n65 435 \nCurrent derivative financial assets \n7.3. 160 \n739 \nCash and cash equivalents \n5.8. 158 366 \n109 306 \nCurrent assets \n500 476 \n452 045 \nTOTAL ASSETS \n623 899 \n597 528 \nEQUITY AND LIABILITIES \nShare capital and Share premium \n85 980 \n85 980 \nReserves and Retained earnings \n5.9. 29 971 \n20 232 \nEQUITY \n115 951 \n106 212 \nNon-current borrowings \n5.10. 10 647",
+  "similarity_score": 0.05323251203808523,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 581,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

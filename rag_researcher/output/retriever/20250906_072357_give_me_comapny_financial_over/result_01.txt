@@ -1,0 +1,30 @@
+Result #1 (Score: 0.7855)
+================================================================================
+aire). The overall investment by all partners in NHa is 
+over EUR 60 million, in equity and bond 
+financing 
+(guaranteed 
+by 
+the 
+Normandy 
+Region). IBAs contribution amounted to EUR 6 
+million in equity and EUR 1,5 million in 
+convertible Bond financing (see note 6.2.3). IBAs investment also includes the sale of 
+intellectual property related to the Cyclone400 
+cyclotron to NHa. The gain on this transaction 
+amounted to EUR 5 million which was reduced 
+by EUR 2 million (39.81%) for unrealized gain in 
+2019. IBA has no capital commitments as at December 
+31, 2022 and December 31, 2023 to participate 
+in any potential future funding of Normandy 
+Hadrontherapy SAS.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 816
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

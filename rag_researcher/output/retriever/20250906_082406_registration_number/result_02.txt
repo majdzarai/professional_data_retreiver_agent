@@ -1,0 +1,17 @@
+Result #2 (Score: 0.0494)
+================================================================================
+munication of critical concerns 
+p51 AR2023 Management report / principal risks and uncertainties faced by the 
+company 
+p80 AR2023 Management report / corporate governance statement / codes of 
+conduct
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 1050
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "text": "generated \np40 AR2023 A committed company / planet \np194 AR2023 GRI appendix 306-3 / waste generated \n306-4 \nWaste diverted from disposal \np40 AR2023 A committed company / planet \np80 AR2023 Management report / corporate governance statement / codes of \nconduct \n306-5 \nWaste directed to disposal \np194 AR2023 GRI appendix 306-3 / waste generated",
+  "similarity_score": 0.051237988990492,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 1067,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

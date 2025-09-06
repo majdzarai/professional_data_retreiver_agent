@@ -1,0 +1,55 @@
+Query: anti-money laundering reports company name
+Timestamp: 2025-09-06 08:05:35
+Results: 5
+Top-K: 5
+Similarity Threshold: 0.0
+Reranking Enabled: True
+Hybrid Search Enabled: True
+Hybrid Search Weight: 0.7
+================================================================================
+
+Result #1 (Score: 0.0560)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 237
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #2 (Score: 0.0569)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 411
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #3 (Score: 0.0512)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 1067
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #4 (Score: 0.0527)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 351
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #5 (Score: 0.0566)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 632
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+

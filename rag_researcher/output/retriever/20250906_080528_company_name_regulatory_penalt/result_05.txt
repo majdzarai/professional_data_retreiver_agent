@@ -1,0 +1,22 @@
+Result #5 (Score: 0.0592)
+================================================================================
+As at December 31, 2023 and December 31, 2022, there are no contract assets set as a 
+warranty to cover the financing of a proton 
+therapy contract. As at December 31, 2023, contracts in progress 
+and amounts due to customers for contract 
+assets showed a net position of EUR -245.0 
+million compared to EUR -256.8 million as at 
+December 31, 2022. The decrease of EUR 11.8 
+million is primarily explained by the progress 
+made on some customer sites, despite the level 
+of billings remaining high in 2023.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 718
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

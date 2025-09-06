@@ -1,0 +1,20 @@
+Result #3 (Score: 0.0547)
+================================================================================
+at the farm level. Through the introduction of eco-design rules and practices, IBA also continuously reduces the CO2 footprint per functional 
+unit of its installed base by increasing the energy efficiency 
+and reducing the mass of its product portfolio. The ProteusONE proton therapy system has significantly 
+improved energy performance thanks to the use of super- 
+conductivity. Our RadioPharma Solutions division offers the CycloneKIUBE, with significantly greater compactness (less resources used) 
+and energy efficiency. Our Industrial Solutions division has developed the new 
+generation Rhodotron, the energy performance of which has 
+greatly improved.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 161
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

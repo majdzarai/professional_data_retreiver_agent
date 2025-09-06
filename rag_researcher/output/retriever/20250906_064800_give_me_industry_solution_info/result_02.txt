@@ -1,0 +1,30 @@
+Result #2 (Score: 0.7678)
+================================================================================
+assess, benchmark 
+and ultimately improve our sustainability journey. And being a 
+certified B Corp provides what is often lacking elsewhere: proof. Through its recertification in 2024 at a score of 114 points 
+(vs 90 points in 2021), IBA is strengthening its presence within 
+the B Corp community of more than 8,000 businesses globally. Patients / Clients
+Shareholders
+Employees
+Society
+Planet
+We want to test our ability to operate 
+to high social, environmental and 
+governance standards. We took 
+the time we needed to understand 
+the B Corp certification, and what 
+it means in practice for the whole 
+Group. Weve been certified since 
+2021, but theres still a lot of work 
+to do.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 122
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

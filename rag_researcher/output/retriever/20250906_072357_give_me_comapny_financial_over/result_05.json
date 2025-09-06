@@ -1,0 +1,14 @@
+{
+  "id": 5,
+  "text": "=== Page 187 ===\nIBA Rapport annuel 2023 \n184. authorisation to increase the capital granted to \nthe Board of Directors by the Extraordinary \nGeneral Meeting of 12 June 2013, at the price of \n 11.52 per share, i.e. at the accounting par of \n1.4035 corresponding to the accounting par \napplicable at the time of the issue of the warrants \nplus an issue premium of 10.1165, which \nresulted in a correlative increase in the capital of \n 89,122.25 from 42,413,196.29 to \n42,502,318.54 and the creation of 63,500 new \nshares. As of December 31, 2023, there were 1.110.231 \noutstanding stock options.",
+  "similarity_score": 0.7885247730651045,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 1036,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

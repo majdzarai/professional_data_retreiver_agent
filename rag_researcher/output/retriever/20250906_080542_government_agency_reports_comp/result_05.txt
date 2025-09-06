@@ -1,0 +1,23 @@
+Result #5 (Score: 0.0594)
+================================================================================
+ndamental principles of 
+business conduct ( a total of 11 principles are 
+described) and provides guidance for the 
+Groups employees and co-contracting parties 
+on such matters as business partnerships, conflicts of interest, fair competition, protection 
+of intellectual property, data privacy and 
+confidentiality, anti-bribery and corruption, and 
+protection of the universal human rights, of the 
+environment, health, and safety. A new version of this Code was approved by the 
+Board of directors on December 18, 2020 and 
+slightly updated in 2021.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 411
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

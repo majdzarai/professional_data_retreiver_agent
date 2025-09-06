@@ -1,0 +1,83 @@
+{
+  "query": "anti-money laundering reports company name",
+  "timestamp": "2025-09-06 08:05:35",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "e end \nof 2021. The latest revision includes additional \nprinciples on environment protection, respect of \nhuman rights, and anti-corruption matters. In addition to the Code of Conduct, control \nmechanisms are implemented throughout the \norganization to prevent and detect frauds, including \nseparation \nof \nduties, regular \nindependent audits of travel and entertainment \nexpenses, and the availability of a fraud \nreporting procedure. Respect for Ethics is also part of our terms with \nsuppliers of products and services, agents, distributors, and partners (see for example the \nIBA Code of Conduct for Suppliers). Intellectual property risk \nThe Company holds intellectual property rights.",
+      "similarity_score": 0.055953783578441635,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 237,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "ndamental principles of \nbusiness conduct ( a total of 11 principles are \ndescribed) and provides guidance for the \nGroups employees and co-contracting parties \non such matters as business partnerships, conflicts of interest, fair competition, protection \nof intellectual property, data privacy and \nconfidentiality, anti-bribery and corruption, and \nprotection of the universal human rights, of the \nenvironment, health, and safety. A new version of this Code was approved by the \nBoard of directors on December 18, 2020 and \nslightly updated in 2021.",
+      "similarity_score": 0.056909540387527165,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 411,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "generated \np40 AR2023 A committed company / planet \np194 AR2023 GRI appendix 306-3 / waste generated \n306-4 \nWaste diverted from disposal \np40 AR2023 A committed company / planet \np80 AR2023 Management report / corporate governance statement / codes of \nconduct \n306-5 \nWaste directed to disposal \np194 AR2023 GRI appendix 306-3 / waste generated",
+      "similarity_score": 0.051237988990492,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1067,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "and 7:202 (public takeover bid) of the [Belgian] \nCompanies & Associations Code (hereafter, the \nBCAC). === Page 73 ===\nIBA Annual Report 2023 \n70. IBA \nREMUNERATION REPORT (SECTION 3:6, 3, OF THE \nBCAC) \nRemuneration Policy: Managing \nDirectors and other Executive \nManagement Team Members \nProcedure",
+      "similarity_score": 0.05265992004959416,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 351,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "trative \ndelay), and \nthe \ntransaction would take place through a market \nor \nexchange \nmechanism \nthat \ncreates \nenforceable rights and obligations. The amendments will be effective from annual \nreporting periods beginning on or after 1 \nJanuary 2025. The group is currently assessing",
+      "similarity_score": 0.05660595425891177,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 632,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

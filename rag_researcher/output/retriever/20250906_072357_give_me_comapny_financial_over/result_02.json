@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "text": "nd Share premium \n85 980 \n85 980 \nReserves and Retained earnings \n5.9. 29 971 \n20 232 \nEQUITY \n115 951 \n106 212 \nNon-current borrowings \n5.10. 10 647 \n7 114 \nNon-current lease liabilities \n5.10. 20 811 \n21 896 \nNon-current provisions \n5.11. 7 479 \n6 247 \nNon-current derivative financial liabilities \n7.3. 1 221 \n217 \nDeferred tax liabilities \n4.7.2. 756 \n286 \nOther non-current liabilities \n5.12. 5 862 \n2 955 \nNon-current liabilities \n46 776 \n38 715 \nCurrent borrowings \n5.10. 3 734 \n6 469 \nCurrent lease liabilities \n5.10. 5 675 \n6 104 \nCurrent provisions \n5.11 \n7 647 \n8 783 \nCurrent derivative f",
+  "similarity_score": 0.7853390445649018,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 582,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

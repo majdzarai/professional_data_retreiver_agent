@@ -1,0 +1,20 @@
+Result #3 (Score: 0.0539)
+================================================================================
+. In order to protect its competitive 
+position, IBA does not disclose targets. Each criteria is assessed separately 
+against 
+pre-approved 
+targets. A 
+performance score is assigned to each 
+criteria, resulting in the corresponding pay-
+out as described in the following table: Actual Pay-Out
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 386
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

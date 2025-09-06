@@ -1,0 +1,83 @@
+{
+  "query": "government agency reports company name",
+  "timestamp": "2025-09-06 08:05:42",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "rt / corporate governance statement \n2-13 \nDelegation of responsibility for managing \nimpacts \np58 AR2023 Management report / corporate governance statement \n2-14 \nRole of the highest governance body in \nsustainability reporting \np65 AR2023 Management report / corporate governance statement / sustainability \nboard meeting \n2-15 \nConflicts of interest \np57 AR2023 Management report / corporate governance statement / conflict of \ninterest \n2-16 \nCommunication of critical concerns \np51 AR2023 Management report / principal risks and uncertainties faced by the \ncompany \np80 AR2023 Management report",
+      "similarity_score": 0.05832669582114714,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1049,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "3-1 \nManagement of material topics \np34 AR2023 A committed company / employees \n405-1 \nDiversity of governance bodies and \nemployees \np66 AR2023 Management report / corporate governance statement / diversity, equity and inclusion policy \np194 AR2023 GRI appendix 405-1 / diversity of employees \n405-2 \nRatio of basic salary and remuneration of \nwomen to men \np80 AR2023 Management report / corporate governance statement / codes of \nconduct \nGRI 414 SUPPLIER SOCIAL ASSESSMENT v2016",
+      "similarity_score": 0.050189998149065024,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1070,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "orporate \nGovernance Charter, to assign themselves \nsufficient resources, including the assistance of \nexternal consultants, if and when appropriate. Principles of the remuneration policy \nThe key purpose of IBAs remuneration \nphilosophy is to ensure the Company is able to \nattract, retain and engage the executive talent it \nrequires to deliver on its promises towards its \nvarious stakeholders including its clients and \npatients, its shareholders, its employees, society \nin general and the planet, whilst aligning to \ntheir respective interests. The structure and levels of remuneration, in \ngeneral, must be effective in meeting these \nobjectives.",
+      "similarity_score": 0.051591304786014786,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 354,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "-36 854 \n-294 276 \n0 \n-294 276 \nInternal Costs of sales \n-4 582 \n787 \n-3 795 \n3 795 \n0 \nTotal Cost of sales (-) \n-262 004 \n-36 067 \n-298 071 \n3 795 \n-294 276 \nOperating expenses (-) \n-108 712 \n-19 312 \n-128 024 \n0 \n-128 024 \nInternal Operating expenses (-) \n4 560 \n-4 386 \n174 \n-174 \n0 \nTotal Operating expenses (-) \n-104 152 \n-23 698 \n-127 850 \n-174 \n-128 024 \nOther operating income/(expenses) \n-908 \n-417 \n-1 325 \n0 \n-1 325 \nSegment result (EBIT) \n-636 \n5 728 \n5 092 \n0 \n5 092 \nRecurring segment (REBIT) \n272 \n6 145 \n6 417 \n0 \n6 417 \nFinancial income/(expenses) \n-4 881 \n-357 \n-5 238 \n0 \n-5 238 \nS",
+      "similarity_score": 0.05372117150140679,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 692,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "ndamental principles of \nbusiness conduct ( a total of 11 principles are \ndescribed) and provides guidance for the \nGroups employees and co-contracting parties \non such matters as business partnerships, conflicts of interest, fair competition, protection \nof intellectual property, data privacy and \nconfidentiality, anti-bribery and corruption, and \nprotection of the universal human rights, of the \nenvironment, health, and safety. A new version of this Code was approved by the \nBoard of directors on December 18, 2020 and \nslightly updated in 2021.",
+      "similarity_score": 0.059369471310441964,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 411,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "query": "incorporation date",
+  "timestamp": "2025-09-06 08:23:59",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "t is common to have an element of variable consideration such as an earn out which is contingent to the \nfuture performance of the acquired business. IBA makes an estimate of the fair value of the contingent consideration at the \nacquisition date; subsequent changes to the fair value that is deemed to be an asset or liability, are recognized in profit or \nloss. Acquisition-related costs are expensed as incurred and presented under Other Operating expenses. Goodwill \nGoodwill is initially measured as the excess of the consideration transferred and the fair value of non-controlling interest \nover the net identifiable assets acquired and liabilities assumed.",
+      "similarity_score": 0.05356268858544138,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 683,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "Pursuant to section 12, 2, 3 of the Royal \nDecree of November 14, 2007 regarding the \nobligations of issuers of financial instruments \nadmitted to trading on a regulated market, Mr. Olivier Legrain, Chief Executive Officer (CEO), Director and Managing Director of IBA SA, and \nMrs. Soumya Chandramouli, Chief Financial \nOfficer (CFO) of IBA SA, state that, to their \nknowledge: the financial statements to which this \nannual report relates, prepared in \naccordance with applicable accounting \nstandards, give a true and fair view of \nthe assets and liabilities, financial \nposition, and results of IB",
+      "similarity_score": 0.052335466770794245,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 181,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": ". Subject to these factors, we confirm our expectation that the annual \nrevenue growth rate should reach an average of 15% over the 2022-2026 period. We project a recurring earnings before interest and taxes (REBIT) equivalent to about \n10% of total sales by 2026, progressively delivered and weighted after 2024, as current \nmacroeconomic effects fade and operational leverage accelerates with volume. Finally, we expect capital expenditures (CAPEX) of EUR 10 to 12 million per year until 2026 \nto support infrastructure development, innovation, sustainability, and digitization, to maintain IBAs cutting-edge offer and foster its future growth.",
+      "similarity_score": 0.05787168962682146,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 16,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "ets \n5.7. 35 184 \n33 743 \nNon-current assets \n123 423 \n145 483 \nInventories \n5.6. 101 017 \n130 545 \nContract assets \n4.3.1. 39 391 \n38 444 \nTrade receivables \n5.7.1. 111 649 \n107 576 \nOther current assets and receivables \n5.7. 89 893 \n65 435 \nCurrent derivative financial assets \n7.3. 160 \n739 \nCash and cash equivalents \n5.8. 158 366 \n109 306 \nCurrent assets \n500 476 \n452 045 \nTOTAL ASSETS \n623 899 \n597 528 \nEQUITY AND LIABILITIES \nShare capital and Share premium \n85 980 \n85 980 \nReserves and Retained earnings \n5.9. 29 971 \n20 232 \nEQUITY \n115 951 \n106 212 \nNon-current borrowings \n5.10. 10 647",
+      "similarity_score": 0.05290960698847804,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 581,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "ers are required to be ISO 14001 \n(Environmental Management) or ISO 50001 \n(Energy Management Systems) certified in order \nto become an IBA supplier. Risks and Risk Management \nThe November Sustainability Board focussed \namongst others on environmental risks and the \nintention to work on an action plan for 2023 and \nthe \nfollowing \nyears. Hence, the \nRisk \nManagement Committee will consider the \nenvironmental risk as of 2023. Anti-corruption and Bribery \nMatters \nPolicy and Targets \nIBA has as an objective to prevent and prohibit \nbribes or any sort of corruption and as such, the \nCompany is compliant with the applicable anti-\ncorruption and bribery legislation.",
+      "similarity_score": 0.05137274380110009,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 439,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

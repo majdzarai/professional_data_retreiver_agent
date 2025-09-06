@@ -1,0 +1,24 @@
+Result #4 (Score: 0.0526)
+================================================================================
+ommittee / Member of the Product Committee (prior to its integration)/ 
+Member of the Sustainability Committee (prior to its integration) 
+Before the establishment of IBA in 1986, Director of the Cyclotron 
+Research Center of the Universite Catholique de Louvain (UCL) 
+Soumya Chandramouli 
+Chief Financial Officer 
+Chief Financial Officer since 2016/ Working at IBA since 2004, consecutively Group Consolidator, Group Financial Analyst, VP 
+Corporate Finance and VP Finance, Medical Accelerators Solutions/ 5 
+years as Senior Auditor at EY 
+Frederic Nolf 
+Chief Human Resources & 
+Sustainability Off
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 320
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

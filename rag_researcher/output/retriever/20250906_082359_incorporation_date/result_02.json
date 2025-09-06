@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "text": "Pursuant to section 12, 2, 3 of the Royal \nDecree of November 14, 2007 regarding the \nobligations of issuers of financial instruments \nadmitted to trading on a regulated market, Mr. Olivier Legrain, Chief Executive Officer (CEO), Director and Managing Director of IBA SA, and \nMrs. Soumya Chandramouli, Chief Financial \nOfficer (CFO) of IBA SA, state that, to their \nknowledge: the financial statements to which this \nannual report relates, prepared in \naccordance with applicable accounting \nstandards, give a true and fair view of \nthe assets and liabilities, financial \nposition, and results of IB",
+  "similarity_score": 0.052335466770794245,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 181,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

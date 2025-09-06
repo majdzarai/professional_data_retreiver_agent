@@ -1,0 +1,14 @@
+{
+  "id": 5,
+  "text": "3-1 \nManagement of material topics \np40 AR2023 A committed company / planet \np84 AR2023 Management report / corporate governance statement / codes of \nconduct / environmental matters \n305-1 \nDirect (Scope 1) GHG emissions \np192 AR2023 GRI appendix 305-1 / GHG emissions within organisation \n305-2 \nEnergy indirect (Scope 2) GHG \nemissions \np192 AR2023 GRI appendix 305-1 / GHG emissions within organisation \n305-3 \nOther indirect (Scope 3) GHG \nemissions \np193 AR2023 GRI appendix 305-3 / GHG emissions outside the organisation \n305-4 \nGHG emissions intensity \np192 AR2023 GRI appendix 305-1 / GHG em",
+  "similarity_score": 0.0540750100329396,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 1064,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

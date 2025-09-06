@@ -1,0 +1,83 @@
+{
+  "query": "company name sanctions history",
+  "timestamp": "2025-09-06 08:05:24",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "ith \nthe Code. In December 2021, a whistleblower \nplatform in line with European and international \nstandards was activated on the Companys \nwebsite. The platform thus provides IBAs \nstakeholders with the possibility to anonimously \nreport alleged violations of the Code of Business \nConduct in addition to the existing Company \nchannels. Complaints are managed by the \nCompliance Officer who remains the central \npoint of contact with the responsibility to monitor \ncompliance and follow up on reported incidents \nof non-compliance.",
+      "similarity_score": 0.051869520118019624,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 414,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "e end \nof 2021. The latest revision includes additional \nprinciples on environment protection, respect of \nhuman rights, and anti-corruption matters. In addition to the Code of Conduct, control \nmechanisms are implemented throughout the \norganization to prevent and detect frauds, including \nseparation \nof \nduties, regular \nindependent audits of travel and entertainment \nexpenses, and the availability of a fraud \nreporting procedure. Respect for Ethics is also part of our terms with \nsuppliers of products and services, agents, distributors, and partners (see for example the \nIBA Code of Conduct for Suppliers). Intellectual property risk \nThe Company holds intellectual property rights.",
+      "similarity_score": 0.050506455500882154,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 237,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "rt / corporate governance statement \n2-13 \nDelegation of responsibility for managing \nimpacts \np58 AR2023 Management report / corporate governance statement \n2-14 \nRole of the highest governance body in \nsustainability reporting \np65 AR2023 Management report / corporate governance statement / sustainability \nboard meeting \n2-15 \nConflicts of interest \np57 AR2023 Management report / corporate governance statement / conflict of \ninterest \n2-16 \nCommunication of critical concerns \np51 AR2023 Management report / principal risks and uncertainties faced by the \ncompany \np80 AR2023 Management report",
+      "similarity_score": 0.05505205932150924,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1049,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "d. === Page 164 ===\nIBA Annual Report 2023 \n161. 7. Description of financial risk management \n(sections 3:6, 1, 8 and 3:32, 1, 5, of the \nBCAC) \n7.1. DESCRIPTION OF FINANCIAL RISKS \nThe Group has decided to present its financial \nrisks with the other principal identified risks in \nthe section Principal risks and uncertainties \nfaced by the company starting on page 51. These include credit risk, foreign currency risk, interest rate risk, liquidity risk, covenant risks. 7.2. CAPITAL MANAGEMENT \nThe Groups aim is to optimize the capital \nstructure in order to maximize its value for the \nsharehold",
+      "similarity_score": 0.05470157439854396,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 915,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "t is common to have an element of variable consideration such as an earn out which is contingent to the \nfuture performance of the acquired business. IBA makes an estimate of the fair value of the contingent consideration at the \nacquisition date; subsequent changes to the fair value that is deemed to be an asset or liability, are recognized in profit or \nloss. Acquisition-related costs are expensed as incurred and presented under Other Operating expenses. Goodwill \nGoodwill is initially measured as the excess of the consideration transferred and the fair value of non-controlling interest \nover the net identifiable assets acquired and liabilities assumed.",
+      "similarity_score": 0.055522757275685085,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 683,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

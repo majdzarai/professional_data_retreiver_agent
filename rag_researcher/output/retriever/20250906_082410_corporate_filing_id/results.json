@@ -1,0 +1,83 @@
+{
+  "query": "corporate filing ID",
+  "timestamp": "2025-09-06 08:24:10",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "and 7:202 (public takeover bid) of the [Belgian] \nCompanies & Associations Code (hereafter, the \nBCAC). === Page 73 ===\nIBA Annual Report 2023 \n70. IBA \nREMUNERATION REPORT (SECTION 3:6, 3, OF THE \nBCAC) \nRemuneration Policy: Managing \nDirectors and other Executive \nManagement Team Members \nProcedure",
+      "similarity_score": 0.060956565406950755,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 351,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "s in a manner that achieves fair presentation; Obtain sufficient and appropriate audit evidence regarding the financial information of the \nentities or business activities within the Group to express an opinion on the consolidated \nfinancial statements. We are responsible for the direction, supervision and performance of the \nGroup audit. We remain solely responsible for our audit opinion. We communicate with the audit committee regarding, among other matters, the planned scope and \ntiming of the audit and significant audit findings, including any significant deficiencies in internal control \nthat we identify during our audit.",
+      "similarity_score": 0.052213947474603964,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1012,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "ctions \n4.6 Financial expenses and income \nEquity \n5.9 Equity \nProvisions \n5.11 Long-term and short-term provisions \nFair value \n7.4 Financial assets and financial liabilities at fair \nvalue \n1.2.2 Changes in accounting \npolicies and disclosures, changes in estimates and \nerrors \nThe accounting policies adopted in the \npreparation \nof \nthe \nconsolidated \nfinancial \nstatements for the year ended December 31, 2023 are consistent with those followed in the \npreparation of the Groups annual consolidated \nfinancial statements for the year ended \nDecember 31, 2022, except for the adoption of \nnew standards and interpretations effective as \nof 1 January 2023.",
+      "similarity_score": 0.053046892766016415,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 613,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "ote off the \n11.4% (USD 2 million, EUR 1.8 million) stake in \nHIL Applied Medical Ltd, an Israelian developer \nof laser-based proton therapy systems. And IBA \ninvested a further EUR 1.6 million in Invest BW, a regional venture capital partner that is \nproviding financing and support to entrepreneurs \nin Walloon Brabant (cf. paragraph 5.5). The participations in affiliated companies (EUR \n129.4 million), contain among others the \nparticipation in the affilated company IBA \nRussia. In paragraph 2.1 we have analyzed the \nimpact of the EU sanctions on the control of IBA \nSA on its Russian subsidiary, and the indicators \nof asset impairment the conflict may raise.",
+      "similarity_score": 0.052785275833502475,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 540,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "require \na \nbalance, within the Board of Directors, among \nindependent directors, internal directors, and \ndirectors representing the shareholders. The Board of Directors must always be made up \nof (a) at least one-third of independent directors \nand (b) at least one third appointed upon \nproposal by the managing directors (hereafter \nreferred to as internal directors). The other Directors are appointed freely by the \nshareholders meeting, it being understood \nhowever that, among those directors, there \ncannot be more than two members who are, directly or indirectly, related to one and the s",
+      "similarity_score": 0.05344866729277402,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 294,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

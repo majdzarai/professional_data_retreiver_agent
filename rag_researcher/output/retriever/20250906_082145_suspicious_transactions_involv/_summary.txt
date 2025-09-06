@@ -1,0 +1,55 @@
+Query: suspicious transactions involving [company name]
+Timestamp: 2025-09-06 08:21:45
+Results: 5
+Top-K: 5
+Similarity Threshold: 0.0
+Reranking Enabled: True
+Hybrid Search Enabled: True
+Hybrid Search Weight: 0.7
+================================================================================
+
+Result #1 (Score: 0.0546)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 445
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #2 (Score: 0.0550)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 1050
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #3 (Score: 0.0651)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 581
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #4 (Score: 0.0592)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 459
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #5 (Score: 0.0526)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 982
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+

@@ -1,0 +1,26 @@
+Result #3 (Score: 0.0516)
+================================================================================
+orporate 
+Governance Charter, to assign themselves 
+sufficient resources, including the assistance of 
+external consultants, if and when appropriate. Principles of the remuneration policy 
+The key purpose of IBAs remuneration 
+philosophy is to ensure the Company is able to 
+attract, retain and engage the executive talent it 
+requires to deliver on its promises towards its 
+various stakeholders including its clients and 
+patients, its shareholders, its employees, society 
+in general and the planet, whilst aligning to 
+their respective interests. The structure and levels of remuneration, in 
+general, must be effective in meeting these 
+objectives.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 354
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

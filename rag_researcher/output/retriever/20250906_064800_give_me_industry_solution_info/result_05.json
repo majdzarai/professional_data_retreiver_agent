@@ -1,0 +1,14 @@
+{
+  "id": 5,
+  "text": "asury uses financial \ninstruments to hedge its net exposure to these \nrisks, including forward exchange contracts, currency swaps, and forex options. Cash flow hedges are further designated at the \nGroup level as hedges of foreign exchange risk \non specific assets, liabilities, or committed or \nfuture transactions on a gross basis. Appropriate documentation is prepared in \naccordance with IFRS 9. The CFO approves and \nthe CEO is informed of significant hedging",
+  "similarity_score": 0.765685668067192,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 249,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

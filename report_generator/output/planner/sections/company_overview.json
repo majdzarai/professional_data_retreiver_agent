@@ -1,0 +1,42 @@
+{
+  "section_id": "company_overview",
+  "section_title": "Company Overview",
+  "chapter_id": "introduction_background",
+  "chapter_title": "Introduction / Background",
+  "description": "Basic company identification and registration details (name, incorporation date, registration number, legal form, jurisdiction, address, ownership structure).",
+  "topic": "Company Analysis Report",
+  "questions": [
+    {
+      "question": "What is the name of the company?",
+      "queries": [
+        "company name",
+        "entity name search",
+        "corporate entity identifier"
+      ]
+    },
+    {
+      "question": "When was the company incorporated?",
+      "queries": [
+        "incorporation date",
+        "founding date search",
+        "company establishment timeline"
+      ]
+    },
+    {
+      "question": "What is the registration number of the company?",
+      "queries": [
+        "registration number",
+        "business identifier search",
+        "corporate filing ID"
+      ]
+    },
+    {
+      "question": "What is the legal form of the company?",
+      "queries": [
+        "legal structure",
+        "business entity type",
+        "company incorporation status"
+      ]
+    }
+  ]
+}

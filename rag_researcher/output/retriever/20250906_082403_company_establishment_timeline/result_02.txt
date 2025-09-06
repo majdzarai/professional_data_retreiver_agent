@@ -1,0 +1,24 @@
+Result #2 (Score: 0.0531)
+================================================================================
+re capital and as the proposed 
+amendments are approved by at least eighty-five 
+per cent (85%) of the votes cast. (x) Powers of the board of directors to issue 
+or to redeem the companys own shares 
+As of 31 December 2023, the Board of Directors 
+was authorized to issue new shares or redeem 
+the Companys own shares. In this respect, article 6 of the Companys Articles of Association 
+provide the following: Article 6: The Board of Directors shall have the power to 
+increase the Company's share capital, to issue 
+convertible bonds or subscription rights, in one 
+or more operations, within the legal limits in 
+terms of threshold and duration.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 349
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

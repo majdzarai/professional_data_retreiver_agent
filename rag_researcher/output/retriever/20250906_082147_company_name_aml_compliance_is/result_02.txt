@@ -1,0 +1,26 @@
+Result #2 (Score: 0.0571)
+================================================================================
+d the 
+investment of excess liquidity. The Group's 
+Treasury identifies, assesses and covers 
+financial risks in close cooperation with the 
+Company. More details on the management of financial 
+risks are available in the chapter FINANCIAL 
+RISKS (ARTICLES 3: 6, 1, 8 AND 3:32, 1, 5, OF THE BCAC) of the consolidated financial 
+statements, see page 162. Significants acquisitions and divestments in 
+2023 
+In Febrary 2023, the group acquired Fluidomica 
+LD.A. This entity produces Target Solutions for 
+Medical Radioisopes Market. IBA also acquired a minority stake in Invest.BW 
+S.A, a venture capital partner supporting the 
+economic development in the Walloon Region.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 561
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

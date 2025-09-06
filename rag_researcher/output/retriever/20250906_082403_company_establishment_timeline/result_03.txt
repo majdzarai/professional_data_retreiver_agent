@@ -1,0 +1,25 @@
+Result #3 (Score: 0.0538)
+================================================================================
+ith 
+the Code. In December 2021, a whistleblower 
+platform in line with European and international 
+standards was activated on the Companys 
+website. The platform thus provides IBAs 
+stakeholders with the possibility to anonimously 
+report alleged violations of the Code of Business 
+Conduct in addition to the existing Company 
+channels. Complaints are managed by the 
+Compliance Officer who remains the central 
+point of contact with the responsibility to monitor 
+compliance and follow up on reported incidents 
+of non-compliance.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 414
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

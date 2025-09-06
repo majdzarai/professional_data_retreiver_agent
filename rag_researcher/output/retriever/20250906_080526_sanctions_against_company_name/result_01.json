@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "text": "es. The Company cannot \nguarantee \nthat \nthe \ndefection \nof \ncertain \nemployees will not have a negative impact on its \nintellectual property rights. Legal risk \nSome contracts may contain warranties or \npenalties which generally represent only a few \npercent of the amount of the contract in the case \nof conventional sales contracts. However, these \namounts may be significantly higher in public-\nprivate partnerships inasmuch as the penalties \nmust cover the associated financing. Such \nclauses are applicable only to a limited number \nof contracts, essentially those relating to proton \ntherapy projects.",
+  "similarity_score": 0.05144045594788523,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 239,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

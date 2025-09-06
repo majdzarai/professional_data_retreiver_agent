@@ -1,0 +1,14 @@
+{
+  "id": 5,
+  "text": "require \na \nbalance, within the Board of Directors, among \nindependent directors, internal directors, and \ndirectors representing the shareholders. The Board of Directors must always be made up \nof (a) at least one-third of independent directors \nand (b) at least one third appointed upon \nproposal by the managing directors (hereafter \nreferred to as internal directors). The other Directors are appointed freely by the \nshareholders meeting, it being understood \nhowever that, among those directors, there \ncannot be more than two members who are, directly or indirectly, related to one and the s",
+  "similarity_score": 0.05344866729277402,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 294,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

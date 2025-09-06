@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "text": "e employees that have continuous \naccess to sensitive financial data (recurring \ninsiders) \nhave \nsigned \nthe \nCode \nfor \nacknowledgment and consent. Details of transactions by executives involving \nthe Company's shares are available in the \nremuneration report. The Dealing Code is available on the Company's \nwebsite \nwww.iba-worldwide.com, on \nthe \nfollowing \npage \nhttps://iba-\nworldwide.com/content/dealing-code \nThe closing periods for the year 2022 were: from February 22, 2023, to March 23, 2023, for the annual report; from 1st August, 2023, to August 30, 2023, for the mid-year report.",
+  "similarity_score": 0.055994607867804205,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 461,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

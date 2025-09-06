@@ -1,0 +1,29 @@
+Result #3 (Score: 0.0541)
+================================================================================
+er concentration in the 
+Belgian market allows this process to be 
+centralized with a limited number of people, with 
+the CFO playing a leading role. A schedule 
+summarizing the periodic requirements for the 
+communication 
+of 
+financial 
+information 
+is 
+available at the Group level, with details of the 
+nature and date of each requirement. A 
+procedure stipulates the persons responsible for 
+preparing, approving, and communicating this 
+financial information to the market, based on 
+whether the information is restricted or not, and 
+commercial or financial in nature.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 284
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

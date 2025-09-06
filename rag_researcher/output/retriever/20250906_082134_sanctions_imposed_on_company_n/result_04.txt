@@ -1,0 +1,26 @@
+Result #4 (Score: 0.0538)
+================================================================================
+ties are accessible 
+to persons with reduced mobility. As an example, the four main buildings in Louvain-la-Neuve are 
+fully adapted for such people. If necessary, a 
+constructive discussion is held with the person 
+with reduced mobility in order to guarantee him 
+or her a workspace where he or she can move 
+around as independently as possible. Risks and Risk Management 
+The risks and risk management of the protection 
+and respect of Human Rights are described 
+above, in the dedicated Section Principal Risks 
+and Uncertainties faced by the Company 
+(Sections 3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the BCAC). === Page 90 ===
+IBA Annual Report 2023 
+87.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 459
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

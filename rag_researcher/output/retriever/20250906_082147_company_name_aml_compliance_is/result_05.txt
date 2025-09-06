@@ -1,0 +1,30 @@
+Result #5 (Score: 0.0561)
+================================================================================
+inly related to the change of 
+working capital for EUR -16.9 million and the 
+net loss of EUR -9.1 million; Negative financing cash-flow of EUR -14.4 
+million 
+related 
+to 
+the 
+repayment 
+of 
+borrowings and lease liabilities for EUR -7.5 
+million (mainly lease liabilities), the dividend 
+paid for EUR -6.1 million and; Negative investing cash-flow of EUR -13.3 
+million mainly related to acquisitions of 
+tangible and intangible assets of EUR -12.3 
+million and the convertible loan issued to 
+PanTera for EUR -1.0 million. Net financial cash decreased by EUR -49.8 
+million from EUR 117.5 million at the end of 2022 
+to EUR 67.7 million at the end of 2023.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 522
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

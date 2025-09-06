@@ -1,0 +1,25 @@
+Result #4 (Score: 0.0547)
+================================================================================
+d. === Page 164 ===
+IBA Annual Report 2023 
+161. 7. Description of financial risk management 
+(sections 3:6, 1, 8 and 3:32, 1, 5, of the 
+BCAC) 
+7.1. DESCRIPTION OF FINANCIAL RISKS 
+The Group has decided to present its financial 
+risks with the other principal identified risks in 
+the section Principal risks and uncertainties 
+faced by the company starting on page 51. These include credit risk, foreign currency risk, interest rate risk, liquidity risk, covenant risks. 7.2. CAPITAL MANAGEMENT 
+The Groups aim is to optimize the capital 
+structure in order to maximize its value for the 
+sharehold
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 915
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

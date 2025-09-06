@@ -1,0 +1,24 @@
+Result #5 (Score: 0.0510)
+================================================================================
+the surrounding 
+healthy tissues. This is not the case for photon 
+radiotherapy, the most common type of radiation 
+currently used in cancer therapy. Moreover, proton therapy can potentially improve 
+local control through dose escalation while limiting 
+side effects and long-term complications. As a 
+consequence, this may enhance the outcome 
+of the treatment and patients quality of life1. 03
+Proton Therapy
+22
+IBA
+CORPORATE BROCHURE 2024
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 84
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

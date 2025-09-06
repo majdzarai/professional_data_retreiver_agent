@@ -1,9 +1,0 @@
-# Core dependencies
-python>=3.8
-pathlib
-typing
-argparse
-json
-logging
-
-# RAG pipeline dependencies will be inherited from the RAG module

@@ -1,0 +1,18 @@
+Result #5 (Score: 0.0555)
+================================================================================
+t is common to have an element of variable consideration such as an earn out which is contingent to the 
+future performance of the acquired business. IBA makes an estimate of the fair value of the contingent consideration at the 
+acquisition date; subsequent changes to the fair value that is deemed to be an asset or liability, are recognized in profit or 
+loss. Acquisition-related costs are expensed as incurred and presented under Other Operating expenses. Goodwill 
+Goodwill is initially measured as the excess of the consideration transferred and the fair value of non-controlling interest 
+over the net identifiable assets acquired and liabilities assumed.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 683
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

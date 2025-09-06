@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "text": "amount importance. To achieve this, dosimetry instruments and software are needed to calibrate \nand control the diagnostic and therapeutic equipment. This is the responsibility of IBAs Dosimetry business, which has \ndeveloped a range of tools to calibrate radiation equipment \nand verify the dose of ionizing radiation that the patient absorbs \nduring medical imaging and radiotherapy. In 2022, IBA acquired Modus Medical Devices and added \nits sophisticated QA solutions to IBAs existing portfolio.",
+  "similarity_score": 0.05578481404397895,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 108,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

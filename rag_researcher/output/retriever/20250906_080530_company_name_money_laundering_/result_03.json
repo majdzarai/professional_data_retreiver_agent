@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "text": "er concentration in the \nBelgian market allows this process to be \ncentralized with a limited number of people, with \nthe CFO playing a leading role. A schedule \nsummarizing the periodic requirements for the \ncommunication \nof \nfinancial \ninformation \nis \navailable at the Group level, with details of the \nnature and date of each requirement. A \nprocedure stipulates the persons responsible for \npreparing, approving, and communicating this \nfinancial information to the market, based on \nwhether the information is restricted or not, and \ncommercial or financial in nature.",
+  "similarity_score": 0.054104314253732314,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 284,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

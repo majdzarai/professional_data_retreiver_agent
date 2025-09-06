@@ -1,0 +1,83 @@
+{
+  "query": "aml compliance settlements company name",
+  "timestamp": "2025-09-06 08:05:48",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "nditure line. === Page 163 ===\nIBA Annual Report 2023 \n160. and another 79 825 in 2023. The details of \nthese are provided in the second table below. Details of the valuation of the options granted in \n2023 are given in this section: Option plan \nType of plan \nStock option \nDate of grant \nMarch 24, 2023; July 13, 2023; December 20, 2023 \nNumber of options granted \n79 825.00 \nExercise price \n17.6; 15.74; 10.76 \nShare price at date of grant \n17.59; 15.79; 10.75 \nContractual life (years) \n5.78; 5.47; 5.04 \nSettlement \nShares \nExpected volatility \n48.26%; 47.33%. 45.57% \nRisk-free interest rate \n2",
+      "similarity_score": 0.06170149455441114,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 909,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "ackage or services to a customer which comprises the \nequipment, installation and an agreed number of years of operation and maintenance of the site. The allocation of the price \nto the performance obligations is done based on the standard selling price of each component, driven by budget and taking \ninto accounts some contract negotiation considerations. IBAs contract with the customers typically does not contain \nvariable amounts and the financing component is also considered to be non-significant as milestones payments are spread \nover the project and reflect the progress of IBA in fulfilling its obligations.",
+      "similarity_score": 0.05706954898525023,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 726,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "inly related to the change of \nworking capital for EUR -16.9 million and the \nnet loss of EUR -9.1 million; Negative financing cash-flow of EUR -14.4 \nmillion \nrelated \nto \nthe \nrepayment \nof \nborrowings and lease liabilities for EUR -7.5 \nmillion (mainly lease liabilities), the dividend \npaid for EUR -6.1 million and; Negative investing cash-flow of EUR -13.3 \nmillion mainly related to acquisitions of \ntangible and intangible assets of EUR -12.3 \nmillion and the convertible loan issued to \nPanTera for EUR -1.0 million. Net financial cash decreased by EUR -49.8 \nmillion from EUR 117.5 million at the end of 2022 \nto EUR 67.7 million at the end of 2023.",
+      "similarity_score": 0.05692024234442989,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 522,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "d the \ninvestment of excess liquidity. The Group's \nTreasury identifies, assesses and covers \nfinancial risks in close cooperation with the \nCompany. More details on the management of financial \nrisks are available in the chapter FINANCIAL \nRISKS (ARTICLES 3: 6, 1, 8 AND 3:32, 1, 5, OF THE BCAC) of the consolidated financial \nstatements, see page 162. Significants acquisitions and divestments in \n2023 \nIn Febrary 2023, the group acquired Fluidomica \nLD.A. This entity produces Target Solutions for \nMedical Radioisopes Market. IBA also acquired a minority stake in Invest.BW \nS.A, a venture capital partner supporting the \neconomic development in the Walloon Region.",
+      "similarity_score": 0.06028093494262701,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 561,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "3-1 \nManagement of material topics \np40 AR2023 A committed company / planet \np84 AR2023 Management report / corporate governance statement / codes of \nconduct / environmental matters \n305-1 \nDirect (Scope 1) GHG emissions \np192 AR2023 GRI appendix 305-1 / GHG emissions within organisation \n305-2 \nEnergy indirect (Scope 2) GHG \nemissions \np192 AR2023 GRI appendix 305-1 / GHG emissions within organisation \n305-3 \nOther indirect (Scope 3) GHG \nemissions \np193 AR2023 GRI appendix 305-3 / GHG emissions outside the organisation \n305-4 \nGHG emissions intensity \np192 AR2023 GRI appendix 305-1 / GHG em",
+      "similarity_score": 0.0540750100329396,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1064,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

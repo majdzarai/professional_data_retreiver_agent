@@ -1,0 +1,35 @@
+Result #1 (Score: 0.0516)
+================================================================================
+risk areas such as corruption, asset misappropriation, financial statement 
+fraud, cyberfraud of theft of data, and contract 
+and procurement fraud. As a second phase, informal training of employees is taking place on 
+a daily basis. A system of formal reporting is also 
+described in the Code of Business Conduct and 
+encourages the denunciation of such practices, amongst 
+others 
+through 
+the 
+anonimous 
+whistleblower platform on the Companys 
+website. An external audit was carried out by the end of 
+the 
+year 
+2023, to 
+check 
+the 
+level 
+of 
+implementation in IBAs system. To mitigate 
+Cyber risk, several measures have already been 
+implemented and further measures will be 
+implemented.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 445
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

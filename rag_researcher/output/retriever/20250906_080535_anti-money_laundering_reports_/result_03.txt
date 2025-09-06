@@ -1,0 +1,23 @@
+Result #3 (Score: 0.0512)
+================================================================================
+generated 
+p40 AR2023 A committed company / planet 
+p194 AR2023 GRI appendix 306-3 / waste generated 
+306-4 
+Waste diverted from disposal 
+p40 AR2023 A committed company / planet 
+p80 AR2023 Management report / corporate governance statement / codes of 
+conduct 
+306-5 
+Waste directed to disposal 
+p194 AR2023 GRI appendix 306-3 / waste generated
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 1067
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

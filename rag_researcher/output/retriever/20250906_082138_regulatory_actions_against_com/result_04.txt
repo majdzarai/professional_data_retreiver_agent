@@ -1,0 +1,31 @@
+Result #4 (Score: 0.0567)
+================================================================================
+7.179 
+585.948 
+879.883 
+866.345 
+779.304 
+Annual target remuneration (fixed + variable) 
+1.779.687 
+1.772.049 
+1.776.116 
+1.928.453 
+2.245.273 
+Annual actual remuneration (fixed + variable) 
+1.453.972 
+1.686.606 
+1.983.154 
+2.070.730 
+2.117.461 
+b) Annual evolution of company 
+performance
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 400
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

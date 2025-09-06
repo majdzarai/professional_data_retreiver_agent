@@ -1,0 +1,18 @@
+Result #2 (Score: 0.0571)
+================================================================================
+ackage or services to a customer which comprises the 
+equipment, installation and an agreed number of years of operation and maintenance of the site. The allocation of the price 
+to the performance obligations is done based on the standard selling price of each component, driven by budget and taking 
+into accounts some contract negotiation considerations. IBAs contract with the customers typically does not contain 
+variable amounts and the financing component is also considered to be non-significant as milestones payments are spread 
+over the project and reflect the progress of IBA in fulfilling its obligations.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 726
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

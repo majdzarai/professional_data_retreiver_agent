@@ -1,0 +1,27 @@
+Result #1 (Score: 0.0507)
+================================================================================
+2-6 
+Activities, value chain and other business 
+relationships 
+p7 AR2023 Patient care, what makes our heart beat 
+p39 AR2023 A committed company / society / supply chain 
+p47 AR2023 Management report / review of IBA activity sectors 
+p102 AR2023 Management report / significant acquisitions and divestments in 2023 
+p108 AR2023 IFRS consolidated financial 
+2-7 
+Employees 
+p31 AR2023 A committed company 
+p66 AR2023 Management report / corporate governance statement / diversity, equity and inclusion policy 
+p80 AR2023 Management report / corporate governance statement / codes of 
+conduct 
+p191 AR
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 1046
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

@@ -1,0 +1,53 @@
+Result #2 (Score: 0.7853)
+================================================================================
+nd Share premium 
+85 980 
+85 980 
+Reserves and Retained earnings 
+5.9. 29 971 
+20 232 
+EQUITY 
+115 951 
+106 212 
+Non-current borrowings 
+5.10. 10 647 
+7 114 
+Non-current lease liabilities 
+5.10. 20 811 
+21 896 
+Non-current provisions 
+5.11. 7 479 
+6 247 
+Non-current derivative financial liabilities 
+7.3. 1 221 
+217 
+Deferred tax liabilities 
+4.7.2. 756 
+286 
+Other non-current liabilities 
+5.12. 5 862 
+2 955 
+Non-current liabilities 
+46 776 
+38 715 
+Current borrowings 
+5.10. 3 734 
+6 469 
+Current lease liabilities 
+5.10. 5 675 
+6 104 
+Current provisions 
+5.11 
+7 647 
+8 783 
+Current derivative f
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 582
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

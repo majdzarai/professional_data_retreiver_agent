@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "text": "We present to you our statutory auditors report in the context of our statutory audit of the consolidated \naccounts of Ion Beam Application SA (the Company) and its subsidiaries (jointly the Group). This \nreport includes our report on the consolidated accounts, as well as the other legal and regulatory \nrequirements. This forms part of an integrated whole and is indivisible. We have been appointed as statutory auditor by the general meeting dated 10 July 2023, following the \nproposal formulated by the board of directors and following the recommendation by the audit \ncommittee and the proposal formulated by the works council.",
+  "similarity_score": 0.7802261309625446,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 989,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

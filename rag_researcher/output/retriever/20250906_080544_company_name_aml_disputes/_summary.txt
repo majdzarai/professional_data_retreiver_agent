@@ -1,0 +1,55 @@
+Query: company name aml disputes
+Timestamp: 2025-09-06 08:05:44
+Results: 5
+Top-K: 5
+Similarity Threshold: 0.0
+Reranking Enabled: True
+Hybrid Search Enabled: True
+Hybrid Search Weight: 0.7
+================================================================================
+
+Result #1 (Score: 0.0573)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 726
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #2 (Score: 0.0543)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 1046
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #3 (Score: 0.0649)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 199
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #4 (Score: 0.0546)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 892
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+
+Result #5 (Score: 0.0581)
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 537
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
+

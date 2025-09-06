@@ -1,0 +1,83 @@
+{
+  "query": "sanctions imposed on [company name]",
+  "timestamp": "2025-09-06 08:21:34",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "es. The Company cannot \nguarantee \nthat \nthe \ndefection \nof \ncertain \nemployees will not have a negative impact on its \nintellectual property rights. Legal risk \nSome contracts may contain warranties or \npenalties which generally represent only a few \npercent of the amount of the contract in the case \nof conventional sales contracts. However, these \namounts may be significantly higher in public-\nprivate partnerships inasmuch as the penalties \nmust cover the associated financing. Such \nclauses are applicable only to a limited number \nof contracts, essentially those relating to proton \ntherapy projects.",
+      "similarity_score": 0.049895425832936005,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 239,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "and 7:202 (public takeover bid) of the [Belgian] \nCompanies & Associations Code (hereafter, the \nBCAC). === Page 73 ===\nIBA Annual Report 2023 \n70. IBA \nREMUNERATION REPORT (SECTION 3:6, 3, OF THE \nBCAC) \nRemuneration Policy: Managing \nDirectors and other Executive \nManagement Team Members \nProcedure",
+      "similarity_score": 0.04801452224410156,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 351,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "rt / corporate governance statement \n2-13 \nDelegation of responsibility for managing \nimpacts \np58 AR2023 Management report / corporate governance statement \n2-14 \nRole of the highest governance body in \nsustainability reporting \np65 AR2023 Management report / corporate governance statement / sustainability \nboard meeting \n2-15 \nConflicts of interest \np57 AR2023 Management report / corporate governance statement / conflict of \ninterest \n2-16 \nCommunication of critical concerns \np51 AR2023 Management report / principal risks and uncertainties faced by the \ncompany \np80 AR2023 Management report",
+      "similarity_score": 0.04911341728489799,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1049,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "ties are accessible \nto persons with reduced mobility. As an example, the four main buildings in Louvain-la-Neuve are \nfully adapted for such people. If necessary, a \nconstructive discussion is held with the person \nwith reduced mobility in order to guarantee him \nor her a workspace where he or she can move \naround as independently as possible. Risks and Risk Management \nThe risks and risk management of the protection \nand respect of Human Rights are described \nabove, in the dedicated Section Principal Risks \nand Uncertainties faced by the Company \n(Sections 3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the BCAC). === Page 90 ===\nIBA Annual Report 2023 \n87.",
+      "similarity_score": 0.05375072167764867,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 459,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "Onerous contracts for services: The Group recognises a provision of onerous contract when the unavoidable costs of fullfilling the contract exceed the \neconomic benefits expected to be received. This is the case when a service contract is expected to generate negative margin \nin the remaining years. For each contract presenting a risk, the expected margin for the remaining years of the initial term \nis calculated based on the latest available reforecast of the future costs to complete IBAs obligations.",
+      "similarity_score": 0.049912820244412036,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 892,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

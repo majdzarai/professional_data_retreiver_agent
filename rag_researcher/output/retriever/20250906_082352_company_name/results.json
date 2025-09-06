@@ -1,0 +1,83 @@
+{
+  "query": "company name",
+  "timestamp": "2025-09-06 08:23:52",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "ith \nthe Code. In December 2021, a whistleblower \nplatform in line with European and international \nstandards was activated on the Companys \nwebsite. The platform thus provides IBAs \nstakeholders with the possibility to anonimously \nreport alleged violations of the Code of Business \nConduct in addition to the existing Company \nchannels. Complaints are managed by the \nCompliance Officer who remains the central \npoint of contact with the responsibility to monitor \ncompliance and follow up on reported incidents \nof non-compliance.",
+      "similarity_score": 0.05487506556219347,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 414,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "e end \nof 2021. The latest revision includes additional \nprinciples on environment protection, respect of \nhuman rights, and anti-corruption matters. In addition to the Code of Conduct, control \nmechanisms are implemented throughout the \norganization to prevent and detect frauds, including \nseparation \nof \nduties, regular \nindependent audits of travel and entertainment \nexpenses, and the availability of a fraud \nreporting procedure. Respect for Ethics is also part of our terms with \nsuppliers of products and services, agents, distributors, and partners (see for example the \nIBA Code of Conduct for Suppliers). Intellectual property risk \nThe Company holds intellectual property rights.",
+      "similarity_score": 0.05951152224250913,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 237,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "and 7:202 (public takeover bid) of the [Belgian] \nCompanies & Associations Code (hereafter, the \nBCAC). === Page 73 ===\nIBA Annual Report 2023 \n70. IBA \nREMUNERATION REPORT (SECTION 3:6, 3, OF THE \nBCAC) \nRemuneration Policy: Managing \nDirectors and other Executive \nManagement Team Members \nProcedure",
+      "similarity_score": 0.06098099881370738,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 351,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "t is common to have an element of variable consideration such as an earn out which is contingent to the \nfuture performance of the acquired business. IBA makes an estimate of the fair value of the contingent consideration at the \nacquisition date; subsequent changes to the fair value that is deemed to be an asset or liability, are recognized in profit or \nloss. Acquisition-related costs are expensed as incurred and presented under Other Operating expenses. Goodwill \nGoodwill is initially measured as the excess of the consideration transferred and the fair value of non-controlling interest \nover the net identifiable assets acquired and liabilities assumed.",
+      "similarity_score": 0.06517636516580985,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 683,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "3-1 \nManagement of material topics \np34 AR2023 A committed company / employees \n405-1 \nDiversity of governance bodies and \nemployees \np66 AR2023 Management report / corporate governance statement / diversity, equity and inclusion policy \np194 AR2023 GRI appendix 405-1 / diversity of employees \n405-2 \nRatio of basic salary and remuneration of \nwomen to men \np80 AR2023 Management report / corporate governance statement / codes of \nconduct \nGRI 414 SUPPLIER SOCIAL ASSESSMENT v2016",
+      "similarity_score": 0.05231672166921031,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1070,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

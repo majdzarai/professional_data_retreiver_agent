@@ -1,0 +1,35 @@
+Result #1 (Score: 0.0617)
+================================================================================
+nditure line. === Page 163 ===
+IBA Annual Report 2023 
+160. and another 79 825 in 2023. The details of 
+these are provided in the second table below. Details of the valuation of the options granted in 
+2023 are given in this section: Option plan 
+Type of plan 
+Stock option 
+Date of grant 
+March 24, 2023; July 13, 2023; December 20, 2023 
+Number of options granted 
+79 825.00 
+Exercise price 
+17.6; 15.74; 10.76 
+Share price at date of grant 
+17.59; 15.79; 10.75 
+Contractual life (years) 
+5.78; 5.47; 5.04 
+Settlement 
+Shares 
+Expected volatility 
+48.26%; 47.33%. 45.57% 
+Risk-free interest rate 
+2
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 909
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

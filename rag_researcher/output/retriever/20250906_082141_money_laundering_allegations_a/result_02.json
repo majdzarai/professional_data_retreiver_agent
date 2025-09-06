@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "text": "15.79; 10.75 \nContractual life (years) \n5.78; 5.47; 5.04 \nSettlement \nShares \nExpected volatility \n48.26%; 47.33%. 45.57% \nRisk-free interest rate \n2.43%; 2.93%; 2.23% \nExpected dividend (stated as % of share price at grant date) \n0.02 \nExpected departures at grant date \n0.04 \nFair value per granted option at grant date \n7.26; 6.4; 4.0 \nValuation model \nBlack & Scholes",
+  "similarity_score": 0.06061794996562775,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 910,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

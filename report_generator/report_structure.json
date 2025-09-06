@@ -1,0 +1,145 @@
+{
+  "report_title": "KYC & Credit Risk Report",
+  "metadata": {
+    "language": "en",
+    "format": "markdown",
+    "version": "1.0"
+  },
+  "chapters": [
+    {
+      "id": "introduction_background",
+      "title": "Introduction / Background",
+      "sections": [
+        {
+          "id": "company_overview",
+          "title": "Company Overview",
+          "description": "Basic company identification and registration details (name, incorporation date, registration number, legal form, jurisdiction, address, ownership structure)."
+        }
+      ]
+    },
+    {
+      "id": "corporate_structure",
+      "title": "Corporate Structure / Group Chart",
+      "description": "Ownership structure, subsidiaries, ultimate beneficial owners (UBOs), holding companies, and group entities."
+    },
+    {
+      "id": " ",
+      "title": "Business Activities",
+      "sections": [
+        {
+          "id": "operations",
+          "title": "Operations",
+          "description": "Main lines of business, products/services offered, revenue streams."
+        },
+        {
+          "id": "industry",
+          "title": "Industry",
+          "description": "Sector classification and position within the industry."
+        },
+        {
+          "id": "sector",
+          "title": "Sector",
+          "description": "Detailed market segment(s) in which the company operates."
+        },
+        {
+          "id": "geographical_market",
+          "title": "Geographical Market & Coverage",
+          "description": "Key regions of operation and geographical exposure."
+        },
+        {
+          "id": "market_share",
+          "title": "Market Share",
+          "description": "Relative position vs competitors, competitive advantages."
+        },
+        {
+          "id": "suppliers_customers",
+          "title": "Suppliers & Customers",
+          "description": "Major suppliers, customer portfolio, and dependency risks."
+        },
+        {
+          "id": "risk_factors_operational",
+          "title": "Operational Risk Factors",
+          "description": "Pricing, forex exposure, commodities, sector cyclicality, high-risk sectors."
+        }
+      ]
+    },
+    {
+      "id": "financials",
+      "title": "Financials",
+      "sections": [
+        {
+          "id": "financial_statements_metrics",
+          "title": "Financial Statements / Metrics",
+          "description": "Income statements, balance sheets, key performance metrics."
+        },
+        {
+          "id": "auditors_report",
+          "title": "Auditors' Report",
+          "description": "Summary of external audit findings."
+        },
+        {
+          "id": "credit_rating_health",
+          "title": "Credit Rating & Financial Health",
+          "description": "Credit ratings, solvency, liquidity ratios."
+        },
+        {
+          "id": "share_price",
+          "title": "Share Price",
+          "description": "Market valuation and stock performance (if publicly listed)."
+        }
+      ]
+    },
+    {
+      "id": "esg",
+      "title": "ESG (Environmental, Social, Governance)",
+      "sections": [
+        {
+          "id": "esg_targets",
+          "title": "ESG Targets",
+          "description": "Company’s measurable ESG goals."
+        },
+        {
+          "id": "external_esg_rating",
+          "title": "External ESG Ratings",
+          "description": "Third-party ratings (e.g., MSCI, Sustainalytics)."
+        }
+      ]
+    },
+    {
+      "id": "risk_factors",
+      "title": "Risk Factors",
+      "sections": [
+        {
+          "id": "aml_issues",
+          "title": "AML Issues",
+          "description": "History of sanctions, money laundering, regulatory findings."
+        },
+        {
+          "id": "financial_fraud",
+          "title": "Financial Fraud",
+          "description": "Known fraud incidents or allegations."
+        },
+        {
+          "id": "compliance_assessment",
+          "title": "Compliance Assessment",
+          "description": "Adherence to regulatory standards."
+        }
+      ]
+    },
+    {
+      "id": "recent_developments",
+      "title": "Recent Developments",
+      "description": "Material events such as M&A, regulatory actions, new product launches."
+    },
+    {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "description": "Summary of risk profile and key takeaways."
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "description": "Sources used: filings, financial reports, external data."
+    }
+  ]
+}

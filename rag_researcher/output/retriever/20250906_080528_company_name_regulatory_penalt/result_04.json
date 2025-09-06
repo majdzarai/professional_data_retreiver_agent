@@ -1,0 +1,14 @@
+{
+  "id": 4,
+  "text": "y. PET imaging is a highly effective medical imaging technique \nthat uses radiotracers to produce detailed images of organs and \ntissues in the body. It is used in the diagnosis and treatment of a \nwide range of medical conditions, including cancer, neurological \ndisorders, and cardiovascular disease. CycloneKEY is giving the opportunity \nto anyone, anywhere in the word to get \naccess to PET cyclotron technology \nand PET imaging. Its also very interesting for inhouse \nproduction because the local hospital \nwill not depend on the big suppliers \nof radio-pharmaceuticals.",
+  "similarity_score": 0.05622184767487454,
+  "metadata": {
+    "filename": "annual_report_text (1).txt",
+    "filepath": "input\\annual_report_text (1).txt",
+    "chunk_id": 58,
+    "start_char_idx": 0,
+    "end_char_idx": 0,
+    "page": null,
+    "section": null
+  }
+}

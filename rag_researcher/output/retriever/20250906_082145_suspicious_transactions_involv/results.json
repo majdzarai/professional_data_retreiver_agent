@@ -1,0 +1,83 @@
+{
+  "query": "suspicious transactions involving [company name]",
+  "timestamp": "2025-09-06 08:21:45",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "risk areas such as corruption, asset misappropriation, financial statement \nfraud, cyberfraud of theft of data, and contract \nand procurement fraud. As a second phase, informal training of employees is taking place on \na daily basis. A system of formal reporting is also \ndescribed in the Code of Business Conduct and \nencourages the denunciation of such practices, amongst \nothers \nthrough \nthe \nanonimous \nwhistleblower platform on the Companys \nwebsite. An external audit was carried out by the end of \nthe \nyear \n2023, to \ncheck \nthe \nlevel \nof \nimplementation in IBAs system. To mitigate \nCyber risk, several measures have already been \nimplemented and further measures will be \nimplemented.",
+      "similarity_score": 0.054603497210907695,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 445,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "munication of critical concerns \np51 AR2023 Management report / principal risks and uncertainties faced by the \ncompany \np80 AR2023 Management report / corporate governance statement / codes of \nconduct",
+      "similarity_score": 0.054962353984820966,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1050,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "ets \n5.7. 35 184 \n33 743 \nNon-current assets \n123 423 \n145 483 \nInventories \n5.6. 101 017 \n130 545 \nContract assets \n4.3.1. 39 391 \n38 444 \nTrade receivables \n5.7.1. 111 649 \n107 576 \nOther current assets and receivables \n5.7. 89 893 \n65 435 \nCurrent derivative financial assets \n7.3. 160 \n739 \nCash and cash equivalents \n5.8. 158 366 \n109 306 \nCurrent assets \n500 476 \n452 045 \nTOTAL ASSETS \n623 899 \n597 528 \nEQUITY AND LIABILITIES \nShare capital and Share premium \n85 980 \n85 980 \nReserves and Retained earnings \n5.9. 29 971 \n20 232 \nEQUITY \n115 951 \n106 212 \nNon-current borrowings \n5.10. 10 647",
+      "similarity_score": 0.06512679766098314,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 581,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "ties are accessible \nto persons with reduced mobility. As an example, the four main buildings in Louvain-la-Neuve are \nfully adapted for such people. If necessary, a \nconstructive discussion is held with the person \nwith reduced mobility in order to guarantee him \nor her a workspace where he or she can move \naround as independently as possible. Risks and Risk Management \nThe risks and risk management of the protection \nand respect of Human Rights are described \nabove, in the dedicated Section Principal Risks \nand Uncertainties faced by the Company \n(Sections 3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the BCAC). === Page 90 ===\nIBA Annual Report 2023 \n87.",
+      "similarity_score": 0.05924039269403787,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 459,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "IBA sold the first Cyclone KEY, launched\nto \nenable \nsmall \nand \nmedium-sized\nhospitals \nto \nproduce \ntheir \nown\nradiopharmaceutical products in-house, for\ninstallation at a hospital in Benin. IBA \nacquired \na \nUS-based \nRadcal\nCorporation, a pioneer in X-ray imaging\nquality assurance. The acquisition is\nanticipated to be revenue accretive and \nEBIT positive from 2024 onwards, and will \nfurther strengthen IBA Dosimetrys product \noffering. IBA subscribed to a convertible loan issued\nby PanTera for EUR 3.5 millions to further\nsupport the development of the production\nof Ac.225. === Page 177 ===\nIBA Annual Report 2023 \n174. 15.",
+      "similarity_score": 0.05262764073181837,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 982,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

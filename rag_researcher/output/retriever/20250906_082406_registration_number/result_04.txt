@@ -1,0 +1,18 @@
+Result #4 (Score: 0.0557)
+================================================================================
+ately disclosed or otherwise misleading. In light of the 
+procedures we have performed, there are no material misstatements we have to report to you. The non-financial information required by virtue of article 3:32, 2 of the Companies' and Associations' 
+Code is included in the directors report on the consolidated accounts. The Company has prepared the 
+non-financial information, based on Global Reporting Initiatives (here under GRI ). However, in 
+accordance with article 3:80, 1, 5 of the Companies' and Associations' Code, we do not express an 
+opinion as to whether the non-financial informat
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 1019
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

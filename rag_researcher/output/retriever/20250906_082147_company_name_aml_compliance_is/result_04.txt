@@ -1,0 +1,26 @@
+Result #4 (Score: 0.0534)
+================================================================================
+eener 
+sterilization solutions, illustrating its importance 
+alongside the more traditional ethylene oxide- 
+and gamma-based sterilization solutions. This 
+shift will be further boosted by more in-house 
+sterilization sites operated by the sectors major 
+players, thanks to the increased simplicity and 
+reliability of IBAs technology. Industrial Solutions continues to investigate new 
+opportunities, such 
+as 
+environmental 
+applications to treat PFAS (forever chemicals) 
+and wastewater. RadioPharma Solutions continues to provide 
+market-leading support for radiopharmaceutical
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 205
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

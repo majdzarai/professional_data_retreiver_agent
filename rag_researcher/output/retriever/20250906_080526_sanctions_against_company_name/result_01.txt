@@ -1,0 +1,31 @@
+Result #1 (Score: 0.0514)
+================================================================================
+es. The Company cannot 
+guarantee 
+that 
+the 
+defection 
+of 
+certain 
+employees will not have a negative impact on its 
+intellectual property rights. Legal risk 
+Some contracts may contain warranties or 
+penalties which generally represent only a few 
+percent of the amount of the contract in the case 
+of conventional sales contracts. However, these 
+amounts may be significantly higher in public-
+private partnerships inasmuch as the penalties 
+must cover the associated financing. Such 
+clauses are applicable only to a limited number 
+of contracts, essentially those relating to proton 
+therapy projects.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 239
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

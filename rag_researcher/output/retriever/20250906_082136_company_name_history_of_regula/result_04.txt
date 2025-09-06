@@ -1,0 +1,31 @@
+Result #4 (Score: 0.0612)
+================================================================================
+rt / corporate governance statement 
+2-13 
+Delegation of responsibility for managing 
+impacts 
+p58 AR2023 Management report / corporate governance statement 
+2-14 
+Role of the highest governance body in 
+sustainability reporting 
+p65 AR2023 Management report / corporate governance statement / sustainability 
+board meeting 
+2-15 
+Conflicts of interest 
+p57 AR2023 Management report / corporate governance statement / conflict of 
+interest 
+2-16 
+Communication of critical concerns 
+p51 AR2023 Management report / principal risks and uncertainties faced by the 
+company 
+p80 AR2023 Management report
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 1049
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

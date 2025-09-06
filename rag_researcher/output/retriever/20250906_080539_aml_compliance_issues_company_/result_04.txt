@@ -1,0 +1,30 @@
+Result #4 (Score: 0.0605)
+================================================================================
+onformalFLASH6 technology. This builds on 
+the existing relationship between IBA and 
+KUMC, who had previously published a joint 
+abstract on FLASH technology together during 
+the 
+Proton 
+Therapy 
+Co-Operative 
+Group 
+(PTCOG) Congress in June 2023. Earlier in 
+2023, IBA also announced the first FLASH 
+research project on a ProteusONE in a clinical 
+setting, with PARTICLE, the proton therapy 
+center in Leuven, Belgium. IBA also continues to 
+develop Proton ARC Therapy and completed a 
+comprehensive integration test at the Proton 
+Therapy Center of William Beaumont Hospital in 
+Michigan, US, at
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 199
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None

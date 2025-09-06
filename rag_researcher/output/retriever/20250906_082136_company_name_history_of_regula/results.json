@@ -1,0 +1,83 @@
+{
+  "query": "[company name] history of regulatory issues",
+  "timestamp": "2025-09-06 08:21:36",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "e end \nof 2021. The latest revision includes additional \nprinciples on environment protection, respect of \nhuman rights, and anti-corruption matters. In addition to the Code of Conduct, control \nmechanisms are implemented throughout the \norganization to prevent and detect frauds, including \nseparation \nof \nduties, regular \nindependent audits of travel and entertainment \nexpenses, and the availability of a fraud \nreporting procedure. Respect for Ethics is also part of our terms with \nsuppliers of products and services, agents, distributors, and partners (see for example the \nIBA Code of Conduct for Suppliers). Intellectual property risk \nThe Company holds intellectual property rights.",
+      "similarity_score": 0.06689423838108913,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 237,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "re capital and as the proposed \namendments are approved by at least eighty-five \nper cent (85%) of the votes cast. (x) Powers of the board of directors to issue \nor to redeem the companys own shares \nAs of 31 December 2023, the Board of Directors \nwas authorized to issue new shares or redeem \nthe Companys own shares. In this respect, article 6 of the Companys Articles of Association \nprovide the following: Article 6: The Board of Directors shall have the power to \nincrease the Company's share capital, to issue \nconvertible bonds or subscription rights, in one \nor more operations, within the legal limits in \nterms of threshold and duration.",
+      "similarity_score": 0.05529710172841068,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 349,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "risk areas such as corruption, asset misappropriation, financial statement \nfraud, cyberfraud of theft of data, and contract \nand procurement fraud. As a second phase, informal training of employees is taking place on \na daily basis. A system of formal reporting is also \ndescribed in the Code of Business Conduct and \nencourages the denunciation of such practices, amongst \nothers \nthrough \nthe \nanonimous \nwhistleblower platform on the Companys \nwebsite. An external audit was carried out by the end of \nthe \nyear \n2023, to \ncheck \nthe \nlevel \nof \nimplementation in IBAs system. To mitigate \nCyber risk, several measures have already been \nimplemented and further measures will be \nimplemented.",
+      "similarity_score": 0.0615407718940147,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 445,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "rt / corporate governance statement \n2-13 \nDelegation of responsibility for managing \nimpacts \np58 AR2023 Management report / corporate governance statement \n2-14 \nRole of the highest governance body in \nsustainability reporting \np65 AR2023 Management report / corporate governance statement / sustainability \nboard meeting \n2-15 \nConflicts of interest \np57 AR2023 Management report / corporate governance statement / conflict of \ninterest \n2-16 \nCommunication of critical concerns \np51 AR2023 Management report / principal risks and uncertainties faced by the \ncompany \np80 AR2023 Management report",
+      "similarity_score": 0.061186456271594816,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1049,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "3-1 \nManagement of material topics \np34 AR2023 A committed company / employees \n405-1 \nDiversity of governance bodies and \nemployees \np66 AR2023 Management report / corporate governance statement / diversity, equity and inclusion policy \np194 AR2023 GRI appendix 405-1 / diversity of employees \n405-2 \nRatio of basic salary and remuneration of \nwomen to men \np80 AR2023 Management report / corporate governance statement / codes of \nconduct \nGRI 414 SUPPLIER SOCIAL ASSESSMENT v2016",
+      "similarity_score": 0.05951694943802729,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 1070,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

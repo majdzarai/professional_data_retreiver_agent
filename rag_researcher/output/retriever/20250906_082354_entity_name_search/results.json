@@ -1,0 +1,83 @@
+{
+  "query": "entity name search",
+  "timestamp": "2025-09-06 08:23:54",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "ets \n5.7. 35 184 \n33 743 \nNon-current assets \n123 423 \n145 483 \nInventories \n5.6. 101 017 \n130 545 \nContract assets \n4.3.1. 39 391 \n38 444 \nTrade receivables \n5.7.1. 111 649 \n107 576 \nOther current assets and receivables \n5.7. 89 893 \n65 435 \nCurrent derivative financial assets \n7.3. 160 \n739 \nCash and cash equivalents \n5.8. 158 366 \n109 306 \nCurrent assets \n500 476 \n452 045 \nTOTAL ASSETS \n623 899 \n597 528 \nEQUITY AND LIABILITIES \nShare capital and Share premium \n85 980 \n85 980 \nReserves and Retained earnings \n5.9. 29 971 \n20 232 \nEQUITY \n115 951 \n106 212 \nNon-current borrowings \n5.10. 10 647",
+      "similarity_score": 0.06607252287663601,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 581,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 2,
+      "text": "ich is \ndeemed most appropriate by the individual on \nwhom such minimum is imposed, including \nthrough the Long-Term Incentive plan described \nabove. The MHR is applicable during the entire period \nof the contractual relationship with IBA, and \nduring a three year period starting at the date the \nsaid contractual relationship terminates unless \nthe termination of the contractual relationship is \nconsecutive to the retirement or death of the \nconcerned Executive. The Managing Directors are significant owners \nof the reference shareholder and comply with the \nMHR provision.",
+      "similarity_score": 0.0669791952675812,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 368,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 3,
+      "text": "de Louvain - EPL) to expand \nits range of courses. IBA employees regularly share their experience and knowledge \nwith universities and high schools. We have an active policy \nof integrating young people into professional life, by offering \ninternships, end-of-study work, and student jobs. IBA mainly \nhires local employees in the countries where it has operations, creating jobs and providing wages to residents in the nearby \narea, and thus boosting the local economy. This is our way of \nmaking a positive contribution to the future of society at large, and of attracting new talent to IBA.",
+      "similarity_score": 0.05611155368937465,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 147,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 4,
+      "text": "vironment, health, and safety. A new version of this Code was approved by the \nBoard of directors on December 18, 2020 and \nslightly updated in 2021. This new version \nunderlines the importance of and details specific \nactions taken against corruption and bribery as \nwell as for the active protection of Human Rights. The Code of Business Conduct is available on \nthe \nCompanys \nwebsite \nwww.iba-\nworldwide.com, on the following https://www.iba-\nworldwide.com/content/code-conduct \nThis Code is the object of a specific training with \na quiz with a required 80% succes rate for \npassing, mandatory for all IBA employees, trainees, interim personnel and a selection of \nconsultants.",
+      "similarity_score": 0.07170855840746856,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 412,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    },
+    {
+      "id": 5,
+      "text": "tages: yearly with a variable amount \nlinked to IBAs dividends proceeds and a final \nreimbursement on the term of the loan, being \nAugust 30th, 2031. To the best of the Companys knowledge, there \nare \nno \nother \nrelationships \nor \nspecial \nagreements \namong \nthe \nshareholders \nat \nDecember 31, 2023. 11.3. DIRECTORS AND MANAGEMENT \nThe remuneration of the key management personnel is as follow\nCompensation of key management personnel of the \ngroup \nDecember 31, 2022 \nDecember 31, 2023 \nShort-term employee benefits \n2 071 \n2 117 \nPost-employment pension \n44 \n0 \nShare-base payment transactions \n41",
+      "similarity_score": 0.07285949068298853,
+      "metadata": {
+        "filename": "annual_report_text (1).txt",
+        "filepath": "input\\annual_report_text (1).txt",
+        "chunk_id": 974,
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "page": null,
+        "section": null
+      }
+    }
+  ]
+}

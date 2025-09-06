@@ -1,0 +1,36 @@
+Result #3 (Score: 0.0530)
+================================================================================
+ctions 
+4.6 Financial expenses and income 
+Equity 
+5.9 Equity 
+Provisions 
+5.11 Long-term and short-term provisions 
+Fair value 
+7.4 Financial assets and financial liabilities at fair 
+value 
+1.2.2 Changes in accounting 
+policies and disclosures, changes in estimates and 
+errors 
+The accounting policies adopted in the 
+preparation 
+of 
+the 
+consolidated 
+financial 
+statements for the year ended December 31, 2023 are consistent with those followed in the 
+preparation of the Groups annual consolidated 
+financial statements for the year ended 
+December 31, 2022, except for the adoption of 
+new standards and interpretations effective as 
+of 1 January 2023.
+================================================================================
+
+Metadata:
+  filename: annual_report_text (1).txt
+  filepath: input\annual_report_text (1).txt
+  chunk_id: 613
+  start_char_idx: 0
+  end_char_idx: 0
+  page: None
+  section: None
