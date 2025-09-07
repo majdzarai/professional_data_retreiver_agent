@@ -1,9 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 902 of 1106
-SIZE: 335 characters
-PREVIOUS: chunk_0901_annual_report_text (1).txt
-NEXT: chunk_0903_annual_report_text (1).txt
-------------------------------
-nces between previous actuarial assumptions and what 
-actually happened, and the impact of changes of actuarial assumptions on the plans liabilities. Actuarial differences are 
-fully recorded in other items of the comprehensive income statement during their period of occurrence. Source of estimation uncertainty and critical judgments
+k market and shareholders of this 
+annual report. In 2023, the General Assembly 
+has approved a dividend of EUR 0.21 per share 
+as recommended by IBAs Board of Directors, for 
+a total amount of EUR 6.1 million, which has 
+been paid during the year. IBAs Board of Directors intends to recommend 
+to the General Assembly to pay a dividend of 
+EUR 0.17 per share in 2024 in order to retain an 
+engaged long-term shareholding. Based on the number of shares eligible to a 
+dividend as at December 3, 2023, this 
+represents a total amount of EUR 5.0 millions.

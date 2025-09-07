@@ -1,11 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 805 of 1106
-SIZE: 507 characters
-PREVIOUS: chunk_0804_annual_report_text (1).txt
-NEXT: chunk_0806_annual_report_text (1).txt
-------------------------------
-and with a similar security, the funds necessary to obtain an asset of a similar value to the right-of-use asset in a similar 
-economic environment. The IBR therefore reflects what the Group would have to pay, which requires estimation when no 
-observable rates are available (such as for subsidiaries that do not enter into financing transactions) or when they need to 
-be adjusted to reflect the terms and conditions of the lease (for example, when leases are not in the subsidiarys functional 
-currency).
+d temporary differences for which the tax base 
+amounts to EUR 66.9 million (2021: EUR 65.0 
+million) mainly in Belgium, the United States, Germany and Russia. The Group recognized 
+deferred tax assets relating to tax losses carried 
+forward for EUR 13.6 million with the view to 
+using these in future years and EUR 3.7 million 
+as deferred tax assets and liabilities for 
+temporary differences. In 2023 and in 2022, the recognized temporary 
+differences are mainly related to taxable 
+deferred reve

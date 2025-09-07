@@ -1,22 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 544 of 1106
-SIZE: 613 characters
-PREVIOUS: chunk_0543_annual_report_text (1).txt
-NEXT: chunk_0545_annual_report_text (1).txt
-------------------------------
-A 50% stake in PanTera NV, a Joint-Venture 
-with 
-SCK-CEN 
-(StudieCentrum 
-voor 
-Kernenergie - Centre dEtude de lenergie 
-Nucleaire), the Belgian nuclear research 
-centre based in Mol, with a contribution to the 
-share capital of EUR 20.4 million. The JV will 
-be active in the nuclear medicine, more 
-specifically it will develop, produce and 
-distribute the isotope Ac.225. A receivable of EUR 1.5 million on NHa SA 
-and EUR 1 million on PanTera NV. Long-term receivables 
-Long-term receivables amounted to EUR 21.1 
-million at end of 2023, a small decrease when 
-compared to the end of 2022 (EUR 21.4 million).
+An increase of the value of equity accounted 
+investments by EUR 18.0 million following 
+the additional contributions in kind to the 
+capital of the Joint Venture PanTera with a 
+machine to be built and IP. An increase of the receivables with Joint 
+Venture following the issuance of a new 
+convertible loan to PanTera for EUR 1.0 
+million; The increase of the Research tax credit 
+receivable in Belgium by EUR 1.1 million 
+Offset by

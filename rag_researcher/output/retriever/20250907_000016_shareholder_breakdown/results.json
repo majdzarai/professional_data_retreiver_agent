@@ -1,0 +1,18 @@
+{
+  "query": "shareholder breakdown",
+  "timestamp": "2025-09-07 00:00:16",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "45 \nImpairment of receivables \n0 \n0 \nTOTAL RECEIVABLES \n1 520 \n5 565 \nLIABILITIES \nPayables \nTrade and other payables \n0 \n0 \nTOTAL PAYABLES \n0 \n0 \nINCOME STATEMENT \nSales \n3 955 \n6 415 \nCosts (-) \n0 \n0 \nFinancial income \n0 \n0 \nFinancial expense (-) \n0 \n0 \nOther operating income \n0 \n0 \nOther operating expense (-) \n0 \n0 \nTOTAL INCOME STATEMENT \n3 955 \n6 415 \n11.2. SHAREHOLDERS RELATIONSHIPS \nThe following table shows IBA shareholders as at December 31, 2023: Number of shares \n% \nSustainable Anchor",
+      "similarity_score": 0.3601050121839656
+    }
+  ]
+}

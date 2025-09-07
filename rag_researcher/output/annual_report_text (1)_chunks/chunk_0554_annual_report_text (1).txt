@@ -1,12 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 554 of 1106
-SIZE: 254 characters
-PREVIOUS: chunk_0553_annual_report_text (1).txt
-NEXT: chunk_0555_annual_report_text (1).txt
-------------------------------
-Decrease of the unavailable reserve for 
-own shares for an amount of EUR -4.5 
-million (decreasing the reserve built up 
-in prior years); Decrease of an unavailable reserve for 
-an amount of EUR 0.2 million; Distribution of a dividend of EUR 5.0 
-million
+A decrease of the other provision (onerous 
+contract mainly) for EUR -1.1 million following 
+the revision of costs and synergies to be 
+reached 
+Other short-term payables at the end of 2023 
+amount to EUR 68.9 million which represents a 
+decrease of EUR -6.7 million compared to 2022. This decrease is mainly explained by the 
+decrease of non-trade payables by EUR -6.4 
+million, the decrease of other current liabilies for 
+EUR -3.8 million which includes the release of 
+the refund liability of EUR -5.0 million.

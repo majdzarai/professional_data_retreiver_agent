@@ -1,20 +1,22 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 906 of 1106
-SIZE: 680 characters
-PREVIOUS: chunk_0905_annual_report_text (1).txt
-NEXT: chunk_0907_annual_report_text (1).txt
-------------------------------
-e 4.3 for EUR 5.0 million. As 
-the performance bond was fully released at the 
-end of 2023, the amount has been recognized 
-as a revenue in the year. The non-trade payables of EUR 9.8 million 
-(2022: EUR 16.2 million) represent primarily 
-VAT due in different countries where the Group 
-operates. The significant decrease is driven by 
-a high level of customer invoices raised at the 
-end of 2022. 6. Stock options and share-based payments 
-Stock option plans launched in 2014 and 2015 
-have the following vesting scheme: 100 percent 
-vesting as at December 31, 2018 and can be 
-exercised until June 30, 2024. In 2016, 2017, 2018 and 2019, no stock option 
-plan has been launched.
+d on the project is lower than the paid invoices. Accounting policy for cash and cash equivalents 
+The Company considers all highly liquid investments with less than three months maturity from the date of acquisition to 
+be cash equivalents. === Page 155 ===
+IBA Annual Report 2023 
+152. Number of shares 
+2022 
+2023 
+As at January 1 
+30 197 420 
+30 260 920 
+Capital increase 
+63 500 
+0 
+Purchase of treasury shares 
+0 
+0 
+Disposal of treasury shares 
+0 
+0 
+As at December 31 
+30 260 920 
+30 260 920

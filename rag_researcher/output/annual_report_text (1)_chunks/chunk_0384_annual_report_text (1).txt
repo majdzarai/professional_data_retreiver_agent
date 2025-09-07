@@ -1,23 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 384 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0383_annual_report_text (1).txt
-NEXT: chunk_0385_annual_report_text (1).txt
-------------------------------
-ommend that the 
-members of the executive management team 
-(MT), considered as such by the CEO and the 
-Remuneration Committee from time to time, provide management consultancy services to 
-the 
-Company 
-through 
-an 
-independently 
-organized management company, and not 
-through an employment relationship. The Board 
-believes, together with the Belgian regulator, that the framework allowing for the executive 
-management to perform its duties i.e. under 
-Principles 2.19, 2.20, 20.21, and 2.22 of the 
-Belgian Code of Corporate Governance (2020) 
-in collegial uniformity and with the greatest 
-impa
+as the total 
+dividend paid to its shareholders. A number of 
+Profit-Sharing Points is assigned to each IBA 
+employee, proportionate to their responsibility 
+level. Managing Directors and other Executive 
+Management Team members participate to this 
+plan alongside with employees. Agreements with the Managing Directors and 
+members of the Executive Management Team 
+do contain claw-back provisions in relation to any 
+payments that would be made based on 
+erroneous financial information. Long-term Incentives (LTI) 
+IBA issues LTI usually under the form of a Stock 
+Option Plan.

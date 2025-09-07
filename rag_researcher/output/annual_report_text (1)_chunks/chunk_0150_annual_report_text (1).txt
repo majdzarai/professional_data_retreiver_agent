@@ -1,18 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 150 of 1106
-SIZE: 671 characters
-PREVIOUS: chunk_0149_annual_report_text (1).txt
-NEXT: chunk_0151_annual_report_text (1).txt
-------------------------------
-=== Page 42 ===
-ENGAGING WITH OUR SUPPLY CHAIN
-We believe that a strong and responsible supply chain benefits 
-our community. IBA has more than 100 main suppliers worldwide supporting 
-its design and product manufacturing. The majority of IBA 
-suppliers are located in Europe. IBA suppliers have been 
-selected for their ability to best comply with requirements as 
-stipulated by ISO 13485:2016. The selection and qualification 
-process of a supplier considers the criticality of the supplied 
-goods and services. IBA promotes technical collaboration 
-and innovation with its partners in order to reduce risks, costs 
-and improve the quality of its products and services.
+lowance and 
+the excellent infrastructure at IBA. Its a pleasure to cross the fields in 
+the morning and then overtake the 
+line of cars when approaching IBA. Francois, an IBA biker
+SUPPORTING EDUCATION
+While we invest heavily in training our employees, we are also 
+committed to educating young people. We believe that passing 
+on our knowledge to younger generations is vital to assuring 
+our future. Over the long term, we will continue to support partnerships 
+with NGOs, foundations and universities which will help improve 
+learning and education.

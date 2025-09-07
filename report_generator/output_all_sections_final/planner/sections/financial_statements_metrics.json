@@ -1,0 +1,42 @@
+{
+  "section_id": "financial_statements_metrics",
+  "section_title": "Financial Statements / Metrics",
+  "chapter_id": "financials",
+  "chapter_title": "Financials",
+  "description": "Income statements, balance sheets, key performance metrics.",
+  "topic": "comprehensive KYC and credit risk analysis for Ion Beam Applications SA",
+  "questions": [
+    {
+      "question": "What are the key financial metrics presented in Ion Beam Applications SA's income statements and balance sheets that indicate its revenue growth, profitability, and liquidity?",
+      "queries": [
+        "Ion Beam Applications SA income statement key performance indicators",
+        "balance sheet metrics for Ion Beam Applications SA",
+        "financial ratios for Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "How does Ion Beam Applications SA's financial situation compare to its industry peers in terms of debt-to-equity ratio, return on equity, and asset turnover?",
+      "queries": [
+        "Ion Beam Applications SA financial performance compared to industry peers",
+        "debt-to-equity ratio analysis for Ion Beam Applications SA",
+        "return on equity calculation for Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "What are the trends in Ion Beam Applications SA's key performance metrics, such as operating margin, net income margin, and cash flow margin, over a specified period?",
+      "queries": [
+        "operating margin trend analysis for Ion Beam Applications SA",
+        "cash flow margin calculation for Ion Beam Applications SA",
+        "net income margin analysis for Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "How does Ion Beam Applications SA's financial health and stability impact its creditworthiness, considering factors such as leverage, interest coverage, and cash flow generation?",
+      "queries": [
+        "credit risk assessment for Ion Beam Applications SA",
+        "leverage ratio analysis for Ion Beam Applications SA",
+        "interest coverage calculation for Ion Beam Applications SA"
+      ]
+    }
+  ]
+}

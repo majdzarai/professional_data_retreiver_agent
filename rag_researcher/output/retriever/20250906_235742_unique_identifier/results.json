@@ -1,0 +1,18 @@
+{
+  "query": "unique identifier",
+  "timestamp": "2025-09-06 23:57:42",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "ustainability approach. We \nvalue the uniqueness. We define Diversity not only as statistics, but as \nthe accumulated richness of peoples unique \nbackgrounds, lives, cultural experiences, and \nthe diversity of thought and ways of acting that \nthis brings to our workplace. We foster Inclusion by respecting individual \ndifferences and capturing the advantages that \nthis provides to drive greater impact and value in \nour work. We call it the IBA culture, in which we \ncreate an environment that helps each and every \none of us to fully contribute to IBAs success.",
+      "similarity_score": 0.2873398959636688
+    }
+  ]
+}

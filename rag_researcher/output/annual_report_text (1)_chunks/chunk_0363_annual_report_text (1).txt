@@ -1,28 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 363 of 1106
-SIZE: 694 characters
-PREVIOUS: chunk_0362_annual_report_text (1).txt
-NEXT: chunk_0364_annual_report_text (1).txt
-------------------------------
-d 34%. These targets are geared 
-towards 
-achieving 
-and 
-exceeding 
+case may be, he is an internal director as 
+well. Proposals for the appointment of "internal 
+directors" shall be submitted by the director or 
+directors 
+responsible 
+for 
 the 
-Companys fiscal year objectives and specific 
-milestones on IBAs ESG goals. The Managing Directors are not present at the 
-Board and Compensation Committee meetings 
-where their performance and variable payout 
-levels are discussed and decided. Profit Sharing Plan 
-IBAs multi-stakeholders approach includes a 
-profit-sharing plan to materialize alignment 
-between 
-employees 
-and 
-shareholders 
-interests. The payment of a dividend triggers a 
-profit-sharing plan resulting in a common view of 
-success. IBAs commitment is to distribute the 
-same amount to its employees as the total 
-dividend paid to its shareholders.
+day-to-day 
+management who shall inform the board of 
+directors of the names of the candidates to be 
+submitted to the general meeting. No director may be appointed on the proposal of 
+one or more shareholders if this proposal, containing all pieces of information regarding the 
+proposed director necessary in particular

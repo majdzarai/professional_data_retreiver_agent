@@ -1,25 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 199 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0198_annual_report_text (1).txt
-NEXT: chunk_0200_annual_report_text (1).txt
-------------------------------
-t cancer. Two Phase 
-3 trials4 in head and neck cancer have 
-completed patient recruitment in 2023, alongside 
-a multi-center trial5 for lung cancer. Results from 
-the Phase 3 trials are expected over the next 
-three years. Investing in the future of PT remains a priority for 
-IBA. December saw the announcement of a 
-research collaboration with the University of 
-Kansas Medical Center (KUMC), focused on 
-preclinical 
-research 
-in 
-the 
-use 
-of 
-ConformalFLASH6 technology. This builds on 
-the existing relationship between IBA and 
-KUMC, who had previously published a joint 
-abstract on FLASH te
+Proton Therapy (PT) order intake of EUR 
+119 million, with contracts secured for a total 
+of seven rooms globally
+
+Other Accelerators order intake of EUR 81 
+million, with 18 new sales in the period, with 
+a number of upgrades and a strong contract 
+pipeline
+
+Other Accelerators equipment revenue 
+increased by 58.2% to EUR 99.1 million, following strong backlog conversion, in 
+particular in the Industrial business

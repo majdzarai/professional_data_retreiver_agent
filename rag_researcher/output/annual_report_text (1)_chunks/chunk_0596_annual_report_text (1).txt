@@ -1,43 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 596 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0595_annual_report_text (1).txt
-NEXT: chunk_0597_annual_report_text (1).txt
-------------------------------
-(EUR 000) 
-Note 
-December 31, 2022 
-December 31, 2023 
-CASH FLOW FROM OPERATING ACTIVITIES 
-Net profit/(loss) for the period 
-6 057 
--9 110 
-Adjustments for: Depreciation of tangible assets 
-8, 23.1 
-8 989 
-9 774 
-Depreciation and impairment of intangible assets 
-7.2 
-1 722 
-1 747 
-Write-off on receivables 
-14.1 
--749 
-457 
-Changes in fair value of financial assets (profits)/losses 
--3 591 
-654 
-Changes in provisions 
-19 
-6 143 
-2 074 
-Deferred taxes 
-10 
--11 244 
-1 898 
-Share of result of associates and joint ventures accounted for using the equity 
-method 
-9.1 
--3 
-169 
-Other non-cash items
+ial risks in close cooperation with the 
+Company. More details on the management of financial 
+risks are available in the chapter FINANCIAL 
+RISKS (ARTICLES 3: 6, 1, 8 AND 3:32, 1, 5, OF THE BCAC) of the consolidated financial 
+statements, see page 162. Significants acquisitions and divestments in 
+2023 
+In Febrary 2023, the group acquired Fluidomica 
+LD.A. This entity produces Target Solutions for 
+Medical Radioisopes Market. IBA also acquired a minority stake in Invest.BW 
+S.A, a venture capital partner supporting the 
+economic development in the Walloon Region.

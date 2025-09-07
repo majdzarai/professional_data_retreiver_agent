@@ -1,9 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1092 of 1106
-SIZE: 289 characters
-PREVIOUS: chunk_1091_annual_report_text (1).txt
-NEXT: chunk_1093_annual_report_text (1).txt
-------------------------------
-op which through its ability to fix atmospheric nitrogen, plays an essential role in emissions reduction, soil fertilization and yield 
-preservation. This year, it's 21 farmers cultivating 1,128 ha of legumes and having reduced or sequestered 2,000T of CO2e who have been supported 
-by IBA
+holders 
+of the Company held on March 10, 2020, article 
+3 of the Articles of association has been 
+amended to add the following two paragraphs: The Company's objectives include having, in the course of its activities, a significant 
+positive impact on all of its stakeholders, notably patients, shareholders, employees, customers, society and the planet. The Company is managed taking into 
+account the interests of these stakeholders, respecting living beings and present and 
+future generations, and reducing as much 
+as possible negative environmental and 
+societal impacts.

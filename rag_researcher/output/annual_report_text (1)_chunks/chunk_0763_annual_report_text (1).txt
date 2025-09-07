@@ -1,16 +1,21 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 763 of 1106
-SIZE: 497 characters
-PREVIOUS: chunk_0762_annual_report_text (1).txt
-NEXT: chunk_0764_annual_report_text (1).txt
-------------------------------
-=== Page 140 ===
-IBA Annual Report 2023 
-137. position(EUR 26.9 million on accumulated tax 
-losses and EUR 12.6 million on temporary 
-differences) mainly due to the uncertainty of 
-future taxable profit to use these against in the 
-future. Tax losses and corresponding temporary 
-differences have no expiry dates. Accounting policy on taxes 
-Current income taxes: Management is not expecting that the requirements of Pillar II will be applicable to IBA Group as the turnover threshold is 
-not met.
+4.3.1 Contract assets and contract liabilities 
+Contracts in progress have the following balances at the end of the year: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Costs to date and recognized revenue 
+383 734 
+393 154 
+Less: progress billings 
+-344 343 
+-354 710 
+Contracts assets 
+39 391 
+38 444 
+Contract liabilities 
+-296 219 
+-283 489 
+Net amounts on contracts in progress 
+-256 828 
+-245 046 
+Amounts invoiced on contracts in progress but for which payment has not yet 
+been received at

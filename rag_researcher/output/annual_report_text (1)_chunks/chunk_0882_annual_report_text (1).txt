@@ -1,38 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 882 of 1106
-SIZE: 247 characters
-PREVIOUS: chunk_0881_annual_report_text (1).txt
-NEXT: chunk_0883_annual_report_text (1).txt
-------------------------------
-/losses generated during the year 
-0 
-0 
-0 
-1 068 
-0 
-0 
-1 068 
-Currency translation difference 
-0 
--22 
-0 
--3 
--31 
--114 
--170 
-Total movement 
-5 
-586 
--140 
-361 
-210 
--1 118 
--96 
-As at December 31, 2023 
-123 
-6 829 
-0 
-3 087 
-942 
-4 049 
-15 030
+products 
+3 219 
+3 768 
+Work in progress 
+8 285 
+11 080 
+Write-off of inventories (-) 
+-12 280 
+-14 563 
+Inventories and work in progress 
+101 017 
+130 545

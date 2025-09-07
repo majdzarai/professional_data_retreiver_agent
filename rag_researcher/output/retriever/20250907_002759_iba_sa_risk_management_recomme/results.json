@@ -1,0 +1,18 @@
+{
+  "query": "IBA SA risk management recommendations",
+  "timestamp": "2025-09-07 00:27:59",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "anys risk management in the relevant risk \nareas. IBA \nhas \ndesigned \nits \nEnterprise \nRisk \nManagement based on the ERM Integrated \nframework (2017) established by the Committee \nof Sponsoring Organizations of the Treadway \nCommission (COSO). IBA \nis \ncontinuously \nimproving \nits \nrisk \nmanagement process and regularly assesses \nchanges that could affect its strategy and \nobjectives, including strategic, financial, human \nand environmental. Our quality management \nsystem is ISO9001, ISO13485, MDD and \nMDSAP certified. We are audited once a year by \nour Notified Body.",
+      "similarity_score": 0.42717207719297967
+    }
+  ]
+}

@@ -1,23 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 331 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0330_annual_report_text (1).txt
-NEXT: chunk_0332_annual_report_text (1).txt
-------------------------------
-to its owner. No classes of shares 
-have been created. ii) Legal restrictions or restrictions included 
-in the companys articles of association, on the transfer of shares 
-There are no restrictions on the transfer of the 
-Companys shares. iii) Owners of any securities conveying 
-specific 
-controlling 
-rights 
-and 
-a 
-description of such rights 
-The Company has not issued any securities that 
-convey any specific controlling right to their 
-owner. iv) All significant agreements to which the 
-issuer is a party and which are contingent 
-to a change of control following a public 
-takeover bid unles
+s. This enables 
+the risks to be managed closely. The risks 
+identified are transmitted up to the Management 
+Team which reports to the Audit Committee and 
+develops an appropriate solution, in conjunction 
+with the Audit Committee and the appropriate 
+departments in the organization. As of December 31, 2023, the Audit Committee 
+was comprised of three members: Consultance 
+Marcel Miller SCS, represented by its permanent 
+representative 
+Mr. Marcel 
+Miller, Nextstepefficiency SAS, represented by its 
+permanent representative Mrs. Christine Dubus 
+and Dr. Richard A. Hausmann.

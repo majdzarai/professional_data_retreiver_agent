@@ -1,18 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 345 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0344_annual_report_text (1).txt
-NEXT: chunk_0346_annual_report_text (1).txt
-------------------------------
-urposes of this Article 12, the 
-expression "related" company or person must be 
-construed within the meaning of section 1:20, 1 
-and 2, of the BCAC. Proposals for the appointment of "independent 
-directors" and "other directors" are made by the 
-nominating committee formed within the board of 
-directors. This committee is composed of five 
-members, including three internal directors and 
-two independent directors. In addition, none of 
-the directors defined in indent 1, (d) of this Article 
-12 may be a member of this committee, unless, as the case may be, he is an internal director as 
-well.
+the law, and the 2020 Corporate 
+Governance Code. The Board and the Nomination Committee fully 
+acknowledge the benefits of diversity among 
+employees, within the Executive Management 
+Team, and within the Board of Directors. As of December 31, 2023, more than one third 
+of the directors are of the other gender which 
+means 
+that 
+the 
+Company 
+meets 
+the 
+requirements on gender diversity. The age distribution within the management 
+team is quite broad, indicating a fair and 
+balanced 
+value 
+between 
+said 
+members.

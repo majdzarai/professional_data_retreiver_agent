@@ -1,21 +1,34 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 889 of 1106
-SIZE: 632 characters
-PREVIOUS: chunk_0888_annual_report_text (1).txt
-NEXT: chunk_0890_annual_report_text (1).txt
-------------------------------
-end of warranty 
-periods. Utilizations of warranty provisions in 
-relation to Proton therapy and other 
-accelerators amounting to EUR -1.1 
-million 
-5.11.1 Defined employee benefit 
-In Belgium, the Group operates a contribution-
-based plan funded through payments to an 
-insurance company. The employer guarantees a 
-minimum return on employer contributions 
-resulting in a financial risk to be borne by the 
-Group. Since January 1, 2016, the Group uses the 
-projected unit credit method. In India, the Group also operates a defined 
-benefit pension plan, for which the benefit liability 
-is EUR 0.1 million as at December 31, 2023.
+short term deposits 
+11 138 
+309 
+Other current receivables 
+2 090 
+3 713 
+Other short-term receivables 
+81 922 
+57 378 
+Prepaid expenses 
+5 724 
+6 029 
+Research tax credit 
+2 247 
+2 028 
+Other short-term assets 
+7 971 
+8 057 
+TOTAL Current trade and other receivable and 
+201 542 
+173 011 
+Non-current 
+Long-term receivables on contracts in progress 
+436 
+355 
+Subordinated loan to NHA 
+1 520 
+1 520 
+Convertible loan to Pantera 
+0 
+1 000 
+Subordinated bond to proton therapy customers 
+4 688 
+4 525

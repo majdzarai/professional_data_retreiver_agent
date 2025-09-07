@@ -1,25 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 401 of 1106
-SIZE: 290 characters
-PREVIOUS: chunk_0400_annual_report_text (1).txt
-NEXT: chunk_0402_annual_report_text (1).txt
-------------------------------
-7.179 
-585.948 
-879.883 
-866.345 
-779.304 
-Annual target remuneration (fixed + variable) 
-1.779.687 
-1.772.049 
-1.776.116 
-1.928.453 
-2.245.273 
-Annual actual remuneration (fixed + variable) 
-1.453.972 
-1.686.606 
-1.983.154 
-2.070.730 
-2.117.461 
-b) Annual evolution of company 
-performance
+ubus) 
+2020 
+GAM 2024 
+None 
+None 
+Dr. Richard A. Hausmann 
+2020 
+GAM 2024 
+None 
+None 
+Bridging for Sustainability 
+SRL, represented by Sybille 
+van den Hove 
+2015 
+GAM 2026 
+None 
+None

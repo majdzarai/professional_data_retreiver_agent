@@ -1,28 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 283 of 1106
-SIZE: 598 characters
-PREVIOUS: chunk_0282_annual_report_text (1).txt
-NEXT: chunk_0284_annual_report_text (1).txt
-------------------------------
-asures are tested periodically to ensure their 
-effectiveness. The maintenance of the IT 
-systems is an integral part of the IT departments 
-mission. Accounting 
-and 
-financial 
-information 
-are 
-communicated to Management monthly in the 
-form of reports from the management controllers 
-and consolidated financial statements. This 
-information is provided directly to division 
-presidents and financial management. The 
-annual accounts, budget, strategic plan, and 
-follow-up on investments and treasury are 
-presented to the Audit Committee before being 
-submitted 
-to 
-the 
-Board 
-of 
-Directors.
+s during its meeting held on 18th 
+December 2020. The Charter may be updated 
+from time to time as governance of the Company 
+evolves. According to section 3:6, 2, 2, of the BCAC, IBA reports that it deviates from principle 5.3/1 of 
+the 2020 Belgian Corporate Governance Code, which states that the Nomination Committee 
+should be composed of a majority of non-
+executive, independent, directors. The 
+explanation for such a deviation is that IBA has 
+a particular shareholder structure to preserve 
+and secure its anchorage in Belgium.

@@ -1,19 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1063 of 1106
-SIZE: 431 characters
-PREVIOUS: chunk_1062_annual_report_text (1).txt
-NEXT: chunk_1064_annual_report_text (1).txt
-------------------------------
-3-1 
-Management of material topics 
-p40 AR2023 A committed company / planet 
-p84 AR2023 Management report / corporate governance statement / codes of 
-conduct / environmental matters 
-303-1 
-Interactions with water as a shared resource 
-p40 AR2023 A committed company / planet 
-p193 AR2023 GRI appendix 303-3 / water withdrawal 
-303-3 
-Water withdrawal 
-p193 AR2023 GRI appendix 303-3 / water withdrawal 
-GRI 304 BIODIVERSITY v2016
+rial misstatement, whether due to fraud or error. In preparing the consolidated accounts, the board of directors is responsible for assessing the Groups 
+ability to continue as a going concern, disclosing, as applicable, matters related to going concern and 
+using the going concern basis of accounting unless the board of directors either intends to liquidate 
+the Group or to cease operations, or has no realistic alternative but to do so.

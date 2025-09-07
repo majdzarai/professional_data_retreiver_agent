@@ -1,12 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 485 of 1106
-SIZE: 285 characters
-PREVIOUS: chunk_0484_annual_report_text (1).txt
-NEXT: chunk_0486_annual_report_text (1).txt
-------------------------------
-that the 
-technical screening criteria are met. Hence, for 
-these taxonomy-eligible activities, IBA currently 
-deems them to be not taxonomy-aligned. Operational expenditure 
-In 2023, IBA taxonomy-eligible operational 
-expenditure relates to: bike lease program (taxonomy category 6.4)
+t 
+would be contrary to IBAs Human Rights policy. In the event of a denunciation to the IBA, the 
+latter will promptly take appropriate measures: i) 
+to bring the situation back into conformity with 
+human rights, and ii) to prevent the repetition of 
+such a violation. IBA is continuously assessing its suppliers to 
+ensure that their activities do not contribute to 
+the infringement of Human Rights. This 
+assessment is dependent on the nature of the 
+services that are required from the supplier and 
+on the geographical location of this supplier.

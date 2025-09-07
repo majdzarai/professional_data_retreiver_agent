@@ -1,17 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 947 of 1106
-SIZE: 562 characters
-PREVIOUS: chunk_0946_annual_report_text (1).txt
-NEXT: chunk_0948_annual_report_text (1).txt
-------------------------------
-iabilities. In 2023, a gain of EUR 0.5 million (2022: loss of 
-EUR 6.6 million) on these instruments was 
-therefore recorded in the income statement. Hedge-accounted derivative financial 
-instruments 
-IBA assesses the hedge effectiveness through 
-a critical terms match between the hedged item 
-(future probable cash flows) and the hedging 
-instrument including amount and maturity. Some limited ineffectiveness may however 
-arise when actual timing of cash flows differs 
-from the initial expectation and the hedging 
-position has to be rolled-over as a result.
+The employee benefit provisions have been 
+calculated based on the following assumptions: At December 31, 2022: Discount rate: 3.75%
+
+Retirement age: 66 
+The impact on the benefit liability of the fluctuation of the discount rate is as follows: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Discount rate 0.25% increase 
+-2 006 
+-2 274 
+Discount rate applied 
+-2 663 
+-3 021 
+Discount rate 0.25% decrease 
+-3 259 
+-3 800

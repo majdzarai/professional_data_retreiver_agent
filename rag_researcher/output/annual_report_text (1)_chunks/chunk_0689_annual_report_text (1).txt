@@ -1,68 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 689 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0688_annual_report_text (1).txt
-NEXT: chunk_0690_annual_report_text (1).txt
-------------------------------
-REBITDA 
-18 443 
-3 128 
-21 571 
-0 
-21 571 
-Financial position 
-Non-current assets 
-99 932 
-23 218 
-123 150 
-0 
-123 150 
-Current assets 
-478 157 
-22 319 
-500 476 
-0 
-500 476 
-Segment assets 
-578 089 
-45 537 
-623 626 
-0 
-623 626 
-Investments accounted for using the equity method 
-273 
-- 
-273 
-0 
-273 
-TOTAL ASSETS 
-578 362 
-45 537 
-623 899 
-0 
-623 899 
-Non-current liabilities 
-43 541 
-3 235 
-46 776 
-0 
-46 776 
-Current liabilities 
-449 700 
-11 472 
-461 172 
-0 
-461 172 
-Segment liabilities 
-493 241 
-14 707 
-507 948 
-0 
-507 948 
-TOTAL LIABILITIES 
-493 241 
-14 707 
-507 948 
-0 
-507 948 
-Other segment
+Inventory which is being consumed in the 
+maintenance project as needed, and for 
+which obsolescence has been evaluated 
+considering the expected future spare parts 
+needs of the site. Given that all parts are 
+considered 
+as 
+recommended 
+to 
+be 
+available 
+on 
+a 
+maintenance 
+site, Management did not identify excessive 
+inventory levels for which additional write off 
+should be recognised. Trade receivable: there are no large 
+overdue balances requiring expected credit 
+loss allowances and cus

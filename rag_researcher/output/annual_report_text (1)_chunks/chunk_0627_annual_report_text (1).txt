@@ -1,13 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 627 of 1106
-SIZE: 396 characters
-PREVIOUS: chunk_0626_annual_report_text (1).txt
-NEXT: chunk_0628_annual_report_text (1).txt
-------------------------------
-Amendment to IAS 21 the Effects of 
-Changes in Foreign Exchange Rates, effective 1 January 2025 
-Amendments to IAS 1 classification of 
-liabilities as current or non-current and 
-Non-Current Liabilities with Covenants 
-The amendments clarify the requirements for 
-classifying liabilities as current or non-current. In specific, the amendments clarify: What is meant by a right to defer settlement
+elated to net investment in foreign operation 
+185 
+981 
+- Net movement on cash flow hedges 
+7.4.1. 38 
+5 057 
+Net other comprehensive income to be reclassified to profit or loss in 
+subsequent periods 
+768 
+8 489 
+Other comprehensive income not to be reclassified to profit or loss in 
+subsequent periods (net of tax): - Revaluation at fair value of other investments 
+5.5. -10 422 
+-2 904 
+- Remeasurement gain/(loss) on defined benefit plans 
+5.11.1 
+3 548 
+-1 067 
+Net other comprehensive income

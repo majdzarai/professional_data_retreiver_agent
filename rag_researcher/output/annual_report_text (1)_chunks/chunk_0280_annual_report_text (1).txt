@@ -1,18 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 280 of 1106
-SIZE: 509 characters
-PREVIOUS: chunk_0279_annual_report_text (1).txt
-NEXT: chunk_0281_annual_report_text (1).txt
-------------------------------
-ssets, based on an 
-approval matrix; Long-term contracts and partnership contracts; Treasury, financing and financial instruments; Supervision 
-of 
-signatory 
-powers 
-and 
-delegation of local authority; Capital operations; Provisions and commitments. The procedures for establishing the financial 
-statements of the Group are applicable to all the 
-units within the scope of consolidation. The 
-results of audits conducted by local external 
-auditors are shared directly with the Groups 
-financial department.
+BCAC, IBAs Board of Directors reports that: Mrs. Christine 
+Dubus 
+(representing 
+Nextstepefficiency SRL), chairwoman of the 
+Audit Committee since August 24, 2020, member of the Audit Committee and Board 
+member since August 24, 2020, is also 
+Executive Director at Credit Mutuel Equity, a 
+subsidiary of Credit Mutuel Alliance Federalee. Previously an audit partner at a leading 
+international firm, she has extensive experience 
+in all financial matters including group financial 
+reporting, working 
+capital 
+management, transversal finance transformation programs, and efficiency tracking.

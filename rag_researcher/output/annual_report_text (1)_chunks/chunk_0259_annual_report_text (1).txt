@@ -1,16 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 259 of 1106
-SIZE: 516 characters
-PREVIOUS: chunk_0258_annual_report_text (1).txt
-NEXT: chunk_0260_annual_report_text (1).txt
-------------------------------
-tatutory accounts published and established in 
-compliance with accounting principles applicable 
-in Belgium), which was met as of December 31, 2023. The financial covenants applying to the 
-syndicated bank facilities consist in (a) a 
-maximum net leverage ratio (calculated as the 
-consolidated net senior indebtedness divided by 
-the consolidated REBITDA over the last 12 
-months) and (b) a minimum corrected equity 
-level (calculated as the sum of the consolidated 
-equity- with certain reclassifications- and the
+gically, further authorizations may be 
+required. Financial risks (sections 3:6, 1, 8 and 3:32, 1, 5, of the BCAC) 
+More details regarding section 3:6, 1, 8, and 
+3:32, 1, 5 of the BCAC is provided, where 
+appropriate, in 
+the 
+section 
+Financial 
+Instruments of this annual report, see page 162. The Groups overall financial risk management 
+program seeks to minimize potential adverse 
+effects arising from the unpredictability of 
+financial markets on the Groups financial 
+performance. To this effect, the Group uses 
+derivative financial instruments to hedge certain 
+risk exposures.

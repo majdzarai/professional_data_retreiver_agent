@@ -1,21 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 209 of 1106
-SIZE: 614 characters
-PREVIOUS: chunk_0208_annual_report_text (1).txt
-NEXT: chunk_0210_annual_report_text (1).txt
-------------------------------
-nd astatine-211 (211At). IBA and SCK CENs joint venture, PanTera, continued to progress its plans for the expansion 
-of 225Ac production during 2023. In June, a 
-strategic 
-partnership 
-was 
-agreed 
-with 
-TerraPower Isotopes, to initiate the small-scale 
-production of 225Ac for clinical trials in 2024, with a view to develop large-scale supply of the 
-radioisotope over the longer term. Post-period 
-end saw PanTera reach a capacity reservation 
-agreement with Bayer and another undisclosed 
-customer, both initiating in the second half of 
-2024 and the company is working actively on 
-several more partnerships.
+er, and advanced or 
+unresectable pelvic tumors2. Moreover, in the 
+United States, major insurance providers such 
+as AETNA, also expanded their authorized 
+indications to now include esophageal cancer 
+and primary central nervous system tumors, as 
+well as malignancies in patients under 21, amongst others3. There are a range of ongoing clinical studies 
+using PT, including in head and neck, esophageal, lung and breast cancer. Two Phase 
+3 trials4 in head and neck cancer have 
+completed patient recruitment in 2023, alongside 
+a multi-center trial5 for lung cancer.

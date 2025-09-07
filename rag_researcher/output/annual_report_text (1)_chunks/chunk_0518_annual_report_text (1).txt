@@ -1,12 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 518 of 1106
-SIZE: 259 characters
-PREVIOUS: chunk_0517_annual_report_text (1).txt
-NEXT: chunk_0519_annual_report_text (1).txt
-------------------------------
-The short-term borrowing have increased by 
-EUR 2.7 million, due to an administrative 
-delay processing the reimbursement of the 
-S.R.IW loans on the closing date. Short-
-term borrowings of EUR 6.5 million at the 
-end of 2023 include the short-term portion of
+A.1 Environmentally sustainable activities (Taxonomy-aligned) 
+Turnover of environmentally 
+sustainable activities 
+(Taxonomy-aligned) (A.1)
+
+A.2 Taxonomy-Eligible but not environmentally sustainable activities 
+Turnover of Taxonomy-eligible 
+but not environmentally 
+sustainable activities (not 
+Taxonomy-aligned activities) 
+(A.2)

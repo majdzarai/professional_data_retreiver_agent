@@ -1,20 +1,20 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 298 of 1106
-SIZE: 668 characters
-PREVIOUS: chunk_0297_annual_report_text (1).txt
-NEXT: chunk_0299_annual_report_text (1).txt
-------------------------------
-discussion include market 
-situation, strategy, technological developments, financial 
-developments, human 
-resources 
-management and sustainability. Reports on topics dealt with at Board meetings 
-are sent to the directors beforehand so that they 
-can exercise their duties with full knowledge of 
-the facts. During the financial year 2023, the Board of 
-Directors met 5 times on the occasion of regular 
-board meetings - under the chairmanship of Mr. Pierre Mottet -, once for the Sustainability Board 
-meeting, and once for the Product Committee 
-meeting. Attendance at meetings of the Board 
-was very high. A large majority of the directors 
-attended all meetings.
+an integral part of the IT departments 
+mission. Accounting 
+and 
+financial 
+information 
+are 
+communicated to Management monthly in the 
+form of reports from the management controllers 
+and consolidated financial statements. This 
+information is provided directly to division 
+presidents and financial management. The 
+annual accounts, budget, strategic plan, and 
+follow-up on investments and treasury are 
+presented to the Audit Committee before being 
+submitted 
+to 
+the 
+Board 
+of 
+Directors.

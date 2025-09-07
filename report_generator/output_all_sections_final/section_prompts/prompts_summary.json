@@ -1,0 +1,133 @@
+{
+  "topic": "comprehensive KYC and credit risk analysis for Ion Beam Applications SA",
+  "total_sections": 21,
+  "generated_prompts": {
+    "aml_issues": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\aml_issues_prompt.json",
+      "section_title": "AML Issues",
+      "chapter_title": "Risk Factors",
+      "questions_count": 4
+    },
+    "auditors_report": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\auditors_report_prompt.json",
+      "section_title": "Auditors' Report",
+      "chapter_title": "Financials",
+      "questions_count": 4
+    },
+    "company_overview": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\company_overview_prompt.json",
+      "section_title": "Company Overview",
+      "chapter_title": "Introduction / Background",
+      "questions_count": 3
+    },
+    "compliance_assessment": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\compliance_assessment_prompt.json",
+      "section_title": "Compliance Assessment",
+      "chapter_title": "Risk Factors",
+      "questions_count": 4
+    },
+    "conclusion": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\conclusion_prompt.json",
+      "section_title": "Conclusion",
+      "chapter_title": "Conclusion",
+      "questions_count": 4
+    },
+    "corporate_structure": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\corporate_structure_prompt.json",
+      "section_title": "Corporate Structure / Group Chart",
+      "chapter_title": "Corporate Structure / Group Chart",
+      "questions_count": 4
+    },
+    "credit_rating_health": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\credit_rating_health_prompt.json",
+      "section_title": "Credit Rating & Financial Health",
+      "chapter_title": "Financials",
+      "questions_count": 4
+    },
+    "esg_targets": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\esg_targets_prompt.json",
+      "section_title": "ESG Targets",
+      "chapter_title": "ESG (Environmental, Social, Governance)",
+      "questions_count": 5
+    },
+    "external_esg_rating": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\external_esg_rating_prompt.json",
+      "section_title": "External ESG Ratings",
+      "chapter_title": "ESG (Environmental, Social, Governance)",
+      "questions_count": 4
+    },
+    "financial_fraud": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\financial_fraud_prompt.json",
+      "section_title": "Financial Fraud",
+      "chapter_title": "Risk Factors",
+      "questions_count": 4
+    },
+    "financial_statements_metrics": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\financial_statements_metrics_prompt.json",
+      "section_title": "Financial Statements / Metrics",
+      "chapter_title": "Financials",
+      "questions_count": 4
+    },
+    "geographical_market": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\geographical_market_prompt.json",
+      "section_title": "Geographical Market & Coverage",
+      "chapter_title": "Business Activities",
+      "questions_count": 3
+    },
+    "industry": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\industry_prompt.json",
+      "section_title": "Industry",
+      "chapter_title": "Business Activities",
+      "questions_count": 4
+    },
+    "market_share": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\market_share_prompt.json",
+      "section_title": "Market Share",
+      "chapter_title": "Business Activities",
+      "questions_count": 5
+    },
+    "operations": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\operations_prompt.json",
+      "section_title": "Operations",
+      "chapter_title": "Business Activities",
+      "questions_count": 4
+    },
+    "recent_developments": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\recent_developments_prompt.json",
+      "section_title": "Recent Developments",
+      "chapter_title": "Recent Developments",
+      "questions_count": 3
+    },
+    "references": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\references_prompt.json",
+      "section_title": "References",
+      "chapter_title": "References",
+      "questions_count": 4
+    },
+    "risk_factors_operational": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\risk_factors_operational_prompt.json",
+      "section_title": "Operational Risk Factors",
+      "chapter_title": "Business Activities",
+      "questions_count": 4
+    },
+    "sector": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\sector_prompt.json",
+      "section_title": "Sector",
+      "chapter_title": "Business Activities",
+      "questions_count": 5
+    },
+    "share_price": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\share_price_prompt.json",
+      "section_title": "Share Price",
+      "chapter_title": "Financials",
+      "questions_count": 5
+    },
+    "suppliers_customers": {
+      "prompt_file": "output_all_sections_final\\section_prompts\\prompts\\suppliers_customers_prompt.json",
+      "section_title": "Suppliers & Customers",
+      "chapter_title": "Business Activities",
+      "questions_count": 3
+    }
+  },
+  "output_directory": "output_all_sections_final\\section_prompts"
+}

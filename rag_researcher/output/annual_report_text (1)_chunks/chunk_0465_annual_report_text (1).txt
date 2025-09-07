@@ -1,20 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 465 of 1106
-SIZE: 530 characters
-PREVIOUS: chunk_0464_annual_report_text (1).txt
-NEXT: chunk_0466_annual_report_text (1).txt
-------------------------------
-nsibility 
-standards. This prestigious label, internationally 
-recognized as one of the most comprehensive 
-and demanding in its field, attests to IBA's 
-effective commitment to objectives that are 
-aimed at both the collective interest and 
-shareholder 
-profit. The 
-performance 
-is 
-particularly remarkable for an international 
-industrial company of IBA's size. The B Corp certification process covered all of 
-IBA's activities and assessed five main areas of 
-impact: governance, workers, community, environment and customers.
+, manufacturing processes, waste, and 
+emissions. Upstream, the IBAs Articles of Associations now 
+specify in article 3 (.) The Company's 
+objectives include having, in the course of its 
+activities, a significant positive impact on all of its 
+stakeholders, notably patients, shareholders, employees, customers, society and the planet. The Company is managed taking into account 
+the interests of these stakeholders, respecting 
+living beings and present and future generations, and reducing as much as possible negative 
+environmental and societal impacts.

@@ -1,17 +1,62 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 832 of 1106
-SIZE: 585 characters
-PREVIOUS: chunk_0831_annual_report_text (1).txt
-NEXT: chunk_0833_annual_report_text (1).txt
-------------------------------
-on Brabant, as a venture capital partner 
-InvestBW is an investment fund representing 
-equity and subordinated or convertible loan to 
-entrepreneurs. Although it is presumed that, with 25% of the shares, IBA has a significant 
-influence over InvestBW, we have rebutted the 
-significant influence on the basis that IBA 
-currently has made the choice to not participate 
-in the decision making process of InvestBW. The investment is accounted for as an equity 
-investment financial asset under IFRS9, at fair 
-value and gains and losses will be recognised 
-in Other Comprehensive Income.
+0 
+-2 148 
+Transfers 
+69 
+0 
+37 
+0 
+121 
+0 
+-227 
+0 
+Gross carrying amount of assets 
+acquired in business combinations 
+0 
+0 
+52 
+0 
+105 
+0 
+0 
+157 
+Currency translation difference 
+21 
+207 
+58 
+0 
+90 
+9 
+0 
+385 
+Gross carrying amount as at 
+December 31, 2022 
+22 730 
+32 606 
+17 631 
+25 
+14 981 
+10 157 
+1 145 
+99 275 
+Accumulated depreciation as at 
+January 1, 2022 
+10 640 
+7 400 
+13 065 
+8 
+11 018 
+3 571 
+0 
+45 702 
+Additions 
+903 
+3 215 
+1 256 
+3 
+1 103 
+2 511 
+0 
+8 991 
+Disposals 
+-6 
+-461

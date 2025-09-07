@@ -1,13 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 136 of 1106
-SIZE: 587 characters
-PREVIOUS: chunk_0135_annual_report_text (1).txt
-NEXT: chunk_0137_annual_report_text (1).txt
-------------------------------
-ion. Through collective intelligence initiatives, voluntary 
-employees get involved into the development of IBA 
-beyond their day-to-day work perimeter such as strategy, management, or specific initiatives like eco-design, biodiversity 
-improvement, volunteering policy, or green mobility. A group 
-of collective intelligence facilitators are trained and prepared 
-to enhance team collaboration through tailored sessions, fostering seamless information exchange. We also partner with external organizations such as Passwerk 
-to leverage opportunities to make our business more inclusive.
+I am really grateful for the welcome 
+you all have given me at IBA, and for 
+this collaboration which is for my 
+part positive and fulfilling. Thanks 
+for the trust you have placed in me. Passwerk Consultant

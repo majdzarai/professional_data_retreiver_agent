@@ -1,27 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 846 of 1106
-SIZE: 239 characters
-PREVIOUS: chunk_0845_annual_report_text (1).txt
-NEXT: chunk_0847_annual_report_text (1).txt
-------------------------------
-s not at risk 
--785 
--933 
--161 
--44 704 
--46 584 
-Provision for credit loss recognised at 
-December 31, 2023 
-304 
-134 
-185 
-3 116 
-3 739 
-Trade receivable, net of credit loss allowances 
-30 374 
-26 168 
-4 053 
-2 000 
-277 
-44 704 
-107 576
+=== Page 146 ===
+IBA Annual Report 2023 
+143. 5.3. IMPAIRMENT OF ASSETS 
+IBA does not have tangible nor intangible 
+assets with indefinite useful life, other than 
+goodwill. Despite 
+the 
+macro-economic 
+conditions and other events of the year 
+described in Note 2, IBA did not identify any 
+indication of impairment on assets in 2023 and 
+2022 financial years. 5.3.1 Goodwill impairment 
+testing: The goodwill recognised on the acquisition of 
+Modus Medical Devices Inc, relates to the 
+Dosimetry bu

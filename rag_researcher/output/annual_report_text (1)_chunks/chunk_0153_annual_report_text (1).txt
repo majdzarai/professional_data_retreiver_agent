@@ -1,16 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 153 of 1106
-SIZE: 625 characters
-PREVIOUS: chunk_0152_annual_report_text (1).txt
-NEXT: chunk_0154_annual_report_text (1).txt
-------------------------------
-ers. Since 2023, we partner with Ecovadis to map the social 
-and environmental performance of our supply chain and screen 
-our main Tier 1 suppliers. SUPPORTING PATIENT ORGANIZATIONS
-Around the world, IBAs men and women, all experts in their 
-field, are passionate and enthusiastic about what they do. They 
-collectively seek to play an active role in putting our mission 
-statement into practice, Protect, Enhance and Save Lives. They help each patient have access to the most beneficial 
-treatment for their cancer, and they bring more efficient 
-and more environmentally friendly industrial technologies 
-to our customers.
+ty at large, and of attracting new talent to IBA. And, since 2021, we support YouthStart, an association 
+which every year trains more than 1,000 young people not in 
+Education, Employment or Training (NEETs), preparing them 
+to enter the professional world. YouthStart, an association which every year trains young people not in Education, Employment or Training (NEETs). Watch the video: Hera sponsoring. 38
+IBA
+CORPORATE BROCHURE 2024

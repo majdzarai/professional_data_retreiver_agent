@@ -1,18 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1060 of 1106
-SIZE: 414 characters
-PREVIOUS: chunk_1059_annual_report_text (1).txt
-NEXT: chunk_1061_annual_report_text (1).txt
-------------------------------
-203-2 
-Significant indirect economic impacts 
-p80 AR2023 Management report / corporate governance statement / codes of 
-conduct / policy and targets 
-p7 AR2023 Patient care, what makes our heart beat 
-205-3 
-Confirmed incidents of corruptions and 
-actions taken 
-p51 AR2023 Management report / principal risks and uncertainties faced by the 
-company 
-GRI 2016 
-p45 AR2023 Management report / highlights of the year
+3 of 6 
+Based on our audit procedures, we believe that management's estimates used for revenue recognition 
+are based on reasonable assumptions. The accounting policies applied are compliant in all material 
+respects with IFRS as adopted by the European Union. Other matter

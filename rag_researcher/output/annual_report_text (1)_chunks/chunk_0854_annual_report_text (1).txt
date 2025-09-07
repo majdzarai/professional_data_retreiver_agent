@@ -1,11 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 854 of 1106
-SIZE: 654 characters
-PREVIOUS: chunk_0853_annual_report_text (1).txt
-NEXT: chunk_0855_annual_report_text (1).txt
-------------------------------
-the last two years: Accounting policy for trade and other receivables 
-Trade and other receivables are held by IBA to collect the related cash flows. Trade receivables, other receivables and 
-prepayment are measured at initial recognition at fair value and are subsequently measured at amortised cost using the 
-effective interest rate method less impairment losses. Most of the time, the discounting impact is not significant and receivables are therefore measured at nominal value. In calculating, the expected credit loss, the Group uses an allowance matrix based on ageing balances adjusted for forward-
-looking factors linked to a specific customer.
+rom IBA and IP in kind as described 
+in Note 2.4. The gain on this transation has been 
+recognised only to the extent of unrelated 
+investors interests, being 50%, against Other 
+operating income for EUR 2.2 million. Accounting policy for impairment of assets 
+As the Group does not carry any intangible asset with an indefinite useful life, IBA is only testing the goodwill 
+recognised on business combinations annually for impairment, after the latest strategic plan has been approved by 
+Management.

@@ -1,15 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 107 of 1106
-SIZE: 636 characters
-PREVIOUS: chunk_0106_annual_report_text (1).txt
-NEXT: chunk_0108_annual_report_text (1).txt
-------------------------------
-=== Page 31 ===
-Protect, enhance and save lives 
-by enabling INDEPENDENT 
-QUALITY ASSURANCE
-The priority of IBA in its dosimetry activity is to ensure that patients 
-receive a safe, accurate and reliable diagnosis and treatment. In medical imaging and radiotherapy, radiation must be used 
-with great caution and precision. The prescribed dose (expressed in Gray [Gy]) must be rigorously 
-respected, both in terms of intensity and location. Patient lives, their safety and the success of their treatment depend upon it. In medical imaging, the objective is to reduce patient exposure 
-to radiation, while maintaining good image quality.
+on therapy delivery technique 
+called DynamicARC. This technique allows dynamic spot-
+scanning irradiation and energy switching while the gantry 
+is rotating. It offers the advantages of Pencil Beam Scanning 
+(PBS), the advanced characteristic of the Bragg peak with 
+no exit dose, and the conformal delivery. Proton arc therapy has the possibility to further improve 
+the quality of treatment. This technological evolution will 
+offer patients numerous advantages:. Potentially enhanced dose conformity at the tumor level and 
+a potential reduction of the total dose received by the patient2..

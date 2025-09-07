@@ -1,18 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1073 of 1106
-SIZE: 511 characters
-PREVIOUS: chunk_1072_annual_report_text (1).txt
-NEXT: chunk_1074_annual_report_text (1).txt
-------------------------------
-3-1 
-Management of material topics 
-p34 AR2023 A committed company / employees 
-416-2 
-Comfort, quality and safety of our medical 
-and industrial solutions GRI 2016: 416 - 
-Customer health and safety: Incidents of 
-non-compliance concerning the health and 
-safety impacts of products and services. p7 AR2023 Patient care, what makes our heart beat 
-p45 AR2023 Management report / highlights of the year 
-p195 AR2023 GRI appendix 416-2 / comfort, quality, safety of our solutions 
-GRI 418: CUSTOMER PRIVACY v2016
+d events in a manner that achieves fair presentation; Obtain sufficient and appropriate audit evidence regarding the financial information of the 
+entities or business activities within the Group to express an opinion on the consolidated 
+financial statements. We are responsible for the direction, supervision and performance of the 
+Group audit. We remain solely responsible for our audit opinion. We communicate with the audit committee regarding, among other matters, the planned scope and 
+timin

@@ -1,16 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 558 of 1106
-SIZE: 425 characters
-PREVIOUS: chunk_0557_annual_report_text (1).txt
-NEXT: chunk_0559_annual_report_text (1).txt
-------------------------------
-EUR 199.0 million in 
-2023 compared to EUR 179.2 million in 
-2022. Other debts amount to EUR 2.0 million and 
-generally relate to repayable advances. Short-term debts 
-Debts within one year represent EUR 197.3 
-million in 2023 compared to EUR 225.0 million in 
-2022: Long-term debts maturing in the year amount 
-to EUR 9.3 million in 2023 (this is among 
-others the current portion of the long-term 
-loans with SRIW and SFPI)
+of 2022 
+to EUR 67.7 million at the end of 2023. Research and development 
+Research and development expenses related to 
+the Group's businesses amounted to EUR 51.3 
+million (12.0% of sales) in 2023 less EUR 3.4 
+million of research tax credit. At IBA, research expenses are recognized 
+directly in the income statement. For BE GAAP 
+purposes, development costs are recognised as 
+intangible assets and amortised linearly over 3 
+years, on a prorata temporis basis while 
+research 
+expenses 
+are 
+ca

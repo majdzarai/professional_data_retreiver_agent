@@ -1,10 +1,41 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1025 of 1106
-SIZE: 293 characters
-PREVIOUS: chunk_1024_annual_report_text (1).txt
-NEXT: chunk_1026_annual_report_text (1).txt
-------------------------------
-ve that the format of and marking of information in the 
-digital consolidated financial statements included in the annual financial report of Ion Beam Application 
-per 31 December 2023 comply in all material respects with the ESEF requirements under the 
-Delegated Regulation. Other statements
+31, 2023: Number of shares 
+% 
+Sustainable Anchorage SRL 
+6 204 668 
+20.49% 
+IBA Investments SCRL 
+51 973 
+0.17% 
+IBA SA 
+1 100 781 
+3.64% 
+Management Anchorage SRL (previously IB Anchorage) 
+348 530 
+1.15% 
+UCL 
+426 885 
+1.41% 
+Sopartec SA 
+180 000 
+0.59% 
+SRIW SA 
+715 491 
+2.36% 
+SFPI SA 
+58 200 
+0.19% 
+Belfius Insurance SA 
+1 189 196 
+3.93% 
+FUP Institute of RadioElements 
+1 423 271 
+4.70% 
+Paladin Asset Mgmt 
+768 765 
+2.54% 
+BlackRock, Inc. 407 194 
+1.34% 
+BNP Paris 
+528 425 
+1.75% 
+Norges

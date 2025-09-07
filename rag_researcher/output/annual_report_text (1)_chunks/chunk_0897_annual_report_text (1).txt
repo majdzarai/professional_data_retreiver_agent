@@ -1,32 +1,28 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 897 of 1106
-SIZE: 596 characters
-PREVIOUS: chunk_0896_annual_report_text (1).txt
-NEXT: chunk_0898_annual_report_text (1).txt
-------------------------------
-Retirement age: 66 
-The impact on the benefit liability of the fluctuation of the discount rate is as follows: (EUR 000) 
-December 31, 2022 
-December 31, 2023 
-Discount rate 0.25% increase 
--2 006 
--2 274 
-Discount rate applied 
--2 663 
--3 021 
-Discount rate 0.25% decrease 
--3 259 
--3 800
-
-The impact on the benefit liability of the fluctuation of the salary adjustment rate is as follows: (EUR 000) 
-December 31, 2022 
-December 31, 2023 
-Salary adjustment rate 0.25% increase 
--2 491 
--2 802 
-Salary adjustment rate applied 
--2 663 
--3 021 
-Salary adjustment rate 0.25% decrease 
--2 841 
--3 239
+in the ability of IBA to recover 
+these balances. The changes in the allowance for doubtful 
+accounts receivable are as follows: (EUR 000) 
+2022 
+2023 
+As at January 1 
+3 960 
+3 364 
+Charge for the year 
+588 
+997 
+Utilizations 
+-24 
+0 
+Write-backs 
+-1 337 
+-540 
+Currency translation difference 
+177 
+-82 
+As at December 31 
+3 364 
+3 739 
+The charge for expected credit loss is included 
+in General and Administrative expenses in the 
+Income Statement. 5.7.2 
+Other receivable and operating 
+assets

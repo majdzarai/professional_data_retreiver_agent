@@ -1,48 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 582 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0581_annual_report_text (1).txt
-NEXT: chunk_0583_annual_report_text (1).txt
-------------------------------
-ets 
-5.7. 35 184 
-33 743 
-Non-current assets 
-123 423 
-145 483 
-Inventories 
-5.6. 101 017 
-130 545 
-Contract assets 
-4.3.1. 39 391 
-38 444 
-Trade receivables 
-5.7.1. 111 649 
-107 576 
-Other current assets and receivables 
-5.7. 89 893 
-65 435 
-Current derivative financial assets 
-7.3. 160 
-739 
-Cash and cash equivalents 
-5.8. 158 366 
-109 306 
-Current assets 
-500 476 
-452 045 
-TOTAL ASSETS 
-623 899 
-597 528 
-EQUITY AND LIABILITIES 
-Share capital and Share premium 
-85 980 
-85 980 
-Reserves and Retained earnings 
-5.9. 29 971 
-20 232 
-EQUITY 
-115 951 
-106 212 
-Non-current borrowings 
-5.10. 10 647
+mpany receivables decreased (EUR -
+21.8 million). The other receivables, on the other side, amounting to EUR 13.5 million, decreased with 
+EUR -16.5 million a/o because of the release of 
+a 7.3 million payment from the Russian 
+subsidiary that had temporarily been blocked by 
+the Belgian authorities as part of a review 
+measure 
+under 
+the 
+current 
+embargo 
+environment and the write-off of a EUR 3.3 
+million receivable on an affiliated company that 
+has been liquidated in January 2024.

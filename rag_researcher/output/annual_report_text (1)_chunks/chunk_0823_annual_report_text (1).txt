@@ -1,23 +1,43 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 823 of 1106
-SIZE: 636 characters
-PREVIOUS: chunk_0822_annual_report_text (1).txt
-NEXT: chunk_0824_annual_report_text (1).txt
-------------------------------
-Equity 
-497 
-40 959 
-Groups share in equity 
-249 
-20 480 
-Unrealized gain on contribution of an intangible asset 
+on difference 
+-486 
+38 
+-24 
+-472 
+Gross carrying amount as at December 31, 2022 
+10 262 
+29 874 
+8 872 
+49 008 
+Accumulated amortisation as at January 1, 2022 
 0 
--2 200 
-Groups carrying amount of Investment accounted for using the equity method 
-249 
-18 280 
-The large non-current assets of Pantera are the contributions from both IBA as an asset under 
-construction for the Rhodotron and IP and the contribution the other venturer SCK-CEN for the right of 
-use of the nuclear raw material and relevant IP. Accounting policy for associates and Joint Ventures 
-An associate is an entity in which IBA has significant influence, but which is neither a subsidiary nor a joint 
-venture.
+25 818 
+3 795 
+29 613 
+Additions 
+0 
+1 395 
+327 
+1 722 
+Disposals 
+0 
+-222 
+0 
+-222 
+Currency translation difference 
+0 
+38 
+17 
+55 
+Accumulated amortisation as at December 31, 2022 
+0 
+27 029 
+4 139 
+31 168 
+Net carrying amount as at January 1, 2022 
+3 821 
+2 699 
+1 091 
+7 611 
+Net carrying amount as at December 31, 2022 
+10 262 
+2

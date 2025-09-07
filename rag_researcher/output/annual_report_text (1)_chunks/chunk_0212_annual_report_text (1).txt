@@ -1,22 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 212 of 1106
-SIZE: 580 characters
-PREVIOUS: chunk_0211_annual_report_text (1).txt
-NEXT: chunk_0213_annual_report_text (1).txt
-------------------------------
-2023, IBA 
-successfully 
-launched 
-a 
-next-generation 
-reference class electrometer DOSE-X, which 
-has already reached sales of more than 300 
-units. In May at ESTRO, IBA launched a 
-radiation oncology risk management software 
-called myQA PROactive, alongside updates to 
-existing patient QA software. Post period end, IBA announced the acquisition 
-of US-based Radcal Corporation, a pioneer in X-
-ray imaging quality assurance. The acquisition is 
-anticipated to be revenue accretive and EBIT 
-positive from 2024 onwards and will further 
-strengthen Dosimetrys product offering.
+of William Beaumont Hospital in 
+Michigan, US, at the end of 2023, paving the way 
+for commercial launch of DynamicARC7. 4 Torpedo ISRCTN 1642014, The Christies NHS and 
+NCT03164460 MD Anderson 
+5 RTOG 1308 
+6 ConformalFLASH is a registered brand of IBAs Proton 
+FLASH irradiation solution currently under research and 
+development phase 
+7 DynamicARC is a registered brand of the IBAs Proton 
+Arc therapy solution currently under development phase. === Page 53 ===
+IBA Annual Report 2023 
+50.

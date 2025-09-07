@@ -1,18 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 85 of 1106
-SIZE: 441 characters
-PREVIOUS: chunk_0084_annual_report_text (1).txt
-NEXT: chunk_0086_annual_report_text (1).txt
-------------------------------
-the surrounding 
-healthy tissues. This is not the case for photon 
-radiotherapy, the most common type of radiation 
-currently used in cancer therapy. Moreover, proton therapy can potentially improve 
-local control through dose escalation while limiting 
-side effects and long-term complications. As a 
-consequence, this may enhance the outcome 
-of the treatment and patients quality of life1. 03
-Proton Therapy
-22
-IBA
-CORPORATE BROCHURE 2024
+ed trial with study completion planned 
+for 2027. It is hoped that the trial will produce high-quality data, which will contribute towards the creation of European 
+guidelines on the use of proton therapy for esophageal 
+cancer. More information: https://protecttrial.eu/
+340,000 patients treated with PT worldwide 
+at the end of 20232
+340,000 patients
+Protect, enhance and save 
+lives by contributing to 
+MORE TARGETED TREATMENTS
+Proton therapy is one of the most advanced forms 
+of radiation therap

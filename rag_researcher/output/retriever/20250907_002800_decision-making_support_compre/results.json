@@ -1,0 +1,18 @@
+{
+  "query": "Decision-making support comprehensive risk report",
+  "timestamp": "2025-09-07 00:28:00",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "al \nand Compliance, Digital, and Financial risks. The main risks within these categories are \nfurther described. === Page 55 ===\nIBA Annual Report 2023 \n52. IBA \nIBA RISK MANAGEMENT FRAMEWORK\nRisk management is a core component of the \nIBA strategy and performance management \nprocess. The Board of Directors considers risk \nappetite when making decisions. The design and effectiveness of IBAs risk \nmanagement, practices, and \nthe \nrecommendations from internal and external \naudits are reported and discussed periodically \nwith the Risk Management Committee.",
+      "similarity_score": 0.37289776546614506
+    }
+  ]
+}

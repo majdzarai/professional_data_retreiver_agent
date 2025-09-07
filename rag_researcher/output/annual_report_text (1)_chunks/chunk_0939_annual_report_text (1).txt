@@ -1,11 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 939 of 1106
-SIZE: 693 characters
-PREVIOUS: chunk_0938_annual_report_text (1).txt
-NEXT: chunk_0940_annual_report_text (1).txt
-------------------------------
-ed to the income statement. Derivatives that do not qualify for hedge accounting 
-Certain derivative instruments do not qualify for hedge accounting. Such derivatives are recognized at fair value on the 
-statement of financial position, with changes in fair value recognized in the income statement. These instruments are considered economic hedges as the Group does not hold instruments for speculative purposes. Financial liabilities: Initial recognition and measurement 
-The Groups financial liabilities include trade and other payables, loans and borrowings including bank overdrafts, and 
-derivative financial instruments. All financial liabilities are recognised initially at fair value.
+er 
+accelerators amounting to EUR -1.1 
+million 
+5.11.1 Defined employee benefit 
+In Belgium, the Group operates a contribution-
+based plan funded through payments to an 
+insurance company. The employer guarantees a 
+minimum return on employer contributions 
+resulting in a financial risk to be borne by the 
+Group. Since January 1, 2016, the Group uses the 
+projected unit credit method. In India, the Group also operates a defined 
+benefit pension plan, for which the benefit liability 
+is EUR 0.1 million as at December 31, 2023.

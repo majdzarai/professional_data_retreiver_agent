@@ -1,21 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 827 of 1106
-SIZE: 568 characters
-PREVIOUS: chunk_0826_annual_report_text (1).txt
-NEXT: chunk_0828_annual_report_text (1).txt
-------------------------------
-novel, patented approach to particle acceleration and 
-delivery, combining nano-technology with ultra-
-high-intensity lasers and ultra-fast magnets. This potential technological breakthrough could 
-enable a meaningful reduction in the size and 
-cost of proton therapy systems without 
-compromising clinical utility. Alongside this 
-investment, IBA and HIL have signed an 
-Original 
-Equipment 
-Manufacturer 
-(OEM) 
-agreement which gives IBA the right to 
-purchase HILs laser-based proton accelerators 
-for the purpose of integrating them into proton 
-therapy solutions.
+r investments were made in 
+software development. In 2022, additional investments were made in 
+software, mainly for the development of the IT 
+internal service management system and an SAP 
+HR central platform. Amortization expense for intangible assets was 
+recognized in the income statement in the Cost 
+of sales and services, Sales and marketing 
+expenses, General 
+and 
+administrative 
+expenses, and Research and development 
+expenses line items. === Page 143 ===
+IBA Annual Report 2023 
+140.

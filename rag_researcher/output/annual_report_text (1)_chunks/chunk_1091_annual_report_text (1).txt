@@ -1,10 +1,18 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1091 of 1106
-SIZE: 522 characters
-PREVIOUS: chunk_1090_annual_report_text (1).txt
-NEXT: chunk_1092_annual_report_text (1).txt
-------------------------------
-a recommendation at 80 eur/t as of 2024. 5For the fourth consecutive year, IBA is supporting European farmers in their transition to regenerative agriculture, thereby contributing to the Global 
-Net Zero and financing resilience of local food systems. Through its partnership with Soil Capital, IBA supports farmers for their integration of legumes 
-in their rotation, a crop which through its ability to fix atmospheric nitrogen, plays an essential role in emissions reduction, soil fertilization and yield 
-preservation.
+directly or indirectly to its corporate 
+purpose. It may acquire an interest, by 
+contribution, merger, purchase of shares, or any 
+other means, in companies, partnerships, or 
+corporations 
+whose 
+purpose 
+is 
+similar, comparable, related, or 
+useful 
+to 
+the 
+achievement of its corporate purpose in whole or 
+in part. === Page 186 ===
+IBA Rapport annuel 2023 
+183. In addition, following a resolution of the 
+Extraordinary General Meeting of shareholders 
+of the Company held on March 10, 2020, ar

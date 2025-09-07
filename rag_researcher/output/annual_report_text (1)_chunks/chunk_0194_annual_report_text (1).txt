@@ -1,18 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 194 of 1106
-SIZE: 572 characters
-PREVIOUS: chunk_0193_annual_report_text (1).txt
-NEXT: chunk_0195_annual_report_text (1).txt
-------------------------------
-th a 42% 
-market share, and there continues to be an 
-active pipeline of potential projects, with 
-particular interest coming from Asia and the 
-USA. The first half saw sales of one ProteusPLUS in 
-China to CGN Medical Technology and two 
-ProteusONE solutions to Medtechnica Ltd, to 
-be installed at the Tel Aviv Sourasky Medical 
-Center in Israel. In the second half, a contract 
-was secured with Health Technologies Sp. z o.o. for the supply of a ProteusONE at the Greater 
-Poland Cancer Center in Poznan, Poland, which 
-will be the second ever PT system in the country.
+Strong balance sheet retained with EUR 
+109.3 million gross cash and EUR 67.7 
+million net cash position. EUR 40 million 
+undrawn short-term credit lines still available 
+at period end
+
+Equipment and Services backlog remains at 
+EUR 1.4 billion 
+Review of IBA activity sectors (sections 3:6, 1, 1 & 4 and 3:32, 1, 1 & 4, of the BCAC) 
+BREAKDOWN OF CONSOLIDATED TURNOVER BY 
+ACTIVITY

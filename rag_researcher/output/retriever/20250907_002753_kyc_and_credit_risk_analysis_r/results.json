@@ -1,0 +1,18 @@
+{
+  "query": "KYC and credit risk analysis regulations",
+  "timestamp": "2025-09-07 00:27:53",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "gically, further authorizations may be \nrequired. Financial risks (sections 3:6, 1, 8 and 3:32, 1, 5, of the BCAC) \nMore details regarding section 3:6, 1, 8, and \n3:32, 1, 5 of the BCAC is provided, where \nappropriate, in \nthe \nsection \nFinancial \nInstruments of this annual report, see page 162. The Groups overall financial risk management \nprogram seeks to minimize potential adverse \neffects arising from the unpredictability of \nfinancial markets on the Groups financial \nperformance. To this effect, the Group uses \nderivative financial instruments to hedge certain \nrisk exposures.",
+      "similarity_score": 0.36846668004989624
+    }
+  ]
+}

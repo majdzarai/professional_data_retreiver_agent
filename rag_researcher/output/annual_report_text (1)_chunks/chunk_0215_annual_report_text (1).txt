@@ -1,29 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 215 of 1106
-SIZE: 613 characters
-PREVIOUS: chunk_0214_annual_report_text (1).txt
-NEXT: chunk_0216_annual_report_text (1).txt
-------------------------------
-, the Risk Management Committee, and 
-the Audit Committee identified several functional 
-experts covering the various categories of 
-enterprise risk. The Management Team and the 
-Risk Management Committee are continuously 
-working 
-to 
-improve 
-the 
-enterprise 
-risk 
-management framework and are responsible for 
-the 
-implementation 
-of 
-appropriate 
-risk 
-responses. Enterprise Risk Management focuses on five 
-risk categories: Strategic, Operational, Legal 
-and Compliance, Digital, and Financial risks. The main risks within these categories are 
-further described. === Page 55 ===
-IBA Annual Report 2023 
-52.
+d half. 17 installations were completed in 
+2023. Services had a strong year, increasing by 
+33.7% compared to 2022 as the installed base 
+grew and the Industrial business in particular 
+started to implement a targeted service strategy. Industrial Solutions revenues increased 110% 
+compared to 2022, driven by growing equipment 
+and services contracts. Order intake was slower 
+than the previous year, with impacts still felt from 
+post-COVID overstocking of medical equipment, leading to lower demand for sterilization 
+services.

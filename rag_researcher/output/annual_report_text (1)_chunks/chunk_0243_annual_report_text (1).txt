@@ -1,30 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 243 of 1106
-SIZE: 655 characters
-PREVIOUS: chunk_0242_annual_report_text (1).txt
-NEXT: chunk_0244_annual_report_text (1).txt
-------------------------------
-s 
-insurance coverage will always be sufficient to 
-protect it from such risks or that it will always be 
-possible to obtain coverage for such risks. Regulatory risk 
-Some IBA products and devices cannot be 
-marketed 
-without 
-regulatory 
-approval 
-or 
-registration 
-as 
-medical 
-devices. Such 
-authorization is necessary for each country 
-where IBA wishes to market a product or device. IBA is authorized to market its particle therapy 
-devices in the United States (FDA), the 
-European Union (LRQA), Australia (TGA), Russia (Gost-R), South Korea (MFDS) and 
-Taiwan (TFDA), Singapore (SFDA), and Japan 
-(Shonin). Authorizations 
-may 
-always 
-be 
-revoked.
+nificant impact over several 
+accounting periods. On the other hand, the lead 
+time for fulfilling orders gives the Company a 
+good view of its level of activity several months 
+in advance. Inventory risk 
+Inventory includes high technology parts and 
+components subject to rapid technological 
+obsolescence. Inventory support production but 
+also spare parts to support our customers. IBA 
+optimizes the level of inventory required for 
+production and support on sites for our 
+customers under a maintenance contract.

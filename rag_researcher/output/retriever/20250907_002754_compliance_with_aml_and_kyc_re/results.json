@@ -1,0 +1,18 @@
+{
+  "query": "compliance with AML and KYC regulations",
+  "timestamp": "2025-09-07 00:27:54",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "This right may be subject to the compliance \nto \ncovenants \nincluded \nin \nthe \nloan \nagreement, but only the covenants effective \non or before the end of the reporting period \ncould impact the classification",
+      "similarity_score": 0.3155666665236155
+    }
+  ]
+}

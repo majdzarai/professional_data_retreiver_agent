@@ -1,14 +1,60 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 836 of 1106
-SIZE: 629 characters
-PREVIOUS: chunk_0835_annual_report_text (1).txt
-NEXT: chunk_0837_annual_report_text (1).txt
-------------------------------
-general obsolescence as well as the NRV 
-adjustment for the inventories related to the 
-Dynamitron business being closed as described 
-in Note 3.2. Accounting policy for other shares and participations 
-Other shares and participations represents the holding of shares in which IBA does not hold a significant 
-influence. These are carried at fair value and are not held for trading, IBA has designated these investments as FVOCI 
-whereby all changes in fair value are recognised in OCI and will never recycle in profit and loss. Accounting policy for inventories 
-Inventory is valued at the lower of cost or net realizable value.
+d in business combinations 
+4 
+0 
+7 
+0 
+1 
+0 
+0 
+12 
+Currency translation difference 
+-16 
+-115 
+-49 
+-1 
+-124 
+-10 
+0 
+-315 
+Accumulated depreciation as at 
+December 31, 2023 
+12 426 
+13 508 
+15 239 
+13 
+12 967 
+6 542 
+0 
+60 695 
+Net carrying amount as at January 
+1, 2023 
+11 173 
+22 394 
+3 634 
+14 
+3 000 
+4 708 
+1 145 
+46 068 
+Net carrying amount as at 
+December 31, 2023 
+12 315 
+22 534 
+3 703 
+12 
+3 004 
+6 526 
+1 371 
+49 465 
+Other 
+tangible 
+assets 
+mainly 
+include 
+computer 
+hardware 
+and 
+assets 
+under 
+construction. There are no tangible assets 
+subject to title restrictions.

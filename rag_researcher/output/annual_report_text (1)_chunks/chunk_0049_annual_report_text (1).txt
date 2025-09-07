@@ -1,17 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 49 of 1106
-SIZE: 576 characters
-PREVIOUS: chunk_0048_annual_report_text (1).txt
-NEXT: chunk_0050_annual_report_text (1).txt
-------------------------------
-=== Page 17 ===
-AN EVEN FASTER GROWTH 
-IN AMERICA AND ASIA
-Until recently, reference sites for X-ray and electron beam 
-industrial sterilization were mostly concentrated in central 
-Europe. Today, IBA Industrial sees a strong deployment of the 
-technology in all regions of the world, with remarkable activity 
-in the United States, Southeast Asia and China. IBA is currently 
-deploying a stronger regionalization plan in those areas where it 
-is already present, including adding resources for installations 
-and services, hubs for parts logistics, and third-party suppliers.
+cts that 
+enable patient diagnosis and treatment. Within this large multi-
+segment industry, Disposal Medical Devices (DMD) include all 
+single-use devices e.g. surgical gloves, dialysis tubes, diabetes 
+patches, orthopedic implants, syringes, etc. The medical device sterilization market is projected 
+to double within the next decade. Additionally, there is 
+a notable shift occurring in the distribution of sterilization 
+methods. Previously dominated by ethylene oxide 
+and Gamma technologies, the landscape is now 
+transitioning towards a more equitable distribution.

@@ -1,19 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 433 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0432_annual_report_text (1).txt
-NEXT: chunk_0434_annual_report_text (1).txt
-------------------------------
-above, in the dedicated Section Principal Risks and 
-Uncertainties faced by the Company (Sections 
-3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the 
-BCAC). Environmental Matters 
-Policy and Targets 
-IBA promotes a sustainable entrepreneurial 
-business model that serves society while striving 
-to respect the limits of our planet, and, in order 
-to do so, develops and introduces technologies 
-with less or low environmental impact and 
-processes, whether: in its business activities, by working to help 
-create a society with sound material cycles, by supporting efforts to better understand 
-environmenta
+t Committee meeting; SC Sustainability Committee. N/A indicates that the director is not a member of the Committee or that no Committee meeting has taken place; Other 
+Attendance of other meetings, such as client user meetings and/or strategic meetings 
+Board Member 
+TOTAL FEES 
+(EUR) 
+LUMP-SUM FEE (EUR)

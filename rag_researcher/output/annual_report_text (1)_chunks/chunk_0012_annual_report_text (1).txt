@@ -1,12 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 12 of 1106
-SIZE: 380 characters
-PREVIOUS: chunk_0011_annual_report_text (1).txt
-NEXT: chunk_0013_annual_report_text (1).txt
-------------------------------
-ion. Dosimetry performance was 
-also strong, with growth in sales and REBIT, and 
-the Services business continuing to perform well 
+ess continuing to perform well 
 across the group. This, while Proton Therapys 
 performance has been affected by significant 
 investments into the future growth of the business 

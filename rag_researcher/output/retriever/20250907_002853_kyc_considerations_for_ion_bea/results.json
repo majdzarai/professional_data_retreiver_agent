@@ -1,0 +1,18 @@
+{
+  "query": "KYC considerations for Ion Beam Applications SA's global operations",
+  "timestamp": "2025-09-07 00:28:53",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "=== Page 199 ===\niba-worldwide.com\nContact IBA\nCorporate Communication\nTel. +32 10 47 58 90\nE-mail: communiation@iba-group.com\nIon Beam Applications, SA\nChemin du Cyclotron, 3\n1348 Louvain-la-Neuve, Belgium\nTel. +32 10 47 58 11 - Fax: +32 10 47 58 10\nRPM Nivelles - TVA: BE 428.750.985\nE-mail: info-worldwide@iba-group.com\nwww.iba-worldwide.com\nE.R. IBA SA, chemin du Cyclotron, 3\n1348 Louvain-la-Neuve, Belgium\nDesign & Production: www.thecrew.be",
+      "similarity_score": 0.394091739654541
+    }
+  ]
+}

@@ -1,39 +1,50 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 977 of 1106
-SIZE: 667 characters
-PREVIOUS: chunk_0976_annual_report_text (1).txt
-NEXT: chunk_0978_annual_report_text (1).txt
-------------------------------
-of IBA SA and 29 companies and associates in 16 
-countries. 25 of them are fully consolidated and 4 are accounted for using the equity method. 12.1. LIST OF SUBSIDIARIES 
-NAME 
-Place of incorporation 
-Equity ownership (%) 
-2023 
-Equity ownership (%) 
-2022 
-IBA Participations SRL 
-LLN, Belgium 
-100% 
-100% 
-IBA Investments SCRL 
-LLN, Belgium 
-100% 
-100% 
-Ion Beam Beijing Applications Co. Ltd. Beijing, China 
-100% 
-100% 
-IBA RadioIsotopes France SAS 
-Lyon, France 
-100% 
-100% 
-IBA Dosimetry Ltd. Schwarzenbruck, Germany 
-100% 
-100% 
-IBA Dosimetry America Inc. Bartlett, USA 
-100% 
-100% 
-IBA Proton Therapy Inc. Edgewood New York, USA 
-100% 
-100% 
-IBA Industrial Inc.
+atives assets at fair value through the 
+income statement 
+39 
+26 
+65 
+17 
+176 
+193 
+At amortised cost 
+23 445 351 937 
+375 382 
+20 940 
+274 260 
+295 200 
+Trade receivables 
+0 111 649 
+111 649 
+0 
+107 576 
+107 576 
+Subordinated loans 
+6 208 
+66 
+6 274 
+6 045 
+203 
+6 248 
+Bonds and non-subordinated loans 
+15 088 
+889 
+15 977 
+13 851 
+939 
+14 790 
+Cash deposits 
+321 
+11 138 
+11 459 
+364 
+309 
+673 
+Cash and cash equivalents 
+0 158 366 
+158 366 
+0 
+109 306 
+109 306 
+Others financial assets 
+1 828 
+6

@@ -1,30 +1,33 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 614 of 1106
-SIZE: 660 characters
-PREVIOUS: chunk_0613_annual_report_text (1).txt
-NEXT: chunk_0615_annual_report_text (1).txt
-------------------------------
-ctions 
-4.6 Financial expenses and income 
-Equity 
-5.9 Equity 
-Provisions 
-5.11 Long-term and short-term provisions 
-Fair value 
-7.4 Financial assets and financial liabilities at fair 
-value 
-1.2.2 Changes in accounting 
-policies and disclosures, changes in estimates and 
-errors 
-The accounting policies adopted in the 
-preparation 
-of 
-the 
-consolidated 
-financial 
-statements for the year ended December 31, 2023 are consistent with those followed in the 
-preparation of the Groups annual consolidated 
-financial statements for the year ended 
-December 31, 2022, except for the adoption of 
-new standards and interpretations effective as 
-of 1 January 2023.
+=== Page 110 ===
+IBA Annual Report 2021 
+107. 2022 
+2023 
+STATEMENT OF CAPITAL 
+Amount (EUR 
+000) 
+Number of 
+shares 
+Amount (EUR 
+000) 
+Number of 
+shares 
+Capital 
+1. Issued capital 
+At the end of the previous financial year 
+42 413 
+42 502 
+Changes during the financial year 
+89 
+84 798 
+0 
+0 
+At the end of the current financial year 
+42 502 
+42 502 
+2. Structure of the capital 
+2.1. Categories of shares 
+Ordinary shares without designation of face value 
+24 412 
+17 516 229 
+24 412 
+17 516 229

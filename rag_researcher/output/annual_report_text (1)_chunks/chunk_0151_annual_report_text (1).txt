@@ -1,16 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 151 of 1106
-SIZE: 693 characters
-PREVIOUS: chunk_0150_annual_report_text (1).txt
-NEXT: chunk_0152_annual_report_text (1).txt
-------------------------------
-otes technical collaboration 
-and innovation with its partners in order to reduce risks, costs 
-and improve the quality of its products and services. Strategic 
-partnerships are developed whenever beneficial. In this context, IBA releases its Conflict Minerals report, and Code of Conduct for Suppliers, which outlines the minimum 
-standards expected from its major suppliers. The Code 
-of Conduct for Suppliers builds on, and is in alignment with, the IBA Code of Business Conduct, which all IBA employees 
-must adhere to. Within their sphere of influence, IBA also 
-expects suppliers to communicate the principles and 
-to apply these minimum standards to their subcontractors 
-and suppliers.
+which will help improve 
+learning and education. In 2023, IBA renewed its collaboration 
+with Foundation for Future Generations, as a partner of the Hera 
+Awards program, with the Philippe de Woot Awards, and with 
+the University of Louvain by supporting the Civil Biomedical 
+Engineer diploma program, enabling the Louvain School of 
+Engineering (Ecole Polytechnique de Louvain - EPL) to expand 
+its range of courses. IBA employees regularly share their experience and knowledge 
+with universities and high schools.

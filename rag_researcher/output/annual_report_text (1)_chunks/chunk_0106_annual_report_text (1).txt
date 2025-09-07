@@ -1,14 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 106 of 1106
-SIZE: 256 characters
-PREVIOUS: chunk_0105_annual_report_text (1).txt
-NEXT: chunk_0107_annual_report_text (1).txt
-------------------------------
-, intrinsic small beam, fast 
-scanning, and the ability to modulate dose rate within a layer. Watch the video: Shaping the future 
-of proton therapy. ProteusONE
-At the forefront of research with 
-DynamicARC and ConformalFLASH
-26
-IBA
-CORPORATE BROCHURE 2024
+litting and potentially losing the FLASH effect.. Improved conformality due to reduced entrance and exit dose.. 3-4 times more patients in ConformalFLASH than shoot-
+through FLASH, through more eligible indications like 
+abdominal cancers4. As the industry leader, IBA is collaborating with several leading 
+proton therapy centers in their pioneering research work 
+to better understand the mechanisms of FLASH irradiation. DYNAMICARC1
+IBA is developing a novel proton therapy delivery technique 
+called DynamicARC.

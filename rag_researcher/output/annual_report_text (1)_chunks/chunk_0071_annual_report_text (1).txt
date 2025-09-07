@@ -1,18 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 71 of 1106
-SIZE: 684 characters
-PREVIOUS: chunk_0070_annual_report_text (1).txt
-NEXT: chunk_0072_annual_report_text (1).txt
-------------------------------
-=== Page 22 ===
-A COMBINATION OF DIAGNOSIS AND 
-THERAPY: THERANOSTICS
-Radiotheranostics is a type of cancer treatment that combines 
-diagnostic imaging with targeted radiation therapy. It involves 
-the use of radiopharmaceuticals, which are compounds that 
-contain both a radioactive isotope and a targeting molecule. These radiopharmaceuticals are injected into the patients 
-bloodstream and travel to cancer cells, where they can be 
-detected using imaging techniques such as PET or SPECT. Once the cancer cells have been identified, the same 
-radiopharmaceutical can be used to deliver a targeted dose 
-of radiation to the cancer cells, killing them while sparing 
-healthy tissues.
+system to produce their own radiotracers locally. This reduces the need for long-distance transportation of 
+radiotracers, which can be expensive and time-consuming, and enables PET imaging to be more widely available 
+in remote areas or regions where access to radio- 
+pharmaceuticals may be limited. Overall, the IBA CycloneKEY cyclotron helps make 
+PET imaging more widely available worldwide by 
+facilitating local production of medical isotopes and 
+reducing the logistical challenges associated with the 
+transportation of radiotracers.

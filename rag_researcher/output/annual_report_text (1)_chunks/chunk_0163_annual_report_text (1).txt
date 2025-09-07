@@ -1,15 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 163 of 1106
-SIZE: 623 characters
-PREVIOUS: chunk_0162_annual_report_text (1).txt
-NEXT: chunk_0164_annual_report_text (1).txt
-------------------------------
-rgy efficiency. Our Industrial Solutions division has developed the new 
-generation Rhodotron, the energy performance of which has 
-greatly improved. Upstream of the value chain, we evaluate with Ecovadis our 
-supply chains environmental footprint, focusing on climate 
-impact alongside other key areas. In 2023, IBA introduced a new process for US return logistics, opting for shared container space on ships over air transport 
-to Louvain-la-Neuve in Belgium. Despite the longer 6-week 
-journey, this change has led to substantial financial savings 
-and a notable 96% reduction in CO2 emissions for non-
-urgent shipments.
+=== Page 44 ===
+Inspired by the EU climate targets we have set ourselves goals 
+for reducing our operations net GHG emissions to zero by 2030. This means taking action on our infrastructure and mobility 
+impacts to reduce them by at least 50% below 2018 levels by 2030, and for the remaining part, via decarbonization contribution. Green energy contracts are in place, and renewable energy 
+autoproduction capacity such photovoltaic carports now 
+enhance our headquarter facilities to further increase the ratio 
+of low impact renewable energy consumption.

@@ -1,27 +1,44 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 976 of 1106
-SIZE: 683 characters
-PREVIOUS: chunk_0975_annual_report_text (1).txt
-NEXT: chunk_0977_annual_report_text (1).txt
-------------------------------
-December 31, 2022 
+ecember 31, 2022 
 December 31, 2023 
-Short-term employee benefits 
-2 071 
-2 117 
-Post-employment pension 
-44 
+FINANCIAL ASSETS 
+Non-current Current 
+Fair value 
+Non-current 
+Current Fair value 
+At fair value through OCI 
+3 806 
 0 
-Share-base payment transactions 
-41 
-41 
-Total compensation 
-2 156 
-2 158 
-The amounts disclosed in the table are the amounts recognised as an expense during the reporting 
-period related to key management personnel. The full remuneration report can be found on page 70. === Page 175 ===
-IBA Annual Report 2023 
-172. 12. List of subsidiaries and equity-accounted 
-investments 
-As at December 31, 2023, IBA Group consists of IBA SA and 29 companies and associates in 16 
-countries. 25 of them are fully consolidated and 4 are accounted for using the equity method. 12.1.
+3 806 
+2 438 
+0 
+2 438 
+Shares in listed entities 
+995 
+0 
+995 
+843 
+0 
+843 
+Shares in non-listed entities 
+2 811 
+0 
+2 811 
+1 595 
+0 
+1 595 
+At fair value through Profit and loss 
+42 
+160 
+202 
+510 
+739 
+1 249 
+Derivative hedge-accounted financial assets 
+3 
+134 
+137 
+493 
+563 
+1 056 
+Derivatives assets at fair value through the 
+income st

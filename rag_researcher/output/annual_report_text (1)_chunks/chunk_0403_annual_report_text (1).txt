@@ -1,37 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 403 of 1106
-SIZE: 525 characters
-PREVIOUS: chunk_0402_annual_report_text (1).txt
-NEXT: chunk_0404_annual_report_text (1).txt
-------------------------------
-fiscal year. Determination 
-of 
-the 
-target 
-annual 
-remuneration (fixed + variable) per person 
-based on the gross remuneration as of 
-December 
-31. This 
-remuneration 
-is 
-determined at the individual activity rate 
-applicable on the same date. Sum of all target annual remuneration 
-amounts. The average is obtained by dividing the sum 
-by 
-the 
-number 
-of 
-FTEs 
-(full-time 
-equivalents) 
-present 
+made to consider for the 
+edition of this report. Context of remuneration during financial year 
+2023 
+In 2022 IBA achieved a net Profit before tax of -
+0.430m combined with solid order intake for all 
+our business lines and strong progress on the 
+sustainability roadmap. These results translated 
+into 90% of targeted payment of the variable 
+portion of executive pay in 2023. Total Remuneration 
+ In line with our Remuneration Policy, Managing 
+Directors 
 and 
-active 
-on 
-December 31. The number of FTEs 
-corresponds to the sum of the activity rate, 2019 
-2020 
-2021 
-2022 
-2023
+Executive 
+Managers 
+compensation was composed in 2023 of a Base 
+Salary and an Annual Variable Pay.

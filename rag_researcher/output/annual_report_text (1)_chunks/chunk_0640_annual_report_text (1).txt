@@ -1,32 +1,26 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 640 of 1106
-SIZE: 247 characters
-PREVIOUS: chunk_0639_annual_report_text (1).txt
-NEXT: chunk_0641_annual_report_text (1).txt
-------------------------------
-22 
-Average annual rate 
-2022 
-Closing rate on December 31, 2023 
-Average annual rate 
-2023 
-USD 
-1.0666 
-1.0541 
-1.1050 
-1.0814 
-CNY 
-7.3582 
-7.0768 
-7.8509 
-7.6464 
-INR 
-88.1710 
-82.5729 
-91.9045 
-89.2835 
-RUB 
-78.8640 
-73.8896 
-98.2557 
-92.3156
+oceeds from sublease 
+23.2 
+-6 074 
+-6 489 
+Interest paid 
+-2 311 
+-761 
+Interest received 
+1 496 
+1 650 
+Capital increase (or proceeds from issuance of ordinary shares) 
+16 
+176 
+0 
+Dividends paid 
+-5 579 
+-6 121 
+(Acquisitions)/disposal of treasury of shares 
+6.1 
+-5 160 
+115 
+Other financing cash flows 
+28.3 
+710 
+-1 778 
+Net cash (used)/generated from financing activities

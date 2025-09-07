@@ -1,18 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 336 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0335_annual_report_text (1).txt
-NEXT: chunk_0337_annual_report_text (1).txt
-------------------------------
-of a company 
-referred to under (i) above. (iii) any third party acting in its own name but on 
-behalf of such shareholder or of a person 
-referred to under (i) or (ii) above. (iv) any shareholder who granted a power-of-
-attorney to such shareholder or to a person 
-referred to under (i), (ii) or (iii) above, to 
-represent him/her at the said meeting." 
-Article 28: Without prejudice to Article 27, any shareholder 
-who owns fully-paid shares, registered in 
-his/her/its name since at least two years without 
-interruption in the register of registered shares 
-and which meet the legal requirements
+by its managing director, Mr. Pierre 
+Mottet, Mr. Yves 
+Jongen, Nextstepefficiency SAS represented by its 
+permanent representative, Christine Dubus, === Page 69 ===
+IBA Annual Report 2023 
+66. IBA 
+Consultance Marcel Miller SCS, represented by 
+its permanent representative, Marcel Miller, Ms. Hedvig Hricak, Dr. Richard A. Hausmann, and 
+Bridging for Sustainability SRL represented by 
+its permanent representative Ms. Sybille van den 
+Hove. The Product Board is chaired by Mr. Pierre Mottet. PT Strategy Committee met on October 18, 2023.

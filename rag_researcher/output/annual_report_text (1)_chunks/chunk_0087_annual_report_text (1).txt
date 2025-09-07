@@ -1,18 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 87 of 1106
-SIZE: 601 characters
-PREVIOUS: chunk_0086_annual_report_text (1).txt
-NEXT: chunk_0088_annual_report_text (1).txt
-------------------------------
-RAPY CENTERS AT END OF 
-2023 LARGEST NETWORK & EXPERIENCE
-IBA continued to strengthen its market leadership in 2023 with 
-the sale of several proton therapy systems: two ProteusONE 
-systems to be delivered at the Sourasky Medical Center 
-in Tel Aviv, Israel, one ProteusONE equipment to be supplied 
-to the Wielkopolskie Centrum Onkologii in Poznan, Poland 
-and a ProteusPLUS system to be supplied by IBAs Partner CGN 
-to the West China Hospital in Chengdu, China. 34 ProteusPLUS Centers
-41 ProteusONE Centers
-Market share in rooms (end 2023)
-ProteusONE and ProteusPLUS are brand names of Proteus 235.
+e of radiation 
+currently used in cancer therapy. Moreover, proton therapy can potentially improve 
+local control through dose escalation while limiting 
+side effects and long-term complications. As a 
+consequence, this may enhance the outcome 
+of the treatment and patients quality of life1. 03
+Proton Therapy
+22
+IBA
+CORPORATE BROCHURE 2024

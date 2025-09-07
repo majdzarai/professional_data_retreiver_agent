@@ -1,13 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 884 of 1106
-SIZE: 593 characters
-PREVIOUS: chunk_0883_annual_report_text (1).txt
-NEXT: chunk_0885_annual_report_text (1).txt
-------------------------------
-A provision for restructuring for EUR 0.5 
-million to cover the costs related to the 
-Accounting policy for borrowings and lease liabilities 
-Bank borrowings: Bank borrowings are interest bearing and are a financial instrument initially recognised at fair value and subsequently 
-measured at amortised cost using the EIR method. The EIR amortisation is included as finance costs in the statement of 
-profit or loss. Lease liabilities: At the commencement date of the lease, the Group recognizes lease liabilities measured at the present value of lease 
-payments to be made over the lease term.
+nticipation of 
+production planning requirements. The increase of the provision for write off covers 
+general obsolescence as well as the NRV 
+adjustment for the inventories related to the 
+Dynamitron business being closed as described 
+in Note 3.2. Accounting policy for other shares and participations 
+Other shares and participations represents the holding of shares in which IBA does not hold a significant 
+influence.

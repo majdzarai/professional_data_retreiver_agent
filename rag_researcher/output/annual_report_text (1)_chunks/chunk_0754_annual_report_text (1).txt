@@ -1,27 +1,21 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 754 of 1106
-SIZE: 301 characters
-PREVIOUS: chunk_0753_annual_report_text (1).txt
-NEXT: chunk_0755_annual_report_text (1).txt
-------------------------------
-nts 
--1 161 
--1 105 
-Adjustments in respect of income tax charges of previous years 
--105 
-1 058 
-Share of result of an associate 
-1 
-42 
-Other tax (income)/expense 
--20 
-1 187 
-Booked tax charge/(profit) 
--6 487 
-8 795 
-Theoretical tax rate 
--464.19% 
-133.97% 
-Effective tax rate 
-1508.66% 
--2792.14%
+== Page 132 ===
+IBA Annual Report 2023 
+129. 4.2. PERFORMANCE OF EACH GEOGRAPHIC 
+REGION
+The Group operates in three main geographical 
+areas, Belgium, the United States and the rest of 
+the world. The sales figures presented below are 
+based on customer location, whereas non-
+current and current assets are based on the 
+physical location of the assets. (EUR 000) 
+December 31, 2022 
+Belgium 
+USA 
+ROW 
+Group 
+Sales of equipment, licences and services* 
+4 252 
+127 716 
+229 303 
+361 270 
+Non-curren

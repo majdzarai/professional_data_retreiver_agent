@@ -1,13 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 142 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0141_annual_report_text (1).txt
-NEXT: chunk_0143_annual_report_text (1).txt
-------------------------------
-healthy mobility. We offer attractive leasing conditions to our employees 
-for low-impact mobility vehicles, such as electric bicycles 
-and scooters. This is an efficient way to combine daily 
-commuting and parking lot optimization, healthy exercise, fitness, and carbon footprint reduction. In 2023, IBA launched a revised, fully electric car policy, together with adapted infrastructures: specific parking lots, 500 kW photovoltaic car ports and high-power charging 
-stations. We also provide attractive conditions for employees 
-who are willing to commute using low impact alternatives. +20%
-of em
+physical coercion, and other disruptive behavior. We do not permit any form of violence, whether physical, verbal, or mental. We consider all threats of violence as serious. IBA is committed to implementing best practices in the field 
+of Occupational Health and Safety to keep our promise of 
+No Harm to our people. To achieve this result, we:. ensure IBA operations comply with applicable occupational 
+health and safety regulations, and when appropriate, implement additional controls to meet comp

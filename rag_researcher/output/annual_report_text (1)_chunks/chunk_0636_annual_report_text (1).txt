@@ -1,24 +1,32 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 636 of 1106
-SIZE: 656 characters
-PREVIOUS: chunk_0635_annual_report_text (1).txt
-NEXT: chunk_0637_annual_report_text (1).txt
-------------------------------
-nts portion of the equity of each 
-subsidiary are eliminated; In the statement of consolidated financial 
-position, non-controlling interests in the net 
-assets of subsidiaries are identified and 
-reported separately in the caption Non-
-controlling interests; The portion of the profit or loss of the fully 
-consolidated subsidiaries attributable to 
-shares held by entities outside the Group is 
-presented in the consolidated income 
-statement in the caption Profit/(loss) 
-attributable to non-controlling interests; Intra-Group balances and transactions and 
-unrealized gains and losses on transactions 
-between 
-Group 
-companies 
-are 
-fully 
-eliminated.
+(EUR 000) 
+Note 
+December 31, 2022 
+December 31, 2023 
+CASH FLOW FROM OPERATING ACTIVITIES 
+Net profit/(loss) for the period 
+6 057 
+-9 110 
+Adjustments for: Depreciation of tangible assets 
+8, 23.1 
+8 989 
+9 774 
+Depreciation and impairment of intangible assets 
+7.2 
+1 722 
+1 747 
+Write-off on receivables 
+14.1 
+-749 
+457 
+Changes in fair value of financial assets (profits)/losses 
+-3 591 
+654 
+Changes in provisions 
+19 
+6 143 
+2 074 
+Deferred taxes 
+10 
+-11 244 
+1 898 
+Share of result of assoc

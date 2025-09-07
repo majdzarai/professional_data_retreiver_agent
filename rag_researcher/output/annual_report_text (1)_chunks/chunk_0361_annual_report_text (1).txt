@@ -1,22 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 361 of 1106
-SIZE: 580 characters
-PREVIOUS: chunk_0360_annual_report_text (1).txt
-NEXT: chunk_0362_annual_report_text (1).txt
-------------------------------
-Annual Fixed Remuneration 
-Annual fixed remuneration is a cash component 
-of remuneration, defined in accordance with an 
-individuals position, as well as his or her 
-competencies and experience in the position. Annual Variable Remuneration 
-The annual variable remuneration program 
-rewards 
-performance 
-against 
-specified 
-objectives, defined and formalized at the 
-beginning of the performance period. Payout 
-levels currently are targeted at between 15% and 
-50% of annual fixed remuneration, depending on 
-the position. Actual payout levels are subject to 
-IBAs performance.
+of an affiliated company) or has 
+received a power of attorney from that 
+shareholder; (b) has a business, shareholding or family 
+relationship with that shareholder (or an 
+associated company or person) or with a person 
+referred to in (a), that is such as to influence the 
+conditions under which he exercises his 
+mandate as director; or 
+(c) has been appointed on the proposal or by the 
+decisive vote of that shareholder. For the purposes of this Article 12, the 
+expression "related" company or person must be 
+construed within the meaning of section 1:20, 1 
+and 2, of the BCAC.

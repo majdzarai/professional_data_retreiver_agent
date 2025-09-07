@@ -1,18 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 601 of 1106
-SIZE: 219 characters
-PREVIOUS: chunk_0600_annual_report_text (1).txt
-NEXT: chunk_0602_annual_report_text (1).txt
-------------------------------
-199 270 
-158 366 
-Net change in cash and cash equivalents 
--38 899 
--47 477 
-Exchange (profits)/losses on cash and cash equivalents 
--2 005 
--1 583 
-Net cash and cash equivalents at end of the year 
-15 
-158 366 
-109 306
+REBIT on sales will reach around 10% by 
+2026, delivered gradually and weighted to 
+after 2024, as the current macro-economic 
+effects 
+wane 
+and 
+operating 
+leverage 
+accelerates with volume
+
+CAPEX will be around EUR 10-12 million 
+per year until 2026 to support increased 
+investment in infrastructure, innovation, sustainability and digitalization to maintain 
+IBAs leading offering and invest in its future 
+growth

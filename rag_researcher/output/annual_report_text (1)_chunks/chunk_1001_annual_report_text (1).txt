@@ -1,10 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1001 of 1106
-SIZE: 273 characters
-PREVIOUS: chunk_1000_annual_report_text (1).txt
-NEXT: chunk_1002_annual_report_text (1).txt
-------------------------------
-3 of 6 
-Based on our audit procedures, we believe that management's estimates used for revenue recognition 
-are based on reasonable assumptions. The accounting policies applied are compliant in all material 
-respects with IFRS as adopted by the European Union. Other matter
+ging 
+position has to be rolled-over as a result. As at December 31, 2023, the Group held 18 
+forward 
+exchange 
+contracts 
+(17 
+as 
+at 
+December 31, 2022) and 9 foreign exchange 
+swaps (7 as at December 31, 2022) to cover 
+future cash flow movements in US dollars, Canadian dollars, Chinese Yuan and Korean 
+Won. Derivative at fair value through profit or 
+loss 
+As at December 31, 2023, the Group holds 2 
+forward exchange contracts (14 on December 
+31, 2022), 6 exchange rate swaps (8 swaps as 
+at

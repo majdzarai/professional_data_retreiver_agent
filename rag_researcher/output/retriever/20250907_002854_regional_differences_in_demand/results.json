@@ -1,0 +1,18 @@
+{
+  "query": "regional differences in demand and competition for Ion Beam Applications SA",
+  "timestamp": "2025-09-07 00:28:54",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "=== Page 17 ===\nAN EVEN FASTER GROWTH \nIN AMERICA AND ASIA\nUntil recently, reference sites for X-ray and electron beam \nindustrial sterilization were mostly concentrated in central \nEurope. Today, IBA Industrial sees a strong deployment of the \ntechnology in all regions of the world, with remarkable activity \nin the United States, Southeast Asia and China. IBA is currently \ndeploying a stronger regionalization plan in those areas where it \nis already present, including adding resources for installations \nand services, hubs for parts logistics, and third-party suppliers.",
+      "similarity_score": 0.3837577664852142
+    }
+  ]
+}

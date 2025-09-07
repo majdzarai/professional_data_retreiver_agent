@@ -1,9 +1,24 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 799 of 1106
-SIZE: 287 characters
-PREVIOUS: chunk_0798_annual_report_text (1).txt
-NEXT: chunk_0800_annual_report_text (1).txt
-------------------------------
-s. The Group applies judgement in 
-evaluating whether it is reasonably certain whether or not to exercise the option to renew or terminate the lease. That is, it 
-considers all relevant factors that create an economic incentive for it to exercise either the renewal or termination. After
+December 31, 2022 
+December 31, 2023 
+Result from continuing operations before taxes 
+-430 
+-315 
+Tax charge/(profit) calculated based on local tax rates 
+1 996 
+-422 
+Unrecognized deferred tax assets 
+3 225 
+-51 
+Reversal/(Recognition) of deferred tax assets on available tax losses 
+-10 926 
+3 018 
+Utilisation of deferred tax assets 
+-149 
+-814 
+Tax-exempt transactions and non-deductible expenses 
+652 
+5 882 
+Tax exempt transactions - CIRD & Grants 
+-1 161 
+-1 105 
+Adjustments in respect of inc

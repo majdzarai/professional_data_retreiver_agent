@@ -1,18 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 248 of 1106
-SIZE: 624 characters
-PREVIOUS: chunk_0247_annual_report_text (1).txt
-NEXT: chunk_0249_annual_report_text (1).txt
-------------------------------
-commercial transactions (sales and supply 
-contracts), from financial assets and liabilities, and from net investments in non-Eurozone 
-operations. Approximately 5.0% of the Groups 
-sales (4.5% in 2022) are denominated in 
-currencies other than the functional currency of 
-the operating unit making the sales, while 97.0% 
-of costs (94.0% in 2022) are denominated in the 
-units functional currency. While the functional currency of the parent 
-company of the Group is the euro, the Groups 
-exposure to foreign currencies is related 
-primarily to the US dollar, Chinese yuan, Indian 
-rupee, Russian ruble and Canadian dollar.
+uests close interactions with all those 
+vendors. Quality risk / consumer protection / 
+product safety risk 
+IBA is required to comply with quality standards 
+in the manufacture of its medical devices and is 
+subject to the supervision of various national 
+authorities. Conditions imposed by such national 
+regulatory authorities could result in product 
+recalls or a temporary ban on products. This 
+could have an impact on IBAs reputation, customer satisfaction, and could lead to financial 
+losses. Errors or accidents could arise from the 
+operation of our products.

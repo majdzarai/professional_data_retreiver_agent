@@ -1,23 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1026 of 1106
-SIZE: 609 characters
-PREVIOUS: chunk_1025_annual_report_text (1).txt
-NEXT: chunk_1027_annual_report_text (1).txt
-------------------------------
-=== Page 185 ===
-IBA Annual Report 2021 
-182. CORPORATE NAME 
-Ion Beam Applications SA, abbreviated IBA SA. Following a resolution of the Extraordinary 
-General Meeting of shareholders of the 
-Company held on June 14, 2023 article 1 of the 
-bylaws has been amended and now reads as 
-follows: Article 1: The Company takes the form of a public limited 
-company. The name of the Company is Ion 
-Beam Applications and, in short, IBA. " 
-REGISTERED OFFICE 
-Chemin du Cyclotron, 3; B-1348 Louvain-la-
-Neuve, Belgium; enterprise 
-number 
-VAT 
-BE0428.750.985, Register of Legal Entities 
-(RLE) of the Walloon Brabant.
+407 194 
+1.34% 
+BNP Paris 
+528 425 
+1.75% 
+Norges Bank Investment Management 
+1 133 108 
+3.74% 
+Kempen Capital Management NV 
+875 388 
+2.89% 
+Public 
+14 870 343 
+49.11% 
+TOTAL 
+30 282 218 
+100.00%

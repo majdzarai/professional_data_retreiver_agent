@@ -1,30 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 333 of 1106
-SIZE: 689 characters
-PREVIOUS: chunk_0332_annual_report_text (1).txt
-NEXT: chunk_0334_annual_report_text (1).txt
-------------------------------
-result of a public 
-takeover bid 
-There are no such arrangements in place. vi) Controlling mechanism in a system of 
-staff-shareholding 
-There is no system of staff-shareholding in force 
-within the Company. vii) Legal restrictions or restrictions included 
-in the companys articles of association, on the exercise of voting rights 
-As of 31 December 2023, articles 27 and 28 of 
-the 
-Company's 
-coordinated 
-Articles 
-of 
-Association provide the following limitations: Article 27: === Page 71 ===
-IBA Annual Report 2023 
-68. IBA 
-No 
-shareholder 
-may, with 
-its 
-affiliated 
-companies and persons, vote at a general 
-assembly for more than 35% of the voting rights 
-issued by the Company.
+oyees, our shareholders, society, and the planet. Since 
+October 
+2020, the 
+Sustainability 
+Committee is considered as a full board meeting 
+with sustainability as a specific topic, as 
+sustainability is key for IBAs strategy. The name 
+has been changed to Sustainability Board. As of December 31, 2023, the Sustainanbility 
+Board consists of all members of the Board of 
+Directors. Bridging for Sustainability SRL 
+represented by its permanent representative Ms. Sybille van den Hove also chairs the meetings.

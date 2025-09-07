@@ -1,0 +1,18 @@
+{
+  "query": "purchase frequency analysis iba",
+  "timestamp": "2025-09-07 00:30:05",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": ") are accounted for using the acquisition method. During the purchase \nprice allocation process, IBA determines the fair value of the acquirees identifiable net assets, liabilities, and contingent \nliabilities and allocates the consideration to these. The consideration transferred for the acquisition of a subsidiary is measured at fair value and includes any contingent \nconsideration. It is common to have an element of variable consideration such as an earn out which is contingent to the \nfuture performance of the acquired business.",
+      "similarity_score": 0.4041484540159052
+    }
+  ]
+}

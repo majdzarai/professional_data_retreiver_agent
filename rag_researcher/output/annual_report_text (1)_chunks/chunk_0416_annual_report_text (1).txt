@@ -1,20 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 416 of 1106
-SIZE: 678 characters
-PREVIOUS: chunk_0415_annual_report_text (1).txt
-NEXT: chunk_0417_annual_report_text (1).txt
-------------------------------
-icer who remains the central 
-point of contact with the responsibility to monitor 
-compliance and follow up on reported incidents 
-of non-compliance. All complaints concerned 
-either potential conflicts of interests (Principle 1 
-of the Code of Business Conduct) or alleged 
-(attempts) of corruption (Principle 10 of the Code 
-of Business Conduct). The countries involved 
-were mainly China and Russia. No conclusive 
-evidence was found for any of the alleged 
-violations. The Compliance Officer reports on 
-the Code of Business Conduct (training, monitoring, investigations, conflict of interest 
-notifications and suggestions for improvement) 
-to the Companys Audit Committee.
+Remuneration related to shares (section 3: 6, 3, 2, of the BCAC) 
+Remuneration in the form of shares 
+No remuneration in form of shares was offered 
+in 2023. Three stock options plans are active: SOP2014 was granted on July 1st, 2014. This plan fully vested on January 1st, 2019 and will expire on June 30th, 2024. The exercise price is equal to the fair market 
+value of the share at grant, i.e. EUR 11.52 
+SOP2020 was granted on June 1st, 2020. This 
+plan fully vested on January 1st, 2024. 50% of 
+the options will expire on May 31st 2026, the 
+other 50% on May 31st 2030.

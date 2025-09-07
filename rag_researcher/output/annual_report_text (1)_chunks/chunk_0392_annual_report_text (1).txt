@@ -1,55 +1,23 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 392 of 1106
-SIZE: 598 characters
-PREVIOUS: chunk_0391_annual_report_text (1).txt
-NEXT: chunk_0393_annual_report_text (1).txt
-------------------------------
-CRO 
-EUR 
-a. 0% 
-b. 0 
-a. 150% 
-b. 56 764 
-a. 120% 
-b. 46 787 
-a. 10,36 
-b. 113 296 
-1. Managing Director and representative of Lamaris Group SRL 
-2. Managing Director and representative of Research Management Systems SRL and subsequently Exoplanets Research SRL 
-Total Remuneration of the Executive Management Team* 
-Title 
-Currency 
-Year 
-Annual fixed 
-remuneration 
-Annual variable 
-remuneration 
-Retirement 
-benefits 
-Other 
-benefits** 
-Executive 
+E PERIOD 
+TERMINATION AGREEMENT 
+Lamaris Group SRL, represented by Olivier 
+Legrain 
+Mandate: 2023; Management 
+agreement: 2011 
+Mandate: GM 
+2026; Management 
+agreement: indefinite 
+Mandate: None 
 Management 
-Team 
-EUR 
-% of 
-total 
-2023 
-568 974 
-77% 
-168 514 
-23% 
-- 
--% 
-- 
--% 
-EUR 
-% of 
-total 
-2022 
-475 463 
-72% 
-138 343 
-21% 
-17 375 
-3%
+agreement: 6 
+months or 
+equivalent 
+compensation 
+None. The management 
+agreement also contains a non-
+competitionobligation for the 
+duration of the agreement and 12 
+months thereafter 
+Exoplanets Research 
+SRL, represented by 
+Yves Jongen

@@ -1,18 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 475 of 1106
-SIZE: 210 characters
-PREVIOUS: chunk_0474_annual_report_text (1).txt
-NEXT: chunk_0476_annual_report_text (1).txt
-------------------------------
-screening. And we closely survey the applicable 
-and 
-forthcoming 
-non-financial 
-reporting 
-regulations (GRI 2021, taxonomy, CSRD, due 
-diligence). THE 
-NEW 
-AND 
-FORTHCOMING 
-EU 
-SUSTAINABLE FINANCE LANDSCAPE
+bribery matters are described 
+above, in the dedicated Section Principal Risks 
+and Uncertainties faced by the Company 
+(Sections 3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the BCAC).In order to limit its bribery and 
+corruption risk, IBA is continuously identifying 
+the specific risks it could be exposed to by (i) 
+strictly analyzing third-party providers (with 
+whom we are working) reputation including anti-
+money laundering due diligence, (ii) examining 
+transactions with governments or governme

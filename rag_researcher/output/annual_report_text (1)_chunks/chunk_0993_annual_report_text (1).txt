@@ -1,12 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 993 of 1106
-SIZE: 574 characters
-PREVIOUS: chunk_0992_annual_report_text (1).txt
-NEXT: chunk_0994_annual_report_text (1).txt
-------------------------------
-is characterised by a consolidated statement of financial position 
-total of EUR 597.528 thousands and a loss for the period of EUR 9.110 thousands. In our opinion, the consolidated accounts give a true and fair view of the Groups net equity and 
-consolidated financial position as at 31 December 2023, and of its consolidated financial performance 
-and its consolidated cash flows for the year then ended, in accordance with International Financial 
-Reporting Standards as adopted by the European Union and with the legal and regulatory 
-requirements applicable in Belgium.
+abilities are recognised initially at fair value. Subsequent measurement 
+For purposes of subsequent measurement, financial liabilities are classified in two categories: Financial liabilities at fair value through profit or loss: This category mainly includes derivative financial 
+instruments entered into by the Group that are not designated as hedging instruments in hedge relationships as 
+defined by IFRS 9 and explained above

@@ -1,17 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 154 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0153_annual_report_text (1).txt
-NEXT: chunk_0155_annual_report_text (1).txt
-------------------------------
-t beneficial 
-treatment for their cancer, and they bring more efficient 
-and more environmentally friendly industrial technologies 
-to our customers. IBA also supports patients and their families, in partnership 
-with those working in the field and by encouraging voluntary 
-citizen actions by its employees: sponsorship, facilities 
-sharing, donations from employee initiatives such as Relay 
-for Life, FunRun, Rock Against Cancer or Golf Against 
-Cancer events. Associations such as Compass to Care Childhood Cancer 
-Foundation in the US, Muni Seva Ashram in India, La Vie-
-la and LEssentiel in Bel
+=== Page 42 ===
+ENGAGING WITH OUR SUPPLY CHAIN
+We believe that a strong and responsible supply chain benefits 
+our community. IBA has more than 100 main suppliers worldwide supporting 
+its design and product manufacturing. The majority of IBA 
+suppliers are located in Europe. IBA suppliers have been 
+selected for their ability to best comply with requirements as 
+stipulated by ISO 13485:2016. The selection and qualification 
+process of a supplier considers the criticality of the supplied 
+goods and services.

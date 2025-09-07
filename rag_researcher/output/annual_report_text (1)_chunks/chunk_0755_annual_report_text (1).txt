@@ -1,29 +1,42 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 755 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0754_annual_report_text (1).txt
-NEXT: chunk_0756_annual_report_text (1).txt
-------------------------------
-=== Page 139 ===
-IBA Annual Report 2023 
-136. 4.6.2 Deferred tax 
- (EUR 000) 
-December 31, 2022 
+ces* 
+4 252 
+127 716 
+229 303 
+361 270 
+Non-current assets 
+85 977 
+11 262 
+25 912 
+123 150 
+Current assets 
+346 033 
+35 382 
+119 060 
+500 476 
+Segment assets 
+432 010 
+46 644 
+144 972 
+623 626 
+Investments accounted for using the equity method 
+273 
+0 
+0 
+273 
+TOTAL ASSETS 
+432 283 
+46 644 
+144 972 
+623 899 
+Capital expenditure Intangible assets and Property, Plant and Equipment 
+5 957 
+184 
+1 188 
+7 329 
 December 31, 2023 
-DEFERRED TAX ASSETS 
-Deferred tax assets to be recovered after 12 months Tax losses on carry-forward 
-15 917 
-13 649 
-Deferred tax assets to be recovered after 12 months - Temporary differences 
-426 
-400 
-Deferred tax assets to be recovered within 12 months - Tax losses on carry-forward 
-0 
-0 
-Deferred tax assets to be recovered within 12 months - Temporary differences 
-4 607 
-4 313 
-TOTAL 
-20 950 
-18 363 
-Deferred tax liabilities netted against the deferred tax assets in the sta
+Belgium 
+USA 
+ROW 
+Group 
+Sales of equipment, licences and services* 
+-

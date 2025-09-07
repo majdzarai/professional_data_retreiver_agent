@@ -1,11 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 900 of 1106
-SIZE: 546 characters
-PREVIOUS: chunk_0899_annual_report_text (1).txt
-NEXT: chunk_0901_annual_report_text (1).txt
-------------------------------
-Accounting policy for defined contribution plans 
-The Group operates a contribution-based plan funded through payments to an insurance company. IBA guarantees a 
-minimum return on employer contributions resulting in a financial risk to be borne by the Group. Following the evolution with respect of minimum guaranteed return, the plans are to be considered as defined benefit plans 
-and are accounted for using the projected unit credit method. This method considers that each service period gives rise to 
-an additional benefit entitlement unit.
+IBA has granted a convertible loan to its 
+Joint Venture Pantera for EUR 1.0 million 
+which has a maturity July 2026. The increase of non-trade receivable for 
+EUR 2.7million. Non-trade receivables are 
+mainly composed of VAT receivable for 
+EUR 11.4 million (EUR 8.0 million in 2022) 
+and grants receivable for EUR 2.8 million 
+(EUR 2.9 million in 2022). === Page 154 ===
+IBA Annual Report 2023 
+151. 5.8. CASH AND CASH EQUIVALENTS

@@ -1,16 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 33 of 1106
-SIZE: 644 characters
-PREVIOUS: chunk_0032_annual_report_text (1).txt
-NEXT: chunk_0034_annual_report_text (1).txt
-------------------------------
-diation can be further optimized to reduce the total 
+ered is part of a more 
+eco-responsible approach. Coupled with the latest technologies in terms of green energy 
+production, increased efficiency of the ionization process, recovery of fatal calories, co-generation, numerical modelling, digitalization, and product handling developed for the logistics 
+industry, irradiation can be further optimized to reduce the total 
 ecological footprint of the sterilization industry compared to 
-other established technologies. INNOVATION
-In addition to enhancing its current equipments and solutions, like the so-called variable scan, introducing innovative 
-scanning techniques to simplify and broaden access to X-ray 
-technology, and collaborating with its partner TRAD to develop 
-the new Monte Carlo radiation treatment module, IBA has 
-clearly positioned itself as a driving force in the deployment 
-of emerging technologies for food ionization and environmental 
-applications such as wastewater treatment and PFAS:.
+other established technologies.

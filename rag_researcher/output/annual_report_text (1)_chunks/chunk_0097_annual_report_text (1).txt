@@ -1,16 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 97 of 1106
-SIZE: 674 characters
-PREVIOUS: chunk_0096_annual_report_text (1).txt
-NEXT: chunk_0098_annual_report_text (1).txt
-------------------------------
-as built a 
-strong and reliable service team to guarantee the availability of 
-its proton therapy technology and consistently achieve system 
-uptime. IBA provides support teams, parts, and processes 
-to provide full system operation and maintenance services 
-while guaranteeing the highest performance standards on its 
-state-of-the-art technology. IBA understands that in order to start, maintain and grow a 
-proton therapy center, cancer centers need an experienced 
-partner who is there for them every step of the way. Its services provide the necessary expertise, confidence, training and support to ensure proton therapy centers are 
-successful from the very beginning.
+smart expansions 
+whenever patient demand grows. It is also designed to be 
+compatible with upcoming proton therapy innovations, futureproofing centers for years to come. THE MOST VERSATILE SYSTEM ON THE MARKET
+From routine to research, ProteusONEs high modularity allows 
+customers to select the best configuration for their center, and 
+gives physicians the flexibility to choose the best treatment 
+option for their patients.

@@ -1,14 +1,56 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 833 of 1106
-SIZE: 370 characters
-PREVIOUS: chunk_0832_annual_report_text (1).txt
-NEXT: chunk_0834_annual_report_text (1).txt
-------------------------------
-nted for as an equity 
-investment financial asset under IFRS9, at fair 
-value and gains and losses will be recognised 
-in Other Comprehensive Income. Given that the 
-shares were recently acquired, the price paid is 
-considered as the fair value of the investment. Rutherford Estates Ltd 
-IBA had share investments in Rutherford 
-Estates Ltd which were valued at EUR 11.1
+3 
+1 103 
+2 511 
+0 
+8 991 
+Disposals 
+-6 
+-461 
+-433 
+0 
+-309 
+-636 
+0 
+-1 845 
+Accumulated depreciation of assets 
+acquired in business combinations 
+0 
+0 
+49 
+0 
+98 
+0 
+0 
+147 
+Currency translation difference 
+20 
+58 
+60 
+0 
+71 
+3 
+0 
+212 
+Accumulated depreciation as at 
+December 31, 2022 
+11 557 
+10 212 
+13 997 
+11 
+11 981 
+5 449 
+0 
+53 207 
+Net carrying amount as at January 
+1, 2022 
+11 366 
+23 943 
+4 110 
+17 
+3 197 
+5 606 
+408 
+48 647 
+Net carrying amount as at 
+December 31, 2022 
+11 173

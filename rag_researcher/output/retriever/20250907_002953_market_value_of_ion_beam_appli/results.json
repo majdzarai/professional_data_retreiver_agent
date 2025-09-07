@@ -1,0 +1,18 @@
+{
+  "query": "Market value of Ion Beam Applications SA",
+  "timestamp": "2025-09-07 00:29:53",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosimetry America Inc. Bartlett, USA \n100% \n100% \nIBA Proton Therapy Inc. Edgewood New York, USA \n100% \n100% \nIBA Industrial Inc. Edgewood New York, USA \n100% \n100% \nIBA USA Inc. Edgewood New York, USA \n100% \n100% \nIBA Particle Therapy Ltd.",
+      "similarity_score": 0.4081681216464323
+    }
+  ]
+}

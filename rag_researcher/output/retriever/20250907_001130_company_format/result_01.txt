@@ -1,0 +1,9 @@
+Result #1 (Score: 0.3681)
+================================================================================
+cordance with ESEF requirements, of 
+the consolidated financial statements in the form of an electronic file in ESEF format (hereinafter 
+digital consolidated financial statements) included in the annual financial report. Our responsibility is to obtain sufficient appropriate evidence to conclude that the format [and marking 
+language] of the digital consolidated financial statements comply in all material respects with the 
+ESEF requirements under the Delegated Regulation.
+================================================================================
+

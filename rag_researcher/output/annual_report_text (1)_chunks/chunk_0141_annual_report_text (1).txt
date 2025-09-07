@@ -1,17 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 141 of 1106
-SIZE: 637 characters
-PREVIOUS: chunk_0140_annual_report_text (1).txt
-NEXT: chunk_0142_annual_report_text (1).txt
-------------------------------
-=== Page 40 ===
-All IBA employees have access to a global high-quality 
-Employee Assistance Program, regardless of where they live 
-and work, providing assistance in the local language in more 
-than 70 countries. Through this program, practical information and counselling 
-on a variety of topics is available to employees and their 
-relatives, and counselling is offered at the most convenient 
-time and location. ENCOURAGING LOW IMPACT MOBILITY
-IBA encourages efficient, low-impact and healthy mobility. We offer attractive leasing conditions to our employees 
-for low-impact mobility vehicles, such as electric bicycles 
-and scooters.
+=== Page 39 ===
+COMMITTED TO HEALTH, WELLNESS 
+AND SAFETY
+Respect for universal human rights is at the core of IBAs 
+business. IBA is committed to providing a positive, productive, and 
+safe work environment with freedom of association, good 
+ergonomics and great employee facilities. We promote 
+the prevention of involuntary labor and human trafficking, as well as the prevention of underage labor and burnout, in a work environment that is free from violence, threats, harassment, intimidation, mental or physical coercion, and other disruptive behavior.

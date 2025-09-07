@@ -1,15 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 44 of 1106
-SIZE: 551 characters
-PREVIOUS: chunk_0043_annual_report_text (1).txt
-NEXT: chunk_0045_annual_report_text (1).txt
-------------------------------
-year. Through strong digitalization and sustainability 
-programs, this performance will continue to advance and lead 
-the market in the coming years. In 2023, IBA has introduced a new level of X-Ray integration 
-and automation, including robotize quality control. X-Ray represents today around 50% of the activity 
-of IBA Industrial. GETTING READY FOR THE FUTURE 
-THROUGH DIGITALIZATION
-In 2023, digitalization emerged as a pivotal focus area, marked 
-by the initiation of several projects that have already yielded 
-notable successes. These include:.
+increased 
+accessibility, ease of use, and reliability of the technology, prompting major players in the sector to invest more heavily 
+in in-house resources. THE RISE OF X-RAY
+Since the 1990s, IBA has been the pioneer of X-ray irradiation 
+and until 2020, only one reference site in Switzerland was 
+operational around the world. X-ray technology is now seeing 
+a faster acceptance and utilization in all regions of the world. Several new sites were commissioned in 2023, and more than 
+15 new sites will be available to customers from 2027.

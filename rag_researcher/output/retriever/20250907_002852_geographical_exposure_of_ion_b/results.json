@@ -1,0 +1,18 @@
+{
+  "query": "geographical exposure of Ion Beam Applications SA for credit risk",
+  "timestamp": "2025-09-07 00:28:52",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "2022), and unused overdraft \nfacilities in China. Credit facilities \nIBA SA has access to EUR 44.5 million (initially, EUR 67 million) syndicated credit facilities in the \nform of EUR 40 million revolving credit facilities \nmaturing in December 2024. The revolving \ncredit facilities remained undrawn as of \nDecember 31, 2023. In China, the CNY 35 million overdraft facility \n(borrower: Ion Beam Applications Co. Ltd) was \nmaintained for the same amount (undrawn). Covenant risk \nThe above-mentionned facilities are subject to \ncertain financial covenants.",
+      "similarity_score": 0.4038251076975176
+    }
+  ]
+}

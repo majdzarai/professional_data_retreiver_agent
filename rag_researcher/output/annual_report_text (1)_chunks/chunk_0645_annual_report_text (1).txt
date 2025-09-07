@@ -1,22 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 645 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0644_annual_report_text (1).txt
-NEXT: chunk_0646_annual_report_text (1).txt
-------------------------------
-incurred 
-in 
-fullfilling 
-IBA 
-Russias 
-obligations under the contract; The stock of spare parts held on site is 
-sufficient to provide for a normal level of 
-maintenance service to the site for at least 
-12 months; in addition all supplies required 
-for the installation contract are already on 
-site, ready to be consumed; Management has also made the assessment 
-that cash can be repatriated in the form of 
-dividend as these are not blocked under the 
-current sanctions and therefore, IBA has access 
-to the liquidities kept in Russia and the ability to 
-receive a return from its Russian subsid
+aries and equity-
+accounted investments. 172 
+13. Fees for services rendered by the 
+statutory auditors. 173 
+14.Events after the reporting date. 173 
+15. Glossary of alternative performance 
+measures (APM). 174 
+16. Auditors report on the consolidated 
+financial statement. 175

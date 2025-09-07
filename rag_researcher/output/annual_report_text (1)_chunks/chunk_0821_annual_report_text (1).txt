@@ -1,19 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 821 of 1106
-SIZE: 649 characters
-PREVIOUS: chunk_0820_annual_report_text (1).txt
-NEXT: chunk_0822_annual_report_text (1).txt
-------------------------------
-PanTera SA/NV 
-In 2022, IBA established a strategic R&D 
-partnership as a Joint Venture with SCK-CEN 
-(Belgian Nuclear Research Center). Both 
-entities participate for 50% of the share capital 
-with an initial contribution of EUR 0.3 million. The JV is established in Belgium and will be 
-active in nuclear medicine, more specifically it 
-will develop, produce and distribute the isotope 
-Ac-225. The project is still at a very early stage 
-and is expected to start small quantities of early 
-supply from 2024 and large quantities of 
-commercial production from 2028. IBAs contribution of EUR 18.2 million during the 
-year is detailed in 2.4. above.
+have been acquired at fair value (determined as the average annual 
+market share price of the Companys shares) based on the monetary value of the subscription rights attached to outstanding 
+stock options. The number of shares calculated is then compared with the number of shares that would have been issued 
+assuming the exercise of the stock options. === Page 142 ===
+IBA Annual Report 2023 
+139. 5. Statement of financial position 
+5.1.

@@ -1,27 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 381 of 1106
-SIZE: 525 characters
-PREVIOUS: chunk_0380_annual_report_text (1).txt
-NEXT: chunk_0382_annual_report_text (1).txt
-------------------------------
-=== Page 77 ===
-IBA Annual Report 2023 
-74. IBA 
-Remuneration report Managing 
-Directors 
-and 
-Executive 
-Management Team in 2023 
-This 
-remuneration 
-report 
-outlines 
-the 
-implementation of the remuneration policy and 
-will be annually submitted to the Annual 
-Shareholders Meeting for an advisory vote 
-Shareholder vote (section 7: 149, 3, of the 
-BCAC). Annual Shareholders Meeting advisory vote on 
-the previous remuneration report was 85,85 % in 
-favor. No remarks were made to consider for the 
-edition of this report.
+Annual Fixed Remuneration 
+Annual fixed remuneration is a cash component 
+of remuneration, defined in accordance with an 
+individuals position, as well as his or her 
+competencies and experience in the position. Annual Variable Remuneration 
+The annual variable remuneration program 
+rewards 
+performance 
+against 
+specified 
+objectives, defined and formalized at the 
+beginning of the performance period. Payout 
+levels currently are targeted at between 15% and 
+50% of annual fixed remuneration, depending on 
+the position. Actual payout levels are subject to 
+IBAs performance.

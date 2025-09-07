@@ -1,32 +1,23 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 802 of 1106
-SIZE: 536 characters
-PREVIOUS: chunk_0801_annual_report_text (1).txt
-NEXT: chunk_0803_annual_report_text (1).txt
-------------------------------
-ecember 31, 2022 
-December 31, 2023 
-(EUR 000) 
-Proton therapy and Other 
-accelerators 
-Dosimetry 
-Proton therapy and Other 
-accelerators 
-Dosimetry 
-Amount recognised 
+hin 12 months - Temporary differences 
+4 607 
+4 313 
+TOTAL 
+20 950 
+18 363 
+Deferred tax liabilities netted against the deferred tax assets in the statement of 
+financial position for entities that are part of the same fiscal group 
+-739 
+-737 
+Total DTA recognised 
+20 211 
+17 626 
+DEFERRED TAX LIABILITIES 
+Deferred tax liabilities to be paid after 12 months - temporary differences 
+1 495 
+1 023 
+Deferred tax liabilities to be paid within 12 months - temporary differences 
 0 
-10 262 
-21 
-10 173 
-Pre-tax discount rate applied (1) 
-n/a 
-3.44% 
-n/a 
-8.33% 
-Long-term growth rate (2) 
-n/a 
-3.60% 
-n/a 
-4.30% 
-(1) The pre tax discount rate used has been derived from the WACC specific to Dosimetry entities. (2) Rate consistent with expected growth in the sector. The recoverable amount of goodwill has been 
-determined on a value in use basis.
+0 
+TOTAL 
+1 495 
+1

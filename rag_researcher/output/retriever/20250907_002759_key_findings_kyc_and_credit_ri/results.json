@@ -1,0 +1,18 @@
+{
+  "query": "Key findings KYC and credit risk analysis IBA SA",
+  "timestamp": "2025-09-07 00:27:59",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "=== Page 164 ===\nIBA Annual Report 2023 \n161. 7. Description of financial risk management \n(sections 3:6, 1, 8 and 3:32, 1, 5, of the \nBCAC) \n7.1. DESCRIPTION OF FINANCIAL RISKS \nThe Group has decided to present its financial \nrisks with the other principal identified risks in \nthe section Principal risks and uncertainties \nfaced by the company starting on page 51. These include credit risk, foreign currency risk, interest rate risk, liquidity risk, covenant risks. 7.2.",
+      "similarity_score": 0.416570258140564
+    }
+  ]
+}

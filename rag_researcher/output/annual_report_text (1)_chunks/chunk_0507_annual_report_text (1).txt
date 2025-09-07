@@ -1,18 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 507 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0506_annual_report_text (1).txt
-NEXT: chunk_0508_annual_report_text (1).txt
-------------------------------
-tina. As at December 31, 2023, the Group recognises 
-a tax expense for an amount of EUR -8.8 million 
-representing -2792.1% of the profit before tax. The tax charge results from margin recognised 
-in some countries with a relatively high tax rate 
-as well as a partial reversal of the deferred tax 
-assets. As a result of the above effects, IBA reported a 
-net loss of EUR -9.1 million down from a gain of 
-EUR 6.1 million in the prior year. CONSOLIDATED FINANCIAL POSITION AND 
-FINANCIAL STRUCTURE 
-The Groups non-current assets amount to EUR 
-145.5 million, increased by EUR 22.1 million 
-during th
+or the protection of human rights 
+and labor law. An activity is considered 
+taxonomy-aligned if it makes a substantial 
+contribution to one or more objectives, without 
+significantly undermining the other objectives, and if it also complies with the defined minimum 
+safeguards. Different means may be required for an activity 
+to make a substantial contribution to each 
+objective. The 
+EU 
+Taxonomy 
+Regulation 
+requires the disclosure of the percentage of 
+turnover, capital 
+expenditure 
+(CapEx)

@@ -1,15 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 63 of 1106
-SIZE: 521 characters
-PREVIOUS: chunk_0062_annual_report_text (1).txt
-NEXT: chunk_0064_annual_report_text (1).txt
-------------------------------
-y working 
-on several levels: 1. By reducing the size of the radiopharmacy where 
-the radiopharmaceutical tracers for cancer diagnosis 
-are produced. The IntegraLabONE solution is the most 
-compact radiopharmacy solution on the market, facilitating 
-installation and reducing the building cost. 2. By increasing the cyclotron production capacity for the 
-production of isotopes in the radioactive tracers, IBAs 
-CycloneKIUBE cyclotron offers the highest production 
-capacity enabling increased diagnostic capabilities. 3.
+Watch the video: IBA CycloneKey - 
+F-18 access granted! IMPROVED DIAGNOSIS ACCESS 
+World Health Organization1 (WHO) figures from 2022 
+indicate that 10 million people die from cancer each 
+year, and yet patients lives and chances of survival are 
+significantly improved if the cancer is detected early. In fact, a cancer diagnosed at an earlier stage is more likely 
+to be treated successfully, resulting in a higher likelihood 
+of survival, reduction of morbidity and lower cost of care.

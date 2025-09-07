@@ -1,8 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1005 of 1106
-SIZE: 228 characters
-PREVIOUS: chunk_1004_annual_report_text (1).txt
-NEXT: chunk_1006_annual_report_text (1).txt
-------------------------------
-accounting unless the board of directors either intends to liquidate 
-the Group or to cease operations, or has no realistic alternative but to do so. Statutory auditors responsibilities for the audit of the consolidated accounts
+oted market price or is calculated using pricing. Fair values 
+of hedging instruments are determined by valuation techniques widely used in financial markets that are taking into account 
+current market rates as well as the trade dates of the underlying transactions and are provided by reliable financial 
+information sources. The fair value of these instruments generally reflects the estimated amount that IBA would receive on the settlement of 
+favorable contracts or be required to pay to termin

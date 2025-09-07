@@ -1,16 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 66 of 1106
-SIZE: 590 characters
-PREVIOUS: chunk_0065_annual_report_text (1).txt
-NEXT: chunk_0067_annual_report_text (1).txt
-------------------------------
-n equipment with a streamlined 
-production process of 13N-ammonia, one of the most 
-recognized radiotracers in cardiac imaging institutes 
-worldwide. The system is a single button solution making it 
-a convenient and efficient tool for on-demand production. It is designed to be operated by a trained technologist, with a 
-ready-to-use ammonia dose produced approximately every 
-ten minutes, resulting in a higher daily patient throughput and 
-a better return-on-investment. Cardiac PET imaging can be very useful 
-for the management of many patients 
-with suspected or known heart disease.
+ty enabling increased diagnostic capabilities. 3. By offering adjustable production solutions, the Cyclone
+KIUBE produces the widest range of radioisotopes, enabling 
+it to produce fluorodeoxyglucose (FDG, the most commonly 
+used radiopharmaceutical for cancer diagnosis), Gallium-68 
+for the diagnosis of neuroendocrine tumors, and Copper-64 
+for a more accurate diagnosis of prostate cancer. CycloneKEY 
+CORPORATE BROCHURE 2024
+IBA
+17

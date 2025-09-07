@@ -1,16 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 720 of 1106
-SIZE: 530 characters
-PREVIOUS: chunk_0719_annual_report_text (1).txt
-NEXT: chunk_0721_annual_report_text (1).txt
-------------------------------
-ease of EUR 11.8 
-million is primarily explained by the progress 
-made on some customer sites, despite the level 
-of billings remaining high in 2023. As at December 31, 2023 and December 31, 2022, IBA did not identify any risk related to the 
-recoverability of these contract assets; as a 
-result, no allowance for expected credit loss 
-was recognised. === Page 134 ===
+=== Page 127 ===
 IBA Annual Report 2023 
-131. Accounting policy on revenue recognition 
-IBA has the following revenue streams which will determine how the revenue is recognised.
+124. loan can be converted into shares with the 
+conversion price set in the agreement if some 
+conditions are met, in which case interests are 
+forfeited. Given the materiality, interests have 
+been accrued and the fair value of the equity 
+element has not been determined separately. 2.5. SIGNIFICANT ACCOUNTING ESTIMATES AND 
+JUDGEMENTS
+In preparing these consolidated financial 
+statements, management is required to make 
+estimates and judgements that af

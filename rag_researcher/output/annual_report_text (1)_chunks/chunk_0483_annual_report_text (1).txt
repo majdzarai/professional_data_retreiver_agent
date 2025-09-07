@@ -1,19 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 483 of 1106
-SIZE: 571 characters
-PREVIOUS: chunk_0482_annual_report_text (1).txt
-NEXT: chunk_0484_annual_report_text (1).txt
-------------------------------
-tly identifies eligible 
-activities among seven different sectors, as 
-making a substantial contribution to any of the 
-six environmental objectives. IBA core activities 
-are classified under NACE C26.6 (26600) 
-Manufacture of irradiation, electromedical and 
-electrotherapeutic equipment9). No portion of 
-IBA turnover is currently attributable to the 
-economic activities covered by the current 
-taxonomy. Capital expenditure (CapEx) 
-In 2023, IBA taxonomy-eligible capital 
-expenditure relates to: installation of bike shelter infrastructures 
-(taxonomy category 6.15)
+al crisis and associated 
+impact on Human Rights. The environment (the 
+Planet) is therefore included as one of the five 
+stakeholders of IBA and receives central 
+attention in the day-to-day work within the 
+Company. Compliance with Human Rights is not only 
+required by IBA and its employees, but also from 
+its customers and suppliers. Through its Code of 
+Conduct for Suppliers, the Company ensures to 
+work with third parties that share its commitment 
+to Human Rights and that do not violate the 
+Human 
+Rights 
+of 
+their 
+employees.

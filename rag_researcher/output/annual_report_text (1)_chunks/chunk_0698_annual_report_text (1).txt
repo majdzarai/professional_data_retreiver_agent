@@ -1,16 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 698 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0697_annual_report_text (1).txt
-NEXT: chunk_0699_annual_report_text (1).txt
-------------------------------
-iew presented in the management report 
-*Financial intercompany position between segments is excluded from the assets and liabilities of the segment. For the year-ended December 31, 2023, the 
-Group revenue was EUR 428.7 million, a 18.7% 
-increase from 2022 (2022: EUR 361.3 million), primarily composed of: External revenues for the Proton Therapy 
-and Other Accelerators segment of EUR 
-366.4 million representing an increase of 
-18.65% from 2022 (2022: 308.8 EUR 
-million): the revenue of Proton Therapy activities 
-amounts to EUR 229.1 million (2022: EUR 218.8 million), showing a slow 
-increase
+capacities and consequently affect our 
+revenue. A high level assessment has been 
+performed with an expected potential loss 
+of revenue of EUR 1.0 million per year. As 
+a result, we foresee a dialogue with our key 
+suppliers and the supplier code of conduct, as well as the internal sourcing policy which 
+will 
+be 
+amended 
+to 
+reflect 
+stricter 
+requirements. Risk: Carbon pricing mechanisms could 
+increase direct costs.

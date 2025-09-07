@@ -1,27 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 662 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0661_annual_report_text (1).txt
-NEXT: chunk_0663_annual_report_text (1).txt
-------------------------------
-replacement of its 
-infrastructure and facilities; We have not identified any additional risk of 
-expected 
-credit 
-loss 
-on 
-our 
-trade 
-receivables and other financial assets; As the commitments for carbon emissions 
-reductions, waste management and water 
-consumtion described above relate to future 
-events and actions are to be taken, we have 
-not 
-identified 
-constructive 
-obligations 
-resulting from these commitments, nor the 
-need to record any operational onerous 
-contract provisions other than those already 
-presented in these consolidated financial 
-statements; Currently, IBA is not i
+e 
+confirming the current practices of the Group. Amendments to IAS 1 and IFRS 
+Practice Statement 2 - Disclosure of 
+Accounting Policies 
+The IASB provides guidance and examples to 
+help entities apply materiality judgements to 
+accounting 
+policy 
+disclosures. The 
+amendments aim to help entities provide 
+accounting policy disclosures that are more 
+useful by replacing the requirement for entities 
+to disclose their significant accounting policies 
+with a requirement to disclose their material

@@ -1,21 +1,37 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1106 of 1106
-SIZE: 447 characters
-PREVIOUS: chunk_1105_annual_report_text (1).txt
-------------------------------
-=== Page 199 ===
-iba-worldwide.com
-Contact IBA
-Corporate Communication
-Tel. +32 10 47 58 90
-E-mail: communiation@iba-group.com
-Ion Beam Applications, SA
-Chemin du Cyclotron, 3
-1348 Louvain-la-Neuve, Belgium
-Tel. +32 10 47 58 11 - Fax: +32 10 47 58 10
-RPM Nivelles - TVA: BE 428.750.985
-E-mail: info-worldwide@iba-group.com
-www.iba-worldwide.com
-E.R. IBA SA, chemin du Cyclotron, 3
-1348 Louvain-la-Neuve, Belgium
-Design & Production: www.thecrew.be
+Sub-total 
+ 606 885 
+2,00% 
+ 606 885 
+2,00% 
+Sustainable Anchorage SRL 
+6 204 668 
+20,49% 
+6 204 668 
+20,49% 
+IBA Investment SCRL 
+ 51 973 
+0,17% 
+ 51 973 
+0,17% 
+Management Anchorage 
+ 348 530 
+1,15% 
+ 348 530 
+1,15% 
+SRIW SA
+
+58 200 
+0,19% 
+ 58 200 
+0,19% 
+Belfius Insurance SA 
+1 189 196 
+3,93% 
+1 189 196 
+3,93% 
+Institut des Radioelements FUP 
+1 423 271 
+4,70% 
+1 423 271 
+4,70% 
+BNP Paris

@@ -1,25 +1,31 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 638 of 1106
-SIZE: 646 characters
-PREVIOUS: chunk_0637_annual_report_text (1).txt
-NEXT: chunk_0639_annual_report_text (1).txt
-------------------------------
-urrency, which is the currency of the primary economic 
-environment in which they operate and 
-corresponds for most of them to their local 
-currency. All monetary and non-monetary assets and 
-liabilities (including goodwill) are translated to 
-euros at the closing rate. Income and expenses 
-are translated at the average rate for the month, except 
-for 
-foreign 
-operations 
-in 
-hyperinflationary 
-economies 
-which 
-are 
-translated at the closing rate of the year. Differences arising from translation at these 
-different rates are recognized directly in equity 
-under Currency translation difference and 
-have no impact on the Income Statement.
+s and liabilities 
+-7 615 
+19 564 
+Changes in working capital 
+26 117 
+-18 525 
+Net income tax paid/received 
+-4 418 
+-2 521 
+Interest expense 
+2 049 
+742 
+Interest income 
+-1 496 
+-1 650 
+Net cash (used)/generated from operations 
+21 712 
+-19 769 
+CASH FLOW FROM INVESTING ACTIVITIES 
+Acquisition of property, plant and equipment 
+8 
+-3 231 
+-5 265 
+Acquisition of intangible assets 
+7.2 
+-4 098 
+-7 049 
+Repayment received on shareholder loan 
+37 
+37 
+Acquisition of subsidiaries, net of cash acqui

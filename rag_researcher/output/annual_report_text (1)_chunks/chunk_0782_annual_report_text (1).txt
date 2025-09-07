@@ -1,13 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 782 of 1106
-SIZE: 639 characters
-PREVIOUS: chunk_0781_annual_report_text (1).txt
-NEXT: chunk_0783_annual_report_text (1).txt
-------------------------------
-licy for intangible assets 
-Goodwill: the accounting policy for recognising and measuring goodwill is described in Note 3, Business 
-combinations 
-Software, research and development and other intangible assets:Expenditures for the development of new products and 
-software are recognized as intangible assets if such expenditures, with a high degree of certainty, will result in future 
-economic benefits for the company. IBA applies the criteria strictly and in most cases development costs are expensed when 
-incurred. Amortisation: Each asset is amortised over its useful life using the straight-line method and assets are not revalued.
+The reorganization expense mainly relates to 
+the costs incurred in this discontinuation of the 
+Dynamitron business (described in Note 3.2.) 
+that will not be recovered. In 2022, the 
+expenses included the one-off past service cost 
+of EUR 1.9 million related to the pension plan 
+transfer and is triggered by the fact that 
+additional guarantees until retirement have 
+been granted to all employees. 4.4.2 Other operating Income 
+The other operating income can be broken down as follows: (EUR 000)

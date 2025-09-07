@@ -1,24 +1,42 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 435 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0434_annual_report_text (1).txt
-NEXT: chunk_0436_annual_report_text (1).txt
-------------------------------
-porting as much as possible any 
-personal or collective initiative that would 
-help reduce the impact of the Companys 
-activities on the environment. IBA is attentive to the impact of its activities, products, and services on the environment and 
-takes measures to decrease its ecological 
-footprint, including initiatives to: consume 
-less 
-energy 
-and 
-resources 
-(including promoting circular economy and 
-sustainable transport) through ecodesign 
-practices; reduce emissions (in particular greenhouse 
-gas); protect surrounding nature (substance of 
-concern 
-management, ground 
-and 
-groundwater
+0 
+NONE 
+Hausmann Consulting, represented by 
+Dr. Richard Hausmann (independent 
+director) 
+32 400 
+6 000 
+BM 
+AC 
+CC/NC 
+MAC 
+PC 
+SC 
+OTHER 
+12 000 
+6 400 
+4 800 
+N/A 
+3 200 
+N/A 
+NONE 
+Nextstepefficiency SAS l, represented by 
+Christine Dubus (independent director, chairwoman of the Audit Committee) 
+39 400 
+9 000 
+BM 
+AC 
+CC/NC 
+MAC 
+PC 
+SC 
+OTHER 
+12 000 
+8 800 
+4 800 
+N/A 
+3 200 
+1 600 
+NONE 
+Bridging for Sustainability, represented 
+by Sybille van den Hove (independent 
+director, chairwoma

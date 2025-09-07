@@ -1,11 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 190 of 1106
-SIZE: 212 characters
-PREVIOUS: chunk_0189_annual_report_text (1).txt
-NEXT: chunk_0191_annual_report_text (1).txt
-------------------------------
-Other Accelerators REBIT on the other hand 
-grew strongly to a record EUR 23.7 million, attributable to growing order intake, high value 
-backlog conversion and the growth of its 
-Services revenue 
-Proton therapy
+Seven PT rooms sold, comprising one 
+ProteusPLUS1 and three ProteusONE1 
+systems sold, and the restoration of an 
+existing three-room solution in the US 
+(2022: 17 rooms)
+
+Continued good progress of IBA and SCK 
+CENs joint venture PanTera for the 
+production 
+of 
+actinium-225, with 
+collaborations 
+secured 
+with 
+supplier 
+TerraPower and post-period end, with Bayer 
+and another undisclosed customer

@@ -1,12 +1,3 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 468 of 1106
-SIZE: 317 characters
-PREVIOUS: chunk_0467_annual_report_text (1).txt
-NEXT: chunk_0469_annual_report_text (1).txt
-------------------------------
-us and inspiration to others. Inspired by the findings along the B Corp 
-certification process, we mapped our strengths 
-and weaknesses as a company. From there, we 
-identified 4 strategic sustainability streams to 
-work on,with a third of company targets linked to 
-related B Corp objectives. SUSTAINABILITY PROGRESS
+licable anti-
+corruption and bribery legislation. IBA complies with anti-corruption and bribery 
+laws and enforces them, as well as the values

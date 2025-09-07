@@ -1,22 +1,32 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 888 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0887_annual_report_text (1).txt
-NEXT: chunk_0889_annual_report_text (1).txt
-------------------------------
-reviously. The main assumptions used 
-were a 2% yearly inflation, cost savings 
-initiatives and a discount rate of 2% to 
-reflect the impact of time. Utilisation and reversals of onerous 
-contract provision for maintenance 
-contracts which have been revised 
-and/or re-negotiated with customers for 
-EUR 3.3 million. Reversals of warranty provisions in 
-relation to Proton therapy and other 
-accelerators amounting to EUR -2.5 
-million following the end of warranty 
-periods. Utilizations of warranty provisions in 
-relation to Proton therapy and other 
-accelerators amounting to EUR -1.1 
-million 
-5
+Gross trade receivables 
+115 013 
+111 315 
+Allowance for expected credit losses on trade 
+receivables (-) 
+-3 364 
+-3 739 
+Trade receivable 
+111 649 
+107 576 
+Non-trade receivables 
+11 652 
+14 300 
+Advance payments 
+28 633 
+28 111 
+Accrued income related to maintenance contracts 
+16 219 
+10 173 
+Current income tax receivables 
+3 392 
+772 
+Cash with restriction more than 3 months 
+7 260 
+0 
+Prepaid share investments 
+1 538 
+0 
+Non highly liquid short term deposits 
+11 138 
+309 
+Other current re

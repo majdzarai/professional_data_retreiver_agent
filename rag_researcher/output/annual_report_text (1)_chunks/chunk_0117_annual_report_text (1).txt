@@ -1,15 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 117 of 1106
-SIZE: 491 characters
-PREVIOUS: chunk_0116_annual_report_text (1).txt
-NEXT: chunk_0118_annual_report_text (1).txt
-------------------------------
-rapy. The qualified dosimetry 
-service teams - uniquely distributed over 3 continents - ensure 
-24/7 instant access and quality support to customers. LEADING INNOVATIONS IN 
-QUALITY ASSURANCE
-Through cutting-edge innovations, IBA has a long history 
-of advancing Quality Assurance in radiation therapy, proton 
-therapy and medical imaging. The company continues 
-on this path, and believes that three drivers are essential 
-to further innovate QA:. Meaningful Innovation. Flexible Solutions.
+on and an easy 
+overview of all patient QA tasks. We added some scripts to our TPS 
+to automatically send the DICOM 
+data to myQA iON as soon as a plan 
+is approved. myQA iON calculates 
+the dose and evaluates the data 
+during the preparation work inside 
+the OIS automatically; this speeds 
+up our QA. When we finish prep, the QA is ready. The Monte Carlo 
+algorithm provides high specificity 
+and sensitivity to capture real 
+clinical errors. myQA iONs accuracy 
+and performance give us high 
+confidence in our patient QA 
+processes.

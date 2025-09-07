@@ -1,24 +1,35 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 619 of 1106
-SIZE: 627 characters
-PREVIOUS: chunk_0618_annual_report_text (1).txt
-NEXT: chunk_0620_annual_report_text (1).txt
-------------------------------
-nancial instruments 
-in accordance with IFRS 9. The new standard 
-had no impact on the consolidated financial 
-statements as from the effective date. Amendments to IAS 8 Accounting 
-Policies, Changes in Accounting 
-Estimates and Errors Definition of 
-accounting estimates 
-The IASB issued amendments to IAS 8, in 
-which it introduces a definition of accounting 
-estimates. The 
-amendments 
-clarify 
-the 
-distinction between changes in accounting 
-estimates and changes in accounting policies 
-and the correction of errors. Also, they clarify 
-how entities use measurement techniques and 
-inputs to develop accounting estimates.
+ets 
+5.7. 35 184 
+33 743 
+Non-current assets 
+123 423 
+145 483 
+Inventories 
+5.6. 101 017 
+130 545 
+Contract assets 
+4.3.1. 39 391 
+38 444 
+Trade receivables 
+5.7.1. 111 649 
+107 576 
+Other current assets and receivables 
+5.7. 89 893 
+65 435 
+Current derivative financial assets 
+7.3. 160 
+739 
+Cash and cash equivalents 
+5.8. 158 366 
+109 306 
+Current assets 
+500 476 
+452 045 
+TOTAL ASSETS 
+623 899 
+597 528 
+EQUITY AND LIABILITIES 
+Share capital and Share premium 
+85 980 
+85 980 
+Reserves and Ret

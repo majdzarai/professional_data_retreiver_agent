@@ -1,13 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 98 of 1106
-SIZE: 545 characters
-PREVIOUS: chunk_0097_annual_report_text (1).txt
-NEXT: chunk_0099_annual_report_text (1).txt
-------------------------------
-services provide the necessary expertise, confidence, training and support to ensure proton therapy centers are 
-successful from the very beginning. ProteusONE is an expandable solution, and allows for maximal evolutivity both when 
-expanding services or when upgrading existing systems. Its delightful to see a young patients 
-reaction when they walk into the room. It doesnt look like a typical exam room. It looks more like a fun place where 
-kids go to play. For our therapists, it 
-makes the room a calmer and more 
-enjoyable place to work.
+se the best treatment 
+option for their patients. Physicians gain access to all the clinical benefits of Intensity 
+Modulated Proton Therapy (IMPT) with Pencil Beam Scanning 
+(PBS) with no compromise on patient treatment. In addition, ProteusONEs unmatched interoperability allows 
+a flexible choice of ancillary partners.* The system can also 
+evolve to ensure short, mid and long-term value for patients, staff and the center. CHANGING LIVES
+Proteus has been inspired by everyday clinical practice.

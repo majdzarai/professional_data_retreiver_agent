@@ -1,18 +1,20 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 484 of 1106
-SIZE: 524 characters
-PREVIOUS: chunk_0483_annual_report_text (1).txt
-NEXT: chunk_0485_annual_report_text (1).txt
-------------------------------
-upgrade of energy efficient equipments 
-(taxonomy category 7.3) 
-When it comes to long term lease of hybrid 
-(PHEV) and electrical vehicles (EV), IBA 
-currently has limited insight into the full life cycle 
-of the said vehicles (materials production and 
-recyclability, consumables (such tires), waste 
-management) and acknowledges that more 
-information is needed to ensure that the 
-technical screening criteria are met. Hence, for 
-these taxonomy-eligible activities, IBA currently 
-deems them to be not taxonomy-aligned.
+violate the 
+Human 
+Rights 
+of 
+their 
+employees. All 
+consultants and other parties acting on behalf of 
+IBA are also expected to fully respect the Human 
+Rights of their employees, suppliers, and 
+customers. Ad hoc audits of selected suppliers 
+are carried out every year. Non-financial Indicators and Results 
+As described hereabove, system of formal 
+reporting 
+(whistleblower 
+platform) 
+is 
+also 
+described in the Code of Business Conduct and 
+encourages the denunciation of practices that 
+would be contrary to IBAs Human Rights policy.

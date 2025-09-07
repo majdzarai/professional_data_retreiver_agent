@@ -1,0 +1,84 @@
+# Report Generator System Requirements
+# Core Python libraries for the multi-agent report generation pipeline
+
+# PDF Generation - Core ReportLab and related libraries
+reportlab>=4.0.0
+reportlab-qrcode>=0.1.3  # QR code generation in PDFs
+svglib>=1.5.1  # SVG support for ReportLab
+rlextra>=1.0.0  # ReportLab PLUS extensions (commercial, optional)
+weasyprint>=59.0  # Alternative HTML to PDF converter
+pyPDF2>=3.0.1  # PDF manipulation and merging
+PyPDF4>=3.0.0  # Enhanced PDF processing
+fpdf2>=2.7.4  # Simple PDF creation library (alternative)
+xhtml2pdf>=0.2.11  # HTML/CSS to PDF converter
+
+# Markdown Processing
+markdown>=3.4.0
+
+# HTTP Requests and API calls
+requests>=2.28.0
+
+# OpenAI API client
+openai>=1.0.0
+
+# JSON and data processing
+# (json is built-in, no need to install)
+
+# Path and file operations
+# (pathlib is built-in, no need to install)
+
+# Logging
+# (logging is built-in, no need to install)
+
+# Date and time operations
+# (datetime is built-in, no need to install)
+
+# Regular expressions
+# (re is built-in, no need to install)
+
+# HTML processing
+# (html is built-in, no need to install)
+
+# System operations
+# (sys, os are built-in, no need to install)
+
+# Argument parsing
+# (argparse is built-in, no need to install)
+
+# Type hints
+# (typing is built-in, no need to install)
+
+# I/O operations
+# (io is built-in, no need to install)
+
+# Additional dependencies that might be needed
+# for RAG pipeline integration
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Image and graphics processing for PDFs
+pillow>=9.0.0  # Image processing and manipulation
+matplotlib>=3.5.0  # Chart and graph generation
+seaborn>=0.11.0  # Statistical data visualization
+plotly>=5.0.0  # Interactive charts and graphs
+cairo>=1.0.0  # Graphics library (optional, for advanced rendering)
+
+# HTML/XML processing for PDF content
+beautifulsoup4>=4.11.0  # HTML parsing
+lxml>=4.9.0  # XML processing
+html5lib>=1.1  # HTML5 parser
+cssselect>=1.1.0  # CSS selector library
+
+# Font and text processing
+fonttools>=4.33.0  # Font manipulation and analysis
+unicodedata2>=14.0.0  # Unicode character database
+
+# Development and testing (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Environment management
+python-dotenv>=0.19.0

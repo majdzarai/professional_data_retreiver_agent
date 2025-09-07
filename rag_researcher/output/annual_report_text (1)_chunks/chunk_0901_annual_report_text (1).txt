@@ -1,11 +1,21 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 901 of 1106
-SIZE: 649 characters
-PREVIOUS: chunk_0900_annual_report_text (1).txt
-NEXT: chunk_0902_annual_report_text (1).txt
-------------------------------
-ted for using the projected unit credit method. This method considers that each service period gives rise to 
-an additional benefit entitlement unit. According to this method, the plans cost is recognized as an expense in the income 
-statement so as to spread this cost evenly throughout the employees career, and this based on the recommendations of 
-actuaries who carry out complete assessments on these retirement plans each year. Actuarial differences include, for assets and liabilities, differences between previous actuarial assumptions and what 
-actually happened, and the impact of changes of actuarial assumptions on the plans liabilities.
+Cash and cash equivalents are detailed as follows: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Bank balances and cash 
+108 366 
+109 306 
+Accounts with restrictions shorter than 3 months 
+0 
+0 
+Short-term bank deposits 
+50 000 
+0 
+CASH AND CASH EQUIVALENTS 
+158 366 
+109 306 
+5.9. EQUITY 
+As December 31, 2023, 49.11% of IBAs stock 
+was traded on Euronext. Full details of the 
+Groups shareholders are set out in the section 
+The stock market and shareholders of this 
+annual report.

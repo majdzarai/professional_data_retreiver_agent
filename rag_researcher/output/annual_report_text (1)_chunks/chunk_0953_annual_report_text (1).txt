@@ -1,11 +1,2 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 953 of 1106
-SIZE: 619 characters
-PREVIOUS: chunk_0952_annual_report_text (1).txt
-NEXT: chunk_0954_annual_report_text (1).txt
-------------------------------
-e instruments generally reflects the estimated amount that IBA would receive on the settlement of 
-favorable contracts or be required to pay to terminate unfavorable contracts at the financial position date, and thereby 
-takes into account any unrealized gains or losses on open contracts. Other financial assets: Other financial assets at fair value are equity investments held by IBA. The fair value is determined, according to the fair 
-value hierarchy described below. In case of Level 3 measurement, valuation technique usually includes a discounted cash 
-flow method based on the investees forecasted performance.
+f actuarial assumptions on the plans liabilities. Actuarial differences are 
+fully recorded in other items of the comprehensive income statement during their period of occurrence. Source of estimation uncertainty and critical judgments

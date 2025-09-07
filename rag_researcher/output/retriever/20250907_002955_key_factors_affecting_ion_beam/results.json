@@ -1,0 +1,18 @@
+{
+  "query": "Key factors affecting Ion Beam Applications SA share price",
+  "timestamp": "2025-09-07 00:29:55",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023",
+      "similarity_score": 0.3946738363870608
+    }
+  ]
+}

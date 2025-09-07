@@ -1,26 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 218 of 1106
-SIZE: 621 characters
-PREVIOUS: chunk_0217_annual_report_text (1).txt
-NEXT: chunk_0219_annual_report_text (1).txt
-------------------------------
-thority of 
-the Internal Audit function are documented in an 
-Audit Charter and the Head of Internal Audit 
-reports regularly to the Audit Committee. In addition to the Risk Management Committee, the Quality Management Review (QMR) assists 
-the 
-Management 
-Team 
-in 
-fulfilling 
-its 
-management 
-responsibilities 
-particularly 
-in 
-respect of the quality of the Companys products, systems, services and software and the 
-development, testing, manufacturing, marketing 
-and service thereof, and regulatory requirements 
-related thereto. As such, the QMR supports the 
-Companys risk management in the relevant risk 
-areas.
+8https://www.sciencedirect.com/science/article/abs/pii/S000
+129982400014X?dgcid=coauthor 
+production for both diagnosis and therapy in a 
+growing 
+range 
+of 
+applications 
+including 
+oncology, cardiology and neurology. A significant milestone was reached by the 
+RadioPharma business in December, with the 
+sale of IBAs 100th Cyclone KIUBE cyclotron, underlining IBAs world leading position in the 
+mid-energy cyclotron market.

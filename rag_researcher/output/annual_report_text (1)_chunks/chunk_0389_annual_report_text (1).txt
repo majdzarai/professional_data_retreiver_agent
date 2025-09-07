@@ -1,50 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 389 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0388_annual_report_text (1).txt
-NEXT: chunk_0390_annual_report_text (1).txt
-------------------------------
-=== Page 78 ===
-IBA Annual Report 2023 
-75. IBA 
-In 
-2023 
-Executive 
-Managers 
-variable 
-compensation 
-was 
-paid 
-in 
-cash. The 
-corresponding total value of their variable 
-compensation is indicated in the table below. Total Remuneration of the Managing Directors 
-The schedule below outlines the total remuneration received by each Managing Director 
-Name 
-Title 
-Currency 
-Year 
-Annual fixed 
-remuneration 
-Annual variable 
-remuneration 
-Retirement 
-benefits 
-Other benefits 
-Olivier 
-Legrain (1) 
-CEO 
-EUR 
-% of total 
-2023 
-421 949 
-52% 
-393 942 
-48% 
-None 
-0% 
-None 
-0% 
-EUR 
-% of total 
-2022
+gh the Long-Term Incentive plan described 
+above. The MHR is applicable during the entire period 
+of the contractual relationship with IBA, and 
+during a three year period starting at the date the 
+said contractual relationship terminates unless 
+the termination of the contractual relationship is 
+consecutive to the retirement or death of the 
+concerned Executive. The Managing Directors are significant owners 
+of the reference shareholder and comply with the 
+MHR provision.

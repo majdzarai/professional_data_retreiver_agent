@@ -1,11 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 991 of 1106
-SIZE: 427 characters
-PREVIOUS: chunk_0990_annual_report_text (1).txt
-NEXT: chunk_0992_annual_report_text (1).txt
-------------------------------
-posal formulated by the board of directors and following the recommendation by the audit 
-committee and the proposal formulated by the works council. Our mandate will expire on the date of 
-the general meeting which will deliberate on the annual accounts for the year ended 31 December 
-2025. We have performed the statutory audit of the Groups consolidated accounts for one financial 
-year. Report on the consolidated accounts
+the forecast sale that is hedged is recognised). When a hedging instrument expires or is sold, any cumulative gain or loss existing in equity at that time remains in equity 
+and is reclassified to the income statement when the forecast transaction is ultimately recognized in the income statement. When a forecast transaction is no longer expected to occur, the cumulative gain or loss that was reported in equity is 
+immediately moved to the income statement. Derivatives that do not qualify for hedge accounting 
+Certain derivative instruments do not qualify for hedge accounting.

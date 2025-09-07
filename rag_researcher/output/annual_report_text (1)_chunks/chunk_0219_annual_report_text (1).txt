@@ -1,31 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 219 of 1106
-SIZE: 674 characters
-PREVIOUS: chunk_0218_annual_report_text (1).txt
-NEXT: chunk_0220_annual_report_text (1).txt
-------------------------------
-d service thereof, and regulatory requirements 
-related thereto. As such, the QMR supports the 
-Companys risk management in the relevant risk 
-areas. IBA 
-has 
-designed 
-its 
-Enterprise 
-Risk 
-Management based on the ERM Integrated 
-framework (2017) established by the Committee 
-of Sponsoring Organizations of the Treadway 
-Commission (COSO). IBA 
-is 
-continuously 
-improving 
-its 
-risk 
-management process and regularly assesses 
-changes that could affect its strategy and 
-objectives, including strategic, financial, human 
-and environmental. Our quality management 
-system is ISO9001, ISO13485, MDD and 
-MDSAP certified. We are audited once a year by 
-our Notified Body.
+ing position in the 
+mid-energy cyclotron market. Post period end 
+saw the sale of the first Cyclone KEY, launched 
+to enable small and medium-sized hospitals to 
+produce their own radiopharmaceutical products 
+in-house, for installation at a hospital in Benin, West Africa. New products continue to be 
+developed, for 
+example 
+AKURACY, an 
+integrated solution for Cardiac PET imaging, launched in May 2023.

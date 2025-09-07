@@ -1,10 +1,26 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 963 of 1106
-SIZE: 204 characters
-PREVIOUS: chunk_0962_annual_report_text (1).txt
-NEXT: chunk_0964_annual_report_text (1).txt
-------------------------------
-The main investing cash flows of 2023 
-represents the acquisitions of a business 
-(Fluidomica) and the convertible loand granted 
-to the Joint Venture (Pantera, EUR 1.0 million). 8.3. FINANCING CASH FLOWS
+As at December 31, 2023, the Group recognised 
+EUR 1.0 million as other operating expenses for 
+employee stock options (EUR 0.9 million in 
+2022). The stock options outstanding as at December 
+31 have the following expiration dates and 
+exercise prices: December 31, 2022 
+December 31, 2023 
+Expiration date 
+Exercise price 
+(EUR) 
+Number of stock options 
+Exercise price 
+(EUR) 
+Number of stock 
+options 
+June 30, 2024 
+11.52 
+63 500 
+11.52 
+53 500 
+June 30, 2024 
+31.84 
+20 000 
+31.84 
+20 000 
+May

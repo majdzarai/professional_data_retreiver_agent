@@ -1,11 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1022 of 1106
-SIZE: 516 characters
-PREVIOUS: chunk_1021_annual_report_text (1).txt
-NEXT: chunk_1023_annual_report_text (1).txt
-------------------------------
-Our registered audit firm and our network did not provide services which are incompatible with the 
-statutory audit of the consolidated accounts, and our registered audit firm remained independent 
-of the Group in the course of our mandate. The fees for additional services which are compatible with the statutory audit of the consolidated 
-accounts referred to in article 3:65 of the Companies' and Associations' Code are correctly 
-disclosed and itemized in the notes to the consolidated accounts. === Page 184 ===
+ed is EUR 0.5 
+million (unchanged from 2022). 11. Related party transactions 
+Identification of related parties 
+The following parties are considered to be related to IBA: Key management personnel: the members of the management team. Associates and Joint ventures of IBA Group (Note 12.2)

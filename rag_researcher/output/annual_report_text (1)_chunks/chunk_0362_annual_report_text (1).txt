@@ -1,25 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 362 of 1106
-SIZE: 644 characters
-PREVIOUS: chunk_0361_annual_report_text (1).txt
-NEXT: chunk_0363_annual_report_text (1).txt
-------------------------------
-are targeted at between 15% and 
-50% of annual fixed remuneration, depending on 
-the position. Actual payout levels are subject to 
-IBAs performance. The maximum payout is set 
-at 150% of target in case of exceptional 
-performance, whilst 
-performance 
-below 
-expectations results in a zero payout. The 
-performance period is the fiscal year. For performance year 2023, performance is 
-measured against 3 elements: Profit Before Tax, Order Intake and Sustainability for respectively 
-33%, 33% and 34%. These targets are geared 
-towards 
-achieving 
-and 
-exceeding 
-the 
-Companys fiscal year objectives and specific 
-milestones on IBAs ESG goals.
+e meaning of section 1:20, 1 
+and 2, of the BCAC. Proposals for the appointment of "independent 
+directors" and "other directors" are made by the 
+nominating committee formed within the board of 
+directors. This committee is composed of five 
+members, including three internal directors and 
+two independent directors. In addition, none of 
+the directors defined in indent 1, (d) of this Article 
+12 may be a member of this committee, unless, as the case may be, he is an internal director as 
+well.

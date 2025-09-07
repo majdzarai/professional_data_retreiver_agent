@@ -1,21 +1,59 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 630 of 1106
-SIZE: 511 characters
-PREVIOUS: chunk_0629_annual_report_text (1).txt
-NEXT: chunk_0631_annual_report_text (1).txt
-------------------------------
-in a Sale and Leaseback 
-The IASB issued amendments to IFRS16,, specifying the measurement of lease liability in 
-a Sale and Leaseback transaction. The amendments are effective for annual 
-reporting periods beginning on or after 1 
-January 
-2024 
-and 
-must 
-be 
-applied 
-retrospectively to transaction entered into after 
-the initial application of IFRS 16. The amendments are not expected to have an 
-impact on the the Groups financial statements 
-as IBA has not entered into Sales and 
-Leaseback transactions.
+defined 
+benefit 
+plans 
+(Note 
+28) 
+Other 
+reserves - 
+Revaluation 
+reserves 
+(Note 9) 
+Currency 
+translation 
+difference 
+(Note 17) 
+Retained 
+earnings 
+(Note 
+17) 
+TOTAL 
+Shareholders 
+equity and 
+reserves 
+As at January 1, 2022 
+42 413 
+42 836 
+-12 613 
+-8 440 
+16 838 
+-4 064 
+4 014 
+-6 315 
+51 227 
+125 896 
+Profit/(loss) for the 
+period 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+6 057 
+6 057 
+Other comprehensive 
+income 
+0 
+0 
+0 
+38 
+0 
+3 548 
+-10 422 
+730 
+0 
+-6 106 
+Total comprehensive 
+income for the peri

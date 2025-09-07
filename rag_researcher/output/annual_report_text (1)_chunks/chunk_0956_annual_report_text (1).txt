@@ -1,39 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 956 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0955_annual_report_text (1).txt
-NEXT: chunk_0957_annual_report_text (1).txt
-------------------------------
-ith the indirect method. 8.1. OPERATING CASH FLOWS 
-(EUR 000) 
-Note 
-December 31, 2022 
-December 31, 2023 
-CASH FLOW FROM OPERATING ACTIVITIES 
-Net profit/(loss) for the period 
-6 057 
--9 110 
-Adjustments for: Depreciation and impairment of tangible assets 
-8, 23.1 
-8 989 
-9 774 
-Depreciation and impairment of intangible assets and goodwill 
-7.2 
-1 722 
-1 747 
-Write-off on receivables 
-14.1 
--749 
-457 
-Changes in fair value of financial assets (profits)/losses 
--3 591 
-654 
-Changes in provisions 
-19 
-6 143 
-2 074 
-Deferred taxes 
-10 
--11 244 
-1 898 
-Share of result of associates and joint vent
+rease is primarily driven by an increased 
+level of purchases to support the groups 
+business growth. 5.12.2 Other current and non-
+current liabilities 
+Advances from local governments amount to 
+EUR 1.9 million as at December 31, 2023 and 
+have decreased (2022: EUR 3.7 million) 
+following the scheduled repayments made 
+during the year. In 2022, the liabilities also included the refund 
+liability related to the CGN contract as 
+described in Note 4.3 for EUR 5.0 million. As 
+the performance bond was fully released at the 
+end of 2023, the amount has been recognized 
+as a revenue in the year.

@@ -1,14 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 148 of 1106
-SIZE: 593 characters
-PREVIOUS: chunk_0147_annual_report_text (1).txt
-NEXT: chunk_0149_annual_report_text (1).txt
-------------------------------
-de Louvain - EPL) to expand 
-its range of courses. IBA employees regularly share their experience and knowledge 
-with universities and high schools. We have an active policy 
-of integrating young people into professional life, by offering 
-internships, end-of-study work, and student jobs. IBA mainly 
-hires local employees in the countries where it has operations, creating jobs and providing wages to residents in the nearby 
-area, and thus boosting the local economy. This is our way of 
-making a positive contribution to the future of society at large, and of attracting new talent to IBA.
+More than 200 bicycles are for instance under lease in Belgium 
+and Germany, representing a more than 20% uptake by IBA 
+staff. As a recognition of IBAs commitment, we were awarded 
+5 stars at the Belgian Active Bike challenge, ranking among 
+the most proactive Belgian companies in this area. CORPORATE BROCHURE 2024
+IBA
+37

@@ -1,21 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 709 of 1106
-SIZE: 667 characters
-PREVIOUS: chunk_0708_annual_report_text (1).txt
-NEXT: chunk_0710_annual_report_text (1).txt
-------------------------------
-rease. As at December 31, 2023, the Group recognises 
-a tax expense for an amount of EUR 8.8 million 
-representing -2792.1% of the result before tax. In the Proton Therapy and Other Accelerators 
-segment, the tax charge results from the 
-progress on installation projects and the 
-recognition of the related revenue and margin in 
-some countries with a relatively high tax rate as 
-well as a partial reversal of the deferred tax 
-assets in Belgium for EUR 1.7 million. === Page 132 ===
-IBA Annual Report 2023 
-129. 4.2. PERFORMANCE OF EACH GEOGRAPHIC 
-REGION
-The Group operates in three main geographical 
-areas, Belgium, the United States and the rest of 
-the world.
+g, pension plans, deferred tax and going concern. When preparing the budget for 2024 and the 
+medium-term 
+strategic 
+plan, the 
+macro-
+economic conditions were taken into account 
+for the assumptions and forecast transactions. IBAs order intake remains strong and the 
+backlog is increasing, therefore reducing 
+uncertainty on future revenues. In addition, the 
+cash position of the group remains solid with 
+EUR 109.3 million gross cash (EUR 67.7 million 
+net).

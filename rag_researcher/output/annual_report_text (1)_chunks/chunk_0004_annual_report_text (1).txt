@@ -1,9 +1,3 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 4 of 1106
-SIZE: 695 characters
-PREVIOUS: chunk_0003_annual_report_text (1).txt
-NEXT: chunk_0005_annual_report_text (1).txt
-------------------------------
 === Page 5 ===
 Our customers 
 and their patients: we develop the most effective 
@@ -20,9 +14,4 @@ that serves society while respec
 ting the limits of our planet. Our
 planet: we continually work to address and 
 reduce the environmental impact 
-of our products and operations. Our
-shareholders: we show that we are
-worthy of their trust by being 
-a sound financial investment 
-and acting in accordance
-with our values.
+of our products and operations.

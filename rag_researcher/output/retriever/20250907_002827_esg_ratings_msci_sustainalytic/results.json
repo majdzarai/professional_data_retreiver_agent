@@ -1,0 +1,18 @@
+{
+  "query": "ESG ratings MSCI Sustainalytics",
+  "timestamp": "2025-09-07 00:28:27",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "pt-Ins are linked to said B Corp score \nincrease. We have selected Ecovadis as our \nservice \nprovider \nfor \nSupply \nChain \nESG \nscreening. And we closely survey the applicable \nand \nforthcoming \nnon-financial \nreporting \nregulations (GRI 2021, taxonomy, CSRD, due \ndiligence). THE \nNEW \nAND \nFORTHCOMING \nEU \nSUSTAINABLE FINANCE LANDSCAPE",
+      "similarity_score": 0.35023381710052487
+    }
+  ]
+}

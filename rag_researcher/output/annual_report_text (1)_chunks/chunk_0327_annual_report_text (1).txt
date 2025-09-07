@@ -1,18 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 327 of 1106
-SIZE: 604 characters
-PREVIOUS: chunk_0326_annual_report_text (1).txt
-NEXT: chunk_0328_annual_report_text (1).txt
-------------------------------
-The Corporate Governance Charter, published 
-on the Groups website, defines the core 
-competencies the Board of Directors requires to 
-be effective. Members are nominated based on 
-the Boards needs in terms of knowledge, experience, and competence at that time, also 
-respecting the balance between outside, inside 
-and other Directors laid down in the Articles of 
-Association, the law, and the 2020 Corporate 
-Governance Code. The Board and the Nomination Committee fully 
-acknowledge the benefits of diversity among 
-employees, within the Executive Management 
-Team, and within the Board of Directors.
+y Mr. Pierre Mottet. Mr. Olivier Legrain 
+and Mr. Yves Jongen are invited to attend it, except where the Committee is called on to 
+decide on the compensation policy or other 
+matters relating to the managing directors. === Page 68 ===
+IBA Annual Report 2023 
+65. IBA 
+Nomination committee 
+The Nomination Committee met 2 times in 2023 
+to assess the areas of expertise needed by the 
+Board of Directors, when directors mandates 
+come to an end, and to make proposals in this 
+respect to the Board of Directors.

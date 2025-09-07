@@ -1,0 +1,18 @@
+{
+  "query": "business registration ID",
+  "timestamp": "2025-09-07 00:00:09",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "p88 AR2023 Management report / corporate governance statement / codes of \nconduct / taxonomy \n2-28 \nMembership associations \np191 AR2023 GRI appendix 2-28 / membership of associations \n5. Stakeholder engagement",
+      "similarity_score": 0.3212270307540893
+    }
+  ]
+}

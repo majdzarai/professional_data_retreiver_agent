@@ -1,0 +1,18 @@
+{
+  "query": "AML and KYC policies for Ion Beam Applications SA",
+  "timestamp": "2025-09-07 00:27:54",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "2 American Society for Radiation Oncology. Model Policies. Proton beam therapy (PBT). May 2023. https://www.astro.org/ASTRO/media/ASTRO/Daily%20Prac\ntice/PDFs/ASTROPBTModelPolicy.pdf \n3 Aetna. Proton Beam, Neutron Beam, and Carbon Ion \nRadiotherapy. Clinical Policy Bulletins, Aetna, October 3rd, 2023, https://www.aetna.com/cpb/medical/data/200_299/0270.ht\nml \nand Young Adult cancer patients (aged 22 years \nto 39 years), as well as patients with genetic \ndisorders, esophageal cancer, and advanced or \nunresectable pelvic tumors2.",
+      "similarity_score": 0.36903070228440416
+    }
+  ]
+}

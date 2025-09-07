@@ -1,19 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 707 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0706_annual_report_text (1).txt
-NEXT: chunk_0708_annual_report_text (1).txt
-------------------------------
-, the net 
-financial result (loss) was EUR -5.2 million 
-(2022: EUR -5.4 million expenses), primarily 
-composed of: Realised and un-realised exchange gains 
-and losses for a net loss of -3.4 million, interest paid on debts and lease liabilities for 
-EUR -1.3 million, and an impact from the 
-application of hyperinflation accounting (IAS 
-29) on the result and non-monetary position 
-of the subsidiary in Argentina for EUR 2.0 
-million. Partially compensated by interest revenues 
-on bank accounts and investment bonds in 
-relation to proton therapy projects for EUR 
-1.7 million for the Proton Thera
+any operational onerous 
+contract provisions other than those already 
+presented in these consolidated financial 
+statements; Currently, IBA is not involved in emission 
+trading schemes (even though investments 
+are made in Carbon Farming, these are not 
+allowed for compensation activities as they 
+are outside IBAs value chain). In addition, IBA has not signed any Power Purchase 
+Agreement for the supply of green energy 
+as these are deemed too expensive for IBA 
+due to the energy price level a

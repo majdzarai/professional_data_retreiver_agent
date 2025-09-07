@@ -1,26 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 723 of 1106
-SIZE: 662 characters
-PREVIOUS: chunk_0722_annual_report_text (1).txt
-NEXT: chunk_0724_annual_report_text (1).txt
-------------------------------
-or the intellectual property. This is not part of IBAs main business activity and 
-will, in most cases, constitute a distinct performance obligation. Dosimetry 
-IBA Dosimetry develops solutions that give medical staff the quality assurance tools and softwares to obtain the treatment 
-results they need. Timing of recognition 
-Method 
-Other information 
-Equipment 
-and 
-installation 
-services 
-Over time as the goods are 
-highly 
-specialised, the 
-equipments are unique and 
-not interchangeable and 
-IBA is entitled to payment 
-for progress to date 
-Input method based on the 
-expected contract costs. This revenue is presented in the 
-income statement as Sales.
+ormance obligation 
+Note 4.3 Revenue 
+Determination of the lease term of contract with renewal and/or 
+termination option as a lessee 
+Note 5.2 Property, plant and 
+equipment 
+Contract termination 
+Note 4.3 Revenue 
+Assumptions and sources of estimation uncertainty 
+Assessment of the recoverability of tax losses carryforward 
+Note 4.7.2 Deferred tax 
+Revenue recognition - Estimating the progress under the equipment 
+and installation services contract 
+Note 4.3 Revenue 
+Revenue recognition licens

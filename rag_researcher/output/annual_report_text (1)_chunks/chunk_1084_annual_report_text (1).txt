@@ -1,19 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1084 of 1106
-SIZE: 287 characters
-PREVIOUS: chunk_1083_annual_report_text (1).txt
-NEXT: chunk_1085_annual_report_text (1).txt
-------------------------------
-=== Page 195 ===
-IBA Annual Report 2023 
-192. Unit 
-2021 
-2022 
-2023 
-305-1 GHG emissions within the organization 
-Organization direct and indirect GHG emissions IBA Group1 (Scope 1-2-32) 
-CO2 equivalent emissions, incl. CO2, CH4, N2O, HFCs, PFCs, SF6, NF3 
-t CO2eq 
-6.013 
-9.079 
-10.623
+We have also verified, in accordance with the draft standard on the verification of the compliance of 
+the financial statements with the European Uniform Electronic Format (hereinafter ESEF), the 
+compliance of the ESEF format with the regulatory technical standards established by the European 
+Delegate Regulation No. 2019/815 of 17 December 2018 (hereinafter: Delegated Regulation). The board of directors is responsible for the preparation, in accordance with ESEF requirements, of 
+the consolida

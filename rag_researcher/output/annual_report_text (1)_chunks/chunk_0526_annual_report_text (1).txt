@@ -1,22 +1,44 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 526 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0525_annual_report_text (1).txt
-NEXT: chunk_0527_annual_report_text (1).txt
-------------------------------
-reases and issues of stock options 
-and convertible bonds section 7:203 of the 
-BCAC 
-In 2023, IBA did not proceed with any share 
-capital increases. IBA did not issue a new share 
-option plan, however the group issued new stock 
-options under the existing plan started in 2021. === Page 101 ===
-IBA Annual Report 2023 
-98. IBA 
-These are further detailed in the General 
-Information Capital Section. Repurchase of own shares - section 7:215 of 
-the BCAC 
-As of 31 December 2023, article 9, first 
-paragraph of the Companys Articles of 
-Associations provided as follows: "The Company 
-may, without an
+EUR 
+000 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+% 
+% 
+E 
+T 
+A. TAXONOMY-ELIGIBLE ACTIVITIES 
+A.1 Environmentally sustainable activities (Taxonomy-aligned) 
+Operation of personal mobility devices, cycle logistics 
+6.4 
+589 
+0.5% 
+100.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0%
+
+Installation, maintenance and repair of 
+energy efficiency equipment 
+7.3 
+1 
+0.0% 
+100.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0%

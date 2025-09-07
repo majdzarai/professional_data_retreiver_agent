@@ -1,11 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 798 of 1106
-SIZE: 602 characters
-PREVIOUS: chunk_0797_annual_report_text (1).txt
-NEXT: chunk_0799_annual_report_text (1).txt
-------------------------------
-Source of estimation uncertainty and critical judgments 
-Lease term: The Group determines the lease term as the non-cancellable term of the lease, together with any periods covered by an 
-option to extend the lease if it is reasonably certain to be exercised, or any periods covered by an option to terminate the 
-lease, if it is reasonably certain not to be exercised. The Group has several lease contracts that include extension and termination options. The Group applies judgement in 
-evaluating whether it is reasonably certain whether or not to exercise the option to renew or terminate the lease.
+icially defined by local resolutions RT Indice 6. Under IAS 29, IBA has revalued the net monetary position of IBA Argentinas subsidiary to the closing index as well as the 
+revenue and expenses. Furthermore, the indexed financial position and income statement of the Company have been 
+translated to the group currency at the closing exchange rate instead of the average of each month. (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Current taxes 
+-4 757 
+-6 897 
+Deferred taxes 
+11 244 
+-1 898 
+TO

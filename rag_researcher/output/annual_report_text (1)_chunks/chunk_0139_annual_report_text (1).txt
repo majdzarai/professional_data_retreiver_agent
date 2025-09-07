@@ -1,12 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 139 of 1106
-SIZE: 574 characters
-PREVIOUS: chunk_0138_annual_report_text (1).txt
-NEXT: chunk_0140_annual_report_text (1).txt
-------------------------------
-meet company requirements.. empower all employees to stop any activity which they judge 
-to be hazardous and that goes against our No Harm principle. Through all steps of the development, implementation, and operation of IBA products and services, we ensure 
-the highest safety standards for our employees. At IBA, we recognize that time out of the office can be beneficial. We partner with local associations to offer our employees 
-refreshing team building or individual activities during 
-lunchtime. Social clubs are promoted by IBA and organized by 
-voluntary employees.
+sponsible for diversity, equality 
+and inclusion. Through collective intelligence initiatives, voluntary 
+employees get involved into the development of IBA 
+beyond their day-to-day work perimeter such as strategy, management, or specific initiatives like eco-design, biodiversity 
+improvement, volunteering policy, or green mobility. A group 
+of collective intelligence facilitators are trained and prepared 
+to enhance team collaboration through tailored sessions, fostering seamless information exchange.

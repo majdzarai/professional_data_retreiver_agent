@@ -1,0 +1,18 @@
+{
+  "query": "company format",
+  "timestamp": "2025-09-07 00:11:30",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "cordance with ESEF requirements, of \nthe consolidated financial statements in the form of an electronic file in ESEF format (hereinafter \ndigital consolidated financial statements) included in the annual financial report. Our responsibility is to obtain sufficient appropriate evidence to conclude that the format [and marking \nlanguage] of the digital consolidated financial statements comply in all material respects with the \nESEF requirements under the Delegated Regulation.",
+      "similarity_score": 0.3681137356065935
+    }
+  ]
+}

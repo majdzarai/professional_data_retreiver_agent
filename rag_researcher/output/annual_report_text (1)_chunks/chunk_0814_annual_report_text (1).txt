@@ -1,31 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 814 of 1106
-SIZE: 232 characters
-PREVIOUS: chunk_0813_annual_report_text (1).txt
-NEXT: chunk_0815_annual_report_text (1).txt
-------------------------------
-venue 
-Profit/ 
-(Loss) 
-% Interest 
-Cyclhad SAS 
-France 
-64 516 
-78 164 
-5 268 
--2 500 
-33.33% 
-Normandy Hadrontherapy SAS 
-France 
-52 727 
-62 491 
-4 116 
--6 809 
-39.81% 
-Normandy Hadrontherapy SARL 
-France 
-70 
--19 
-124 
-35 
-50.00%
+ailable today, it is still not possible to make a reliable estimate 
+of the remaining exposure and therefore no provision has been accrued for in the Groups financial statements. Recoverability of deferred tax assets 
+The Group recognizes deferred tax assets on unused losses carried forward to the extent that the taxable profit against 
+which these assets are available can be used. The amounts recognized in the financial position are prudent estimates made 
+on the basis of recent financial plans

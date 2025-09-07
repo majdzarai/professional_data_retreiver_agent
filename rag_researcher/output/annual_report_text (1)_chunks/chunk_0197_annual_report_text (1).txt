@@ -1,15 +1,49 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 197 of 1106
-SIZE: 533 characters
-PREVIOUS: chunk_0196_annual_report_text (1).txt
-NEXT: chunk_0198_annual_report_text (1).txt
-------------------------------
-2 American Society for Radiation Oncology. Model Policies. Proton beam therapy (PBT). May 2023. https://www.astro.org/ASTRO/media/ASTRO/Daily%20Prac
-tice/PDFs/ASTROPBTModelPolicy.pdf 
-3 Aetna. Proton Beam, Neutron Beam, and Carbon Ion 
-Radiotherapy. Clinical Policy Bulletins, Aetna, October 3rd, 2023, https://www.aetna.com/cpb/medical/data/200_299/0270.ht
-ml 
-and Young Adult cancer patients (aged 22 years 
-to 39 years), as well as patients with genetic 
-disorders, esophageal cancer, and advanced or 
-unresectable pelvic tumors2.
+=== Page 51 ===
+IBA Annual Report 2023 
+48. IBA 
+(EUR 000) 
+FY 2023 
+FY 2022 
+Variance 
+Variance % 
+Net sales 
+362 807 
+307 299 
+55 508 
+18.1% 
+Proton Therapy 
+229 065 
+218 761 
+10 304 
+4.7% 
+Other Accelerators 
+133 742 
+88 538 
+45 204 
+51.1% 
+REBITDA 
+10 487 
+18 443 
+-7 956 
+-43.1% 
+% of Sales 
+2.9% 
+6.0% 
+REBIT 
+271 
+10 397 
+-10 126 
+-97.4% 
+Proton Therapy 
+-23 403 
+4 383 
+-27 786 
+-634.0% 
+Other Accelerators 
+23 675 
+6 014 
+17 661 
+293.7% 
+% of Sales 
+0.1% 
+3.4%

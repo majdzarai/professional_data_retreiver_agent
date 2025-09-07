@@ -1,18 +1,52 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 831 of 1106
-SIZE: 506 characters
-PREVIOUS: chunk_0830_annual_report_text (1).txt
-NEXT: chunk_0832_annual_report_text (1).txt
-------------------------------
-pact on reserves of EUR 
-0.4 million as at December 31, 2023). Invest.BW SA 
-On January 1st, 2023, the Group acquired 7 500 
-shares of Invest.BW S.A. As IBA was already 
-holding 150 shares from a previous capital 
-increase, IBA is now holding 25% of the issued 
-shares of Invest.BW SA. InvestBW is providing 
-financing and support to entrepreneurs in 
-Walloon Brabant, as a venture capital partner 
-InvestBW is an investment fund representing 
-equity and subordinated or convertible loan to 
-entrepreneurs.
+The table below summarizes the main types of tangible assets: EUR 000 
+Land and buildings 
+Machinery and 
+equipment 
+Furniture, fixtures, computer hardware 
+and vehicles 
+Under 
+construction 
+Total 
+Owned 
+Leased 
+Owned 
+Leased 
+Owned 
+Leased 
+Owned 
+Gross carrying amount as at 
+January 1, 2022 
+22 006 
+31 343 
+17 175 
+25 
+14 215 
+9 177 
+408 
+94 349 
+Additions 
+642 
+1 518 
+824 
+0 
+801 
+1 783 
+964 
+6 532 
+Disposals 
+-8 
+-462 
+-515 
+0 
+-351 
+-812 
+0 
+-2 148 
+Transfers 
+69 
+0 
+37 
+0 
+121 
+0 
+-227

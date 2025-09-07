@@ -1,29 +1,37 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 825 of 1106
-SIZE: 566 characters
-PREVIOUS: chunk_0824_annual_report_text (1).txt
-NEXT: chunk_0826_annual_report_text (1).txt
-------------------------------
-ued except to the extent that IBA has 
-committed to further contributions to that associate or JV. === Page 150 ===
-IBA Annual Report 2023 
-147. 5.5. OTHER SHARES AND PARTICIPATIONS 
-The carrying amount of IBAs holding of shares and participations in other companies is disclosed in the 
-table below
-(EUR 000) 
-2022 
-2023 
-As at January 1 
-12 923 
-3 805 
-Movements through reserves (Valuation at fair value - IFRS 9) 
--10 422 
--2 904 
+cumulated amortisation as at January 1, 2023 
+0 
+27 029 
+4 139 
+31 168 
 Additions 
-1 304 
-1 537 
-As at December 31 
-3 805 
-2 438 
-The movements through reserves are the fair 
-value changes relates to the
+0 
+1 497 
+250 
+1 747 
+Disposals 
+0 
+0 
+0 
+0 
+Currency translation difference 
+0 
+-64 
+-11 
+-75 
+Accumulated amortisation as at December 31, 2023 
+0 
+28 462 
+4 378 
+32 840 
+Net carrying amount as at January 1, 2023 
+10 262 
+2 845 
+4 733 
+17 840 
+Net carrying amount as at December 31, 2023 
+10 194 
+3 100 
+10 102 
+23 396 
+The additions primarily include the costs incurred 
+by IBA in the compliance effort to renew a l

@@ -1,13 +1,3 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 542 of 1106
-SIZE: 379 characters
-PREVIOUS: chunk_0541_annual_report_text (1).txt
-NEXT: chunk_0543_annual_report_text (1).txt
-------------------------------
-the 
-impact of the EU sanctions on the control of IBA 
-SA on its Russian subsidiary, and the indicators 
-of asset impairment the conflict may raise. Besides the investments in affiliated companies, IBA SA also holds equity investments in some 
-companies: A 39.8% (EUR 6.1 million) stake in NHa SA, a 
-French company active in the development of 
-a carbon therapy treatment system
+e costs incurred by IBA in the 
+compliance effort to renew a licence to sell 
+medical devices in Europe in line with the

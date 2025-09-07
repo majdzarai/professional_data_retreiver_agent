@@ -1,26 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 549 of 1106
-SIZE: 659 characters
-PREVIOUS: chunk_0548_annual_report_text (1).txt
-NEXT: chunk_0550_annual_report_text (1).txt
-------------------------------
-th 
-EUR -16.5 million a/o because of the release of 
-a 7.3 million payment from the Russian 
-subsidiary that had temporarily been blocked by 
-the Belgian authorities as part of a review 
-measure 
-under 
-the 
-current 
-embargo 
-environment and the write-off of a EUR 3.3 
-million receivable on an affiliated company that 
-has been liquidated in January 2024. Cash investments 
-Cash investments amounted to EUR 12.7 million 
-at the end of 2023 and correspond to treasury 
-shares. Cash and cash equivalents 
-Cash and cash equivalents amount to EUR 63.3 
-million as per the end of 2023 which is an 
-increase compared to prior year-end balance of 
-EUR 24.5 million.
+creased by 
+EUR -1.2 million; The fair value of the derivative instruments 
+used for cash flow hedging purpose have 
+decreased by EUR -1.0 million; Offset by

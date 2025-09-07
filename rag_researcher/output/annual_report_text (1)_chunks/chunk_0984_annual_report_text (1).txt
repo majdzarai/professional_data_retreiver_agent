@@ -1,25 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 984 of 1106
-SIZE: 517 characters
-PREVIOUS: chunk_0983_annual_report_text (1).txt
-NEXT: chunk_0985_annual_report_text (1).txt
-------------------------------
-ued
-by PanTera for EUR 3.5 millions to further
-support the development of the production
-of Ac.225. === Page 177 ===
-IBA Annual Report 2023 
-174. 15. Glossary of alternative performance 
-measures (APM) 
-Gross profit 
-Definition: Gross profit is the difference of the 
-aggregate amount recognized on Sales and 
-Services after deducting the costs associated 
-with the construction and production of the 
-associated 
-equipment 
-and 
-incurred 
-in 
-connection with the provision of the operation 
-and maintenance services.
+atement unless they qualify as cash 
+flow hedges. The Group designates certain derivative transactions as hedges of the variability of the fair value of recognized assets or 
+liabilities (fair value hedges); as unrecognized firm commitments represented by future sales; or as hedges of the cash flow 
+variability arising from a specific risk associated with a recognized asset or liability or with a highly probable forecast 
+transaction (cash flow hedges).

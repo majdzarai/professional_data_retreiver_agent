@@ -1,0 +1,18 @@
+{
+  "query": "compliance with Basel Accords",
+  "timestamp": "2025-09-07 00:27:56",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "ties are subject to \ncertain financial covenants. Following the terms of the S.R.I.W. and S.F.P.I. bond agreements, the Group agreed to comply \nwith a financial covenant relating to the IBA SAs \nlevel of equity (determines based on the \nstatutory accounts published and established in \ncompliance with accounting principles applicable \nin Belgium), which was met as of December 31, 2023. The financial covenants applying to the \nsyndicated bank facilities consist in (a) a \nmaximum net leverage ratio",
+      "similarity_score": 0.36595234922740766
+    }
+  ]
+}

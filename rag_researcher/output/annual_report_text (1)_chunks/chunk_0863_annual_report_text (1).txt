@@ -1,69 +1,20 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 863 of 1106
-SIZE: 533 characters
-PREVIOUS: chunk_0862_annual_report_text (1).txt
-NEXT: chunk_0864_annual_report_text (1).txt
-------------------------------
-Opening amount 
-39 671 
-29 305 
-68 976 
-14 381 
-26 487 
-40 868 
-Amortised cost adjustment after contract modification 
--556 
-0 
--556 
-0 
-0 
-0 
-Borrowings converted to grants 
-0 
-0 
-0 
-0 
-0 
-0 
-Repayment of borrowings 
--24 734 
--7 050 
--31 784 
--1 000 
--7 180 
--8 180 
-New borrowings 
-0 
-3 456 
-3 456 
-0 
-8 257 
-8 257 
-Accretion of interest 
-0 
-774 
-774 
-202 
-589 
-791 
-Terminations 
-0 
--187 
--187 
-0 
--55 
--55 
-Currency translation difference 
-0 
-189 
-189 
-0 
--98 
--98 
-Closing balance 
-14 381 
-26 487 
-40 868 
-13 583 
-28 000 
-41 583
+luding 
+SAPHYN 
+(SAnte 
+et 
+PHYsique 
+Nucleaire). The overall investment by all partners in NHa is 
+over EUR 60 million, in equity and bond 
+financing 
+(guaranteed 
+by 
+the 
+Normandy 
+Region). IBAs contribution amounted to EUR 6 
+million in equity and EUR 1,5 million in 
+convertible Bond financing (see note 6.2.3). IBAs investment also includes the sale of 
+intellectual property related to the Cyclone400 
+cyclotron to NHa. The gain on this transaction 
+amounted to EUR 5 million which was reduced 
+by EUR 2 million (39.81%) for unrealized gain in 
+2019.

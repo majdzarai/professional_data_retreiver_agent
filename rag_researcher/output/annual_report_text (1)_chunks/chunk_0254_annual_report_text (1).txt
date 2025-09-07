@@ -1,22 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 254 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0253_annual_report_text (1).txt
-NEXT: chunk_0255_annual_report_text (1).txt
-------------------------------
-struments 
-are 
-therefore revalued through profit and loss. At the end of 2023 and 2022, the Group did not 
-have any outstanding interest rate swaps. Liquidity risk 
-Prudent liquidity risk management implies 
-maintaining sufficient cash and marketable 
-securities as well as available (undrawn) credit 
-facilities, in consideration of the dynamic nature 
-of the Groups businesses. These credit facilities 
-are detailed hereunder. As at December 31, 2023, the Group has at its 
-disposal credit facilities amounting to EUR 58.0 
-million of which 23.4% are used. (EUR 000) 
-Credit 
-facilities 
-total 
-am
+tive impact on its 
+intellectual property rights. Legal risk 
+Some contracts may contain warranties or 
+penalties which generally represent only a few 
+percent of the amount of the contract in the case 
+of conventional sales contracts. However, these 
+amounts may be significantly higher in public-
+private partnerships inasmuch as the penalties 
+must cover the associated financing. Such 
+clauses are applicable only to a limited number 
+of contracts, essentially those relating to proton 
+therapy projects.

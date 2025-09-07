@@ -1,47 +1,31 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 979 of 1106
-SIZE: 585 characters
-PREVIOUS: chunk_0978_annual_report_text (1).txt
-NEXT: chunk_0980_annual_report_text (1).txt
-------------------------------
-100% 
-0% 
-Ion Beam Application SRL 
-Buenos Aires, Argentina 
-100% 
-100% 
-IBA Japan KK 
-Tokyo, Japan 
-100% 
-100% 
-Ion Beam Applications Singapore PTE. Ltd 
-Singapore, Singapore 
-100% 
-100% 
-IBA Egypt LLC 
-Cairo, Egypt 
-100% 
-100% 
-Ion Beam Applications Limited 
-Taipei, China 
-100% 
-100% 
-IBA Proton Therapy Canada, Inc. Quebec, Canada 
-100% 
-100% 
-IBA Georgia LLC 
-Tbilisi, Georgia 
-100% 
-100% 
-Modus Medical Devices Inc 
-Ontario, Canada 
-100% 
-100% 
-IBA Dosimetry Co Ltd. Shanghai, China 
-100% 
-100% 
-Fluidomica Lda1 
- Cantanhede, Portugal 
-100% 
-0% 
-Ion Beam Applications Korea, Ltd.
+=== Page 166 ===
+IBA Annual Report 2023 
+163. The table below summarises the financial liabilities held by IBA: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+FINANCIAL LIABILITIES 
+Non-current Current 
+Fair value 
+Non-current 
+Current Fair value 
+At fair value through Profit and loss 
+1 221 
+2 907 
+4 128 
+217 
+555 
+772 
+Derivative hedge-accounted financial 
+liabilities 
+844 
+1 687 
+2 531 
+95 
+334 
+429 
+Derivatives liabilities at fair value through the 
+income statement 
+377 
+1 220 
+1 597 
+122

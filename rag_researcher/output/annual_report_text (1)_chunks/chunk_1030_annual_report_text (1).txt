@@ -1,17 +1,21 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1030 of 1106
-SIZE: 683 characters
-PREVIOUS: chunk_1029_annual_report_text (1).txt
-NEXT: chunk_1031_annual_report_text (1).txt
-------------------------------
-n March 10, 2020, article 
-3 of the Articles of association has been 
-amended to add the following two paragraphs: The Company's objectives include having, in the course of its activities, a significant 
-positive impact on all of its stakeholders, notably patients, shareholders, employees, customers, society and the planet. The Company is managed taking into 
-account the interests of these stakeholders, respecting living beings and present and 
-future generations, and reducing as much 
-as possible negative environmental and 
-societal impacts. CONSULTATION OF CORPORATE DOCUMENTS 
-The Companys statutory and consolidated 
-statements are filed with the National Bank of 
-Belgium.
+llow
+Compensation of key management personnel of the 
+group 
+December 31, 2022 
+December 31, 2023 
+Short-term employee benefits 
+2 071 
+2 117 
+Post-employment pension 
+44 
+0 
+Share-base payment transactions 
+41 
+41 
+Total compensation 
+2 156 
+2 158 
+The amounts disclosed in the table are the amounts recognised as an expense during the reporting 
+period related to key management personnel. The full remuneration report can be found on page 70. === Page 175 ===
+IBA Annual Report 2023 
+172. 12.

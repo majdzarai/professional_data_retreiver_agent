@@ -1,28 +1,29 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 624 of 1106
-SIZE: 630 characters
-PREVIOUS: chunk_0623_annual_report_text (1).txt
-NEXT: chunk_0625_annual_report_text (1).txt
-------------------------------
-ion exception under IAS 12, so that it no 
-longer applies to transactions that give rise to 
-equal 
-taxable 
-and 
-deductible 
-temporary 
-differences. The amendments have been applied to 
-transactions that occur on or after January 1, 2023 with no material impacts on both the 
-current period and the previous periods 
-presented as comparatives. Amendments to IAS 12 Income Taxes: International Tax Reform Pillar Two 
-Model Rules 
-In 2023, the IASB introduced some exceptions 
-to the accounting of deferred tax related to the 
-application of the International Tax Reform 
-Pillar 
-II 
-and 
-clarifies 
-the 
-disclosures 
-requirements.
+perating expenses (-) 
+4.4.1. -6 088 
+-3 525 
+Other operating income 
+4.4.2. 0 
+2 200 
+Operating result (EBIT) 
+4.1. 4 962 
+5 092 
+Financial expenses (-) 
+4.6.1. -16 271 
+-11 181 
+Financial income 
+4.6.2. 10 876 
+5 943 
+Share of profit/(loss) of companies consolidated using the equity method 
+5.4. 3 
+-169 
+Profit/(loss) before taxes 
+- 430 
+-315 
+Tax income/(expenses) 
+4.7. 6 487 
+-8 795 
+Profit/(loss) for the period 
+6 057 
+-9 110 
+Earnings per share (EUR per share) 
+4.8.

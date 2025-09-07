@@ -1,12 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 517 of 1106
-SIZE: 266 characters
-PREVIOUS: chunk_0516_annual_report_text (1).txt
-NEXT: chunk_0518_annual_report_text (1).txt
-------------------------------
-liabilities have decreasd by 
-EUR -12.7 million thanks to backlog 
-conversion but also a high level of invoicing 
-was to be noted at the end of 2023. The fair value of the derivative instruments 
-used for cash flow hedging purpose have 
-decreased by EUR -2.4 million
+ortion of 
+turnover, year 2022 (19) 
+Category enabling activity (20) 
+Category transitional activity (21) 
+Climate change mitigation (5) 
+Climate change adaption (6) 
+Water and marine resources (7) 
+Circular economy (8) 
+Pollution (9) 
+Biodiversity and eco systems (10) 
+Climate change mitigation (11) 
+Climate change adaption (12) 
+Water and marine resources (13) 
+Circular economy (14) 
+Pollution (15) 
+Biodiversity and eco systems (16)

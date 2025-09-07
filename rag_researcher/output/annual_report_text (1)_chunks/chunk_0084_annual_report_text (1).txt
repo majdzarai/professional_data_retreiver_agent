@@ -1,20 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 84 of 1106
-SIZE: 598 characters
-PREVIOUS: chunk_0083_annual_report_text (1).txt
-NEXT: chunk_0085_annual_report_text (1).txt
-------------------------------
-ts
-Protect, enhance and save 
-lives by contributing to 
-MORE TARGETED TREATMENTS
-Proton therapy is one of the most advanced forms 
-of radiation therapy and a valuable treatment 
-modality for thousands of women, men and children 
-who are diagnosed with cancer. Proton therapy aims to destroy cancer cells by 
-delivering proton beams to a target tumor. Protons 
-release the maximum energy within the tumor target 
-area while limiting the radiation to the surrounding 
-healthy tissues. This is not the case for photon 
-radiotherapy, the most common type of radiation 
-currently used in cancer therapy.
+proton therapy 
+treatment in cancer more broadly. The research project 
+comprises 12 proton therapy centers across eight 
+countries and is coordinated by Professor Cai Grau from 
+Aarhus University in Denmark. IBA offers its expertise 
+in proton therapy solutions, with six centers using 
+IBA technology involved in the trial. A total of 
+approximately 400 patients are expected to be included 
+in the randomized trial with study completion planned 
+for 2027.

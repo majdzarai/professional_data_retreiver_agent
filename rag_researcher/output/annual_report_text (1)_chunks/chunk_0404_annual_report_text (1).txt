@@ -1,23 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 404 of 1106
-SIZE: 563 characters
-PREVIOUS: chunk_0403_annual_report_text (1).txt
-NEXT: chunk_0405_annual_report_text (1).txt
-------------------------------
-The ratio between the highest and 
-the lowest employee remuneration of the 
-company in Belgium is 17-1. For this calculation the lowest employee 
-remuneration corresponds to the lowest 
-annual 
-remuneration 
-included 
-in 
-the 
-selection for the calculation in 3.c) above, as 
-applicable on December 31 of the fiscal year 
-and, if needed, recalculated to its full-time 
-equivalent. The highest remuneration is equal to 
-834 963, which corresponds to the target 
-annual remuneration of the CEO, Mr Olivier 
-Legrain, applicable as of December 31 of 
-the fiscal year.
+023 of a Base 
+Salary and an Annual Variable Pay. The 
+Managing 
+Directors 
+and 
+Executive 
+Managers who operate under a Management 
+Company do not benefit from an IBA sponsored 
+pension plan or of the other compensation 
+elements described here above. On June 8 2022, the board of directors took the 
+following resolution: The Board of Directors recommend that the 
+members of the executive management team 
+(MT), considered as such by the CEO and the 
+Remuneration Committee from time to time, prov

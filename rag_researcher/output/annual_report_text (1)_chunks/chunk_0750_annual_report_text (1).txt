@@ -1,17 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 750 of 1106
-SIZE: 543 characters
-PREVIOUS: chunk_0749_annual_report_text (1).txt
-NEXT: chunk_0751_annual_report_text (1).txt
-------------------------------
-x expense 
-The tax profit/(charge) for the year can be broken down as follows: The tax profit on IBAs result before taxes differs 
-from the theoretical amount that would have 
-resulted from application of the average 
-applicable tax rates to the profits of the 
-consolidated companies. The analysis is as 
-follows: The theoritical tax rate presented here above is 
-a weighted average nominal rate of IBA group 
-and therefore is strongly impacted by the 
-disparity of profit and losses made in different 
-jurisdictions with different tax rates.
+on, a one-off pension plan past 
+service cost of EUR 1.9 million (resulting from 
+change in insurance company), the costs 
+incurred for the Stock Option plan for EUR 0.9 
+million and the contribution of the Group for the 
+decommissioning of a research Cyclone 30 for 
+EUR 0.6 million. The REBIT of both segments was impacted by 
+the high inflationary environment, as well as 
+increased investment into R&D, infrastructure, digital technologies and sustainability, all aimed 
+at maintaining IBAs leading offering and 
+investing in its future growth.

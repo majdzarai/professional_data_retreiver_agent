@@ -1,13 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 886 of 1106
-SIZE: 497 characters
-PREVIOUS: chunk_0885_annual_report_text (1).txt
-NEXT: chunk_0887_annual_report_text (1).txt
-------------------------------
-roup uses its incremental borrowing rate at the lease 
-commencement date because the interest rate implicit in the lease is not readily determinable. The Group does apply the 
-short-term lease recognition exemption to its short-term leases and the low-value assets recognition exemption to lease for 
-office equipment, hardware and vehicles that are considered to be low value. === Page 159 ===
-IBA Annual Report 2023 
-156. Dynamitron business wind down not yet 
-incurred as described in Note 4.4.
+that have a similar nature and use to the entity. The assembled items of inventory is based on the weighted average cost of the raw materials included in the Bill of 
+Materials and the planned labour and overhead costs. Any variances with actual costs is included in the line Cost of 
+Goods Sold in the consolidated statement of income. The net realizable value is assessed by reviewing the ageing of each individual inventory item and the value of inventory is 
+adjusted for obsolescence and slow mo

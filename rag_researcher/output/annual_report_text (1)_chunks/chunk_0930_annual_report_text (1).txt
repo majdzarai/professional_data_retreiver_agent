@@ -1,11 +1,53 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 930 of 1106
-SIZE: 615 characters
-PREVIOUS: chunk_0929_annual_report_text (1).txt
-NEXT: chunk_0931_annual_report_text (1).txt
-------------------------------
-term receivables and cash and cash equivalents. Equity instruments at FVOCI, with no recycling of gains or losses to profit or loss on derecognition. This category only 
-includes equity instruments (other investments), which the Group intends to hold for the foreseeable future and which the 
-Group has irrevocably elected to so classify upon initial recognition or transition. The Group classified its unquoted equity 
-instruments as equity instruments at FVOCI. Equity instruments at FVOCI are not subject to an impairment assessment 
-under IFRS 9. Financial assets at FVPL comprise mainly derivative instruments.
+5.11. LONG-TERM AND SHORT-TERM PROVISIONS 
+ (EUR 000) 
+Environment Warranties Litigation 
+Defined 
+employee 
+benefits 
+Other 
+employee 
+benefits 
+Other 
+Total 
+As at January 1, 2022 
+111 
+4 678 
+140 
+5 444 
+279 
+4 226 
+14 878 
+Additions (+) 
+7 
+3 877 
+0 
+834 
+554 
+1 928 
+7 200 
+Write-backs (-) 
+0 
+-1 059 
+0 
+0 
+0 
+2 
+-1 057 
+Utilizations (-) 
+0 
+-1 207 
+0 
+0 
+-80 
+-961 
+-2 248 
+Actuarial (gains)/losses generated during the year 
+0 
+0 
+0 
+-3 549 
+0 
+0 
+-3 549 
+Currency translation difference 
+0

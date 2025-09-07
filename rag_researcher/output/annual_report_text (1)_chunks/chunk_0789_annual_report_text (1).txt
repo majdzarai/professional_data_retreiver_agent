@@ -1,78 +1,34 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 789 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0788_annual_report_text (1).txt
-NEXT: chunk_0790_annual_report_text (1).txt
-------------------------------
-0 
-1 
-0 
-0 
-28 
-Currency translation difference 
--26 
--188 
--50 
-0 
--179 
--14 
--1 
--458 
-Gross carrying amount as at 
+== Page 137 ===
+IBA Annual Report 2023 
+134. 4.5. FINANCIAL EXPENSES AND INCOME 
+4.5.1 Financial expenses 
+ (EUR 000) 
+December 31, 2022 
 December 31, 2023 
-24 741 
-36 042 
-18 942 
-25 
-15 971 
-13 068 
-1 371 
-110 160 
-Accumulated depreciation as at 
-January 1, 2023 
-11 557 
-10 212 
-13 997 
-11 
-11 981 
-5 449 
+Interest paid on debts 
+1 282 
+735 
+Interests on lease liabilities 
+774 
+589 
+Total interest expenses 
+2 056 
+1 324 
+Foreign exchange losses 
+4 789 
+4 270 
+Loss on the change in fair value of derivatives 
+8 205 
+2 188 
+Unwinding of discount 
+426 
+716 
+Impact of hyperinflation 
 0 
-53 207 
-Additions 
-883 
-3 364 
-1 284 
-3 
-1 212 
-3 028 
-0 
-9 774 
-Disposals 
--2 
-47 
-0 
-0 
--103 
--1 925 
-0 
--1 983 
-Accumulated depreciation of assets 
-acquired in business combinations 
-4 
-0 
-7 
-0 
-1 
-0 
-0 
-12 
-Currency translation difference 
--16 
--115 
--49 
--1 
--124 
--10 
-0 
--315 
-Accumulated depreciation
+1 956 
+Other financial expenses 
+795 
+727 
+TOTAL 
+16 271 
+11 1

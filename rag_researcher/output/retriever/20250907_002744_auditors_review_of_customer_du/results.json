@@ -1,0 +1,18 @@
+{
+  "query": "Auditor's review of customer due diligence practices",
+  "timestamp": "2025-09-07 00:27:44",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "and an update of a \nnumber of internal processes. This evaluation \nfocused on key risk areas such as corruption, asset misappropriation, financial statement \nfraud, cyberfraud of theft of data, and contract \nand procurement fraud. As a second phase, informal training of employees is taking place on \na daily basis. A system of formal reporting is also \ndescribed in the Code of Business Conduct and \nencourages the denunciation of such practices, amongst \nothers \nthrough \nthe \nanonimous \nwhistleblower platform on the Companys \nwebsite.",
+      "similarity_score": 0.36284719944000243
+    }
+  ]
+}

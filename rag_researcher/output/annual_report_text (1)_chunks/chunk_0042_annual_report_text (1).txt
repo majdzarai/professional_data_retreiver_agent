@@ -1,16 +1,21 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 42 of 1106
-SIZE: 685 characters
-PREVIOUS: chunk_0041_annual_report_text (1).txt
-NEXT: chunk_0043_annual_report_text (1).txt
-------------------------------
-accessibility, ease of use, and reliability of the technology, prompting major players in the sector to invest more heavily 
-in in-house resources. THE RISE OF X-RAY
-Since the 1990s, IBA has been the pioneer of X-ray irradiation 
-and until 2020, only one reference site in Switzerland was 
-operational around the world. X-ray technology is now seeing 
-a faster acceptance and utilization in all regions of the world. Several new sites were commissioned in 2023, and more than 
-15 new sites will be available to customers from 2027. X-ray is 
-recognized by major sterilizers and manufacturers as the safest 
-technology to handle the volume growth, both for businesses 
-and for patients.
+g, and even choose financing and leasing options. Beyond is an experience we live together trough the whole journey. 01
+Idea
+START
+BEYOND
+Definition
+02
+Evaluation
+03
+Finance
+04
+Design
+05
+Installation
+06
+Care
+08
+Start
+07
+12
+IBA
+CORPORATE BROCHURE 2024

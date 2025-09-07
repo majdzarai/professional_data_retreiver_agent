@@ -1,11 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 794 of 1106
-SIZE: 639 characters
-PREVIOUS: chunk_0793_annual_report_text (1).txt
-NEXT: chunk_0795_annual_report_text (1).txt
-------------------------------
-t are leased by IBA. The acquisition cost only included 
-third party invoices which were directly attributable to the work performed on these assets. Internal resources are usually 
-not capitalised unless it can be demonstrated that these are directly attributable to the asset being constructed and these 
-can be measured. In addition, no borrowing costs have been capitalised. Each asset is depreciated over its useful life using the straight-line method; assets are not revalued. Leased assets: The Group applies a single recognition and measurement approach for all leases, except for short-term leases and leases 
-of low-value assets.
+currency transactions are converted into the functional currency of the Group entity party to the transaction, using 
+the exchange rates prevailing at the dates of the transactions. The functional currency of each subsidiary of the group is 
+the official currency of the countries where they are established. Foreign exchange gains and losses resulting from the settlement of such transactions and from the conversion at the period-
+end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognized in financial expenses 
+and income in the income statement.

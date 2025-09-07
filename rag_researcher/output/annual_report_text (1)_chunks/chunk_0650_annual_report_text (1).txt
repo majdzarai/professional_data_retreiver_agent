@@ -1,20 +1,20 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 650 of 1106
-SIZE: 626 characters
-PREVIOUS: chunk_0649_annual_report_text (1).txt
-NEXT: chunk_0651_annual_report_text (1).txt
-------------------------------
-n-financial 
-assets. Goodwill impairment test: the 5-year strategic 
-plan used as a basis for the impairment test was 
-prepared in December 2023 using the latest 
-inflation forecasts taking into account energy 
-and transport prices increases, as well as a 
-higher discount rate. Despite these prudent 
-inputs, the group has sufficient headroom in the 
-impairment test to conclude that the risk is 
-relatively low. The conflict was assessed as having little 
-impact on IBAs global supply chain; the high 
-energy prices and other materials costs were 
-considered when applying inflation in the 
-strategic forecasts of the group.
+o the nearest thousands unless 
+stated otherwise. The preparation of financial statements in 
+accordance with IFRS requires the use of 
+certain critical accounting estimates. It also 
+requires Management to exercise judgment in 
+the process of applying the Companys 
+accounting policies. Areas involving a higher 
+degree of judgment or complexity, or areas 
+where 
+assumptions 
+and 
+estimates 
+are 
+significant 
+to 
+the 
+consolidated 
+financial 
+statements are disclosed in the relevant notes 
+refere

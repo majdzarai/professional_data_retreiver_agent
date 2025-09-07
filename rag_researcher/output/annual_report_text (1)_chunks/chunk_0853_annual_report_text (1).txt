@@ -1,16 +1,28 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 853 of 1106
-SIZE: 685 characters
-PREVIOUS: chunk_0852_annual_report_text (1).txt
-NEXT: chunk_0854_annual_report_text (1).txt
-------------------------------
-idend of EUR 0.21 per share 
-as recommended by IBAs Board of Directors, for 
-a total amount of EUR 6.1 million, which has 
-been paid during the year. IBAs Board of Directors intends to recommend 
-to the General Assembly to pay a dividend of 
-EUR 0.17 per share in 2024 in order to retain an 
-engaged long-term shareholding. Based on the number of shares eligible to a 
-dividend as at December 3, 2023, this 
-represents a total amount of EUR 5.0 millions. The following table shows the movements in the outstanding number of shares over the last two years: Accounting policy for trade and other receivables 
-Trade and other receivables are held by IBA to collect the related cash flows.
+, Normandy Hadrontherapy 
+SARL and PanTera SA/NV. Changes in equity-accounted investments are as follows: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+As at January 1 
+20 
+273 
+Share of profit/(loss) of equity-accounted investments 
+3 
+-169 
+Additions 
+250 
+18 200 
+Unrealized gain on sale of an intangible asset 
+0 
+0 
+As at December 31 
+273 
+18 304 
+In 2023, IBA further contributed to the capital of 
+PanTera 
+SA/NV 
+with 
+cash 
+to 
+purchase 
+equipment from IBA and IP in kind as described 
+in Note 2.4.

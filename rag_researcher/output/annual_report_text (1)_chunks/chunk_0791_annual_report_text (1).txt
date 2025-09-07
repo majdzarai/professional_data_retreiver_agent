@@ -1,26 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 791 of 1106
-SIZE: 498 characters
-PREVIOUS: chunk_0790_annual_report_text (1).txt
-NEXT: chunk_0792_annual_report_text (1).txt
-------------------------------
-tangible 
-assets 
-mainly 
-include 
-computer 
-hardware 
-and 
-assets 
-under 
-construction. There are no tangible assets 
-subject to title restrictions. Most of the depreciation expense for tangible 
-assets was recognized in the income statement 
-in the Cost of sales and services, Sales and 
-marketing 
-expenses, General 
-and 
-administrative expenses, and Research and 
-development expenses line items. The 
-exception is the additional depreciation and 
-impairment on the assets related to the closed
+the argentinian official index in 
+2023 was 211%. The contract liability position 
+being the billing in excess of the revenue 
+recognised on the installation project was a 
+significant non monetary item and has resulted 
+in a revaluation impact of EUR 1.9 million. IBA 
+has issued large milestone invoices throughout 
+the period which have all been indexed to the 
+index as at December 31, 2023. The revenue 
+of the year was relatively limited due to the 
+project starting later in the year, the reve

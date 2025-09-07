@@ -1,26 +1,48 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 859 of 1106
-SIZE: 635 characters
-PREVIOUS: chunk_0858_annual_report_text (1).txt
-NEXT: chunk_0860_annual_report_text (1).txt
-------------------------------
-s 
-51 431 
-36 051 
-The hedging reserves include changes in the fair 
-value of financial instruments used to hedge 
-cash flows of future transactions. Hedging 
-reserves have increased in 2023 following 
-fluctuation in the foreign currencies as well as 
-ineffective 
-portions 
-of 
-instruments 
-being 
-released to the Income Statement. The treasury shares reserve includes shares of 
-IBA S.A. acquired by group entities and are 
-valued at acquisition cost. Most of these shares 
-are held by the Group to cover the Stock Option 
-Plans and have been acquired in the previous 
-years with the aim of hedging against share price 
-fluctuations.
+s, all unlisted, are as follows: (EUR 000) 
+2022 
+Country 
+Assets 
+Liabilities Revenue 
+Profit/ 
+(Loss) 
+% Interest 
+Cyclhad SAS 
+France 
+66 373 
+77 292 
+6 261 
+-931 
+33.33% 
+Normandy Hadrontherapy SAS 
+France 
+54 284 
+57 246 
+4 116 
+-6 809 
+39.81% 
+Normandy Hadrontherapy SARL 
+France 
+63 
+-14 
+124 
+35 
+50.00% 
+2023 
+Country 
+Assets 
+Liabilities Revenue 
+Profit/ 
+(Loss) 
+% Interest 
+Cyclhad SAS 
+France 
+64 516 
+78 164 
+5 268 
+-2 500 
+33.33% 
+Normandy Hadrontherapy SAS 
+France 
+52 727 
+62 491 
+4

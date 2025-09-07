@@ -1,35 +1,25 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 393 of 1106
-SIZE: 428 characters
-PREVIOUS: chunk_0392_annual_report_text (1).txt
-NEXT: chunk_0394_annual_report_text (1).txt
-------------------------------
+Mandate: 2021; Management 
+agreement: prior to 2009, amended in 
+2012 
+Mandate: GM 
+2024; Management 
+agreement: indefinite 
+Mandate: None 
 Management 
-Team 
-EUR 
-% of 
-total 
-2023 
-568 974 
-77% 
-168 514 
-23% 
-- 
--% 
-- 
--% 
-EUR 
-% of 
-total 
-2022 
-475 463 
-72% 
-138 343 
-21% 
-17 375 
-3% 
-26 308 
-4% 
-*Managing directors excluded (See table Details of 2023 variable pay for Managing Directors) 
-**i.e. hospitalization insurance, long term disability insurance, car, bicycle, lunch vouchers, representation allowance, minor 
-fringe benefits, in-line with local practices
+agreement: 12 
+months or 
+equivalent 
+compensation 
+None. The management 
+agreement also contains a non-
+competition obligation for the 
+duration of the agreement 
+Frinso SRL, represented 
+by Soumya 
+Chandramouli 
+2004 
+Indefinite 
+12 months or 
+equivalent 
+compensation 
+None.

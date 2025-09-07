@@ -1,0 +1,18 @@
+{
+  "query": "state or province",
+  "timestamp": "2025-09-07 00:11:31",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "will be the second ever PT system in the country. In October, a contract was secured with \nMassachusetts General Hospital for the total \nsystem restoration of a three-room system, which was IBAs first ever PT installation. There are 43 IBA PT sites generating service \nrevenues \nworldwide, with \ntwo \nnew \nProteusONE centers initiating treatment in \n2023, in Arkansas, USA and Milan, Italy. PT \nServices continued on its growth trajectory of the \npast few years, increasing by 6.5% compared to \n2022.",
+      "similarity_score": 0.27538134455680846
+    }
+  ]
+}

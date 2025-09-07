@@ -1,63 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 408 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0407_annual_report_text (1).txt
-NEXT: chunk_0409_annual_report_text (1).txt
-------------------------------
-director) 
-34 000 
-6 000 
-BM 
-AC 
-CC/NC 
-MAC 
-PC 
-SC 
-OTHER 
-12 000 
-6 400 
-4 800 
-N/A 
-3 200 
-1 600 
-NONE 
-Hausmann Consulting, represented by 
-Dr. Richard Hausmann (independent 
-director) 
-32 400 
-6 000 
-BM 
-AC 
-CC/NC 
-MAC 
-PC 
-SC 
-OTHER 
-12 000 
-6 400 
-4 800 
-N/A 
-3 200 
-N/A 
-NONE 
-Nextstepefficiency SAS l, represented by 
-Christine Dubus (independent director, chairwoman of the Audit Committee) 
-39 400 
-9 000 
-BM 
-AC 
-CC/NC 
-MAC 
-PC 
-SC 
-OTHER 
-12 000 
-8 800 
-4 800 
-N/A 
-3 200 
-1 600 
-NONE 
-Bridging for Sustainability, represented 
-by Sybille van den Hove (independent 
-director, chairwoma
+etitive 
+position, IBA does not disclose targets. Each criteria is assessed separately 
+against 
+pre-approved 
+targets. A 
+performance score is assigned to each 
+criteria, resulting in the corresponding pay-
+out as described in the following table: Actual Pay-Out

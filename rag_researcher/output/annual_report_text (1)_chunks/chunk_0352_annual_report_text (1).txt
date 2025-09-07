@@ -1,17 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 352 of 1106
-SIZE: 301 characters
-PREVIOUS: chunk_0351_annual_report_text (1).txt
-NEXT: chunk_0353_annual_report_text (1).txt
-------------------------------
-and 7:202 (public takeover bid) of the [Belgian] 
-Companies & Associations Code (hereafter, the 
-BCAC). === Page 73 ===
-IBA Annual Report 2023 
-70. IBA 
-REMUNERATION REPORT (SECTION 3:6, 3, OF THE 
-BCAC) 
-Remuneration Policy: Managing 
-Directors and other Executive 
-Management Team Members 
-Procedure
+s, take part in 
+the vote, for each resolution put to vote, for more 
+than 50% less one security of the total securities 
+admitted to vote and cast respectively for each 
+resolution put to vote. For the application of the previous paragraphs, is deemed to be affiliated to a shareholder: (i) 
+any company or person affiliated to it in the 
+meaning of section 1:20 of the BCAC; (ii) any natural person or legal entity that is part 
+of the administrative or management body 
+of such shareholder or of a

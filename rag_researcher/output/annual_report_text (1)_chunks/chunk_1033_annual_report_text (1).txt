@@ -1,18 +1,39 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1033 of 1106
-SIZE: 620 characters
-PREVIOUS: chunk_1032_annual_report_text (1).txt
-NEXT: chunk_1034_annual_report_text (1).txt
-------------------------------
-were 167 608 
-outstanding stock options of this 2014 Plan. As of December 31, 2020, there were 163 608 
-outstanding stock options of this 2014 Plan. In December 2015, the Company issued 50 000 
-stock options for the Group management (the 
-2015 Plan). They allow the beneficiary to 
-purchase a new share at EUR 31.84 following 
-certain procedures between January 1, 2019 
-and June 30, 2024. IBA decided on August 26, 2015 to render the 
-current SOPs exercisable on a continued period 
-(outside of anti-insider dealing blackout periods 
-and outside of any additional technical black out 
-period) as from October 1st, 2015.
+York, USA 
+100% 
+100% 
+IBA Particle Therapy Ltd. Schwarzenbruck, Germany 
+100% 
+100% 
+LLC Ion Beam Applications 
+Moscow, Russia 
+100% 
+100% 
+IBA Particle Therapy India Private Limited 
+Chennai, India 
+100% 
+100% 
+IBA Dosimetry India Private Limited 2 
+Mumbai, India 
+100% 
+0% 
+Ion Beam Application SRL 
+Buenos Aires, Argentina 
+100% 
+100% 
+IBA Japan KK 
+Tokyo, Japan 
+100% 
+100% 
+Ion Beam Applications Singapore PTE. Ltd 
+Singapore, Singapore 
+100% 
+100% 
+IBA Egypt LLC 
+Cairo, Egypt 
+100% 
+100% 
+Ion Beam Applications Limited 
+Taipei, China 
+100% 
+100% 
+IBA Proton Therapy Canada, Inc.

@@ -1,24 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 479 of 1106
-SIZE: 544 characters
-PREVIOUS: chunk_0478_annual_report_text (1).txt
-NEXT: chunk_0480_annual_report_text (1).txt
-------------------------------
-assess the sustainability of economic activities 
-taking into account the different circumstances 
-and obligations of the different economic actors. It sets out six environmental objectives: - 
-Mitigation of climate change 
-- 
-Adaptation to climate change 
-- 
-Sustainable use and protection of water 
-and marine resources 
-- 
-Transition to a circular economy 
-- 
-Pollution prevention and control 
-- 
-Protection and restoration of 
-biodiversity and ecosystems 
-Activities covered by the taxonomy are referred 
-to as taxonomy-eligible activities.
+Work. === Page 89 ===
+IBA Annual Report 2023 
+86. IBA 
+This Code of Business Conduct contains the 
+IBAs policy regarding Human Rights. It 
+establishes the common principles applicable in 
+every market where IBA has activities. The Company prohibits forced or indentured 
+labor, in all its forms. Employment agreements 
+are to be made on a voluntary basis, and every 
+employee receives regular payment for work and 
+an explanation on their pay slips. Moreover, employees are, as per the applicable laws, allowed 
+to 
+terminate 
+their 
+employment 
+relationship with reasonable notice.

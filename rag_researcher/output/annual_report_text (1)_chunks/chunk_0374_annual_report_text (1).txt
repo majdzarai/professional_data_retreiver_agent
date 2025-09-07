@@ -1,20 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 374 of 1106
-SIZE: 280 characters
-PREVIOUS: chunk_0373_annual_report_text (1).txt
-NEXT: chunk_0375_annual_report_text (1).txt
-------------------------------
-greement and 12 
-months thereafter 
-Frederic Nolf SRL, represented by Frederic 
-Nolf 
-2007 
-Indefinite 
-12 months or 
-equivalent 
-compensation 
-None. The management 
-agreement also contains a non 
-competition obligation for the 
-duration of the agreement and 12 
-months thereafter
+internal equity, considering both the 
+content of the position, and the personal 
+competencies and effectiveness of the 
+manager within IBA

@@ -1,16 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 759 of 1106
-SIZE: 496 characters
-PREVIOUS: chunk_0758_annual_report_text (1).txt
-NEXT: chunk_0760_annual_report_text (1).txt
-------------------------------
-22: EUR 162.7 million) usable to offset future 
-profits taxable mainly in Belgium and in Germany 
-and temporary differences for which the tax base 
-amounts to EUR 66.9 million (2021: EUR 65.0 
-million) mainly in Belgium, the United States, Germany and Russia. The Group recognized 
-deferred tax assets relating to tax losses carried 
-forward for EUR 13.6 million with the view to 
-using these in future years and EUR 3.7 million 
-as deferred tax assets and liabilities for 
-temporary differences.
+ton therapy systems. - 
+Dosimetry: This segment includes the activities that offer a full range of innovative high-quality solutions and 
+services that maximize efficiency and minimize errors in radiation therapy and medical imaging Quality 
+Assurance and calibration procedures. The segment results, assets and liabilities include the items directly related to a segment, as well as those that may be 
+allocated on a reasonable basis.

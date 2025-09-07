@@ -1,11 +1,64 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 931 of 1106
-SIZE: 522 characters
-PREVIOUS: chunk_0930_annual_report_text (1).txt
-NEXT: chunk_0932_annual_report_text (1).txt
-------------------------------
-uity instruments at FVOCI are not subject to an impairment assessment 
-under IFRS 9. Financial assets at FVPL comprise mainly derivative instruments. Derivative instruments 
-Derivative instruments are accounted for at fair value on the date the contracts are entered into and the group applies 
-hedge accounting for some instruments that meet some criteria, such as materiality or risk. Changes in the fair value of derivative instruments are accounted for in the income statement unless they qualify as cash 
-flow hedges.
+0 
+0 
+-3 549 
+Currency translation difference 
+0 
+-46 
+0 
+-3 
+-21 
+-28 
+-98 
+Total movement 
+7 
+1 565 
+0 
+-2 718 
+453 
+941 
+248 
+As at December 31, 2022 
+118 
+6 243 
+140 
+2 726 
+732 
+5 167 
+15 126 
+As at January 1, 2023 
+118 
+6 243 
+140 
+2 726 
+732 
+5 167 
+15 126 
+Additions (+) 
+5 
+4 214 
+0 
+52 
+272 
+2 348 
+6 891 
+Write-backs (-) 
+0 
+-2 492 
+-140 
+0 
+-16 
+-2 162 
+-4 810 
+Utilizations (-) 
+0 
+-1 114 
+0 
+-756 
+-15 
+-1 190 
+-3 075 
+Actuarial (gains)/losses generated during the year 
+0 
+0 
+0 
+1 068

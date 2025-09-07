@@ -1,31 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 772 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0771_annual_report_text (1).txt
-NEXT: chunk_0773_annual_report_text (1).txt
-------------------------------
-DILUTED EARNINGS PER SHARE 
-December 31, 2022 
-December 31, 2023 
-Weighted average number of ordinary shares 
-29 143 354 
-29 126 615 
-Weighted average number of stock options 
-1 109 277 
-1 116 457 
-Average share price over period 
-16.1 
-14.2 
-Dilution effect from weighted number of stock options 
-1 032 041 
-982 331 
-Weighted average number of ordinary shares for diluted earnings per share 
-30 175 395 
-30 108 946 
-Earnings attributable to parent equity holders (EUR 000) 
-6 057 
--9 110 
-Diluted earnings per share from operations (EUR per share) 
-0.2007 
--0.3128 
-In compliance with IAS33, which s
+f years of operation and maintenance of the site. The allocation of the price 
+to the performance obligations is done based on the standard selling price of each component, driven by budget and taking 
+into accounts some contract negotiation considerations. IBAs contract with the customers typically does not contain 
+variable amounts and the financing component is also considered to be non-significant as milestones payments are spread 
+over the project and reflect the progress of IBA in fulfilling its obligations.

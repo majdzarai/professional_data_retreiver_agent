@@ -1,12 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 165 of 1106
-SIZE: 307 characters
-PREVIOUS: chunk_0164_annual_report_text (1).txt
-NEXT: chunk_0166_annual_report_text (1).txt
-------------------------------
-oject (CDP). IBA was awarded 
-a B score in 2023, and is part of the management level class 
-of companies taking coordinated action on climate issues. IBAs support to pay farmers 
-for storing carbon really was 
-a necessary condition for the 
-success of this project. Chuck de Liedekerke, CEO Soil Capital LTD
+ces and a more efficient 
+servicing organization. Through the carbon farming project led by Soil Capital, IBA 
+buys carbon certificates from local regenerative agriculture, aiding in decarbonizing regional operations. This voluntary 
+effort boosts Wallonias carbon farming market by backing 
+agricultural practices that cut greenhouse gas emissions 
+at the farm level. Through the introduction of eco-design rules and practices, IBA also continuously reduces the CO2 footprint per functional 
+unit of

@@ -1,10 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1021 of 1106
-SIZE: 300 characters
-PREVIOUS: chunk_1020_annual_report_text (1).txt
-NEXT: chunk_1022_annual_report_text (1).txt
-------------------------------
-n 
-accordance with article 3:80, 1, 5 of the Companies' and Associations' Code, we do not express an 
-opinion as to whether the non-financial information has been prepared in accordance with the GRI as 
-disclosed in the directors report on the consolidated accounts. Statement related to independence
+ich are on order for delivery as from 2024. 10.2. CONTINGENT LIABILITIES 
+As at December 31, 2023, IBA did not identify any contingent liabilities. 10.3. CONTINGENT ASSETS 
+The Group has filed an insurance claim on faulty 
+parts. As the claim does not meet all the criteria 
+to be recognised as an asset on the balance 
+sheet, the group presents this as a contingent 
+asset. The best estimate of Management for the 
+insurance indemnity to be received is EUR 0.5 
+million (unchanged from 2022). 11.

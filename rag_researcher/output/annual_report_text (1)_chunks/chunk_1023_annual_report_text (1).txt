@@ -1,12 +1,24 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1023 of 1106
-SIZE: 671 characters
-PREVIOUS: chunk_1022_annual_report_text (1).txt
-NEXT: chunk_1024_annual_report_text (1).txt
-------------------------------
-We have also verified, in accordance with the draft standard on the verification of the compliance of 
-the financial statements with the European Uniform Electronic Format (hereinafter ESEF), the 
-compliance of the ESEF format with the regulatory technical standards established by the European 
-Delegate Regulation No. 2019/815 of 17 December 2018 (hereinafter: Delegated Regulation). The board of directors is responsible for the preparation, in accordance with ESEF requirements, of 
-the consolidated financial statements in the form of an electronic file in ESEF format (hereinafter 
-digital consolidated financial statements) included in the annual financial report.
+=== Page 173 ===
+IBA Annual Report 2023 
+170. 11.1. TRANSACTIONS WITH AFFILIATED 
+COMPANIES (ASSOCIATES AND JOINT 
+VENTURES) 
+The main transactions completed with affiliated companies (companies accounted for using the equity 
+accounting method) are the following: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+ASSETS 
+Receivables 
+Long-term receivables 
+1 520 
+2 520 
+Inventory and contracts in progress 
+0 
+0 
+Trade and other receivables 
+0 
+3 045 
+Impairment of receivables 
+0 
+0 
+TOTAL RECEIVA

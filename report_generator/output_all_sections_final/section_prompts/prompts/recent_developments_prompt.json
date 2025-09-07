@@ -1,0 +1,88 @@
+{
+  "section_metadata": {
+    "chapter_title": "Recent Developments",
+    "section_title": "Recent Developments",
+    "description": "Material events such as M&A, regulatory actions, new product launches.",
+    "total_questions": 3
+  },
+  "writing_instructions": {
+    "objective": "Write a comprehensive and professional section titled 'Recent Developments' for the chapter 'Recent Developments'",
+    "scope": "Material events such as M&A, regulatory actions, new product launches.",
+    "structure_requirements": [
+      "Start with a clear introduction to the section topic",
+      "Present information in a logical, well-organized manner",
+      "Use professional business report language and tone",
+      "Include specific data points and facts from the research findings",
+      "Ensure accuracy and cite relevant information appropriately",
+      "Conclude with a summary of key points if the section is substantial"
+    ],
+    "content_guidelines": [
+      "Focus on factual, objective information",
+      "Use clear, concise language suitable for business stakeholders",
+      "Organize information hierarchically (most important first)",
+      "Include specific details such as dates, numbers, and official names",
+      "Maintain consistency with overall report structure and tone"
+    ]
+  },
+  "research_findings": [
+    {
+      "question": "What have been the key M&A activities for Ion Beam Applications SA in the last two years?",
+      "total_results": 1,
+      "results": [
+        {
+          "text": "00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosimetry America Inc. Bartlett, USA \n100% \n100% \nIBA Proton Therapy Inc. Edgewood New York, USA \n100% \n100% \nIBA Industrial Inc. Edgewood New York, USA \n100% \n100% \nIBA USA Inc. Edgewood New York, USA \n100% \n100% \nIBA Particle Therapy Ltd.",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications M&A history"
+        }
+      ],
+      "key_information": [
+        "00% \n100% \nIon Beam Beijing Applications Co"
+      ]
+    },
+    {
+      "question": "How has the regulatory environment impacted Ion Beam Applications SA's business operations and strategy?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosimetry America Inc. Bartlett, USA \n100% \n100% \nIBA Proton Therapy Inc. Edgewood New York, USA \n100% \n100% \nIBA Industrial Inc. Edgewood New York, USA \n100% \n100% \nIBA USA Inc. Edgewood New York, USA \n100% \n100% \nIBA Particle Therapy Ltd.",
+          "source": "",
+          "score": 0.0,
+          "query": "regulatory actions affecting Ion Beam Applications"
+        },
+        {
+          "text": "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts",
+          "source": "",
+          "score": 0.0,
+          "query": "compliance issues Ion Beam Applications"
+        }
+      ],
+      "key_information": [
+        "00% \n100% \nIon Beam Beijing Applications Co",
+        "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023",
+        "Responsibilities of the board of directors for the preparation of the consolidated accounts"
+      ]
+    },
+    {
+      "question": "What new products or technologies has Ion Beam Applications SA introduced to the market in recent times?",
+      "total_results": 1,
+      "results": [
+        {
+          "text": "00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosimetry America Inc. Bartlett, USA \n100% \n100% \nIBA Proton Therapy Inc. Edgewood New York, USA \n100% \n100% \nIBA Industrial Inc. Edgewood New York, USA \n100% \n100% \nIBA USA Inc. Edgewood New York, USA \n100% \n100% \nIBA Particle Therapy Ltd.",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications product launches"
+        }
+      ],
+      "key_information": [
+        "00% \n100% \nIon Beam Beijing Applications Co"
+      ]
+    }
+  ],
+  "key_questions_addressed": [
+    "What have been the key M&A activities for Ion Beam Applications SA in the last two years?",
+    "How has the regulatory environment impacted Ion Beam Applications SA's business operations and strategy?",
+    "What new products or technologies has Ion Beam Applications SA introduced to the market in recent times?"
+  ],
+  "writing_prompt": "# Writing Instructions for Report Section\n\n## Section Details\n- **Chapter**: Recent Developments\n- **Section**: Recent Developments\n- **Purpose**: Material events such as M&A, regulatory actions, new product launches.\n\n## Writing Task\nWrite a comprehensive, professional section for a business report that addresses the following requirements:\n\n### Content Requirements:\n1. **Introduction**: Begin with a clear introduction that establishes the purpose and scope of this section\n2. **Main Content**: Present the information in a logical, well-structured manner using the research findings provided\n3. **Professional Tone**: Use formal business language appropriate for stakeholders and decision-makers\n4. **Factual Accuracy**: Base all statements on the provided research findings and cite specific data points\n5. **Clarity**: Ensure the content is clear, concise, and easy to understand\n\n### Structure Guidelines:\n- Use appropriate headings and subheadings if the content is substantial\n- Present information in order of importance\n- Include specific details such as dates, numbers, company names, and official designations\n- Maintain consistency with professional report formatting standards\n\n### Research Findings to Incorporate:\n\n#### Question 1: What have been the key M&A activities for Ion Beam Applications SA in the last two years?\n**Key Information to Include:**\n- 00% \n100% \nIon Beam Beijing Applications Co\n\n**Supporting Research Data:**\n1. 00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosime...\n\n\n#### Question 2: How has the regulatory environment impacted Ion Beam Applications SA's business operations and strategy?\n**Key Information to Include:**\n- 00% \n100% \nIon Beam Beijing Applications Co\n- The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023\n- Responsibilities of the board of directors for the preparation of the consolidated accounts\n\n**Supporting Research Data:**\n1. 00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosime...\n\n2. The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated ac...\n\n\n#### Question 3: What new products or technologies has Ion Beam Applications SA introduced to the market in recent times?\n**Key Information to Include:**\n- 00% \n100% \nIon Beam Beijing Applications Co\n\n**Supporting Research Data:**\n1. 00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosime...\n\n\n### Final Instructions:\n- Synthesize the research findings into coherent, flowing prose\n- Ensure all factual claims are supported by the provided research data\n- Maintain professional objectivity throughout the section\n- Aim for completeness while being concise\n- Review for accuracy, clarity, and professional presentation\n\n**Expected Output**: A well-written, professional report section that fully addresses the section requirements using the provided research findings."
+}

@@ -1,18 +1,31 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1034 of 1106
-SIZE: 637 characters
-PREVIOUS: chunk_1033_annual_report_text (1).txt
-NEXT: chunk_1035_annual_report_text (1).txt
-------------------------------
-nued period 
-(outside of anti-insider dealing blackout periods 
-and outside of any additional technical black out 
-period) as from October 1st, 2015. All stock options may also be exercised in the 
-event of a takeover bid on IBA or of an increase 
-of shareholders equity with preemptive rights. In 2020, none of these stock options were 
-exercised. As of December 31, 2020, there were 20.000 
-outstanding stock options of this 2015 Plan. In June 2020, the Company issued 357 000 
-stock options for the Group management. They 
-allow the beneficiary to purchase a new share at 
-7,54 EUR following certain procedures from 
-January 02, 2024.
+hina 
+100% 
+100% 
+IBA Proton Therapy Canada, Inc. Quebec, Canada 
+100% 
+100% 
+IBA Georgia LLC 
+Tbilisi, Georgia 
+100% 
+100% 
+Modus Medical Devices Inc 
+Ontario, Canada 
+100% 
+100% 
+IBA Dosimetry Co Ltd. Shanghai, China 
+100% 
+100% 
+Fluidomica Lda1 
+ Cantanhede, Portugal 
+100% 
+0% 
+Ion Beam Applications Korea, Ltd. Gyeonggi-do, South Korea 
+100% 
+100% 
+IBA Proton Therapy Israel Ltd 3 
+Tel Aviv, Israel 
+100% 
+0% 
+1 Subsidiary acquired in March 2023 
+2 Subsidiary set up in July 2023 
+3 Subsidiary s

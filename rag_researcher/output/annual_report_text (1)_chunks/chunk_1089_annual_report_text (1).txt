@@ -1,9 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1089 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_1088_annual_report_text (1).txt
-NEXT: chunk_1090_annual_report_text (1).txt
-------------------------------
-in the above figures based on average national energy mix. - Launch of a 500kWc solar carport installation, equipped with 50 additional EV chargers. Targets/goals: we have set ourselves the goal of reducing our operations net GHG emissions to zero by 2030. We have set ourselves the goal of 
-reducing our energy intensity by 50% below 2020 levels by 2030. 1 The 2023 reporting is based upon updated CO2 emissions factors per country in accordance to IEA 2023 guidelines. For consistency, same updated 
-emission factors have been applied to the reporting of previous years based on the same guideline
+Chemin du Cyclotron, 3; B-1348 Louvain-la-
+Neuve, Belgium; enterprise 
+number 
+VAT 
+BE0428.750.985, Register of Legal Entities 
+(RLE) of the Walloon Brabant. DATE, FORM AND PERIOD OF INCORPORATION 
+IBA was incorporated for an indefinite period on 
+March 28, 1986 as a limited liability company 
+(societe anonyme) under Belgian law. IBA is a 
+listed company in the meaning of section 1:11 of 
+the Belgian Companies & Associations Code.

@@ -1,15 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 306 of 1106
-SIZE: 626 characters
-PREVIOUS: chunk_0305_annual_report_text (1).txt
-NEXT: chunk_0307_annual_report_text (1).txt
-------------------------------
-Research and advice on sustainability / 
-Former chair of the scientific committee of 
-the European Environment Agency 
-RC: Remuneration Committee - NC: Nomination Committee - AC: Audit Committee PC: Product Committee SC: Sustainability Committee 
-(1) 
-In accordance with the meaning ascribed by the corporate charter to the term "Internal director", namely an internal 
-director is a director appointed on the proposal of the managing directors. (2) 
-Submitted to the General Meeting as candidate independent directors on their election, without excluding the fact that 
-other directors also fulfill the independence criteria.
+s law is applicable to the crossing, upward 
+or downward, of any minimum portion of one 
+percent (1%), two percent (2%), three percent 
+(3%), four percent (4%), five percent (5%), seven 
+point five percent (7.5%), and in portions of ten 
+percent (10%), fifteen percent (15%) and so on 
+in increments of five percent (5%), of the total 
+voting rights in circulation at the time of the 
+occurrence of the situation giving rise to a 
+declaration under this law. === Page 65 ===
+IBA Annual Report 2023 
+62.

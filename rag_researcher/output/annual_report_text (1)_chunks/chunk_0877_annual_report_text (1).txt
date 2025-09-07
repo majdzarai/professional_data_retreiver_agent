@@ -1,39 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 877 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0876_annual_report_text (1).txt
-NEXT: chunk_0878_annual_report_text (1).txt
-------------------------------
-yond one year 
-10 647 
-0 
-9 848 
-0 
-TOTAL FIXED 
-14 381 
-0 
-13 582 
-0 
-TOTAL 
-14 381 
-41 757 
-13 582 
-44 458 
-5.10.2 Lease liabilities 
-As at December 31, 2023, the average interest 
-rate paid on lease liabilities is 2.29% (2.82% as 
-at December 31, 2022). As at December 31, 2023 and December 31, 2022, there were no significant undiscounted 
-potential future rental payments relating to 
-periods following the exercise date of extension 
-and termination options that are not included in 
-the lease term. (EUR 000) 
-Credit 
-facilities 
-total 
-amount 
-Credit 
-facilities 
-used 
-Credit 
-facilities 
-av
+10.11% 
+ownership of the issued capital. The company is a listed group on the Swedish 
+stock exchange, the investment is held at fair 
+value based on its share price at the end of the 
+reporting period with changes recognised in 
+Other Comprehensive Income. In 2023, this 
+reassessment at fair value decreased the value 
+of the investment by EUR 0.2 million against the 
+Groups Statement of Other Comprehensive 
+Income (cumulative impact on reserves of EUR 
+0.4 million as at December 31, 2023). Invest.BW SA 
+On January 1st, 2023, the Group acquired 7 500 
+shares of Invest.BW S.A.

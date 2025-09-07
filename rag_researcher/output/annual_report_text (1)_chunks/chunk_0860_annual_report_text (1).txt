@@ -1,20 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 860 of 1106
-SIZE: 676 characters
-PREVIOUS: chunk_0859_annual_report_text (1).txt
-NEXT: chunk_0861_annual_report_text (1).txt
-------------------------------
-y the Group to cover the Stock Option 
-Plans and have been acquired in the previous 
-years with the aim of hedging against share price 
-fluctuations. In 2023, the changes of Revaluation reserves - 
-Equity instruments at fair value through Profit or 
-Loss is related to the reevaluation at fair value 
-of the other investment in ScandiDos A.B (EUR 
--0.2 million) and HIL applied Medical Ltd (EUR -
-2.8 million), see Note 5.5. The decrease of Other reserves Defined 
-benefit plan for EUR 1.0 million is further 
-described in note 5.11. In 2023, the loans of CNY 45.0 million and CNY 
-14.8 million between IBA SA and Ion Beam 
-Beijing Medical Applications Technology Service 
-Co.
+andy Hadrontherapy SAS 
+France 
+52 727 
+62 491 
+4 116 
+-6 809 
+39.81% 
+Normandy Hadrontherapy SARL 
+France 
+70 
+-19 
+124 
+35 
+50.00%

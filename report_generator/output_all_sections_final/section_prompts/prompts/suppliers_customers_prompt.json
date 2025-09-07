@@ -1,0 +1,114 @@
+{
+  "section_metadata": {
+    "chapter_title": "Business Activities",
+    "section_title": "Suppliers & Customers",
+    "description": "Major suppliers, customer portfolio, and dependency risks.",
+    "total_questions": 3
+  },
+  "writing_instructions": {
+    "objective": "Write a comprehensive and professional section titled 'Suppliers & Customers' for the chapter 'Business Activities'",
+    "scope": "Major suppliers, customer portfolio, and dependency risks.",
+    "structure_requirements": [
+      "Start with a clear introduction to the section topic",
+      "Present information in a logical, well-organized manner",
+      "Use professional business report language and tone",
+      "Include specific data points and facts from the research findings",
+      "Ensure accuracy and cite relevant information appropriately",
+      "Conclude with a summary of key points if the section is substantial"
+    ],
+    "content_guidelines": [
+      "Focus on factual, objective information",
+      "Use clear, concise language suitable for business stakeholders",
+      "Organize information hierarchically (most important first)",
+      "Include specific details such as dates, numbers, and official names",
+      "Maintain consistency with overall report structure and tone"
+    ]
+  },
+  "research_findings": [
+    {
+      "question": "What are the key suppliers of Ion Beam Applications SA and their respective market shares?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of the Group and the Ultimate \nParent. The Company is listed on the pan-European \nEuronext stock exchange (B-compartment) and \nis included in the BEL Mid Index. IBA publishes condensed half-yearly and \nannual consolidated financial statements which \nhave been prepared in accordance with IFRS \nas endorsed by EU.",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications SA major suppliers"
+        },
+        {
+          "text": "=== Page 42 ===\nENGAGING WITH OUR SUPPLY CHAIN\nWe believe that a strong and responsible supply chain benefits \nour community. IBA has more than 100 main suppliers worldwide supporting \nits design and product manufacturing. The majority of IBA \nsuppliers are located in Europe. IBA suppliers have been \nselected for their ability to best comply with requirements as \nstipulated by ISO 13485:2016. The selection and qualification \nprocess of a supplier considers the criticality of the supplied \ngoods and services.",
+          "source": "",
+          "score": 0.0,
+          "query": "market share of suppliers iba"
+        }
+      ],
+      "key_information": [
+        "company \nincorporated and domiciled in Belgium",
+        "The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium",
+        "=== Page 42 ===\nENGAGING WITH OUR SUPPLY CHAIN\nWe believe that a strong and responsible supply chain benefits \nour community",
+        "IBA has more than 100 main suppliers worldwide supporting \nits design and product manufacturing"
+      ]
+    },
+    {
+      "question": "Who are the top customers of Ion Beam Applications SA, what products or services do they purchase, and how often?",
+      "total_results": 3,
+      "results": [
+        {
+          "text": "company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of the Group and the Ultimate \nParent. The Company is listed on the pan-European \nEuronext stock exchange (B-compartment) and \nis included in the BEL Mid Index. IBA publishes condensed half-yearly and \nannual consolidated financial statements which \nhave been prepared in accordance with IFRS \nas endorsed by EU.",
+          "source": "",
+          "score": 0.0,
+          "query": "ion beam applications sa customer portfolio"
+        },
+        {
+          "text": "food irradiation \nand environmental applications. Every initiative pursued prioritizes customers \nas the focal point of its vision. In line with this \nphilosophy, IBA has established a new Customer \nSuccess team dedicated to delivering optimal \nservice and attention to its clients. Furthermore, in a bid to enhance proximity to its \nexisting customer base, IBA has bolstered its regional \npresence in the United States by quadrupling local \nresources.",
+          "source": "",
+          "score": 0.0,
+          "query": "top customers iba"
+        },
+        {
+          "text": ") are accounted for using the acquisition method. During the purchase \nprice allocation process, IBA determines the fair value of the acquirees identifiable net assets, liabilities, and contingent \nliabilities and allocates the consideration to these. The consideration transferred for the acquisition of a subsidiary is measured at fair value and includes any contingent \nconsideration. It is common to have an element of variable consideration such as an earn out which is contingent to the \nfuture performance of the acquired business.",
+          "source": "",
+          "score": 0.0,
+          "query": "purchase frequency analysis iba"
+        }
+      ],
+      "key_information": [
+        "company \nincorporated and domiciled in Belgium",
+        "The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium",
+        "food irradiation \nand environmental applications",
+        "Every initiative pursued prioritizes customers \nas the focal point of its vision",
+        ") are accounted for using the acquisition method"
+      ]
+    },
+    {
+      "question": "What are the potential dependency risks associated with suppliers and customers for Ion Beam Applications SA?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "ve an impact \non the level of inventory required. Product development risk \nBecause IBA does not have a full product in-\nhouse testing capability, new products or",
+          "source": "",
+          "score": 0.0,
+          "query": "dependency risks iba suppliers"
+        },
+        {
+          "text": "ions \ndiffer greatly from one country to another. Operational risks \nSale risk \nIn general, IBAs customers are diversified \n(public and private sector) and located on \nseveral continents. Each year the Company \ndepends on multiple orders, particularly for its \nproton therapy systems that are implemented \nover several financial years. One additional \norder or one order less, or changes in an order \nthat were not anticipated at the beginning of the \nyear, are characteristics of this field of business \nthat can have a significant impact over several \naccounting periods.",
+          "source": "",
+          "score": 0.0,
+          "query": "risks from ion beam applications sa supply chain"
+        }
+      ],
+      "key_information": [
+        "ve an impact \non the level of inventory required",
+        "Product development risk \nBecause IBA does not have a full product in-\nhouse testing capability, new products or",
+        "ions \ndiffer greatly from one country to another",
+        "Operational risks \nSale risk \nIn general, IBAs customers are diversified \n(public and private sector) and located on \nseveral continents"
+      ]
+    }
+  ],
+  "key_questions_addressed": [
+    "What are the key suppliers of Ion Beam Applications SA and their respective market shares?",
+    "Who are the top customers of Ion Beam Applications SA, what products or services do they purchase, and how often?",
+    "What are the potential dependency risks associated with suppliers and customers for Ion Beam Applications SA?"
+  ],
+  "writing_prompt": "# Writing Instructions for Report Section\n\n## Section Details\n- **Chapter**: Business Activities\n- **Section**: Suppliers & Customers\n- **Purpose**: Major suppliers, customer portfolio, and dependency risks.\n\n## Writing Task\nWrite a comprehensive, professional section for a business report that addresses the following requirements:\n\n### Content Requirements:\n1. **Introduction**: Begin with a clear introduction that establishes the purpose and scope of this section\n2. **Main Content**: Present the information in a logical, well-structured manner using the research findings provided\n3. **Professional Tone**: Use formal business language appropriate for stakeholders and decision-makers\n4. **Factual Accuracy**: Base all statements on the provided research findings and cite specific data points\n5. **Clarity**: Ensure the content is clear, concise, and easy to understand\n\n### Structure Guidelines:\n- Use appropriate headings and subheadings if the content is substantial\n- Present information in order of importance\n- Include specific details such as dates, numbers, company names, and official designations\n- Maintain consistency with professional report formatting standards\n\n### Research Findings to Incorporate:\n\n#### Question 1: What are the key suppliers of Ion Beam Applications SA and their respective market shares?\n**Key Information to Include:**\n- company \nincorporated and domiciled in Belgium\n- The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium\n- === Page 42 ===\nENGAGING WITH OUR SUPPLY CHAIN\nWe believe that a strong and responsible supply chain benefits \nour community\n- IBA has more than 100 main suppliers worldwide supporting \nits design and product manufacturing\n\n**Supporting Research Data:**\n1. company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of ...\n\n2. === Page 42 ===\nENGAGING WITH OUR SUPPLY CHAIN\nWe believe that a strong and responsible supply chain benefits \nour community. IBA has more than 100 main suppliers worldwide supporting \nits design and ...\n\n\n#### Question 2: Who are the top customers of Ion Beam Applications SA, what products or services do they purchase, and how often?\n**Key Information to Include:**\n- company \nincorporated and domiciled in Belgium\n- The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium\n- food irradiation \nand environmental applications\n- Every initiative pursued prioritizes customers \nas the focal point of its vision\n- ) are accounted for using the acquisition method\n\n**Supporting Research Data:**\n1. company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of ...\n\n2. food irradiation \nand environmental applications. Every initiative pursued prioritizes customers \nas the focal point of its vision. In line with this \nphilosophy, IBA has established a new Customer \nS...\n\n\n#### Question 3: What are the potential dependency risks associated with suppliers and customers for Ion Beam Applications SA?\n**Key Information to Include:**\n- ve an impact \non the level of inventory required\n- Product development risk \nBecause IBA does not have a full product in-\nhouse testing capability, new products or\n- ions \ndiffer greatly from one country to another\n- Operational risks \nSale risk \nIn general, IBAs customers are diversified \n(public and private sector) and located on \nseveral continents\n\n**Supporting Research Data:**\n1. ve an impact \non the level of inventory required. Product development risk \nBecause IBA does not have a full product in-\nhouse testing capability, new products or...\n\n2. ions \ndiffer greatly from one country to another. Operational risks \nSale risk \nIn general, IBAs customers are diversified \n(public and private sector) and located on \nseveral continents. Each year th...\n\n\n### Final Instructions:\n- Synthesize the research findings into coherent, flowing prose\n- Ensure all factual claims are supported by the provided research data\n- Maintain professional objectivity throughout the section\n- Aim for completeness while being concise\n- Review for accuracy, clarity, and professional presentation\n\n**Expected Output**: A well-written, professional report section that fully addresses the section requirements using the provided research findings."
+}

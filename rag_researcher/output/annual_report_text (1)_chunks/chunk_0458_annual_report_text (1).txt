@@ -1,20 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 458 of 1106
-SIZE: 651 characters
-PREVIOUS: chunk_0457_annual_report_text (1).txt
-NEXT: chunk_0459_annual_report_text (1).txt
-------------------------------
-s 
-also 
-described in the Code of Business Conduct and 
-encourages the denunciation of practices that 
-would be contrary to IBAs Human Rights policy. In the event of a denunciation to the IBA, the 
-latter will promptly take appropriate measures: i) 
-to bring the situation back into conformity with 
-human rights, and ii) to prevent the repetition of 
-such a violation. IBA is continuously assessing its suppliers to 
-ensure that their activities do not contribute to 
-the infringement of Human Rights. This 
-assessment is dependent on the nature of the 
-services that are required from the supplier and 
-on the geographical location of this supplier.
+Here below are the latest data 15-02-2024 at the 
+group level. The graph shows the average of the 
+ratio 
+between 
+ABS+ (annual 
+base 
+salary 
+excluding bonuses) and the local base rate 
+salary. The conclusion of these analyses is that IBA's 
+policy is not only respectful of women and men 
+but tends to respect all people without 
+distinction, across the groups. Note: small 
+number may distort comparison especially 
+above grade 12.

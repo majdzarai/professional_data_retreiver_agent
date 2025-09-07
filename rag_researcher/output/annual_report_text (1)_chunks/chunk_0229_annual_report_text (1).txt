@@ -1,21 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 229 of 1106
-SIZE: 673 characters
-PREVIOUS: chunk_0228_annual_report_text (1).txt
-NEXT: chunk_0230_annual_report_text (1).txt
-------------------------------
-n turn 
-influence the volume of orders that IBA obtains. These subsidies from reimbursement institutions 
-differ greatly from one country to another. Operational risks 
-Sale risk 
-In general, IBAs customers are diversified 
-(public and private sector) and located on 
-several continents. Each year the Company 
-depends on multiple orders, particularly for its 
-proton therapy systems that are implemented 
-over several financial years. One additional 
-order or one order less, or changes in an order 
-that were not anticipated at the beginning of the 
-year, are characteristics of this field of business 
-that can have a significant impact over several 
-accounting periods.
+al 
+and Compliance, Digital, and Financial risks. The main risks within these categories are 
+further described. === Page 55 ===
+IBA Annual Report 2023 
+52. IBA 
+IBA RISK MANAGEMENT FRAMEWORK
+Risk management is a core component of the 
+IBA strategy and performance management 
+process. The Board of Directors considers risk 
+appetite when making decisions. The design and effectiveness of IBAs risk 
+management, practices, and 
+the 
+recommendations from internal and external 
+audits are reported and discussed periodically 
+with the Risk Management Committee.

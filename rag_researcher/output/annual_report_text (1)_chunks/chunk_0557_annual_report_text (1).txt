@@ -1,18 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 557 of 1106
-SIZE: 577 characters
-PREVIOUS: chunk_0556_annual_report_text (1).txt
-NEXT: chunk_0558_annual_report_text (1).txt
-------------------------------
-R -4.4 million and 
-amount to EUR 15.8 million. The remaining 
-amount includes: loan from the S.R.I.W. (EUR 5.2 million) and 
-SFPI (EUR 1.9 million). The decrease 
-compared to last year mainly relates to the 
-portions of the SRIW loan (EUR 2.6 million) 
-and SFPI loan (EUR 0.9 million) which will be 
-reimbursed within the year 2023. Finance lease debt (EUR 8.7 million). Long-term down payments received on 
-orders amounted to EUR 199.0 million in 
-2023 compared to EUR 179.2 million in 
-2022. Other debts amount to EUR 2.0 million and 
-generally relate to repayable advances.
+illion; Negative financing cash-flow of EUR -14.4 
+million 
+related 
+to 
+the 
+repayment 
+of 
+borrowings and lease liabilities for EUR -7.5 
+million (mainly lease liabilities), the dividend 
+paid for EUR -6.1 million and; Negative investing cash-flow of EUR -13.3 
+million mainly related to acquisitions of 
+tangible and intangible assets of EUR -12.3 
+million and the convertible loan issued to 
+PanTera for EUR -1.0 million. Net financial cash decreased by EUR -49.8 
+million from EUR 117.5 million at the end of 2022 
+to EUR 67.7 million at the end of 2023.

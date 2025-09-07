@@ -1,0 +1,34 @@
+{
+  "section_id": "company_overview",
+  "section_title": "Company Overview",
+  "chapter_id": "introduction_background",
+  "chapter_title": "Introduction / Background",
+  "description": "Basic company identification and registration details (name, incorporation date, registration number, legal form, jurisdiction, address, ownership structure).",
+  "topic": "comprehensive KYC and credit risk analysis for Ion Beam Applications SA",
+  "questions": [
+    {
+      "question": "What is the full legal name of Ion Beam Applications SA as per official records?",
+      "queries": [
+        "Ion Beam Applications SA company name",
+        "official company name Ion Beam Applications SA",
+        "legal name Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "On what date was Ion Beam Applications SA incorporated?",
+      "queries": [
+        "inception date of Ion Beam Applications SA",
+        "incorporation date Ion Beam Applications SA",
+        "founding date Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "What is the registration number or ID assigned to Ion Beam Applications SA by its respective jurisdiction?",
+      "queries": [
+        "Ion Beam Applications SA registration number",
+        "company ID Ion Beam Applications SA",
+        "official registry number Ion Beam Applications SA"
+      ]
+    }
+  ]
+}

@@ -1,11 +1,3 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 3 of 1106
-SIZE: 416 characters
-PREVIOUS: chunk_0002_annual_report_text (1).txt
-NEXT: chunk_0004_annual_report_text (1).txt
-------------------------------
-d scientific progress, make IBA a unique scientific 
-company. We are characterized by a deep human 
 connection that is illustrated by: Life, Science. Through our four core activities: Industrial 
 Solutions, RadioPharma Solutions, Proton Therapy 
 and Dosimetry, we offer health care professionals 

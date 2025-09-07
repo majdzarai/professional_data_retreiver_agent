@@ -1,22 +1,25 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 781 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0780_annual_report_text (1).txt
-NEXT: chunk_0782_annual_report_text (1).txt
-------------------------------
-itional investments were made in 
-software, mainly for the development of the IT 
-internal service management system and an SAP 
-HR central platform. Amortization expense for intangible assets was 
-recognized in the income statement in the Cost 
-of sales and services, Sales and marketing 
-expenses, General 
-and 
-administrative 
-expenses, and Research and development 
-expenses line items. === Page 143 ===
+=== Page 136 ===
 IBA Annual Report 2023 
-140. Accounting policy for intangible assets 
-Goodwill: the accounting policy for recognising and measuring goodwill is described in Note 3, Business 
-combinations 
-Sof
+133. 4.4. OTHER OPERATING EXPENSES AND INCOME 
+4.4.1 Other operating expenses 
+The other operating expenses can be broken down as follows: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Reorganization expenses 
+0 
+2 453 
+Costs related to specific projects 
+656 
+64 
+Costs of share-based payments 
+941 
+1 008 
+Pension plan past service cost 
+1 938 
+0 
+Costs relating to significant bankruptcy of client 
+2 553 
+0 
+ TOTAL 
+6 088 
+3 525

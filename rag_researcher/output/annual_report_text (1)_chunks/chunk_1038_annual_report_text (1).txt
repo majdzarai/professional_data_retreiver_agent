@@ -1,18 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1038 of 1106
-SIZE: 516 characters
-PREVIOUS: chunk_1037_annual_report_text (1).txt
-NEXT: chunk_1039_annual_report_text (1).txt
-------------------------------
-rom 42,413,196.29 to 
-42,502,318.54 and the creation of 63,500 new 
-shares. As of December 31, 2023, there were 1.110.231 
-outstanding stock options. AUTHORIZED SHARE CAPITAL 
-As of December 31, 2023, the Company had 
-authorization to increase the Companys share 
-capital, within the limits, terms and conditions set 
-out by the law and the articles of association of 
-the Company. PATENTS AND TECHNOLOGIES 
-IBA is careful to patent all aspects of its 
-technology for which a patent provides a 
-commercial advantage.
+ther strengthen IBA Dosimetrys product 
+offering. IBA subscribed to a convertible loan issued
+by PanTera for EUR 3.5 millions to further
+support the development of the production
+of Ac.225. === Page 177 ===
+IBA Annual Report 2023 
+174. 15. Glossary of alternative performance 
+measures (APM) 
+Gross profit 
+Definition: Gross profit is the difference of the 
+aggregate amount recognized on Sales and 
+Services after deducting the costs associated 
+with the construction and production of the 
+associat

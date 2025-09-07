@@ -1,15 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 7 of 1106
-SIZE: 517 characters
-PREVIOUS: chunk_0006_annual_report_text (1).txt
-NEXT: chunk_0008_annual_report_text (1).txt
-------------------------------
-BLE AND RESILIENT 
+nt, as well as safe solutions 
+for sterilization. This goal is implemented in different ways 
+that benefit each of the different stakeholders involved. A FLEXIBLE AND RESILIENT 
 BUSINESS MODEL
 In todays global and increasingly volatile economy, we 
 have demonstrated flexibility, adaptability and resilience. These are fundamental to the continued success 
 of our business activities. We continue to focus on quality and innovation 
 and, thanks to excellent sales in our businesses 
-(Proton Therapy, Dosimetry, Industrial Solutions 
-and RadioPharma Solutions), we are managing an 
-increasingly larger installed base and are, as a result, focusing more on service and upgrades.
+(Proton Therapy,

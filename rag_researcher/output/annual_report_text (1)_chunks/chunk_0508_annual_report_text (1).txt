@@ -1,18 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 508 of 1106
-SIZE: 512 characters
-PREVIOUS: chunk_0507_annual_report_text (1).txt
-NEXT: chunk_0509_annual_report_text (1).txt
-------------------------------
-ATED FINANCIAL POSITION AND 
-FINANCIAL STRUCTURE 
-The Groups non-current assets amount to EUR 
-145.5 million, increased by EUR 22.1 million 
-during the 2023 financial year, essentially due to 
-the following effects: An increase of the goodwill and intangible 
-assets for EUR 5.6 million driven by 
-additional development costs on internally 
-developped softwares and the capitalisation 
-of the costs incurred by IBA in the 
-compliance effort to renew a licence to sell 
-medical devices in Europe in line with the
+=== Page 92 ===
+IBA Annual Report 2023 
+89. IBA 
+operational 
+expenditure 
+(OpEx) 
+that 
+is 
+taxonomy-eligible and aligned. Taxonomy eligibility and alignment 
+A cross-functional taxonomy working group has 
+analysed IBAs activities based on NACE code 
+(Nomenclature of Economic Activities) to identify 
+candidate activities and related financial data 
+related to taxonomy-eligible turnover, CapEx 
+and OpEx. Turnover 
+The EU Taxonomy currently identifies eligible 
+activities among seven different sectors, as 
+making a substantial contribution to any of the 
+six environmental objectives.

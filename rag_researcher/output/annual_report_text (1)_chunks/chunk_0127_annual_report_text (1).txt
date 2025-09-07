@@ -1,12 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 127 of 1106
-SIZE: 276 characters
-PREVIOUS: chunk_0126_annual_report_text (1).txt
-NEXT: chunk_0128_annual_report_text (1).txt
-------------------------------
-sustainability strategic streams 
-to work on during the coming years. As a company, we acknowledge 
-our strengths as well as our 
-improvement areas. Working on 
-our weaknesses gives even more 
-meaning to our global activities. Thomas Canon, IBA Sustainability Program Director
+what 
+it means in practice for the whole 
+Group. Weve been certified since 
+2021, but theres still a lot of work 
+to do. Were doing very well in terms 
+of governance, particularly through 
+our capital base or the fact that we 
+pay our employees the same amount 
+as what is allocated to shareholders. But we still need to make progress 
+on the environmental front. Olivier Legrain, CEO of IBA

@@ -1,18 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 27 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0026_annual_report_text (1).txt
-NEXT: chunk_0028_annual_report_text (1).txt
-------------------------------
-d demand 
-for integrated E-beam and X-ray solutions, the market experienced a soft landing in 2023, requiring IBA to adapt to the evolving landscape. Nevertheless, the market continues to expand 
-on the long term, and this situation has neither 
-reduced nor slowed down the interest in E-beam 
-and X-ray solutions, but rather prompted IBA 
-to further develop and enhance its products offerings 
-and customer service. To capture this long-term trend, IBA has developed 
-a new portfolio of services and end-to-end 
-solutions powered by the iconic Rhodotron. 01
-Industrial 
-solutions
-These solutions all
+cused on the medical device sterilization market. Since almost a decade, this market is in a very 
+favorable trend, mainly due to organically increasing 
+volumes and increasing scrutiny and scarcity of the 
+two dominant established technologies: Gamma and 
+ethylene oxide. After an exceptional year in 2022, driven by COVID 
+impacts and marked by an increased demand 
+for integrated E-beam and X-ray solutions, the market experienced a soft landing in 2023, requiring IBA to adapt to the evolving landscape.

@@ -1,19 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 649 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0648_annual_report_text (1).txt
-NEXT: chunk_0650_annual_report_text (1).txt
-------------------------------
-Cash: the cash held in the Russian 
-subsidiary is kept in RUB 
-In conclusion, IBA has assessed that there is no 
-risk of impairment on IBA Russias assets, noting that the net assets of IBA Russia 
-amounts to RUB -301.6 million (EUR -3.1 
-million). Other assets held by IBA Group 
-Management has considered whether the 
-conflict has an impact on the impairment test 
-performed on the goodwill and whether it is an 
-indicator of impairment for other non-financial 
-assets. Goodwill impairment test: the 5-year strategic 
-plan used as a basis for the impairment test was 
-prepared in December 2023 using
+ctive year-end 2023 have been 
+adopted by the EU. Consequently, the 
+accounting policies applied by the Group 
+also fully comply with IFRS as issued by the 
+IASB. Prepared on the historical cost basis unless 
+otherwise indicated (financial instruments 
+such as derivative and equity investments 
+that have been measured at fair value). Prepared on an accrual basis and on the 
+assumption of going concern. Presented in Euro, which is the Companys 
+functional currency. Rounded to the nearest thousands unless 
+stated otherwise.

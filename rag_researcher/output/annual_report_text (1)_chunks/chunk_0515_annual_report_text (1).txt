@@ -1,15 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 515 of 1106
-SIZE: 257 characters
-PREVIOUS: chunk_0514_annual_report_text (1).txt
-NEXT: chunk_0516_annual_report_text (1).txt
-------------------------------
-.9 
-million 
-mainly 
-due 
+gned. === Page 93 ===
+IBA Annual Report 2023 
+90. IBA 
+When 
+it 
+comes 
 to 
-reclassifications to current liabilities; Long term provisions have decreased by 
-EUR -1.2 million; The fair value of the derivative instruments 
-used for cash flow hedging purpose have 
-decreased by EUR -1.0 million; Offset by
+studies 
+related 
+to 
+environmental solutions for the treatment of 
+forever chemicals (PFAS), IBA acknowledges 
+that more information is needed about the 
+benefits of such solutions to ensure that the 
+technical screening criteria are met. IBA 
+therefore deems them to be not taxonomy-
+aligned. === Page 94 ===
+IBA Annual Report 2023 
+91.

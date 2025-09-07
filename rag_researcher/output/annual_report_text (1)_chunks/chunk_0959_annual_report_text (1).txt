@@ -1,21 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 959 of 1106
-SIZE: 650 characters
-PREVIOUS: chunk_0958_annual_report_text (1).txt
-NEXT: chunk_0960_annual_report_text (1).txt
-------------------------------
-to the 
-performance bond issued to CGN (EUR -5.0 
-million), the gain on the contribution in kind to 
-Pantera (-EUR 2.2 million), the future tax credits 
-to be received and recognised in the current year 
-for the research activities of IBA, net of 
-discounting impact (EUR -3.1 million), the impact 
-of grant amortisation and discounting (EUR -1.0 
-million), the revaluation and unwinding of 
-interests on long term loans and bonds (EUR -
-0.3 million), the impact of hyperinflation in 
-Argentina (EUR 1.9 million), the costs of the 
-stock option plan (EUR +1.0 million) and the net 
-impact of losses and write-downs on inventories 
-(EUR +2.4 million).
+cluding some 
+determined persons), the Head Plan. Each 
+Stock Option allows its beneficiary to subscribe 
+to one newly issued share or receive the 
+Company own shares against payment of a 
+strike. The plan allows for further additional new 
+persons to join the plan at a later stage; strike, vesting dates and expiry dates may vary. In 
+2021, after the initial plan launch, 38 346 more 
+options were issued followed by 16 839 in 2022 
+Accounting policy for trade and other payables 
+Trade and other payable are recognised at fair value and subsequently remeasured at amortised cost.

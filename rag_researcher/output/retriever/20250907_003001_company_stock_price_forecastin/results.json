@@ -1,0 +1,18 @@
+{
+  "query": "Company stock price forecasting",
+  "timestamp": "2025-09-07 00:30:01",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "The Company used the Black & Scholes model to value options, with no vesting conditions other than time. Expected \nvolatility for the stock option plans is based on historical volatility determined by statistical analysis of daily share price \nmovements. The exercise price of shares for the stock option plans was based on the average share price for the 30 days \npreceding the grant date. === Page 165 ===\nIBA Annual Report 2023 \n162. (EUR 000) \nFINANCIAL LIABILITIES \nDecember 31, 2022 \nDue \n< 1 y",
+      "similarity_score": 0.3744170311619253
+    }
+  ]
+}

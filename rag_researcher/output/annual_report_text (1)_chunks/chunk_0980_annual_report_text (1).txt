@@ -1,26 +1,55 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 980 of 1106
-SIZE: 357 characters
-PREVIOUS: chunk_0979_annual_report_text (1).txt
-NEXT: chunk_0981_annual_report_text (1).txt
-------------------------------
-a 
-100% 
-100% 
-IBA Dosimetry Co Ltd. Shanghai, China 
-100% 
-100% 
-Fluidomica Lda1 
- Cantanhede, Portugal 
-100% 
-0% 
-Ion Beam Applications Korea, Ltd. Gyeonggi-do, South Korea 
-100% 
-100% 
-IBA Proton Therapy Israel Ltd 3 
-Tel Aviv, Israel 
-100% 
-0% 
-1 Subsidiary acquired in March 2023 
-2 Subsidiary set up in July 2023 
-3 Subsidiary set up in September 2023
+ough the 
+income statement 
+377 
+1 220 
+1 597 
+122 
+221 
+343 
+At amortised cost 
+37 320 136 684 
+171 067 
+31 965 
+139 634 
+174 427 
+Trade payables 
+0 
+65 559 
+65 559 
+0 
+76 564 
+76 564 
+Bank borrowings and lease liabilities 
+31 458 
+9 410 
+43 793 
+29 010 
+12 573 
+44 411 
+Refund liabilities 
+0 
+5 000 
+5 000 
+0 
+- 
+- 
+Other operating liabilities 
+5 862 
+52 862 
+52 862 
+2 955 
+48 774 
+51 729 
+Tax payable 
+0 
+3 853 
+3 853 
+0 
+1 723 
+1 723 
+TOTAL 
+38 541 139 591 
+175 195 
+32 182 
+140 189 
+175 199

@@ -1,16 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 851 of 1106
-SIZE: 432 characters
-PREVIOUS: chunk_0850_annual_report_text (1).txt
-NEXT: chunk_0852_annual_report_text (1).txt
-------------------------------
-IBA has granted a convertible loan to its 
-Joint Venture Pantera for EUR 1.0 million 
-which has a maturity July 2026. The increase of non-trade receivable for 
-EUR 2.7million. Non-trade receivables are 
-mainly composed of VAT receivable for 
-EUR 11.4 million (EUR 8.0 million in 2022) 
-and grants receivable for EUR 2.8 million 
-(EUR 2.9 million in 2022). === Page 154 ===
-IBA Annual Report 2023 
-151. 5.8. CASH AND CASH EQUIVALENTS
+-of-use asset in a similar 
+economic environment. The IBR therefore reflects what the Group would have to pay, which requires estimation when no 
+observable rates are available (such as for subsidiaries that do not enter into financing transactions) or when they need to 
+be adjusted to reflect the terms and conditions of the lease (for example, when leases are not in the subsidiarys functional 
+currency).

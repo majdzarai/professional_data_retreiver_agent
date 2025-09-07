@@ -1,15 +1,42 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 605 of 1106
-SIZE: 272 characters
-PREVIOUS: chunk_0604_annual_report_text (1).txt
-NEXT: chunk_0606_annual_report_text (1).txt
-------------------------------
-and equity-
-accounted investments. 172 
-13. Fees for services rendered by the 
-statutory auditors. 173 
-14.Events after the reporting date. 173 
-15. Glossary of alternative performance 
-measures (APM). 174 
-16. Auditors report on the consolidated 
-financial statement. 175
+36 
+Other receivables 
+30 033 
+13 541 
+Investments 
+67 219 
+12 703 
+Cash at bank and in hand 
+38 723 
+63 255 
+Deferred charges and accrued income 
+17 554 
+15 914 
+TOTAL ASSETS 
+686 285 
+673 129 
+LIABILITIES AND EQUITY (EUR 000) 
+2022 
+2023 
+SHAREHOLDERS EQUITY 
+229 528 
+237 405 
+Capital stock 
+42 502 
+42 502 
+Capital surplus 
+43 478 
+43 478 
+Revaluation gains 
+- 
+- 
+Reserves 
+21 653 
+16 953 
+Legal reserve 
+4 231 
+4 250 
+Reserves not available for distribution 
+17 219 
+12 703 
+Untaxed reserves 
+2

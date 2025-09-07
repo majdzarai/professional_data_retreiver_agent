@@ -1,17 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 29 of 1106
-SIZE: 552 characters
-PREVIOUS: chunk_0028_annual_report_text (1).txt
-NEXT: chunk_0030_annual_report_text (1).txt
-------------------------------
--established, IBA 
+tron. 01
+Industrial 
+solutions
+These solutions allow in-house customers 
+or contract sterilizers to sterilize medical devices 
+either by E-beam in boxes or X-ray in pallets, or both. They also offer an environmentally-friendly 
+and readily available alternative to toxic chemicals 
+such as ethylene oxide and nuclear materials such 
+as cobalt 60. Because it is ingrained in its DNA and because medical 
+device sterilization is already well-established, IBA 
 leverages its technological expertise to disrupt 
 other key applications such as food irradiation 
-and environmental applications. Every initiative pursued prioritizes customers 
-as the focal point of its vision. In line with this 
-philosophy, IBA has established a new Customer 
-Success team dedicated to delivering optimal 
-service and attention to its clients. Furthermore, in a bid to enhance proximity to its 
-existing customer base, IBA has bolstered its regional 
-presence in the United States by quadrupling local 
-resources.
+and environmental applications.

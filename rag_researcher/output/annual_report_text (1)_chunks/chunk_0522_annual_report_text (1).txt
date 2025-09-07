@@ -1,18 +1,30 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 522 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0521_annual_report_text (1).txt
-NEXT: chunk_0523_annual_report_text (1).txt
-------------------------------
-social debts for EUR 2.4 
-million, and by the increase of deferred income 
-for EUR 2.1 million 
- The income tax payable increase by EUR 2.1 
-million. Trade payables have increased by EUR 11.0 
-million which reflects the increase orders on 
-stock and inventories. The Group's cash and cash equivalents 
-presented in the cash-flow statement decreased 
-by EUR -49.1 million in 2023, mainly due to: a negative operating cash-flow of EUR -19.8 
-million mainly related to the change of 
-working capital for EUR -16.9 million and the 
-net loss of EUR -9.1 million; Negative financing cash-flow of EUR -14.4
+Installation, maintenance and repair of 
+energy efficiency equipment 
+7.3 
+30 
+0.2% 
+100.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0%
+
+Installation, maintenance and repair of 
+renewable energy technologies 
+7.6 
+884 
+5.8% 
+100.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0%
+
+A.2 Taxonomy-Eligible but not environmentally sustainable activities 
+Transport by motorbikes, passenger 
+cars and light commercial vehicles 
+6.5 
+3 234 
+21.2%

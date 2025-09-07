@@ -1,25 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 278 of 1106
-SIZE: 653 characters
-PREVIOUS: chunk_0277_annual_report_text (1).txt
-NEXT: chunk_0279_annual_report_text (1).txt
-------------------------------
-=== Page 63 ===
-IBA Annual Report 2023 
-60. IBA 
-program of complementary tests and specific 
-actions is conducted if a red flag is identified. Controls of procedures for the closing of local 
-accounts, approval of payments, invoicing, stock 
-management, and other regular activities are 
-organized locally. Procedures for establishing 
-financial statements are controlled by local 
-financial management and the management 
-controller of the division to which the entity 
-belongs. This is a cross structure between staff 
-from 
-operational 
-divisions 
-and 
-financial 
-managers of the legal entities. Certain operations are centralized on a Group 
-level.
+ieve the level of security 
+required by ISO27001 ("Information technology - 
+Security techniques - Information security 
+management systems - Requirements"). Branches of the company (section 3:6, 1, 5, of the BCAC)
+At the end of 2023, the Company had nine 
+branches in Prague, Czech Republic; Orsay, France; South Korea, Krakow, Poland; Trento, Italy; Uppsala, Sweden; Groningen, Netherlands; Newport, United Kingdom; Madrid, Spain, and Dublin, Ireland. The branches were 
+established as part of the Companys Proton 
+Therapy business (section 3:6, 1, 5, of the 
+BCAC).

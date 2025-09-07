@@ -1,36 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 753 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0752_annual_report_text (1).txt
-NEXT: chunk_0754_annual_report_text (1).txt
-------------------------------
-December 31, 2022 
-December 31, 2023 
-Result from continuing operations before taxes 
--430 
--315 
-Tax charge/(profit) calculated based on local tax rates 
-1 996 
--422 
-Unrecognized deferred tax assets 
-3 225 
--51 
-Reversal/(Recognition) of deferred tax assets on available tax losses 
--10 926 
-3 018 
-Utilisation of deferred tax assets 
--149 
--814 
-Tax-exempt transactions and non-deductible expenses 
-652 
-5 882 
-Tax exempt transactions - CIRD & Grants 
--1 161 
--1 105 
-Adjustments in respect of income tax charges of previous years 
--105 
-1 058 
-Share of result of an associate 
-1 
-42 
-Other tax (i
+cipate in any potential future 
+capital increase. As at December 31, 2023, the Group recognises 
+a tax expense for an amount of EUR 8.8 million 
+representing -2792.1% of the result before tax. In the Proton Therapy and Other Accelerators 
+segment, the tax charge results from the 
+progress on installation projects and the 
+recognition of the related revenue and margin in 
+some countries with a relatively high tax rate as 
+well as a partial reversal of the deferred tax 
+assets in Belgium for EUR 1.7 million. === Page 132 ===
+IBA Annual Report 2023 
+129. 4.2.

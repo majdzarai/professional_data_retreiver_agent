@@ -1,17 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 276 of 1106
-SIZE: 603 characters
-PREVIOUS: chunk_0275_annual_report_text (1).txt
-NEXT: chunk_0277_annual_report_text (1).txt
-------------------------------
-leblower platform 
-in line with Belgian, European and international 
-standards. The platform is accessible to 
-everyone through the Companys website. The Board of Directors and the Audit Committee 
-fulfill their responsibilities for monitoring risk 
-management by reviewing the reports and 
-analysis prepared by senior management, such 
-as: Management dashboard; The Monitoring and review of investments 
-analysis; Analysis of research and development 
-achievements and performance; The strategic plan and budgets for the 
-following period; The analysis of the treasury position; Internal audit reports.
+control of data quality amongst the organization. Integrity risk 
+To face the global increase of security threats 
+and higher levels of professionalism in computer 
+crime, IBA has developed a security program 
+since 2016 to ensure employee awareness, govern our data protection procedures, and 
+protect the information technology infrastructure 
+against Cyberfraud. IBA has intensified its security program during 
+2022 
+to 
+further 
+enhance 
+employee 
+assertiveness in Cybersecurity through further

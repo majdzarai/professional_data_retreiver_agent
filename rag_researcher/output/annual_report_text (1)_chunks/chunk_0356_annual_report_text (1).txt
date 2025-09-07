@@ -1,21 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 356 of 1106
-SIZE: 456 characters
-PREVIOUS: chunk_0355_annual_report_text (1).txt
-NEXT: chunk_0357_annual_report_text (1).txt
-------------------------------
-hilst aligning to 
-their respective interests. The structure and levels of remuneration, in 
-general, must be effective in meeting these 
-objectives. Remuneration 
-programs 
-and 
-decisions at all times meet the following criteria: They 
-appropriately 
-balance 
-external 
-competitiveness with other organizations 
-and internal equity, considering both the 
-content of the position, and the personal 
-competencies and effectiveness of the 
-manager within IBA
+s Articles of 
+Association provided the following: Article 11: The company is managed by a board of directors 
+comprised of a minimum of three members and 
+a maximum of twelve members, appointed by 
+the shareholders general meeting for a 
+renewable term, which shall not exceed the legal 
+term. Article 12: The structure of the board of directors must at all 
+times reflect the following equilibrium: (a) 
+at least one-third of its members 
+(hereafter referred to as independent directors) 
+must be i

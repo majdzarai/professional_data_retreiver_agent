@@ -1,0 +1,50 @@
+{
+  "section_id": "share_price",
+  "section_title": "Share Price",
+  "chapter_id": "financials",
+  "chapter_title": "Financials",
+  "description": "Market valuation and stock performance (if publicly listed).",
+  "topic": "comprehensive KYC and credit risk analysis for Ion Beam Applications SA",
+  "questions": [
+    {
+      "question": "What is the current market valuation of Ion Beam Applications SA, and how does it compare to its peers in the industry?",
+      "queries": [
+        "Ion Beam Applications SA market capitalization",
+        "Ion Beam Applications SA stock price comparison with industry peers",
+        "Market value of Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "What are the key drivers behind the fluctuations in Ion Beam Applications SA's share price over the past 12 months?",
+      "queries": [
+        "Reasons for fluctuation in Ion Beam Applications SA stock price",
+        "Key factors affecting Ion Beam Applications SA share price",
+        "Stock performance analysis of Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "What is the company's history with dividend payments, and what does this suggest about its financial health?",
+      "queries": [
+        "Ion Beam Applications SA dividend payment history",
+        "Dividend payout ratio of Ion Beam Applications SA",
+        "Financial stability indicators for Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "How has the company's share price performed during periods of economic uncertainty, such as recessions or market downturns?",
+      "queries": [
+        "Ion Beam Applications SA stock performance during economic downturns",
+        "Share price resilience of Ion Beam Applications SA during recession",
+        "Company stock price stability analysis"
+      ]
+    },
+    {
+      "question": "What are the most significant risks and challenges facing Ion Beam Applications SA's share price in the near future?",
+      "queries": [
+        "Risks to Ion Beam Applications SA share price",
+        "Challenges facing Ion Beam Applications SA stock performance",
+        "Company stock price forecasting"
+      ]
+    }
+  ]
+}

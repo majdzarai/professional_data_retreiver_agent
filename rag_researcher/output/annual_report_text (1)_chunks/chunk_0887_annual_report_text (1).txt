@@ -1,29 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 887 of 1106
-SIZE: 694 characters
-PREVIOUS: chunk_0886_annual_report_text (1).txt
-NEXT: chunk_0888_annual_report_text (1).txt
-------------------------------
-e considered to be low value. === Page 159 ===
+If no movement after 1 year: write-off over 3 years; If movement occurs after write-off: reversal of write-off. Exceptions to the above general policy are made when justified by the individual valuation. === Page 152 ===
 IBA Annual Report 2023 
-156. Dynamitron business wind down not yet 
-incurred as described in Note 4.4. Movements can be detailed as follows: New warranty provisions primarily in 
-relation to Proton therapy and other 
-accelerators amounting to EUR 4.2 
-million following delivery of several 
-projects to customers. New 
-provisions 
-for 
-the 
-onerous 
-maintenance contracts for EUR 1.8 
-million. This increase results from the 
-reforecast and increased losses on 1 
-contract 
-that 
-became 
-onerous 
-previously. The main assumptions used 
-were a 2% yearly inflation, cost savings 
-initiatives and a discount rate of 2% to 
-reflect the impact of time.
+149. 5.7. TRADE RECEIVABLES AND OTHER 
+OPERATING ASSETS 
+The trade receivable, other receivables and other operating assets are detailed as follows: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Current 
+Gross trade receivables 
+115 013 
+111 315 
+Allow

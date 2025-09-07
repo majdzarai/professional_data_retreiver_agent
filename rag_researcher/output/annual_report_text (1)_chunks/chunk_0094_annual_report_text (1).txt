@@ -1,14 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 94 of 1106
-SIZE: 579 characters
-PREVIOUS: chunk_0093_annual_report_text (1).txt
-NEXT: chunk_0095_annual_report_text (1).txt
-------------------------------
-never patient demand grows. It is also designed to be 
-compatible with upcoming proton therapy innovations, futureproofing centers for years to come. THE MOST VERSATILE SYSTEM ON THE MARKET
-From routine to research, ProteusONEs high modularity allows 
-customers to select the best configuration for their center, and 
-gives physicians the flexibility to choose the best treatment 
-option for their patients. Physicians gain access to all the clinical benefits of Intensity 
-Modulated Proton Therapy (IMPT) with Pencil Beam Scanning 
-(PBS) with no compromise on patient treatment.
+ise. The campus community is built on 3 pillars:. Learn to expand your skills. Share by collaborating with your peers. Excel to maximize your centers performance
+THE CAMPUS PLATFORM
+Whether you are a newcomer willing to accelerate your 
+learning curve, an experienced user looking to develop new 
+expertise, or the most eminent expert keen on sharing your 
+knowledge or expanding your research, the Campus platform 
+is made for you. Campus it is a place where proton therapy 
+resources are shared, covering a wide variety of topics.

@@ -1,16 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 128 of 1106
-SIZE: 538 characters
-PREVIOUS: chunk_0127_annual_report_text (1).txt
-NEXT: chunk_0129_annual_report_text (1).txt
-------------------------------
-=== Page 37 ===
-COMMITTED TO OUR EMPLOYEES
-As Yves Jongen, IBAs founder, always reminds us, our 
-people are IBAs most valuable asset. After all, would our 
-mission statement to protect, enhance and save lives still 
-make sense if it isnt put into practice for and by our employees? As a responsible employer, we want to provide our employees 
-with safe and efficient working conditions and a friendly 
-environment conducive to their professional and personal 
-development. AT OUR BEST
-Peak performance is achieved when we are at our best.
+=== Page 36 ===
+LOW CARBON, LOW WASTE PRODUCTS
+Understand / reduce the C02 and waste impact of our products across 
+their lifecycles and value chains
+LOW CARBON LOW WASTE COMPANY
+Monitor the IBA organization carbon footprint, zeroing it by 2030 (reduce 
+and decarbonization contribution) 
+Monitor the IBA organization waste footprint, reducing the unsorted part 
+by 2/3 by 2025
+DIVERSE, EQUITABLE AND INCLUSIVE WORKPLACE
+Pro-actively incorporate diversity, equality and inclusion into our business 
+a

@@ -1,0 +1,42 @@
+{
+  "section_id": "auditors_report",
+  "section_title": "Auditors' Report",
+  "chapter_id": "financials",
+  "chapter_title": "Financials",
+  "description": "Summary of external audit findings.",
+  "topic": "comprehensive KYC and credit risk analysis for Ion Beam Applications SA",
+  "questions": [
+    {
+      "question": "What are the key findings and recommendations from the auditors regarding KYC procedures in Ion Beam Applications SA?",
+      "queries": [
+        "Ion Beam Applications SA audit report KYC procedures",
+        "KYC process deficiencies Ion Beam Applications SA",
+        "Auditor's review of customer due diligence practices"
+      ]
+    },
+    {
+      "question": "What credit risk analysis has been conducted by the auditors and what are the identified risks for Ion Beam Applications SA?",
+      "queries": [
+        "Ion Beam Applications SA credit risk assessment audit report",
+        "Audit findings on loan and credit facilities management",
+        "Risk analysis of customer default rates"
+      ]
+    },
+    {
+      "question": "Are there any material weaknesses or deficiencies in the internal controls over financial reporting at Ion Beam Applications SA?",
+      "queries": [
+        "Internal control weaknesses audit report Ion Beam Applications SA",
+        "Material weaknesses in financial reporting process",
+        "Audit findings on financial statement accuracy"
+      ]
+    },
+    {
+      "question": "What are the auditor's views on the adequacy of Ion Beam Applications SA's risk management framework and internal controls?",
+      "queries": [
+        "Ion Beam Applications SA risk management framework audit report",
+        "Auditor's assessment of enterprise risk management practices",
+        "Internal control effectiveness review"
+      ]
+    }
+  ]
+}

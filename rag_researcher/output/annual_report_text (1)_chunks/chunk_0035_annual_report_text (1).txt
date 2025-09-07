@@ -1,14 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 35 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0034_annual_report_text (1).txt
-NEXT: chunk_0036_annual_report_text (1).txt
-------------------------------
-worldwide and has underlined the real need to forge 
+lications such as wastewater treatment and PFAS:. IBA co-organized the International Food Ionizing Processing 
+Symposium (IFIS) held in Texas, United States, in September 
+2023. With more than 100 participants, the success of the 
+event has demonstrated the strength and interest of food 
+ionization worldwide and has underlined the real need to forge 
 valuable connections to drive future collaborations and help 
-make advancements in this field.. By leveraging high-powered ionizing technology, IBA is also actively investing in tangible solutions for 
-environmental remediation, supported by ongoing 
-experiments yielding promising initial results and plans 
-for larger-scale demonstrations. IBA demonstrates that 
-E-beam can be used for cleaner soils, air and water. A NEW EXPERIENCE, A JOURNEY TOGETHER, A RELATIONSHIP FOR LIFE: BEYONDTM
-Initially focused on the development of performant elect
+make advancements in this field..

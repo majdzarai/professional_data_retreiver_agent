@@ -1,25 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 240 of 1106
-SIZE: 608 characters
-PREVIOUS: chunk_0239_annual_report_text (1).txt
-NEXT: chunk_0241_annual_report_text (1).txt
-------------------------------
-es. The Company cannot 
-guarantee 
-that 
+inst some of 
 the 
-defection 
-of 
-certain 
-employees will not have a negative impact on its 
-intellectual property rights. Legal risk 
-Some contracts may contain warranties or 
-penalties which generally represent only a few 
-percent of the amount of the contract in the case 
-of conventional sales contracts. However, these 
-amounts may be significantly higher in public-
-private partnerships inasmuch as the penalties 
-must cover the associated financing. Such 
-clauses are applicable only to a limited number 
-of contracts, essentially those relating to proton 
-therapy projects.
+worlds 
+largest 
+corporations. These 
+corporations have highly developed sales and 
+marketing networks and more importantly, extensive 
+financial 
+resources 
+beyond 
+comparison with those of IBA. Furthermore, there is always the possibility that new 
+technology notably a revolutionary therapy in 
+the treatment of cancer that would render a part 
+of IBAs current product line obsolete could be 
+developed. The development and marketing of technology 
+resulting in novel therapies do nevertheless 
+require a relatively long period of time.

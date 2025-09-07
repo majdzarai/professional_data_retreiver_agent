@@ -1,0 +1,18 @@
+{
+  "query": "company ID Ion Beam Applications SA",
+  "timestamp": "2025-09-07 00:27:51",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of the Group and the Ultimate \nParent. The Company is listed on the pan-European \nEuronext stock exchange (B-compartment) and \nis included in the BEL Mid Index. IBA publishes condensed half-yearly and \nannual consolidated financial statements which \nhave been prepared in accordance with IFRS \nas endorsed by EU.",
+      "similarity_score": 0.4068268330473649
+    }
+  ]
+}

@@ -1,25 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 449 of 1106
-SIZE: 643 characters
-PREVIOUS: chunk_0448_annual_report_text (1).txt
-NEXT: chunk_0450_annual_report_text (1).txt
-------------------------------
-atives, (iii) creating 
-new legal entities overseas with due diligence, and 
-(iv) 
-educating 
-employees 
-through 
-communications and proper training. Protection and Respect of Human 
-Rights 
-Policy and Targets 
-The Universal Declaration of Human Rights 
-defines human rights as rights inherent to all 
-human 
-beings, regardless 
-of 
-race, sex, nationality, ethnicity, language, religion, or any 
-other status. Human rights include the right to life 
-and liberty, freedom from slavery and torture, freedom of opinion and expression, the right to 
-work and education, and many more. Everyone 
-is entitled to these rights, without discrimination.
+lso committed to a workplace free of 
+harassment. Social rights, as an integral part of 
+human rights, are actively protected by the 
+Company. IBA also ensures the highest standards of safety 
+for all employees. IBAs target, as defined in the 
+Code of Business Conduct, is No Harm to our 
+people. As an example, the Code of Business 
+Conduct clearly states that all employees are 
+empowered to stop any activity which they judge 
+hazardous and goes against the No Harm 
+principle.

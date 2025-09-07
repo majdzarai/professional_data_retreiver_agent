@@ -1,14 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 30 of 1106
-SIZE: 285 characters
-PREVIOUS: chunk_0029_annual_report_text (1).txt
-NEXT: chunk_0031_annual_report_text (1).txt
-------------------------------
-d to enhance proximity to its 
+food irradiation 
+and environmental applications. Every initiative pursued prioritizes customers 
+as the focal point of its vision. In line with this 
+philosophy, IBA has established a new Customer 
+Success team dedicated to delivering optimal 
+service and attention to its clients. Furthermore, in a bid to enhance proximity to its 
 existing customer base, IBA has bolstered its regional 
 presence in the United States by quadrupling local 
-resources. This expansion aims to ensure superior 
-support for customers at every phase of their journey 
-with IBA. 10
-IBA
-CORPORATE BROCHURE 2024
+resources.

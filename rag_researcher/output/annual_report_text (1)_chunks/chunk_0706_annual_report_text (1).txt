@@ -1,17 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 706 of 1106
-SIZE: 598 characters
-PREVIOUS: chunk_0705_annual_report_text (1).txt
-NEXT: chunk_0707_annual_report_text (1).txt
-------------------------------
-the Stock Option plan for EUR 0.9 
-million and the contribution of the Group for the 
-decommissioning of a research Cyclone 30 for 
-EUR 0.6 million. The REBIT of both segments was impacted by 
-the high inflationary environment, as well as 
-increased investment into R&D, infrastructure, digital technologies and sustainability, all aimed 
-at maintaining IBAs leading offering and 
-investing in its future growth. For the year-ended December 31, 2023, the net 
-financial result (loss) was EUR -5.2 million 
-(2022: EUR -5.4 million expenses), primarily 
-composed of: Realised and un-realised exchange
+replacement of its 
+infrastructure and facilities; We have not identified any additional risk of 
+expected 
+credit 
+loss 
+on 
+our 
+trade 
+receivables and other financial assets; As the commitments for carbon emissions 
+reductions, waste management and water 
+consumtion described above relate to future 
+events and actions are to be taken, we have 
+not 
+identified 
+constructive 
+obligations 
+resulting from these commitments, nor the 
+need to record any operational onerous 
+contract provisions othe

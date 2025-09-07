@@ -1,20 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1071 of 1106
-SIZE: 482 characters
-PREVIOUS: chunk_1070_annual_report_text (1).txt
-NEXT: chunk_1072_annual_report_text (1).txt
-------------------------------
-3-1 
-Management of material topics 
-p34 AR2023 A committed company / employees 
-405-1 
-Diversity of governance bodies and 
-employees 
-p66 AR2023 Management report / corporate governance statement / diversity, equity and inclusion policy 
-p194 AR2023 GRI appendix 405-1 / diversity of employees 
-405-2 
-Ratio of basic salary and remuneration of 
-women to men 
-p80 AR2023 Management report / corporate governance statement / codes of 
-conduct 
-GRI 414 SUPPLIER SOCIAL ASSESSMENT v2016
+oard of directors use of the going concern basis of 
+accounting and, based on the audit evidence obtained, whether a material uncertainty exists 
+related to events or conditions that may cast significant doubt on the Groups ability to continue 
+as a going concern. If we conclude that a material uncertainty exists, we are required to draw 
+attention in our statutory auditors report to the related disclosures in the consolidated accounts 
+or, if such disclosures are inadequate, to modify our opinion.

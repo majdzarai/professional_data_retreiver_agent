@@ -1,17 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 325 of 1106
-SIZE: 591 characters
-PREVIOUS: chunk_0324_annual_report_text (1).txt
-NEXT: chunk_0326_annual_report_text (1).txt
-------------------------------
-ement. IBA is committed 
-to providing equal employment and training 
-opportunities, and to treating applicants and 
-employees without discrimination. We do not 
-discriminate based on race, color, age, sex, sexual orientation, national origin, religion, language, or disabilities. Our policy is that no one 
-at IBA should ever be subject to any kind of 
-discrimination. This in the end leads to a feeling of 
-connectedness which we define as Belonging. It 
-is the feeling for an individual to be integral part 
-of IBA, an organization where we all can feel at 
-our best everywhere, every day.
+CCA and will end at the General Meeting of 
+2026. Remuneration committee 
+The Remuneration Committee met 2 times in 
+2023. A report on each meeting was provided to 
+the Board. Topics of discussion included matters relating to 
+the 2023 bonuses, long terms incentives, and 
+compensation schemes in general. As of December 11, 2023, the Remuneration 
+Committee was comprised of Saint-Denis SA 
+represented by its managing director, Mr. Pierre 
+Mottet, Consultance 
+Marcel 
+Miller 
+SCS 
+represented by its permanent representative, Mr.

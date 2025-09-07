@@ -1,32 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 600 of 1106
-SIZE: 378 characters
-PREVIOUS: chunk_0599_annual_report_text (1).txt
-NEXT: chunk_0601_annual_report_text (1).txt
-------------------------------
-oceeds from sublease 
-23.2 
--6 074 
--6 489 
-Interest paid 
--2 311 
--761 
-Interest received 
-1 496 
-1 650 
-Capital increase (or proceeds from issuance of ordinary shares) 
-16 
-176 
-0 
-Dividends paid 
--5 579 
--6 121 
-(Acquisitions)/disposal of treasury of shares 
-6.1 
--5 160 
-115 
-Other financing cash flows 
-28.3 
-710 
--1 778 
-Net cash (used)/generated from financing activities
+ton Therapy and Industrial 
+Solutions businesses. As a reminder, subject to 
+these factors, IBA, expects: === Page 106 ===
+IBA Annual Report 2023 
+103. 15% CAGR 2022-2026 on revenues, nearly 
+doubling revenues over the next four years

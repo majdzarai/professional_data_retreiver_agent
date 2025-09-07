@@ -1,18 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 82 of 1106
-SIZE: 558 characters
-PREVIOUS: chunk_0081_annual_report_text (1).txt
-NEXT: chunk_0083_annual_report_text (1).txt
-------------------------------
-ng 
-access to proton therapy for patients, whilst validating 
-a model-based approach for the use of proton therapy 
-treatment in cancer more broadly. The research project 
-comprises 12 proton therapy centers across eight 
-countries and is coordinated by Professor Cai Grau from 
-Aarhus University in Denmark. IBA offers its expertise 
-in proton therapy solutions, with six centers using 
-IBA technology involved in the trial. A total of 
-approximately 400 patients are expected to be included 
-in the randomized trial with study completion planned 
-for 2027.
+, including prostate cancer and multiple myeloma. IBA SUPPORTS THE 
+ONCIDIUM FOUNDATION
+The Oncidium Foundation is a non-profit organization 
+dedicated to advancing access to radioligand therapies 
+in underprivileged communities worldwide through 
+various initiatives, including educational programs, the 
+creation of a worldwide community focused on supporting 
+patients and the support of research programs. More information on Oncidium: 20
+IBA
+CORPORATE BROCHURE 2024

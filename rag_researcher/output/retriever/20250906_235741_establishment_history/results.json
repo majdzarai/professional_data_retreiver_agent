@@ -1,0 +1,18 @@
+{
+  "query": "establishment history",
+  "timestamp": "2025-09-06 23:57:41",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "n \nBusiness \nAssociation) and several funds and start-ups \nin the field of health and environment \nYves Jongen(1) \n1991 \nGM \n2024 \nChief Research Officer / Internal \nDirector / Managing Director / NC / PC \n/ SC \nBefore the incorporation of IBA in 1986, Director of the Cyclotron Research Center of \nthe Universite Catholique de Louvain (UCL) \nNextstepefficiency \nSAS \n(represented by Christine Dubus) \n(2) \n2021 \nGM \n2024 \nIndependent Director / AC \n(chairwoman) \nExecutive Director at Credit Mutuel",
+      "similarity_score": 0.2795930981636047
+    }
+  ]
+}

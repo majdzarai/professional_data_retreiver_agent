@@ -1,25 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 368 of 1106
-SIZE: 649 characters
-PREVIOUS: chunk_0367_annual_report_text (1).txt
-NEXT: chunk_0369_annual_report_text (1).txt
-------------------------------
-rs interests. A minimum number of Company registered 
-shares are to be held by the Managing Directors 
-and members of the Executive Management 
-Team. Each of them has to acquire, hold and 
-retain directly or indirectly a number of Company 
-shares corresponding to 100.000 IBA shares for 
-the Managing Directors and to 10.000 IBA 
-shares 
-for 
-members 
-of 
-the 
-Executive 
-Management Team. The MHR shall have to be 
-reached at the latest by 31st December 2026. The MHR can be built up in the manner which is 
-deemed most appropriate by the individual on 
-whom such minimum is imposed, including 
-through the Long-Term Incentive plan described 
-above.
+legal limits in 
+terms of threshold and duration. The board of directors is expressly authorized to 
+make use of this authority in the cases referred 
+to in sections 7:200 (limitation or cancellation of 
+preferential rights and incorporation of reserves) 
+and 7:202 (public takeover bid) of the [Belgian] 
+Companies & Associations Code (hereafter, the 
+BCAC). === Page 73 ===
+IBA Annual Report 2023 
+70.

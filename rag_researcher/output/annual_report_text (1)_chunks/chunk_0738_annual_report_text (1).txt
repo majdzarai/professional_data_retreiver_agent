@@ -1,16 +1,52 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 738 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0737_annual_report_text (1).txt
-NEXT: chunk_0739_annual_report_text (1).txt
-------------------------------
-In July 2023, IBA contributed intellectual 
-property to its Joint Venture Pantera which was 
-valued at EUR 4.4 million. The IP was not 
-valued in IBAs balance sheet and the gain on 
-the contribution was recognised in the entity's 
-financial statements only to the extent of the 
-other investor's interests in the Joint Venture 
-(50%). to recognize the full revenue of the license, given the level of uncertainty linked to this type of sale (unique in its kind for 
-IBA). Instead, the remaining amount of variable consideration that is highly sensitive to factors outside the entitys influence 
-was re
+-636 
+5 728 
+5 092 
+0 
+5 092 
+Recurring segment (REBIT) 
+272 
+6 145 
+6 417 
+0 
+6 417 
+Financial income/(expenses) 
+-4 881 
+-357 
+-5 238 
+0 
+-5 238 
+Share of profit/(loss) of companies consolidated using the 
+equity method 
+-169 
+0 
+-169 
+0 
+-169 
+Result before taxes 
+-5 686 
+5 371 
+-315 
+0 
+-315 
+Tax income/(expenses) 
+-7 619 
+-1 176 
+-8 795 
+0 
+-8 795 
+RESULT FOR THE PERIOD 
+-13 305 
+4 195 
+-9 110 
+0 
+-9 110 
+REBITDA 
+10 487 
+8 821 
+19 308 
+0 
+19 308 
+Non-current assets 
+104 635 
+22 544 
+127 1

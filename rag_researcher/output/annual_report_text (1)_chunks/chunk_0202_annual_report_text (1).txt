@@ -1,42 +1,30 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 202 of 1106
-SIZE: 601 characters
-PREVIOUS: chunk_0201_annual_report_text (1).txt
-NEXT: chunk_0203_annual_report_text (1).txt
-------------------------------
-amicARC is a registered brand of the IBAs Proton 
-Arc therapy solution currently under development phase. === Page 53 ===
-IBA Annual Report 2023 
-50. IBA 
-Other accelerators 
+SA and Italy starting to 
+treat patients in 2023. The decrease in REBIT in the period reflects the 
+customer-related delays in backlog conversion 
+of some ProteusPLUS projects in China and 
+project mix, including older lower margin 
+projects. In 
+addition, targeted 
+investment 
 (EUR 000) 
 FY 2023 
 FY 2022 
 Variance 
 Variance % 
-Equipment Other Accelerators 
-99 068 
-62 606 
-36 462 
-58.2% 
-Services Other Accelerators 
-34 674 
-25 932 
-8 742 
-33.7% 
+Equipment Proton Therapy 
+113 449 
+110 162 
+3 287 
+3.0% 
+Services Proton Therapy 
+115 616 
+108 599 
+7 017 
+6.5% 
 Net sales 
-133 742 
-88 538 
-45 204 
-51.1% 
+229 065 
+218 761 
+10 304 
+4.7% 
 REBIT2 
-23 675 
-6 014 
-17 661 
-293.7% 
-% of Sales 
-17.7% 
-6.8% 
-Other Accelerators had a positive year of sales, with 18 machines sold, alongside agreements 
-for upgrades, with an order intake of EUR 81 
-million.
+-23 40

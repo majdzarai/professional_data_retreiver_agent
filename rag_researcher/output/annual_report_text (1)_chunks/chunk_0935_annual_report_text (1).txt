@@ -1,19 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 935 of 1106
-SIZE: 268 characters
-PREVIOUS: chunk_0934_annual_report_text (1).txt
-NEXT: chunk_0936_annual_report_text (1).txt
-------------------------------
-le provides an analysis of 
-financial 
-instruments 
-that 
-are 
-measured 
-subsequent to initial recognition at fair value, grouped into Levels 1 to 3. During this past financial year, there was no 
-transfer 
-between 
-the 
-various 
-categories 
-presented below: (EUR 000)
+f lease 
+payments to be made over the lease term. Some leases have variable lease payments that depend on an index in which case 
+an initial estimation is prepared using the local relevant index; when the actual indexe is known, the future cash flows are 
+reassessed and the lease liabilities are adjusted with the corresponding Right of Use asset. In calculating the present value of lease payments, the Group uses its incremental borrowing rate at the lease 
+commencement date because the interest rate implicit in the lease is not readily determinable.

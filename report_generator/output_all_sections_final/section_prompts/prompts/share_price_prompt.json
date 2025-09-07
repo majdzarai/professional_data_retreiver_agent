@@ -1,0 +1,169 @@
+{
+  "section_metadata": {
+    "chapter_title": "Financials",
+    "section_title": "Share Price",
+    "description": "Market valuation and stock performance (if publicly listed).",
+    "total_questions": 5
+  },
+  "writing_instructions": {
+    "objective": "Write a comprehensive and professional section titled 'Share Price' for the chapter 'Financials'",
+    "scope": "Market valuation and stock performance (if publicly listed).",
+    "structure_requirements": [
+      "Start with a clear introduction to the section topic",
+      "Present information in a logical, well-organized manner",
+      "Use professional business report language and tone",
+      "Include specific data points and facts from the research findings",
+      "Ensure accuracy and cite relevant information appropriately",
+      "Conclude with a summary of key points if the section is substantial"
+    ],
+    "content_guidelines": [
+      "Focus on factual, objective information",
+      "Use clear, concise language suitable for business stakeholders",
+      "Organize information hierarchically (most important first)",
+      "Include specific details such as dates, numbers, and official names",
+      "Maintain consistency with overall report structure and tone"
+    ]
+  },
+  "research_findings": [
+    {
+      "question": "What is the current market valuation of Ion Beam Applications SA, and how does it compare to its peers in the industry?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of the Group and the Ultimate \nParent. The Company is listed on the pan-European \nEuronext stock exchange (B-compartment) and \nis included in the BEL Mid Index. IBA publishes condensed half-yearly and \nannual consolidated financial statements which \nhave been prepared in accordance with IFRS \nas endorsed by EU.",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications SA market capitalization"
+        },
+        {
+          "text": "00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosimetry America Inc. Bartlett, USA \n100% \n100% \nIBA Proton Therapy Inc. Edgewood New York, USA \n100% \n100% \nIBA Industrial Inc. Edgewood New York, USA \n100% \n100% \nIBA USA Inc. Edgewood New York, USA \n100% \n100% \nIBA Particle Therapy Ltd.",
+          "source": "",
+          "score": 0.0,
+          "query": "Market value of Ion Beam Applications SA"
+        }
+      ],
+      "key_information": [
+        "company \nincorporated and domiciled in Belgium",
+        "The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium",
+        "00% \n100% \nIon Beam Beijing Applications Co"
+      ]
+    },
+    {
+      "question": "What are the key drivers behind the fluctuations in Ion Beam Applications SA's share price over the past 12 months?",
+      "total_results": 3,
+      "results": [
+        {
+          "text": "ions \ndiffer greatly from one country to another. Operational risks \nSale risk \nIn general, IBAs customers are diversified \n(public and private sector) and located on \nseveral continents. Each year the Company \ndepends on multiple orders, particularly for its \nproton therapy systems that are implemented \nover several financial years. One additional \norder or one order less, or changes in an order \nthat were not anticipated at the beginning of the \nyear, are characteristics of this field of business \nthat can have a significant impact over several \naccounting periods.",
+          "source": "",
+          "score": 0.0,
+          "query": "Reasons for fluctuation in Ion Beam Applications SA stock price"
+        },
+        {
+          "text": "STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023",
+          "source": "",
+          "score": 0.0,
+          "query": "Key factors affecting Ion Beam Applications SA share price"
+        },
+        {
+          "text": "company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of the Group and the Ultimate \nParent. The Company is listed on the pan-European \nEuronext stock exchange (B-compartment) and \nis included in the BEL Mid Index. IBA publishes condensed half-yearly and \nannual consolidated financial statements which \nhave been prepared in accordance with IFRS \nas endorsed by EU.",
+          "source": "",
+          "score": 0.0,
+          "query": "Stock performance analysis of Ion Beam Applications SA"
+        }
+      ],
+      "key_information": [
+        "ions \ndiffer greatly from one country to another",
+        "Operational risks \nSale risk \nIn general, IBAs customers are diversified \n(public and private sector) and located on \nseveral continents",
+        "STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023",
+        "company \nincorporated and domiciled in Belgium",
+        "The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium"
+      ]
+    },
+    {
+      "question": "What is the company's history with dividend payments, and what does this suggest about its financial health?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications SA dividend payment history"
+        },
+        {
+          "text": "00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosimetry America Inc. Bartlett, USA \n100% \n100% \nIBA Proton Therapy Inc. Edgewood New York, USA \n100% \n100% \nIBA Industrial Inc. Edgewood New York, USA \n100% \n100% \nIBA USA Inc. Edgewood New York, USA \n100% \n100% \nIBA Particle Therapy Ltd.",
+          "source": "",
+          "score": 0.0,
+          "query": "Dividend payout ratio of Ion Beam Applications SA"
+        }
+      ],
+      "key_information": [
+        "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023",
+        "Responsibilities of the board of directors for the preparation of the consolidated accounts",
+        "00% \n100% \nIon Beam Beijing Applications Co"
+      ]
+    },
+    {
+      "question": "How has the company's share price performed during periods of economic uncertainty, such as recessions or market downturns?",
+      "total_results": 3,
+      "results": [
+        {
+          "text": "company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of the Group and the Ultimate \nParent. The Company is listed on the pan-European \nEuronext stock exchange (B-compartment) and \nis included in the BEL Mid Index. IBA publishes condensed half-yearly and \nannual consolidated financial statements which \nhave been prepared in accordance with IFRS \nas endorsed by EU.",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications SA stock performance during economic downturns"
+        },
+        {
+          "text": "STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023",
+          "source": "",
+          "score": 0.0,
+          "query": "Share price resilience of Ion Beam Applications SA during recession"
+        },
+        {
+          "text": "The Company used the Black & Scholes model to value options, with no vesting conditions other than time. Expected \nvolatility for the stock option plans is based on historical volatility determined by statistical analysis of daily share price \nmovements. The exercise price of shares for the stock option plans was based on the average share price for the 30 days \npreceding the grant date. === Page 165 ===\nIBA Annual Report 2023 \n162. (EUR 000) \nFINANCIAL LIABILITIES \nDecember 31, 2022 \nDue \n< 1 y",
+          "source": "",
+          "score": 0.0,
+          "query": "Company stock price stability analysis"
+        }
+      ],
+      "key_information": [
+        "company \nincorporated and domiciled in Belgium",
+        "The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium",
+        "STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023",
+        "The Company used the Black & Scholes model to value options, with no vesting conditions other than time",
+        "Expected \nvolatility for the stock option plans is based on historical volatility determined by statistical analysis of daily share price \nmovements"
+      ]
+    },
+    {
+      "question": "What are the most significant risks and challenges facing Ion Beam Applications SA's share price in the near future?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of the Group and the Ultimate \nParent. The Company is listed on the pan-European \nEuronext stock exchange (B-compartment) and \nis included in the BEL Mid Index. IBA publishes condensed half-yearly and \nannual consolidated financial statements which \nhave been prepared in accordance with IFRS \nas endorsed by EU.",
+          "source": "",
+          "score": 0.0,
+          "query": "Risks to Ion Beam Applications SA share price"
+        },
+        {
+          "text": "The Company used the Black & Scholes model to value options, with no vesting conditions other than time. Expected \nvolatility for the stock option plans is based on historical volatility determined by statistical analysis of daily share price \nmovements. The exercise price of shares for the stock option plans was based on the average share price for the 30 days \npreceding the grant date. === Page 165 ===\nIBA Annual Report 2023 \n162. (EUR 000) \nFINANCIAL LIABILITIES \nDecember 31, 2022 \nDue \n< 1 y",
+          "source": "",
+          "score": 0.0,
+          "query": "Company stock price forecasting"
+        }
+      ],
+      "key_information": [
+        "company \nincorporated and domiciled in Belgium",
+        "The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium",
+        "The Company used the Black & Scholes model to value options, with no vesting conditions other than time",
+        "Expected \nvolatility for the stock option plans is based on historical volatility determined by statistical analysis of daily share price \nmovements"
+      ]
+    }
+  ],
+  "key_questions_addressed": [
+    "What is the current market valuation of Ion Beam Applications SA, and how does it compare to its peers in the industry?",
+    "What are the key drivers behind the fluctuations in Ion Beam Applications SA's share price over the past 12 months?",
+    "What is the company's history with dividend payments, and what does this suggest about its financial health?",
+    "How has the company's share price performed during periods of economic uncertainty, such as recessions or market downturns?",
+    "What are the most significant risks and challenges facing Ion Beam Applications SA's share price in the near future?"
+  ],
+  "writing_prompt": "# Writing Instructions for Report Section\n\n## Section Details\n- **Chapter**: Financials\n- **Section**: Share Price\n- **Purpose**: Market valuation and stock performance (if publicly listed).\n\n## Writing Task\nWrite a comprehensive, professional section for a business report that addresses the following requirements:\n\n### Content Requirements:\n1. **Introduction**: Begin with a clear introduction that establishes the purpose and scope of this section\n2. **Main Content**: Present the information in a logical, well-structured manner using the research findings provided\n3. **Professional Tone**: Use formal business language appropriate for stakeholders and decision-makers\n4. **Factual Accuracy**: Base all statements on the provided research findings and cite specific data points\n5. **Clarity**: Ensure the content is clear, concise, and easy to understand\n\n### Structure Guidelines:\n- Use appropriate headings and subheadings if the content is substantial\n- Present information in order of importance\n- Include specific details such as dates, numbers, company names, and official designations\n- Maintain consistency with professional report formatting standards\n\n### Research Findings to Incorporate:\n\n#### Question 1: What is the current market valuation of Ion Beam Applications SA, and how does it compare to its peers in the industry?\n**Key Information to Include:**\n- company \nincorporated and domiciled in Belgium\n- The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium\n- 00% \n100% \nIon Beam Beijing Applications Co\n\n**Supporting Research Data:**\n1. company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of ...\n\n2. 00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosime...\n\n\n#### Question 2: What are the key drivers behind the fluctuations in Ion Beam Applications SA's share price over the past 12 months?\n**Key Information to Include:**\n- ions \ndiffer greatly from one country to another\n- Operational risks \nSale risk \nIn general, IBAs customers are diversified \n(public and private sector) and located on \nseveral continents\n- STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023\n- company \nincorporated and domiciled in Belgium\n- The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium\n\n**Supporting Research Data:**\n1. ions \ndiffer greatly from one country to another. Operational risks \nSale risk \nIn general, IBAs customers are diversified \n(public and private sector) and located on \nseveral continents. Each year th...\n\n2. STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023...\n\n\n#### Question 3: What is the company's history with dividend payments, and what does this suggest about its financial health?\n**Key Information to Include:**\n- The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023\n- Responsibilities of the board of directors for the preparation of the consolidated accounts\n- 00% \n100% \nIon Beam Beijing Applications Co\n\n**Supporting Research Data:**\n1. The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated ac...\n\n2. 00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosime...\n\n\n#### Question 4: How has the company's share price performed during periods of economic uncertainty, such as recessions or market downturns?\n**Key Information to Include:**\n- company \nincorporated and domiciled in Belgium\n- The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium\n- STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023\n- The Company used the Black & Scholes model to value options, with no vesting conditions other than time\n- Expected \nvolatility for the stock option plans is based on historical volatility determined by statistical analysis of daily share price \nmovements\n\n**Supporting Research Data:**\n1. company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of ...\n\n2. STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023...\n\n\n#### Question 5: What are the most significant risks and challenges facing Ion Beam Applications SA's share price in the near future?\n**Key Information to Include:**\n- company \nincorporated and domiciled in Belgium\n- The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium\n- The Company used the Black & Scholes model to value options, with no vesting conditions other than time\n- Expected \nvolatility for the stock option plans is based on historical volatility determined by statistical analysis of daily share price \nmovements\n\n**Supporting Research Data:**\n1. company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of ...\n\n2. The Company used the Black & Scholes model to value options, with no vesting conditions other than time. Expected \nvolatility for the stock option plans is based on historical volatility determined by...\n\n\n### Final Instructions:\n- Synthesize the research findings into coherent, flowing prose\n- Ensure all factual claims are supported by the provided research data\n- Maintain professional objectivity throughout the section\n- Aim for completeness while being concise\n- Review for accuracy, clarity, and professional presentation\n\n**Expected Output**: A well-written, professional report section that fully addresses the section requirements using the provided research findings."
+}

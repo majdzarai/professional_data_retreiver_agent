@@ -1,11 +1,21 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1104 of 1106
-SIZE: 546 characters
-PREVIOUS: chunk_1103_annual_report_text (1).txt
-NEXT: chunk_1105_annual_report_text (1).txt
-------------------------------
-We have selected Ecovadis as service provider for our supply chain ESG screening 
-416-2 Comfort, quality, safety of our medical & industrial solutions 
-At IBA, we are constantly improving our products and quality management processes in order to offer the market complete, safe and efficient 
-solutions. We train our clients and help the medical community to provide users and patients with reliable and safe treatments. In order to raise the 
-quality of the product IBA delivers on the market we are ISO13485:2016, ISO9001:2015, MDSAP certified.
+Amount 
+03/12/2019 Exercise of options under 2014 plan empl 
+11 392 
+30 133 920 
+15 988,67
+42 294 182,30 
+31/12/2020 Exercise of options under 2014 plan empl 
+0 
+30 133 920 
+0
+42 294 182,30 
+31/12/2021 Exercise of options under 2014 plan empl 
+ 84798 
+30 218 718 119 014 
+42 413 196,00 
+31/12/2022 Exercice of options under 2014 plan empl 
+ 63 500 30 282 218 89122,5 
+42.502.318,54 
+31/12/2023 Exercice of options under 2014 plan empl 
+ 0 30 282 218 89122,5 
+42.502.318,54

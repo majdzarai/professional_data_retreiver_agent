@@ -1,23 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 437 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0436_annual_report_text (1).txt
-NEXT: chunk_0438_annual_report_text (1).txt
-------------------------------
-better manage waste (minimization and 
-recycling). Within IBA, every employee is expected to 
-perform 
-his/her 
-job 
-with 
-environmental 
-awareness and to apply the principles of 
-prevention, precaution and rectification at 
-source. Through its Code of Conduct for Suppliers, the 
-Company further encourages its major suppliers 
-to share its commitment to the environment and 
-to reduce the environmental impact of their 
-designs, manufacturing processes, waste, and 
-emissions. Upstream, the IBAs Articles of Associations now 
-specify in article 3 (.) The Company's 
-objectives include having, in th
+=== Page 83 ===
+IBA Annual Report 2023 
+80. IBA 
+In 2023, the Group has also employed the 
+services of Saint-Denis SA for specific activities 
+not related to its directorship. The fees 
+corresponding to these services amounted to 
+EUR 465 182. Codes of conduct (sections 3:6, 4 and 3:32, 2, of the BCAC) 
+CODE OF BUSINESS CONDUCT 
+The Company is committed to the honest, ethical, and honorable conduct of its business.

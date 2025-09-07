@@ -1,18 +1,22 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 955 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0954_annual_report_text (1).txt
-NEXT: chunk_0956_annual_report_text (1).txt
-------------------------------
-s included within Level 1 
-that are observable for the asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices). Level 3 fair value measurements are those derived from valuation techniques for which the lowest level of input 
-that is significant to the fair value measurement is unobservable. === Page 170 ===
+ality tables to determine life expectancy and inflation rates to determine future 
+salary and pension growth assumptions. === Page 162 ===
 IBA Annual Report 2023 
-167. 8. Cash flow statement
-The cash flow statement is prepared in accordance with the indirect method. 8.1. OPERATING CASH FLOWS 
-(EUR 000) 
-Note 
+159. 5.12.1 Trade payables 
+As at December 31, the payment schedule for 
+trade payables was as follows: (EUR 000) 
 December 31, 2022 
 December 31, 2023 
-CASH FLOW FROM OPERATING ACTIVITIES 
-Net pr
+Due 
+20 793 
+33 595 
+Due in less than 3 months 
+16 051 
+5 987 
+Due between 4-12 months 
+28 715 
+36 981 
+TOTAL 
+65 559 
+76 564 
+The increase is primarily driven by an increased 
+level o

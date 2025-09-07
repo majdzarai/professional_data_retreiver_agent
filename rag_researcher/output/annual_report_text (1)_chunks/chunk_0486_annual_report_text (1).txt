@@ -1,12 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 486 of 1106
-SIZE: 307 characters
-PREVIOUS: chunk_0485_annual_report_text (1).txt
-NEXT: chunk_0487_annual_report_text (1).txt
-------------------------------
-studies related to environmental solutions for 
-the treatment of forever chemicals in water 
-(Per- and polyfluoroalkyl substances, PFAS) 
-(taxonomy category 5.4) 
-In analysis of these taxonomy-eligible activities, IBA identifies the following as taxonomy-
-aligned: bike lease program (taxonomy category 6.4)
+d 
+on the geographical location of this supplier. By 2023, all new IBA suppliers have recognized 
+and signed the Supplier Code of Conduct. No incident with respect to Human Rights 
+relating to the IBAs activities or decisions were 
+noticed in 2023. A large majority of IBAs facilities are accessible 
+to persons with reduced mobility. As an example, the four main buildings in Louvain-la-Neuve are 
+fully adapted for such people.

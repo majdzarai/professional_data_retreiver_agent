@@ -1,10 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 60 of 1106
-SIZE: 224 characters
-PREVIOUS: chunk_0059_annual_report_text (1).txt
-NEXT: chunk_0061_annual_report_text (1).txt
-------------------------------
-maging. Its also very interesting for inhouse 
-production because the local hospital 
-will not depend on the big suppliers 
-of radio-pharmaceuticals. Muhammed Sarfaraz Mirza, Business Line Manager, Attieh Medico Saudi Arabia
+=== Page 20 ===
+1. https://gco.iarc.fr/today/data/factsheets/cancers/39-All-cancers-fact-sheet.pdf
+2. https://www.cancerresearchuk.org/about-cancer/cancer-symptoms/why-is-early-diagnosis-important
+The IBA CycloneKEY cyclotron plays an important role in 
+making Positron Emission Tomography (PET) imaging more 
+widely available worldwide by enabling the production of key 
+medical isotopes used for this imaging technology. PET imaging is a highly effective medical imaging technique 
+that uses radiotracers to produce detailed images of organs and 
+tissues in the body.

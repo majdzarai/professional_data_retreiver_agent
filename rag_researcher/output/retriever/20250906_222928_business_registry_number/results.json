@@ -1,0 +1,18 @@
+{
+  "query": "business registry number",
+  "timestamp": "2025-09-06 22:29:28",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "2-6 \nActivities, value chain and other business \nrelationships \np7 AR2023 Patient care, what makes our heart beat \np39 AR2023 A committed company / society / supply chain \np47 AR2023 Management report / review of IBA activity sectors \np102 AR2023 Management report / significant acquisitions and divestments in 2023 \np108 AR2023 IFRS consolidated financial \n2-7 \nEmployees \np31 AR2023 A committed company \np66 AR2023 Management report / corporate governance statement / diversity, equity and inclusio",
+      "similarity_score": 0.3289174917671415
+    }
+  ]
+}

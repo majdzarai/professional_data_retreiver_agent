@@ -1,29 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 446 of 1106
-SIZE: 696 characters
-PREVIOUS: chunk_0445_annual_report_text (1).txt
-NEXT: chunk_0447_annual_report_text (1).txt
-------------------------------
-risk areas such as corruption, asset misappropriation, financial statement 
-fraud, cyberfraud of theft of data, and contract 
-and procurement fraud. As a second phase, informal training of employees is taking place on 
-a daily basis. A system of formal reporting is also 
-described in the Code of Business Conduct and 
-encourages the denunciation of such practices, amongst 
-others 
-through 
-the 
-anonimous 
-whistleblower platform on the Companys 
-website. An external audit was carried out by the end of 
-the 
-year 
-2023, to 
-check 
-the 
-level 
-of 
-implementation in IBAs system. To mitigate 
-Cyber risk, several measures have already been 
-implemented and further measures will be 
-implemented.
+=== Page 84 ===
+IBA Annual Report 2023 
+81. IBA 
+Organizations Declaration on Fundamental 
+Principles and Rights at Work. IBAs employees are the most valuable 
+resources of the Company and are essential to 
+its success. Diversity is fundamental to IBAs 
+culture and the uniqueness of individuals and the 
+various perspectives and talents they bring are 
+recognized and valued. The Company promotes 
+diversity within our workforce and an inclusive 
+environment that helps each and every one of us 
+to fully contribute to its success.

@@ -1,22 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1083 of 1106
-SIZE: 332 characters
-PREVIOUS: chunk_1082_annual_report_text (1).txt
-NEXT: chunk_1084_annual_report_text (1).txt
-------------------------------
-company's headquarters or 
-relevant facilities exceeds 60% of spent, with the expenses spent with independent local suppliers amounting exceeds 30%. Unit 
-2021 
-2022 
-2023 
-302-1 Energy consumption within the organization 
-Energy 
-GJ 
-29.055 
-30.373 
-29.690 
-Energy - intensity per million Eur revenues 
-GJ / million Eur 
-93 
-84 
-69
+Our registered audit firm and our network did not provide services which are incompatible with the 
+statutory audit of the consolidated accounts, and our registered audit firm remained independent 
+of the Group in the course of our mandate. The fees for additional services which are compatible with the statutory audit of the consolidated 
+accounts referred to in article 3:65 of the Companies' and Associations' Code are correctly 
+disclosed and itemized in the notes to the consolidated accounts.

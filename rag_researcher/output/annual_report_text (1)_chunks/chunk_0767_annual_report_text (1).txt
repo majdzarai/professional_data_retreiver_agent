@@ -1,12 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 767 of 1106
-SIZE: 628 characters
-PREVIOUS: chunk_0766_annual_report_text (1).txt
-NEXT: chunk_0768_annual_report_text (1).txt
-------------------------------
-Local taxation exposure 
-Since 2015, the Company initiated an analysis on the Groups exposure in countries other than Belgium to be potentially 
-obliged to pay certain local taxes whereas the payment of those taxes has been transferred to the Groups customers. The 
-exposure identified as of December 31, 2015, was reduced as a result of further investigations. Management is monitoring 
-this risk closely and regularly, however, based on the data available today, it is still not possible to make a reliable estimate 
-of the remaining exposure and therefore no provision has been accrued for in the Groups financial statements.
+vices which relate to the daily functioning and maintenance activity of 
+the proton therapy centers once those have been transferred to the customer. Licence revenue 
+Occasionally, IBA group sells a licence for the intellectual property. This is not part of IBAs main business activity and 
+will, in most cases, constitute a distinct performance obligation. Dosimetry 
+IBA Dosimetry develops solutions that give medical staff the quality assurance tools and softwares to obtain the treatment 
+results they need.

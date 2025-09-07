@@ -1,55 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 571 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0570_annual_report_text (1).txt
-NEXT: chunk_0572_annual_report_text (1).txt
-------------------------------
-92 
-58 501 
-Accounts receivable within one year 
-181 569 
-133 077 
-Trade receivables 
-151 536 
-119 536 
-Other receivables 
-30 033 
-13 541 
-Investments 
-67 219 
-12 703 
-Cash at bank and in hand 
-38 723 
-63 255 
-Deferred charges and accrued income 
-17 554 
-15 914 
-TOTAL ASSETS 
-686 285 
-673 129 
-LIABILITIES AND EQUITY (EUR 000) 
-2022 
-2023 
-SHAREHOLDERS EQUITY 
-229 528 
-237 405 
-Capital stock 
-42 502 
-42 502 
-Capital surplus 
-43 478 
-43 478 
-Revaluation gains 
-- 
-- 
-Reserves 
-21 653 
-16 953 
-Legal reserve 
-4 231 
-4 250 
-Reserves not available for distribution 
-17 219 
-12 703 
-Untaxed reserves 
-2
+graph) and the increased spend 
+compared to 2022. Intangible assets under construction for a 
+net worth of EUR 9.0 million which includes 
+development costs related to Product 
+Lifecycle Management and the EU Medical 
+Device Regulation. In accordance with the Royal Decree of 
+December 15, 2015, research costs have been 
+capitalized and amortized over the year since 
+January 1, 2016. Development costs in 2023 
+were, as mentioned before, as from 2023 
+onwards depreciated monthly on a pro rata 
+temporis basis (36 months). For research costs 
+all expenditure was depreciated within the year.

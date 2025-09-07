@@ -1,14 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 387 of 1106
-SIZE: 293 characters
-PREVIOUS: chunk_0386_annual_report_text (1).txt
-NEXT: chunk_0388_annual_report_text (1).txt
-------------------------------
-. In order to protect its competitive 
-position, IBA does not disclose targets. Each criteria is assessed separately 
-against 
-pre-approved 
-targets. A 
-performance score is assigned to each 
-criteria, resulting in the corresponding pay-
-out as described in the following table: Actual Pay-Out
+met, === Page 75 ===
+IBA Annual Report 2023 
+72. IBA 
+the plan beneficiaries may elect to sell the 
+shares obtained in excess of their MHR 
+Minimum Holding Requirement (MHR) 
+IBA strongly believes that management must 
+own company shares to strongly align with 
+Shareholders interests. A minimum number of Company registered 
+shares are to be held by the Managing Directors 
+and members of the Executive Management 
+Team.

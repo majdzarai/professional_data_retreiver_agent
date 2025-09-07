@@ -1,17 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 263 of 1106
-SIZE: 667 characters
-PREVIOUS: chunk_0262_annual_report_text (1).txt
-NEXT: chunk_0264_annual_report_text (1).txt
-------------------------------
-its 
-technology partners. This program is currently being rolled out and 
-IBA's intention is to achieve the level of security 
-required by ISO27001 ("Information technology - 
-Security techniques - Information security 
-management systems - Requirements"). Branches of the company (section 3:6, 1, 5, of the BCAC)
-At the end of 2023, the Company had nine 
-branches in Prague, Czech Republic; Orsay, France; South Korea, Krakow, Poland; Trento, Italy; Uppsala, Sweden; Groningen, Netherlands; Newport, United Kingdom; Madrid, Spain, and Dublin, Ireland. The branches were 
-established as part of the Companys Proton 
-Therapy business (section 3:6, 1, 5, of the 
-BCAC).
+from net investments in non-Eurozone 
+operations. Approximately 5.0% of the Groups 
+sales (4.5% in 2022) are denominated in 
+currencies other than the functional currency of 
+the operating unit making the sales, while 97.0% 
+of costs (94.0% in 2022) are denominated in the 
+units functional currency. While the functional currency of the parent 
+company of the Group is the euro, the Groups 
+exposure to foreign currencies is related 
+primarily to the US dollar, Chinese yuan, Indian 
+rupee, Russian ruble and Canadian dollar.

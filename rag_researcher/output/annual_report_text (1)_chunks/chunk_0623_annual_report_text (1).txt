@@ -1,22 +1,32 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 623 of 1106
-SIZE: 504 characters
-PREVIOUS: chunk_0622_annual_report_text (1).txt
-NEXT: chunk_0624_annual_report_text (1).txt
-------------------------------
-roups disclosures of accounting policies, but 
-not on the measurement, recognition or 
-presentation of any items in the Groups 
-financial statements. Amendments to IAS 12 Deferred Tax 
-related to Assets and Liabilities arising 
-from a Single Transaction 
-In May 2021, the Board issued amendments to 
-IAS 12, which narrow the scope of the initial 
-recognition exception under IAS 12, so that it no 
-longer applies to transactions that give rise to 
-equal 
-taxable 
-and 
-deductible 
-temporary 
-differences.
+(EUR 000) 
+Note 
+December 31, 2022 
+December 31, 2023 
+Sales of equipment and licences 
+220 558 
+271 761 
+Sales of services 
+140 712 
+156 956 
+Total sales 
+4.3. 361 270 
+428 717 
+Cost of sales and services (-) 
+4.1. -234 505 
+-294 276 
+Gross profit 
+4.1. 126 765 
+134 441 
+Selling and marketing expenses (-) 
+-24 787 
+-26 283 
+General and administrative expenses (-) 
+-49 089 
+-53 818 
+Research and development expenses (-) 
+-41 839 
+-47 923 
+Other operating expenses (-) 
+4.4.1. -6 088 
+-3 525 
+Othe

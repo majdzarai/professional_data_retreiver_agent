@@ -1,24 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 221 of 1106
-SIZE: 655 characters
-PREVIOUS: chunk_0220_annual_report_text (1).txt
-NEXT: chunk_0222_annual_report_text (1).txt
-------------------------------
-ce, as well as the 
-status of each action. A more comprehensive 
-review of environmental risks by the Risk 
-Management Committee is planned for 2024. The risk overview highlights the main risk areas 
-known 
-by 
-IBA, which 
-could 
-affect 
-the 
-achievement of its strategic and financial 
-business objectives. The risk overview may, however, not include all the risks that may 
-ultimately affect IBA. IBA describes the relevant 
-factors within each risk category and provides 
-insight into the most prominent areas 
-IBA has decided to present its risks as follows: Customers, Competitors, Investors 
-Evaluate risks that drive the IBAs 
-mission and strategy.
+r the expansion 
+of 225Ac production during 2023. In June, a 
+strategic 
+partnership 
+was 
+agreed 
+with 
+TerraPower Isotopes, to initiate the small-scale 
+production of 225Ac for clinical trials in 2024, with a view to develop large-scale supply of the 
+radioisotope over the longer term. Post-period 
+end saw PanTera reach a capacity reservation 
+agreement with Bayer and another undisclosed 
+customer, both initiating in the second half of 
+2024 and the company is working actively on 
+several more partnerships.

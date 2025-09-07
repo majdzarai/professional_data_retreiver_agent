@@ -1,0 +1,100 @@
+{
+  "report_generation_summary": {
+    "total_chapters": 9,
+    "total_sections": 21,
+    "total_word_count": 8822,
+    "chapters": [
+      "Risk Factors",
+      "Financials",
+      "Introduction / Background",
+      "Conclusion",
+      "Corporate Structure / Group Chart",
+      "ESG (Environmental, Social, Governance)",
+      "Business Activities",
+      "Recent Developments",
+      "References"
+    ],
+    "generated_at": "2025-09-07T00:35:28.843821"
+  },
+  "chapters_detail": {
+    "Risk Factors": {
+      "sections_count": 3,
+      "word_count": 1178,
+      "sections": [
+        "AML Issues",
+        "Compliance Assessment",
+        "Financial Fraud"
+      ]
+    },
+    "Financials": {
+      "sections_count": 4,
+      "word_count": 1934,
+      "sections": [
+        "Auditors' Report",
+        "Credit Rating & Financial Health",
+        "Financial Statements / Metrics",
+        "Share Price"
+      ]
+    },
+    "Introduction / Background": {
+      "sections_count": 1,
+      "word_count": 259,
+      "sections": [
+        "Company Overview"
+      ]
+    },
+    "Conclusion": {
+      "sections_count": 1,
+      "word_count": 273,
+      "sections": [
+        "Conclusion"
+      ]
+    },
+    "Corporate Structure / Group Chart": {
+      "sections_count": 1,
+      "word_count": 369,
+      "sections": [
+        "Corporate Structure / Group Chart"
+      ]
+    },
+    "ESG (Environmental, Social, Governance)": {
+      "sections_count": 2,
+      "word_count": 917,
+      "sections": [
+        "ESG Targets",
+        "External ESG Ratings"
+      ]
+    },
+    "Business Activities": {
+      "sections_count": 7,
+      "word_count": 3048,
+      "sections": [
+        "Geographical Market & Coverage",
+        "Industry",
+        "Market Share",
+        "Operations",
+        "Operational Risk Factors",
+        "Sector",
+        "Suppliers & Customers"
+      ]
+    },
+    "Recent Developments": {
+      "sections_count": 1,
+      "word_count": 357,
+      "sections": [
+        "Recent Developments"
+      ]
+    },
+    "References": {
+      "sections_count": 1,
+      "word_count": 487,
+      "sections": [
+        "References"
+      ]
+    }
+  },
+  "output_files": {
+    "sections_directory": "output_all_sections_final\\writer\\sections",
+    "chapters_directory": "output_all_sections_final\\writer\\chapters"
+  }
+}

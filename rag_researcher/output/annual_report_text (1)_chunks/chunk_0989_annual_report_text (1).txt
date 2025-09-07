@@ -1,27 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 989 of 1106
-SIZE: 598 characters
-PREVIOUS: chunk_0988_annual_report_text (1).txt
-NEXT: chunk_0990_annual_report_text (1).txt
-------------------------------
-(EUR 000) 
-2022 
-2023 
-Long-term borrowings and lease liabilities (+) 
-31 458 
-29 010 
-Short-term borrowings and lease liabilities (+) 
-9 409 
-12 573 
-Cash and cash equivalents (-) 
--158 366 
--109 306 
-Net financial debt 
--117 499 
--67 723
-
-PwC Bedrijfsrevisoren BV - PwC Reviseurs d'Entreprises SRL - Financial Assurance Services 
-Maatschappelijke zetel/Siege social: Culliganlaan 5, B-1831 Diegem 
-T: +32 (0)2 710 4211, F: +32 (0)2 710 4299, www.pwc.com 
-BTW/TVA BE 0429.501.944 / RPR Brussel - RPM Bruxelles / ING BE43 3101 3811 9501 - BIC BBRUBEBB / 
-BELFIUS BE92 0689 0408 8123 - BIC GKCC BEBB
+exchange contracts and swaps - through Profit 
+and loss 
+0 
+-1 597 
+0 
+-1 597 
+Derivative financial liabilities 
+0 
+-4 128 
+0 
+-4 128

@@ -1,45 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 575 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0574_annual_report_text (1).txt
-NEXT: chunk_0576_annual_report_text (1).txt
-------------------------------
-5 
-Services and other goods 
--116 798 
--130 425 
-Salaries, social security, and pensions 
--89 779 
--102 226 
-Depreciation and write-offs on fixed assets 
--45 615 
--42 979 
-Increase/(Decrease) in write-downs on inventories, work in progress, and 
-trade debtors 
--262 
--1 239 
-Provisions for liabilities and charges 
--1 306 
-851 
-Other operating expenses 
--5 953 
--563 
-Other extraordinary expenses 
--561 
-0 
-Operating profit/loss) 
--6 592 
-15 097 
-Financial income 
-14 530 
-22 467 
-Income from financial assets 
-0 
-0 
-Income from current assets 
-2 157 
-15 044 
-Other financial income 
-12 373 
-7 423 
-E
+rticipation in the affilated company IBA 
+Russia. In paragraph 2.1 we have analyzed the 
+impact of the EU sanctions on the control of IBA 
+SA on its Russian subsidiary, and the indicators 
+of asset impairment the conflict may raise. Besides the investments in affiliated companies, IBA SA also holds equity investments in some 
+companies: A 39.8% (EUR 6.1 million) stake in NHa SA, a 
+French company active in the development of 
+a carbon therapy treatment system

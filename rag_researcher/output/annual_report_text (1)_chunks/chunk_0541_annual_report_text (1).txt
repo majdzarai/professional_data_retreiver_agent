@@ -1,19 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 541 of 1106
-SIZE: 667 characters
-PREVIOUS: chunk_0540_annual_report_text (1).txt
-NEXT: chunk_0542_annual_report_text (1).txt
-------------------------------
-ote off the 
-11.4% (USD 2 million, EUR 1.8 million) stake in 
-HIL Applied Medical Ltd, an Israelian developer 
-of laser-based proton therapy systems. And IBA 
-invested a further EUR 1.6 million in Invest BW, a regional venture capital partner that is 
-providing financing and support to entrepreneurs 
-in Walloon Brabant (cf. paragraph 5.5). The participations in affiliated companies (EUR 
-129.4 million), contain among others the 
-participation in the affilated company IBA 
-Russia. In paragraph 2.1 we have analyzed the 
-impact of the EU sanctions on the control of IBA 
-SA on its Russian subsidiary, and the indicators 
-of asset impairment the conflict may raise.
+rom a gain of 
+EUR 6.1 million in the prior year. CONSOLIDATED FINANCIAL POSITION AND 
+FINANCIAL STRUCTURE 
+The Groups non-current assets amount to EUR 
+145.5 million, increased by EUR 22.1 million 
+during the 2023 financial year, essentially due to 
+the following effects: An increase of the goodwill and intangible 
+assets for EUR 5.6 million driven by 
+additional development costs on internally 
+developped softwares and the capitalisation 
+of the costs incurred by IBA in the 
+compliance effort

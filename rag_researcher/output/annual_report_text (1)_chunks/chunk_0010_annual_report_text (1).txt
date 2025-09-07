@@ -1,9 +1,3 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 10 of 1106
-SIZE: 400 characters
-PREVIOUS: chunk_0009_annual_report_text (1).txt
-NEXT: chunk_0011_annual_report_text (1).txt
-------------------------------
 === Page 7 ===
 130,000+
 patients treated 

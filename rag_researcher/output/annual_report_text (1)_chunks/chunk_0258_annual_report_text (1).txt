@@ -1,15 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 258 of 1106
-SIZE: 487 characters
-PREVIOUS: chunk_0257_annual_report_text (1).txt
-NEXT: chunk_0259_annual_report_text (1).txt
-------------------------------
-s Co. Ltd) was 
-maintained for the same amount (undrawn). Covenant risk 
-The above-mentionned facilities are subject to 
-certain financial covenants. Following the terms of the S.R.I.W. and S.F.P.I. bond agreements, the Group agreed to comply 
-with a financial covenant relating to the IBA SAs 
-level of equity (determines based on the 
-statutory accounts published and established in 
-compliance with accounting principles applicable 
-in Belgium), which was met as of December 31, 2023.
+where IBA wishes to market a product or device. IBA is authorized to market its particle therapy 
+devices in the United States (FDA), the 
+European Union (LRQA), Australia (TGA), Russia (Gost-R), South Korea (MFDS) and 
+Taiwan (TFDA), Singapore (SFDA), and Japan 
+(Shonin). Authorizations 
+may 
+always 
+be 
+revoked. Moreover, as IBAs equipment evolves 
+technologically, further authorizations may be 
+required.

@@ -1,25 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 287 of 1106
-SIZE: 566 characters
-PREVIOUS: chunk_0286_annual_report_text (1).txt
-NEXT: chunk_0288_annual_report_text (1).txt
-------------------------------
-=== Page 64 ===
-IBA Annual Report 2023 
-61. IBA 
-Directors. They are adapted in function of the 
-evolution 
-of 
+es 
+in 
 the 
-Groups 
-activities 
+preparation of their local accounts. Risk management process 
+Financial statements are consolidated monthly. This procedure enables the timely identification 
+of accounting issues. The finance department works closely with the 
+legal department and external auditors, to 
+comply 
+with 
+changes 
+in 
+legislation 
 and 
-environment, as necessary. The pertinence of 
-the information and proper application of 
-accounting principles are reviewed by the 
-Finance Department during the preparation of 
-these accounting principles and by management 
-bodies during their successive reviews. The CEO and CFO present and comment on the 
-financial statements to the Audit Committee and 
-Board of Directors every quarter or more 
-frequently if necessary.
+accounting standards. These efforts are made to provide financial 
+information in full compliance with company law, deadlines, and quality standards.

@@ -1,24 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 294 of 1106
-SIZE: 615 characters
-PREVIOUS: chunk_0293_annual_report_text (1).txt
-NEXT: chunk_0295_annual_report_text (1).txt
-------------------------------
-N 3:6, 2, 5, OF 
-THE BCAC) 
-Board of directors 
-In accordance with the Companys Articles of 
-Association (art. 11), the Company is managed 
-by a Board of Directors composed of a minimum 
-of three and a maximum of twelve members, appointed by the shareholders meeting for a 
-renewable term, which shall not exceed the legal 
-term. The Board of Directors is currently composed of 
-eight members. The Companys Articles of Association and 
-Corporate 
-Governance 
-Charter 
-require 
-a 
-balance, within the Board of Directors, among 
-independent directors, internal directors, and 
-directors representing the shareholders.
+ler of the division to which the entity 
+belongs. This is a cross structure between staff 
+from 
+operational 
+divisions 
+and 
+financial 
+managers of the legal entities. Certain operations are centralized on a Group 
+level. Members of senior management are 
+directly involved in the review and approval of 
+these operations, thus ensuring control on the 
+completion 
+of 
+accounting 
+and 
+financial 
+information related to: Research and development activity; Investment and divestment in intangible, ta

@@ -1,43 +1,20 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 843 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0842_annual_report_text (1).txt
-NEXT: chunk_0844_annual_report_text (1).txt
-------------------------------
-s 
-11 932 
-12 804 
-TOTAL Non-current receivable and assets 
-35 378 
-33 743 
-5.7.1 
-Trade receivable: The increase in trade receivables amounts to 4.1 
-EUR million as at December 31, 2023 which is 
-mainly explained by large milestone invoices 
-issued in China before the end of the year. The table below explains the relationship 
-between expected credit losses and trade 
-receivables: (EUR 000) 
-Not 
-overdue 
-Due 
-from 1 
-to 90 
-days 
-Due from 
-91 to 180 
-days 
-Due from 181 
-to 270 days 
-Due from 
-271 to 
-360 days 
-Due 
-more 
-than 
-360 
-days 
-Total 
-Trade 
-receivable 
-Expected credit loss rate 
-0
+depreciated 
+Office buildings 
+33 years 
+Industrial buildings 
+33 years 
+Cyclotrons and vaults 
+15 years, except in specific rare circumstances where a different 
+useful life is justified 
+Laboratory equipment 
+5 years 
+Other technical equipment 
+5 to 10 years 
+Computer hardware 
+3 to 5 years (5 years for mainframes) 
+Furniture and fittings 
+5 to 10 years 
+Vehicles 
+2 to 5 years 
+Leased assets 
+Shorter of assets useful life and leasing term

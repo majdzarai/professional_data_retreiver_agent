@@ -1,14 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 749 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0748_annual_report_text (1).txt
-NEXT: chunk_0750_annual_report_text (1).txt
-------------------------------
-rates of monetary assets and liabilities denominated in foreign currencies are recognized in financial expenses 
-and income in the income statement. Foreign exchange differences arising from long-term loans that are part of the Groups net investment in foreign operations 
-are reclassified to equity as cumulative translation difference via the Other Comprehensive Income. === Page 138 ===
-IBA Annual Report 2023 
-135. 4.6. TAXATION 
-4.6.1 Income tax expense 
-The tax profit/(charge) for the year can be broken down as follows: The tax profit on IBAs result before taxes differs 
-from the theoretica
+s on 
+developing its other sterilization devices. The 
+costs include the impact of the inventories write 
+downs, employee severance and retention 
+packages, fixed assets impairment and all other 
+future estimated unavoidable costs related to 
+that business, net of the proceeds received on 
+the sale of some assets. The 2022 loss mainly 
+included customer write offs net of the inventory 
+value recovered from Rutherfords bankrupcy for 
+EUR 2.5 million, a one-off pension plan past 
+service cost of E

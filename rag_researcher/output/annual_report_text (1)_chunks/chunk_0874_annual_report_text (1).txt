@@ -1,22 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 874 of 1106
-SIZE: 488 characters
-PREVIOUS: chunk_0873_annual_report_text (1).txt
-NEXT: chunk_0875_annual_report_text (1).txt
-------------------------------
-lidated 
-net 
-senior 
-indebtedness 
-divided 
-by 
-the 
-consolidated REBITDA over the last 12 months) 
-and (b) a minimum corrected equity level 
-(calculated as the sum of the consolidated equity 
-- with certain reclassifications - and the 
-subordinated indebtedness). Both covenants 
-were complied with as at December 31, 2023. In China, the CNY 35 million overdraft facility 
-(borrower: Ion Beam Applications Co. Ltd) was 
-maintained for the same amount (undrawn as of 
-December 31, 2023).
+h is developing a novel, patented approach to particle acceleration and 
+delivery, combining nano-technology with ultra-
+high-intensity lasers and ultra-fast magnets. This potential technological breakthrough could 
+enable a meaningful reduction in the size and 
+cost of proton therapy systems without 
+compromising clinical utility. Alongside this 
+investment, IBA and HIL have signed an 
+Original 
+Equipment 
+Manufacturer 
+(OEM) 
+agreement which gives IBA the right to 
+purchase HILs laser-based proton accelerators 
+for the purpose of integrating them into proton 
+therapy solutions.

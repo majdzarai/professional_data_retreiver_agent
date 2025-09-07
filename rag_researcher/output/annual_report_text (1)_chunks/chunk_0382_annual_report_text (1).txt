@@ -1,24 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 382 of 1106
-SIZE: 664 characters
-PREVIOUS: chunk_0381_annual_report_text (1).txt
-NEXT: chunk_0383_annual_report_text (1).txt
-------------------------------
-s Meeting advisory vote on 
-the previous remuneration report was 85,85 % in 
-favor. No remarks were made to consider for the 
-edition of this report. Context of remuneration during financial year 
-2023 
-In 2022 IBA achieved a net Profit before tax of -
-0.430m combined with solid order intake for all 
-our business lines and strong progress on the 
-sustainability roadmap. These results translated 
-into 90% of targeted payment of the variable 
-portion of executive pay in 2023. Total Remuneration 
- In line with our Remuneration Policy, Managing 
-Directors 
+l payout levels are subject to 
+IBAs performance. The maximum payout is set 
+at 150% of target in case of exceptional 
+performance, whilst 
+performance 
+below 
+expectations results in a zero payout. The 
+performance period is the fiscal year. For performance year 2023, performance is 
+measured against 3 elements: Profit Before Tax, Order Intake and Sustainability for respectively 
+33%, 33% and 34%. These targets are geared 
+towards 
+achieving 
 and 
-Executive 
-Managers 
-compensation was composed in 2023 of a Base 
-Salary and an Annual Variable Pay.
+exceeding 
+the 
+Companys fiscal year objectives and specific 
+milestones on IBAs ESG goals.

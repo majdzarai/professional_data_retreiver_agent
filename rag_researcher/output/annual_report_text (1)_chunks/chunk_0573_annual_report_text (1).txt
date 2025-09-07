@@ -1,37 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 573 of 1106
-SIZE: 477 characters
-PREVIOUS: chunk_0572_annual_report_text (1).txt
-NEXT: chunk_0574_annual_report_text (1).txt
-------------------------------
-027 
-Other accounts payable 
-13 069 
-1 967 
-Accounts payable within one year 
-225 017 
-197 029 
-Financial debts - current portion of long-term financial debts 
-6 759 
-9 265 
-Financial debts current 
-- 
-2 528 
-Trade debts 
-80 193 
-82 033 
-Advances received on contracts in progress 
-98 116 
-71 788 
-Current tax and payroll liabilities 
-28 320 
-25 946 
-Other accounts payable 
-11 629 
-5 469 
-Accrued charges and deferred income 
-8 289 
-11 827 
-TOTAL LIABILITIES 
-686 285 
-673 129
+existing and 
+newly acquired assets in operation. Financial fixed assets 
+Financial fixed assets amount to EUR 160.4 
+million in 2023 compared to EUR 139.0 million in 
+2022, a net increase of EUR 21.4 million. This 
+increase is mainly the result of the following 
+events: a subsequent capital increase in the 
+Joint Venture with SCK-CEN, PanTera NV, for 
+an amount of EUR 20.4 million and a convertible 
+loan with the same JV for EUR 1.0 million.

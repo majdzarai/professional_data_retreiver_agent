@@ -1,13 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 997 of 1106
-SIZE: 698 characters
-PREVIOUS: chunk_0996_annual_report_text (1).txt
-NEXT: chunk_0998_annual_report_text (1).txt
-------------------------------
-As described in Note 4.3 regarding revenue recognition, the Group applies the percentage of 
-completion method to determine revenue recognition during the execution of a project. This 
-percentage is determined by comparing the costs incurred to the total expected cost of the project. Evaluating this data requires judgment, which involves regular estimates of future costs associated 
-with ongoing projects, excluding certain direct costs not related to project progress, and analyzing 
-additional billing in case of variations. The Group's management relies on the knowledge of project 
-managers, the granularity of its internal control system, and the experience gained from completed 
-projects.
+obable as they are 
+linked to existing contracts. For these cash flow 
+hedges, movements are recognized directly in 
+other comprehensive income and released to 
+the income statement to offset the impact of the 
+underlying transactions. As at December 31, 2023, this is represented 
+by cash flow hedges with the following 
+balances: EUR 1.1 million as short-term and 
+long-term financial assets (EUR -0.1 million in 
+2022) and EUR -0.4 million (EUR -2.5 million in 
+2022) as short-term and long-term financial 
+liabilities.

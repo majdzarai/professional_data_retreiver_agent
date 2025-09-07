@@ -1,23 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 226 of 1106
-SIZE: 539 characters
-PREVIOUS: chunk_0225_annual_report_text (1).txt
-NEXT: chunk_0227_annual_report_text (1).txt
-------------------------------
-possible 
-that the defection of certain key employees 
-possessing specific expertise could, for a short 
-time, affect one of the Companys activities. Competition risk and industry risk 
-Currently, IBA has no direct competitor covering 
-all the markets in which it is present. However, in 
-certain markets, it is competing against some of 
-the 
-worlds 
-largest 
-corporations. These 
-corporations have highly developed sales and 
-marketing networks and more importantly, extensive 
-financial 
-resources 
-beyond 
-comparison with those of IBA.
+n, a pioneer in X-
+ray imaging quality assurance. The acquisition is 
+anticipated to be revenue accretive and EBIT 
+positive from 2024 onwards and will further 
+strengthen Dosimetrys product offering. This 
+acquisition, combined with that of Modus QA in 
+Canada in 2022 as well as organic growth, has 
+doubled IBA Dosimetrys footprint in North 
+America, both in terms of staff and revenues. Dosimetry continues to work towards offering its 
+customers a fully end to end solution, that may 
+be support

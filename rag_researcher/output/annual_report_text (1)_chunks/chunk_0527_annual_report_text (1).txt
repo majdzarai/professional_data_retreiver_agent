@@ -1,24 +1,25 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 527 of 1106
-SIZE: 577 characters
-PREVIOUS: chunk_0526_annual_report_text (1).txt
-NEXT: chunk_0528_annual_report_text (1).txt
-------------------------------
-BCAC 
-As of 31 December 2023, article 9, first 
-paragraph of the Companys Articles of 
-Associations provided as follows: "The Company 
-may, without any further decision of the general 
-assembly, acquire its own shares, profit shares 
-or 
-certificates, in 
-accordance 
-with 
-legal 
-conditions (articles 7: 215 et seq. of the BCAC) 
-in one or more transactions, up to a maximum of 
-twenty percent (20%) of the total number of 
-issued securities concerned, for a minimum 
-equivalent of ten cents (0,10 EUR) and a 
-maximum of twenty percent (20%) higher than 
-the last share price.
+Installation, maintenance and repair of 
+charging stations for electric vehicles in 
+buildings 
+(and parking spaces attached to 
+buildings) 
+7.4 
+12 
+0.0% 
+100.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0%
+
+A.2 Taxonomy-Eligible but not environmentally sustainable activities 
+Transport by motorbikes, passenger cars 
+and light commercial vehicles 
+6.5 
+346 
+0.3%
+
+OpEx of Taxonomy-eligible but not 
+environmentally sustainable activities 
+(not Taxonomy-aligned activities) (A.2)

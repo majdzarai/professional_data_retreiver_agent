@@ -1,19 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 424 of 1106
-SIZE: 568 characters
-PREVIOUS: chunk_0423_annual_report_text (1).txt
-NEXT: chunk_0425_annual_report_text (1).txt
-------------------------------
-vention at 
-Work. Beyond mere compliance with the law, IBA 
-conducts its business in accordance with the 
-highest standards of honesty and integrity. In addition to the Code of Business Conduct, IBAs Data Handling Policy explains how IBA 
-complies with the General Data Protection 
-Regulation (GDPR) to protect the Personal Data 
-of 
-clients, suppliers, patients, investors, contractors, staff members, and anyone else IBA 
-is doing business with. IBA supports local businesses, strengthening 
-communities, and 
-reducing 
-emissions 
-associated with transporting goods.
+33.967 
+*During the year, the following options have been exercised: Yves Jongen 10 000 options under SOP 
+2014. No options have been lost due to the expiry of the option term. === Page 81 ===
+IBA Annual Report 2023 
+78. IBA 
+Evolution of the remuneration and 
+performance of the company 
+(section 3: 6, 3, 5 & 6, of the 
+BCAC) 
+a) Annual evolution of remuneration 
+The annual remuneration of the Managing 
+Directors and the members of the Executive

@@ -1,31 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 305 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0304_annual_report_text (1).txt
-NEXT: chunk_0306_annual_report_text (1).txt
-------------------------------
-gy at Weill Medical 
-College, Cornell University / Professor at the 
-Gerstner Sloan-Kettering Graduate School 
-of Biomedical Sciences. Dr. Richard A. Hausmann (2) 
-2021 
-GM 
-2024 
-Independent Director / AC / RC / NC / 
-PC / SC 
-Formerly Chairman and CEO of Elekta AB, Sweden / Held various CEO positions in 
-medical technology companies for the 
-diagnostic 
-imaging 
-business 
-lines 
-of 
-Siemens and GE / From 2004 to 2010 
-Chairman and CEO of Siemens Ltd China. Bridging for Sustainability SRL 
-(represented by Sybille van den 
-Hove) (2) 
-2015 
-GM 
-2026 
-Independent Director / PC / SC 
-(chairwoman)
+reach 
+the 
+transparency notification thresholds. According to article 35 of the Companys Articles 
+of Association applicable as of 31 December 
+2020, and in accordance with article 18 of the 
+law of 2nd May 2007 relating to the disclosure of 
+significant holdings in issuers whose shares are 
+admitted to trading on a regulated market and 
+laying down various provisions, the notification 
+obligation provided for in articles 6 and following 
+of this law is applicable to the crossing, upward 
+or do

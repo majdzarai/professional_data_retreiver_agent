@@ -1,8 +1,45 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1002 of 1106
-SIZE: 336 characters
-PREVIOUS: chunk_1001_annual_report_text (1).txt
-NEXT: chunk_1003_annual_report_text (1).txt
-------------------------------
-The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these 
-consolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts
+31, 2022), 6 exchange rate swaps (8 swaps as 
+at December 31, 2022), to cover future cash 
+flows of US dollars and Chinese Yuan. === Page 169 ===
+IBA Annual Report 2023 
+166. (EUR 000) 
+HEDGE INSTRUMENT MATURITIES 
+December 31, 2022 
+Equity 
+< 1 year 
+1-2 years 
+> 2 years 
+CAD 
+-213 
+-213 
+0 
+0 
+CNY 
+-4 354 
+-1 436 
+-705 
+-2 213 
+SGD 
+-325 
+-325 
+0 
+0 
+USD 
+-3 319 
+-2 533 
+-786 
+0 
+KRW 
+-192 
+0 
+-192 
+0 
+-8 403 
+-4 507 
+-1 683 
+-2 213 
+December 31, 2023 
+Equity 
+< 1 year 
+1-2 years 
+> 2 years

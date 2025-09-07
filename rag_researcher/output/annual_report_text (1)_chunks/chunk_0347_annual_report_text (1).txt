@@ -1,19 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 347 of 1106
-SIZE: 625 characters
-PREVIOUS: chunk_0346_annual_report_text (1).txt
-NEXT: chunk_0348_annual_report_text (1).txt
-------------------------------
-proposal of 
-one or more shareholders if this proposal, containing all pieces of information regarding the 
-proposed director necessary in particular to 
-enable the control of the respect of the balances 
-provided for in this Article 12, has not been 
-communicated to the Board of Directors within 
-the legal deadlines. Any proposal for the appointment of a director 
-submitted to the general meeting shall mention 
-whether the person proposed is to be considered 
-as an "independent director", an "internal 
-director" or a "director related, directly or 
-indirectly, to a shareholder" within the meaning 
-of this Article 12.
+igations of issuers of securities admitted to 
+trading 
+on 
+a 
+regulated 
+market 
+(B.S.G. 03/12/2007), the 
+corporate 
+governance 
+statement contains the following information. i) 
+Structure of the share capital, classes of 
+shares, rights attached to each category 
+of shares and % of the share capital that 
+they represent 
+As of 31 December 2023, the Company has 
+issued 30 282 218 shares, without a nominal 
+value, each representing 1/30 282 218 th of the 
+Companys share capital and each granting the 
+same rights to its owner.

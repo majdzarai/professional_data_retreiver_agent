@@ -1,28 +1,18 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 474 of 1106
-SIZE: 611 characters
-PREVIOUS: chunk_0473_annual_report_text (1).txt
-NEXT: chunk_0475_annual_report_text (1).txt
-------------------------------
-r 
-mission, accountability and transparency, and building a 
-sustainable supply chain, by screening our 
-suppliers societal and environmental impact. We 
-have achieved B Corp 2023 score of 106+pts 
-(proforma as measured by a 3rd party 
-verification interim report on B Corp progress). 34% of 2023 variable targets for Management 
-and Opt-Ins are linked to said B Corp score 
-increase. We have selected Ecovadis as our 
-service 
-provider 
-for 
-Supply 
-Chain 
-ESG 
-screening. And we closely survey the applicable 
-and 
-forthcoming 
-non-financial 
-reporting 
-regulations (GRI 2021, taxonomy, CSRD, due 
-diligence).
+whistleblower platform on the Companys 
+website. An external audit was carried out by the end of 
+the 
+year 
+2023, to 
+check 
+the 
+level 
+of 
+implementation in IBAs system. To mitigate 
+Cyber risk, several measures have already been 
+implemented and further measures will be 
+implemented. As of August 23, 2021, a Data 
+Protection Officer has been put in function 
+Risks and Risk Management 
+The risks and risk management of the anti-
+corruption and bribery matters are described 
+above, in the dedi

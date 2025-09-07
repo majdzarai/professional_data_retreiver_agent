@@ -1,15 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 37 of 1106
-SIZE: 484 characters
-PREVIOUS: chunk_0036_annual_report_text (1).txt
-NEXT: chunk_0038_annual_report_text (1).txt
-------------------------------
-omers can rely on digital 
+lly focused on the development of performant electron 
+accelerators, IBA is now focusing on developing a wide range 
+of services and products to serve the irradiation industry. Along 
+with the iconic Rhodotron, prospects and customers are now 
+supported from their first idea to the operation of an efficient, profitable and sustainable ionization facility. This customer 
+experience is named BEYONDTM. In the BEYONDTM experience, customers can rely on digital 
 tools to model and optimize their product design, their future 
-process, and model their centers performance from day one. As an example, IBA and TRAD, a French company specialized 
-in radiation modelling, are collaborating to bring numerical 
-simulation to a wide range of medical device manufacturers 
-and service centers. This type of tools can potentially save 
-months of product testing and tons of CO2 during production. CORPORATE BROCHURE 2024
-IBA
-11
+process, and model their centers performance from day one.

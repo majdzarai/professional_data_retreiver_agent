@@ -1,20 +1,18 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 355 of 1106
-SIZE: 653 characters
-PREVIOUS: chunk_0354_annual_report_text (1).txt
-NEXT: chunk_0356_annual_report_text (1).txt
-------------------------------
-orporate 
-Governance Charter, to assign themselves 
-sufficient resources, including the assistance of 
-external consultants, if and when appropriate. Principles of the remuneration policy 
-The key purpose of IBAs remuneration 
-philosophy is to ensure the Company is able to 
-attract, retain and engage the executive talent it 
-requires to deliver on its promises towards its 
-various stakeholders including its clients and 
-patients, its shareholders, its employees, society 
-in general and the planet, whilst aligning to 
-their respective interests. The structure and levels of remuneration, in 
-general, must be effective in meeting these 
-objectives.
+ompany 
+and that are likely to restrict the transfer 
+of shares and/or the exercise of the 
+voting right 
+There are no such arrangements in place. ix) Rules applicable to the appointment and 
+the replacement of the directors and to 
+the 
+amendment 
+to 
+the 
+articles 
+of 
+association of the issuer 
+(a) Rules applicable to the appointment 
+and replacement of the Directors 
+In this respect, as of 31 December 2023, articles 
+11 and 12 of the Company's Articles of 
+Association provided the following:

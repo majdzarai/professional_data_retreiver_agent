@@ -1,32 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 861 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0860_annual_report_text (1).txt
-NEXT: chunk_0862_annual_report_text (1).txt
-------------------------------
-5.11. In 2023, the loans of CNY 45.0 million and CNY 
-14.8 million between IBA SA and Ion Beam 
-Beijing Medical Applications Technology Service 
-Co. Ltd were netted with other group balances 
-and settled. These were initially designated as 
-the Groups permanent financing in foreign 
-operations. As a result, the accumulated loss of 
-EUR -1.0 million kept in currency translation 
-reserve, was 
-recognized 
-in 
-the 
-Income 
-Statement in 2023
-5.10. BORROWINGS 
-December 31, 2022 
-December 31, 2023 
-(EUR '000) 
-Bank borrowings Leases 
-Total 
-Bank borrowings 
-Leases 
-Total 
-Non-current 
-10 647 
-20 81
+Cyclhad SAS 
+The Group has a 33.33% interest in Cyclhad 
+SAS, which built a proton therapy center that is 
+operational since the summer of 2018. IBA has no capital commitments as at December 
+31, 2022 and December 31, 2023 to participate 
+in any potential future funding of Cyclhad SAS. IBA has therefore not accounted for its share of 
+the loss and negative equity of Cyclhad SAS 
+beyond its value of the capital invested.

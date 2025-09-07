@@ -1,11 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 666 of 1106
-SIZE: 231 characters
-PREVIOUS: chunk_0665_annual_report_text (1).txt
-NEXT: chunk_0667_annual_report_text (1).txt
-------------------------------
-ncertainty on future revenues. In addition, the 
-cash position of the group remains solid with 
-EUR 109.3 million gross cash (EUR 67.7 million 
-net). Management has concluded that going 
-concern is not at risk for the group and its
+=== Page 121 ===
+IBA Annual Report 2023 
+118. turnover thresholds, the Pillar reform and 
+related IFRS amendment should not have any 
+impact on the groups financial statements. 1.2.4 Standards issued but not 
+yet effective 
+The 
+new and 
+amended 
+standards 
+and 
+interpretations that are issued and endorsed by 
+the EU, but not yet effective, up to the date of 
+issuance of the Groups financial statements 
+are disclosed below. The Group intends to 
+adopt these standards and interpretations, if 
+applicable, when they become effective.

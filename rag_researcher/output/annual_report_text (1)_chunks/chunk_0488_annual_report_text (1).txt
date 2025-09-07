@@ -1,27 +1,21 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 488 of 1106
-SIZE: 514 characters
-PREVIOUS: chunk_0487_annual_report_text (1).txt
-NEXT: chunk_0489_annual_report_text (1).txt
-------------------------------
-ure that the technical 
-screening criteria are met. IBA therefore deems 
-them to be not taxonomy-aligned. === Page 93 ===
+CAC). === Page 90 ===
 IBA Annual Report 2023 
-90. IBA 
-When 
-it 
-comes 
-to 
-studies 
-related 
-to 
-environmental solutions for the treatment of 
-forever chemicals (PFAS), IBA acknowledges 
-that more information is needed about the 
-benefits of such solutions to ensure that the 
-technical screening criteria are met. IBA 
-therefore deems them to be not taxonomy-
-aligned. === Page 94 ===
-IBA Annual Report 2023 
-91.
+87. IBA 
+Dealing code - code of conduct to 
+prevent insider dealing and 
+market abuse 
+The Company has a Dealing Code in place to 
+protect the Company and the market against 
+insider trading and market abuse. All employees 
+have access to the Code through the Companys 
+website and a targeted group has received a 
+copy of this code. Furthermore, executives as 
+well as those employees that have continuous 
+access to sensitive financial data (recurring 
+insiders) 
+have 
+signed 
+the 
+Code 
+for 
+acknowledgment and consent.

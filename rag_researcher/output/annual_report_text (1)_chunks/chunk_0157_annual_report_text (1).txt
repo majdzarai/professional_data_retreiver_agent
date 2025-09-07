@@ -1,13 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 157 of 1106
-SIZE: 543 characters
-PREVIOUS: chunk_0156_annual_report_text (1).txt
-NEXT: chunk_0158_annual_report_text (1).txt
-------------------------------
-ons is both 
-direct and indirect:. A direct impact through our operations: our offices and 
-manufacturing infrastructures, and our employees travel.. An indirect impact through our installed product base: production at our suppliers facilities, transport within the 
-value chain, and, once installed at the customers location, via electricity consumption, servicing, and decommissioning. It was very positive to see behavior 
-changes in the participants and 
-their families during this challenge. Some of these changes will 
-definitely remain.
+y together 
+with its suppliers as equal partners. Since 2023, we partner with Ecovadis to map the social 
+and environmental performance of our supply chain and screen 
+our main Tier 1 suppliers. SUPPORTING PATIENT ORGANIZATIONS
+Around the world, IBAs men and women, all experts in their 
+field, are passionate and enthusiastic about what they do. They 
+collectively seek to play an active role in putting our mission 
+statement into practice, Protect, Enhance and Save Lives.

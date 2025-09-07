@@ -1,39 +1,52 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 964 of 1106
-SIZE: 515 characters
-PREVIOUS: chunk_0963_annual_report_text (1).txt
-NEXT: chunk_0965_annual_report_text (1).txt
-------------------------------
-(EUR 000) 
-Note 
-December 31, 2022 
-December 31, 2023 
-CASH FLOW FROM FINANCING ACTIVITIES 
-Repayment of borrowings 
-18 
--24 734 
--1 000 
-Repayment of lease liabilities 
-23.2 
--6 074 
--6 489 
-Interest paid 
--2 311 
--761 
-Interest received 
-1 496 
-1 650 
-Capital increase (or proceeds from issuance of ordinary shares) 
-16 
-176 
-0 
-Dividends paid 
--5 579 
--6 121 
-(Acquisitions)/disposal of treasury of shares 
--5 160 
-115 
-Other financing cash flows 
-710 
--1 778 
-Net cash (used)/generated from financing activities
+June 30, 2024 
+31.84 
+20 000 
+31.84 
+20 000 
+May 31, 2026 
+7.54 
+172 500 
+7.54 
+166 250 
+May 31, 2030 
+7.54 
+172 500 
+7.54 
+166 250 
+December 31, 2026 
+13.39 
+631 997 
+13.39 
+627 204 
+December 31, 2026 
+15.77 
+7 190 
+15.77 
+7 190 
+December 31, 2026 
+14.39 
+31 156 
+14.39 
+19 173 
+December 31, 2027 
+17.15 
+16 839 
+17.15 
+16 839 
+December 31, 2028 
+n/a 
+n/a 
+17.60 
+14 117 
+December 31, 2028 
+n/a 
+n/a 
+15.74 
+19 708 
+December 31, 2028 
+n/a 
+n/a 
+10.76 
+46 000 
+TOTAL outstanding stock options 
+1 115

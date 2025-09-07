@@ -1,17 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 469 of 1106
-SIZE: 623 characters
-PREVIOUS: chunk_0468_annual_report_text (1).txt
-NEXT: chunk_0470_annual_report_text (1).txt
-------------------------------
-The 4 streams identified are a target to support 
-our 2024 B Corp recertification, but even more a 
-guidance book to build our sustainability journey. From this, the 2023 variable targets for 
-Management and Opt-Ins are as follows: 33% 
-Order Intake, 33% PBT vs budget, and 34% 
-sustainability based on B Corp score. The stream low carbon, low waste products 
-addresses the understanding and reduction of 
-the CO2 and waste impact of our products 
-across their life cycles and value chains. Ecodesign workgroup is in place, with 220 
-people trained and challenges ongoing to 
-promote the 8 established IBA eco-design rules.
+=== Page 88 ===
+IBA Annual Report 2023 
+85. IBA 
+they contain, within the Company. In order to do 
+so, IBA has made corruption and anti-bribery 
+one of the key principles of its Code of Business 
+Conduct; bribery of any government official in 
+any country or of any private person as well as 
+corrupt practices are strictly against IBAs policy, even if refusing to make such payment would 
+result in the Company losing a business 
+opportunity.

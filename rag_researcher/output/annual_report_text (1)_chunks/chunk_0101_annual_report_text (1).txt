@@ -1,15 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 101 of 1106
-SIZE: 565 characters
-PREVIOUS: chunk_0100_annual_report_text (1).txt
-NEXT: chunk_0102_annual_report_text (1).txt
-------------------------------
-re Directions; Medical Physics; 2021
-3. Bourhis J. et Al. Clinical translation of FLASH radiotherapy, Why and how? Radiotherapy and Oncology; 2019
-4. Source: Internal IBA Models
-CONFORMALFLASH1: FLASH is a key research area that may dramatically improve 
-the clinical relevance of proton therapy for patients around 
-the world. IBA is uniquely positioned to drive the development 
-of FLASH irradiation2-3, the next major innovation expected 
-in radiation therapy. IBA is investing heavily in developing a novel technique 
-using the Bragg peak called ConformalFLASH.
+ce standards on its 
+state-of-the-art technology. IBA understands that in order to start, maintain and grow a 
+proton therapy center, cancer centers need an experienced 
+partner who is there for them every step of the way. Its services provide the necessary expertise, confidence, training and support to ensure proton therapy centers are 
+successful from the very beginning. ProteusONE is an expandable solution, and allows for maximal evolutivity both when 
+expanding services or when upgrading existing systems. Its delightful to see a young patients 
+reaction when they walk into the room.

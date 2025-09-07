@@ -1,29 +1,34 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 612 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0611_annual_report_text (1).txt
-NEXT: chunk_0613_annual_report_text (1).txt
-------------------------------
-4 Operating segments and IBA Group 
-performance 
-Revenue recognition 
-4.3 Revenue 
-Pensions and similar obligations 
-5.11.1 Defined employee benefit 
-Share-based payments 
-6 Stock options and share-based payments 
-Current and deferred tax 
-4.7 Taxation 
-Earnings per share 
-4.8 Net earnings per share 
-Intangible assets 
-5.1 Intangible assets 
-Property, Plant and Equipment 
-5.2 Property, plant and equipment 
-Leases 
-5.2 Property, plant and equipment 
-5.10 Borrowings 
-Impairment of intangible and tangible assets 
-5.3 Impairment of assets 
-Associates and Joint Ventures 
-5.4 Associates and Joint V
+APPROPRIATION OF RESULTS (EUR 000) 
+2022 
+2023 
+Profit/(Loss) to be appropriated 
+130 807 
+132 828 
+Profit/(loss) for the period available for appropriation 
+-14 521 
+13 845 
+Profit/(Loss) carried forward 
+145 328 
+118 983 
+Transfers to capital and reserves 
+0 
+0 
+On capital stock and capital surplus 
+0 
+0 
+From reserves 
+0 
+0 
+Appropriations to capital and reserves 
+0 
+0 
+To capital stock and capital surplus 
+0 
+0 
+To legal reserve 
+0 
+0 
+To other reserves 
+5 698 
+-4 699 
+Profit/(Loss) to be ca

@@ -1,12 +1,18 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 626 of 1106
-SIZE: 296 characters
-PREVIOUS: chunk_0625_annual_report_text (1).txt
-NEXT: chunk_0627_annual_report_text (1).txt
-------------------------------
-nancial statements 
-are disclosed below. The Group intends to 
-adopt these standards and interpretations, if 
-applicable, when they become effective. Amendments to IAS 1 Classification of 
-Liabilities as Current or Non-current and 
-Non-Current Liabilities with Covenants, effective 1 January 2024
+=== Page 114 ===
+IBA Annual Report 2023 
+111. Consolidated statement of other 
+comprehensive income for the year ended 
+December 31, 2023 
+(EUR 000) 
+Notes 
+December 31, 2022 
+December 31, 2023 
+Profit/(loss) for the period (net of tax) 
+6 057 
+-9 110 
+Other comprehensive income to be reclassified to profit or loss in 
+subsequent periods (net of tax): - Exchange differences on translation of foreign operations 
+545 
+2 451 
+- Exchange difference related to net investment in foreign operation 
+185

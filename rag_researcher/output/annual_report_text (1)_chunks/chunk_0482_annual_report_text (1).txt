@@ -1,25 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 482 of 1106
-SIZE: 589 characters
-PREVIOUS: chunk_0481_annual_report_text (1).txt
-NEXT: chunk_0483_annual_report_text (1).txt
-------------------------------
-=== Page 92 ===
-IBA Annual Report 2023 
-89. IBA 
-operational 
-expenditure 
-(OpEx) 
-that 
-is 
-taxonomy-eligible and aligned. Taxonomy eligibility and alignment 
-A cross-functional taxonomy working group has 
-analysed IBAs activities based on NACE code 
-(Nomenclature of Economic Activities) to identify 
-candidate activities and related financial data 
-related to taxonomy-eligible turnover, CapEx 
-and OpEx. Turnover 
-The EU Taxonomy currently identifies eligible 
-activities among seven different sectors, as 
-making a substantial contribution to any of the 
-six environmental objectives.
+ployees choice not to join or 
+create such group. The right to a healthy and sustainable 
+environment is the cornerstone between Human 
+Rights 
+and 
+their 
+interaction 
+with 
+the 
+environment. It includes the environments 
+impact on many rights such as the right to life, health, food, water, sanitation, property, housing, private life, culture, development, and 
+non- discrimination. IBA is aware of the 
+importance of this right as our generation faces 
+a serious environmental crisis and associated 
+impact on Human Rights.

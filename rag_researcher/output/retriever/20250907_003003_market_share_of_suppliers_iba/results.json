@@ -1,0 +1,18 @@
+{
+  "query": "market share of suppliers iba",
+  "timestamp": "2025-09-07 00:30:03",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "=== Page 42 ===\nENGAGING WITH OUR SUPPLY CHAIN\nWe believe that a strong and responsible supply chain benefits \nour community. IBA has more than 100 main suppliers worldwide supporting \nits design and product manufacturing. The majority of IBA \nsuppliers are located in Europe. IBA suppliers have been \nselected for their ability to best comply with requirements as \nstipulated by ISO 13485:2016. The selection and qualification \nprocess of a supplier considers the criticality of the supplied \ngoods and services.",
+      "similarity_score": 0.4321514447530111
+    }
+  ]
+}

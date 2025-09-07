@@ -1,11 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1080 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_1079_annual_report_text (1).txt
-NEXT: chunk_1081_annual_report_text (1).txt
-------------------------------
-r of ASTRO (corporate membership) and ESTRO (gold membership), two major associations in the field of radiotherapy, in the United 
-States and Europe. IBA is also a corporate member of the EANM, European Association of Nuclear Medicine, NAPT, an independent nonprofit 
-organization to educate and increase awareness about the clinical benefits of proton therapy, iiA Global, an organization which aims to support the 
-global irradiation industry and scientific community, the Alliance for Protontherapy, aiming to increase patient access to proton therapy for cancer 
-patients by educating insurers, p
+ired resulting from the audit, whether the directors report on 
+the consolidated accounts and the other information included in the annual report on the consolidated 
+accounts, containing IBA world leader, Our values, IBA in 2023 at a glance, Message from Olivier 
+Legrain, Patient care what makes our heart beat and A committed company is materially misstated or 
+contains information which is inadequately disclosed or otherwise misleading. In light of the 
+procedures we have performed, there are no material misstatements we have to report to you.

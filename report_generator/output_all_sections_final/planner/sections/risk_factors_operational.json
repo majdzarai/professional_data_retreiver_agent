@@ -1,0 +1,42 @@
+{
+  "section_id": "risk_factors_operational",
+  "section_title": "Operational Risk Factors",
+  "chapter_id": " ",
+  "chapter_title": "Business Activities",
+  "description": "Pricing, forex exposure, commodities, sector cyclicality, high-risk sectors.",
+  "topic": "comprehensive KYC and credit risk analysis for Ion Beam Applications SA",
+  "questions": [
+    {
+      "question": "What are the key pricing risk factors for Ion Beam Applications SA, and how can they be mitigated?",
+      "queries": [
+        "Ion Beam Applications SA pricing risk factors",
+        "pricing exposure mitigation strategies for Ion Beam Applications SA",
+        "sector-specific pricing risks in the ion beam technology industry"
+      ]
+    },
+    {
+      "question": "What are the operational risks associated with forex exposure for Ion Beam Applications SA, and how can they be managed?",
+      "queries": [
+        "Ion Beam Applications SA forex exposure risks",
+        "foreign exchange risk management strategies for the ion beam technology sector",
+        "operational risks of currency fluctuations on company performance"
+      ]
+    },
+    {
+      "question": "What are the major commodities involved in Ion Beam Applications SA's operations, and what are the associated operational risks?",
+      "queries": [
+        "Ion Beam Applications SA commodity exposure risk",
+        "commodity-related operational risks for the ion beam technology industry",
+        "sector-specific commodity price volatility risks"
+      ]
+    },
+    {
+      "question": "What are the key sector cyclicality risks for Ion Beam Applications SA, and how can they be addressed?",
+      "queries": [
+        "Ion Beam Applications SA sector cyclicality risks",
+        "cyclical risk management strategies for the ion beam technology sector",
+        "sector-specific economic downturn risks"
+      ]
+    }
+  ]
+}

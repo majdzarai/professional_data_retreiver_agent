@@ -1,11 +1,32 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 932 of 1106
-SIZE: 557 characters
-PREVIOUS: chunk_0931_annual_report_text (1).txt
-NEXT: chunk_0933_annual_report_text (1).txt
-------------------------------
-lity or risk. Changes in the fair value of derivative instruments are accounted for in the income statement unless they qualify as cash 
-flow hedges. The Group designates certain derivative transactions as hedges of the variability of the fair value of recognized assets or 
-liabilities (fair value hedges); as unrecognized firm commitments represented by future sales; or as hedges of the cash flow 
-variability arising from a specific risk associated with a recognized asset or liability or with a highly probable forecast 
-transaction (cash flow hedges).
+/losses generated during the year 
+0 
+0 
+0 
+1 068 
+0 
+0 
+1 068 
+Currency translation difference 
+0 
+-22 
+0 
+-3 
+-31 
+-114 
+-170 
+Total movement 
+5 
+586 
+-140 
+361 
+210 
+-1 118 
+-96 
+As at December 31, 2023 
+123 
+6 829 
+0 
+3 087 
+942 
+4 049 
+15 030

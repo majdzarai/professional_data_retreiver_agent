@@ -1,22 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 480 of 1106
-SIZE: 696 characters
-PREVIOUS: chunk_0479_annual_report_text (1).txt
-NEXT: chunk_0481_annual_report_text (1).txt
-------------------------------
-- 
-Protection and restoration of 
-biodiversity and ecosystems 
-Activities covered by the taxonomy are referred 
-to as taxonomy-eligible activities. For these 
-activities, the delegated acts that complete the 
-taxonomy define performance criteria for the 
-environmental objectives, as well as minimum 
-safeguards for the protection of human rights 
-and labor law. An activity is considered 
-taxonomy-aligned if it makes a substantial 
-contribution to one or more objectives, without 
-significantly undermining the other objectives, and if it also complies with the defined minimum 
-safeguards. Different means may be required for an activity 
-to make a substantial contribution to each 
-objective.
+employment 
+relationship with reasonable notice. The rules 
+and regulations when it comes to notably but 
+not limited to - working time, travel time, and time 
+recovery are respected. IBA also prohibits the employment of children. Every child has the right not to perform work that 
+is mentally, physically, socially, or morally 
+harmful or that interferes with his/her schooling. IBA vets the age of all applicants prior to their 
+employment. We believe corporate compliance 
+is also demonstrated through elements, including the Companys 2021 B Corp (Benefit 
+Corporation") certification.

@@ -1,10 +1,41 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 734 of 1106
-SIZE: 627 characters
-PREVIOUS: chunk_0733_annual_report_text (1).txt
-NEXT: chunk_0735_annual_report_text (1).txt
-------------------------------
-sales of equipments and the progress is measured by 
-reference to the costs incurred when comparing it to the total estimated costs of the contract. The total estimated costs of 
-the contract is a significant estimate because it determines the progress made since the inception of the contract and IBA 
-recognises the revenue of the contract based on the progress estimated in percentage. Licensing contract with CGN: In August 2020, the group signed a technology license agreement with CGN Dasheng Electron Accelerator Technology Co. Ltd for the provision of goods and services related to its Multi-Room Proton Therapy System.
+61 172 
+0 
+461 172 
+Segment liabilities 
+493 241 
+14 707 
+507 948 
+0 
+507 948 
+TOTAL LIABILITIES 
+493 241 
+14 707 
+507 948 
+0 
+507 948 
+Other segment information 
+Capital expenditure - Intangible assets and Property, Plant 
+and Equipment 
+6 286 
+1 043 
+7 329 
+0 
+7 329 
+Capital expenditure - Right-of-use assets 
+2 004 
+1 297 
+3 301 
+0 
+3 301 
+Depreciation of property, plant and equipment 
+7 103 
+1 886 
+8 989 
+0 
+8 989 
+Amortisation and impairment of intangible assets 
+1 135 
+587 
+1 722 
+0 
+1 722

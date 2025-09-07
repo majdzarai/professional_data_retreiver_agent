@@ -1,16 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 124 of 1106
-SIZE: 420 characters
-PREVIOUS: chunk_0123_annual_report_text (1).txt
-NEXT: chunk_0125_annual_report_text (1).txt
-------------------------------
-he B Corp certification, and what 
-it means in practice for the whole 
-Group. Weve been certified since 
-2021, but theres still a lot of work 
-to do. Were doing very well in terms 
-of governance, particularly through 
-our capital base or the fact that we 
-pay our employees the same amount 
-as what is allocated to shareholders. But we still need to make progress 
-on the environmental front. Olivier Legrain, CEO of IBA
+to the advancement of sustainability standards. BUSINESS AS A FORCE FOR GOOD
+As expressed by our Stakeholder Approach, we at IBA believe 
+in a business model that is a force for good, creating shared 
+and long-term value for all stakeholders. We also firmly 
+believe that being a business that is a force for good is 
+the best business choice to attract and retain talent, stay ahead 
+of upcoming risks, and improve the current product catalog 
+while exploring new and growing markets.

@@ -1,20 +1,38 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 944 of 1106
-SIZE: 621 characters
-PREVIOUS: chunk_0943_annual_report_text (1).txt
-NEXT: chunk_0945_annual_report_text (1).txt
-------------------------------
-contracts because they are 
-deemed to be highly effective hedges. Those 
-transactions are highly probable as they are 
-linked to existing contracts. For these cash flow 
-hedges, movements are recognized directly in 
-other comprehensive income and released to 
-the income statement to offset the impact of the 
-underlying transactions. As at December 31, 2023, this is represented 
-by cash flow hedges with the following 
-balances: EUR 1.1 million as short-term and 
-long-term financial assets (EUR -0.1 million in 
-2022) and EUR -0.4 million (EUR -2.5 million in 
-2022) as short-term and long-term financial 
-liabilities.
+of the future costs to complete IBAs obligations. The margin is then 
+discounted using a risk-free rate. === Page 160 ===
+IBA Annual Report 2023 
+157. (EUR 000) 
+January 
+1, 2022 
+Service 
+cost 
+Net 
+interest 
+expenses 
+Actuarial change 
+arising from 
+change in financial 
+assumptions 
+Contributions 
+by employer 
+Deferred 
+population 
+Benefits 
+plan 
+December 
+31, 2022 
+Defined benefit 
+obligation 
+-13 688 
+-3 266 
+-156 
+5 618 
+399 
+-2 973 
+173 
+-13 893 
+Fair value of plan assets 
+8 308 
+0 
+97 
+-

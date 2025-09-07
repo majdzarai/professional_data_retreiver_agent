@@ -1,37 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 820 of 1106
-SIZE: 362 characters
-PREVIOUS: chunk_0819_annual_report_text (1).txt
-NEXT: chunk_0821_annual_report_text (1).txt
-------------------------------
-=== Page 149 ===
-IBA Annual Report 2023 
-146. 5.4.2 Joint ventures 
-The Group has one joint venture since 2022: 2022 
-Country 
-Assets 
-Liabilities 
-Revenue 
-Profit/ (Loss) 
-% Interest 
-PanTera SA/NV 
-Belgium 
-499 
-2 
-17 
--3 
-50.00% 
-2023 
-Country 
-Assets 
-Liabilities 
-Revenue 
-Profit/ (Loss) 
-% Interest 
-PanTera SA/NV 
-Belgium 
-43 093 
-2 134 
-712 
--338 
-50,00%
+rsion involves a decrease in the loss per share). Accounting policy for earnings per share 
+Net basic earnings: The weighted average number of ordinary shares used in the calculation excludes shares purchased by the Company and 
+held as treasury shares. Diluted earnings 
+IBA has only one category of dilutive potential on ordinary share: stock options. The calculation is performed for the stock 
+options to determine the number of shares that could have been acquired at fair value (determined as t

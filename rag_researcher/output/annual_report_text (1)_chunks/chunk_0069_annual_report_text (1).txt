@@ -1,16 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 69 of 1106
-SIZE: 642 characters
-PREVIOUS: chunk_0068_annual_report_text (1).txt
-NEXT: chunk_0070_annual_report_text (1).txt
-------------------------------
-e it ideal for small to medium-sized 
-radiopharmacies and research institutions, which can 
-use the system to produce their own radiotracers locally. This reduces the need for long-distance transportation of 
-radiotracers, which can be expensive and time-consuming, and enables PET imaging to be more widely available 
-in remote areas or regions where access to radio- 
-pharmaceuticals may be limited. Overall, the IBA CycloneKEY cyclotron helps make 
-PET imaging more widely available worldwide by 
-facilitating local production of medical isotopes and 
-reducing the logistical challenges associated with the 
-transportation of radiotracers.
+patients 
+with suspected or known heart disease. Cardiac PET imaging is increasingly used 
+as new centers are established and 
+clinical guidelines incorporate cardiac PET 
+imaging into the management algorithms. Terrence D. Ruddy, MD, FRCPC, FACC, FAHA, FCCS Professor of 
+Medicine and Radiology, University of Ottawa, Director of Nuclear Cardiology, University of Ottawa 
+Heart Institute
+CycloneKEY

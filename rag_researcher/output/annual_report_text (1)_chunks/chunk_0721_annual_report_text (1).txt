@@ -1,11 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 721 of 1106
-SIZE: 491 characters
-PREVIOUS: chunk_0720_annual_report_text (1).txt
-NEXT: chunk_0722_annual_report_text (1).txt
-------------------------------
-Report 2023 
-131. Accounting policy on revenue recognition 
-IBA has the following revenue streams which will determine how the revenue is recognised. Equipment and installation services 
-The main activity of the Group consists of the construction of proton-therapy and other accelerators equipment and the 
-installation services for its customers. Such contracts with customers are referred to as equipment and installation services, it represents the most important portion of IBAs revenue.
+required to make 
+estimates and judgements that affect the 
+application of accounting policies and the 
+reported amounts of assets and liabilities, income and expenses. The application of accounting policies requires 
+judgements 
+that 
+impact 
+the 
+amounts 
+recognised. Additionally, amounts recognised 
+are based on factors that are by default 
+associated with uncertainty. Actual results may 
+therefore 
+differ 
+from 
+estimates. Where 
+applicable, the estimates and judgements are 
+described per note within the consolidated 
+financial statements.

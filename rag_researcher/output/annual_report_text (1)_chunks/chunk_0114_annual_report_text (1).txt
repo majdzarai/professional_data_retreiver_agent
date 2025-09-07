@@ -1,23 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 114 of 1106
-SIZE: 635 characters
-PREVIOUS: chunk_0113_annual_report_text (1).txt
-NEXT: chunk_0115_annual_report_text (1).txt
-------------------------------
-ilable resources. myQA PROactive workflow
-Watch the video. myQA iON provides high level 
-of automation and an easy 
-overview of all patient QA tasks. We added some scripts to our TPS 
-to automatically send the DICOM 
-data to myQA iON as soon as a plan 
-is approved. myQA iON calculates 
-the dose and evaluates the data 
-during the preparation work inside 
-the OIS automatically; this speeds 
-up our QA. When we finish prep, the QA is ready. The Monte Carlo 
-algorithm provides high specificity 
-and sensitivity to capture real 
-clinical errors. myQA iONs accuracy 
-and performance give us high 
-confidence in our patient QA 
-processes.
+=== Page 32 ===
+SAFE MEDICAL IMAGING: QUALITY 
+ASSURANCE FOR A BETTER DIAGNOSIS
+IBA quality assurance solutions for medical imaging systems 
+such as X-ray or CT (Computed Tomography) contribute 
+to improving image quality. This ensures a more accurate 
+diagnosis and therapy, while also controlling the radiation 
+dose released by the machine. Dosimetry solutions offer 
+a complete and instant analysis of the released dose to complete 
+the required test efficiency and with the highest precision.

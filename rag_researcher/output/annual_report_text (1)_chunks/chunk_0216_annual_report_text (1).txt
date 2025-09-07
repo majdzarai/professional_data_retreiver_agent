@@ -1,20 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 216 of 1106
-SIZE: 552 characters
-PREVIOUS: chunk_0215_annual_report_text (1).txt
-NEXT: chunk_0217_annual_report_text (1).txt
-------------------------------
-Compliance, Digital, and Financial risks. The main risks within these categories are 
-further described. === Page 55 ===
-IBA Annual Report 2023 
-52. IBA 
-IBA RISK MANAGEMENT FRAMEWORK
-Risk management is a core component of the 
-IBA strategy and performance management 
-process. The Board of Directors considers risk 
-appetite when making decisions. The design and effectiveness of IBAs risk 
-management, practices, and 
-the 
-recommendations from internal and external 
-audits are reported and discussed periodically 
-with the Risk Management Committee.
+ding to lower demand for sterilization 
+services. Investments were made in recruitment 
+and training over the year to prepare for a 
+growing installed base, particularly in the US. IBA sees strong interest in its E-beam and X-ray 
+technologies that provide efficient and greener 
+sterilization solutions, illustrating its importance 
+alongside the more traditional ethylene oxide- 
+and gamma-based sterilization solutions.

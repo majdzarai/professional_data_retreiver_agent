@@ -1,47 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 583 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0582_annual_report_text (1).txt
-NEXT: chunk_0584_annual_report_text (1).txt
-------------------------------
-nd Share premium 
-85 980 
-85 980 
-Reserves and Retained earnings 
-5.9. 29 971 
-20 232 
-EQUITY 
-115 951 
-106 212 
-Non-current borrowings 
-5.10. 10 647 
-7 114 
-Non-current lease liabilities 
-5.10. 20 811 
-21 896 
-Non-current provisions 
-5.11. 7 479 
-6 247 
-Non-current derivative financial liabilities 
-7.3. 1 221 
-217 
-Deferred tax liabilities 
-4.7.2. 756 
-286 
-Other non-current liabilities 
-5.12. 5 862 
-2 955 
-Non-current liabilities 
-46 776 
-38 715 
-Current borrowings 
-5.10. 3 734 
-6 469 
-Current lease liabilities 
-5.10. 5 675 
-6 104 
-Current provisions 
-5.11 
-7 647 
-8 783 
-Current derivative f
+ompany that 
+has been liquidated in January 2024. Cash investments 
+Cash investments amounted to EUR 12.7 million 
+at the end of 2023 and correspond to treasury 
+shares. Cash and cash equivalents 
+Cash and cash equivalents amount to EUR 63.3 
+million as per the end of 2023 which is an 
+increase compared to prior year-end balance of 
+EUR 24.5 million. The main drivers for this 
+increase are the general increase of activity 
+which absorbs more working capital offset by the 
+release of an investment in short-term deposits 
+(EUR 50 million in 2022).

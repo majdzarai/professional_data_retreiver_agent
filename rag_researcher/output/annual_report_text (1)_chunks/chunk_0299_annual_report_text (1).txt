@@ -1,23 +1,18 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 299 of 1106
-SIZE: 518 characters
-PREVIOUS: chunk_0298_annual_report_text (1).txt
-NEXT: chunk_0300_annual_report_text (1).txt
-------------------------------
-nce for the Product Committee 
-meeting. Attendance at meetings of the Board 
-was very high. A large majority of the directors 
-attended all meetings. During the Ordinary 
-General Meeting (held on June 14, 2023),three 
-mandates were renewed, i.e. Mr. Olivier Legrain, Internal 
-Director 
-Ms. Sibille 
-Vandenhove 
-dErtsenrijck, permanent 
-representative 
+being 
+submitted 
+to 
+the 
+Board 
 of 
-Bridging for Sustainability SRL, Independent 
-Director, Mr. Marcel 
-Miller, permanent 
-representative of Consultance Marcel Miller 
-S.Comm. Independent Director.
+Directors. Furthermore, the Board of Directors is regularly 
+informed about the financial state of the Group 
+via monthly management dashboards. The communication of financial information to 
+the market is managed by the communication, finance, and 
+legal 
+departments 
+of 
+the 
+organization. Shareholder concentration in the 
+Belgian market allows this process to be 
+centralized with a limited number of people, with 
+the CFO playing a leading role.

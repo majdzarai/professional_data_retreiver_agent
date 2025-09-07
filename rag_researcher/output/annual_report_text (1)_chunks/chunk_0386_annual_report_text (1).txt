@@ -1,25 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 386 of 1106
-SIZE: 654 characters
-PREVIOUS: chunk_0385_annual_report_text (1).txt
-NEXT: chunk_0387_annual_report_text (1).txt
-------------------------------
-The variable compensation paid in 2023 
-relates to 2022 performance year. The plan 
-was based on business results vs pre-
-defined goals which were measured for 33% 
-against Profit Before Tax (PBT), for 33% 
-against Order Intake and for 34% on 
-Sustainability. The choice of these performance criteria 
-contributes to the long term development of 
-the company, being a mix of current financial 
-performance (backlog conversion), new 
-business 
-(backlog 
-creation) 
-and 
-stakeholders impact (sustainability). In order to protect its competitive 
-position, IBA does not disclose targets. Each criteria is assessed separately 
-against 
-pre-approved 
-targets.
+-up LTI plan to neutralize the related 
+dilution. These plans come alongside a share 
+ownership guideline as described below 
+A Stock Option Plan has been launched in 2021. This plan covers several years and there is 
+currently no intention to open a new plan for the 
+same beneficiaries before its vesting. Any 
+proceeds earned under this plan will be handed 
+to beneficiaries in the form of full shares until 
+their Minimum Holding Requirement (MHR) as 
+set here below is met. When their MHR is met, === Page 75 ===
+IBA Annual Report 2023 
+72.

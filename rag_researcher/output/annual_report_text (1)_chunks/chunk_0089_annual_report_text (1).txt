@@ -1,15 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 89 of 1106
-SIZE: 654 characters
-PREVIOUS: chunk_0088_annual_report_text (1).txt
-NEXT: chunk_0090_annual_report_text (1).txt
-------------------------------
-=== Page 27 ===
-Join the CAMPUS platform: campus-iba.com
-Campus, the most knowledgeable proton therapy community
-WHAT IS CAMPUS? IBA is fully committed to Proton Therapy for more than 
-30 years. The Company has come a long way to get where 
-it is today: at the top of the proton therapy market. Yet, IBA could never have achieved this on its own. Everything it has accomplished is the result of the strong 
-relationships it has built with its unique community. Because 
-turning the world into one that is cancer-free requires a great 
-deal of collaboration, knowledge sharing and joint research. Campus aims to bring this collaboration to the next level.
+and can install 
+a system in less than 12 months. IBA PROTON THERAPY CENTERS AT END OF 
+2023 LARGEST NETWORK & EXPERIENCE
+IBA continued to strengthen its market leadership in 2023 with 
+the sale of several proton therapy systems: two ProteusONE 
+systems to be delivered at the Sourasky Medical Center 
+in Tel Aviv, Israel, one ProteusONE equipment to be supplied 
+to the Wielkopolskie Centrum Onkologii in Poznan, Poland 
+and a ProteusPLUS system to be supplied by IBAs Partner CGN 
+to the West China

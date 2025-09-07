@@ -1,34 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 591 of 1106
-SIZE: 358 characters
-PREVIOUS: chunk_0590_annual_report_text (1).txt
-NEXT: chunk_0592_annual_report_text (1).txt
-------------------------------
-=== Page 115 ===
-IBA Annual Report 2023 
-112. Consolidated statement of changes in equity 
-for the year ended December 31, 2023 
-EUR 000 
-Capital 
-stock 
-(Note 
-16.1) 
-Capital 
-surplus 
-(Note 
-16.1) 
-Treasury 
-shares 
-(Note 16.1) 
-Hedging 
-reserves 
-(Note 17) 
-Other 
-reserves 
-Stock option 
-plans and 
-share-based 
-compensation 
-(Note 16.2) 
-Other 
-reserves
+lion and 
+generally relate to repayable advances. Short-term debts 
+Debts within one year represent EUR 197.3 
+million in 2023 compared to EUR 225.0 million in 
+2022: Long-term debts maturing in the year amount 
+to EUR 9.3 million in 2023 (this is among 
+others the current portion of the long-term 
+loans with SRIW and SFPI)

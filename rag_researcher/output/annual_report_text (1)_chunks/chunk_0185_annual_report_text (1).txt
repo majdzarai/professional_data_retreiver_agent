@@ -1,25 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 185 of 1106
-SIZE: 577 characters
-PREVIOUS: chunk_0184_annual_report_text (1).txt
-NEXT: chunk_0186_annual_report_text (1).txt
-------------------------------
-Continued good progress of IBA and SCK 
-CENs joint venture PanTera for the 
-production 
-of 
-actinium-225, with 
-collaborations 
-secured 
-with 
-supplier 
-TerraPower and post-period end, with Bayer 
-and another undisclosed customer
+The use of financial instruments, when 
+relevant to assess the assets, financial 
+situation, and results of the Company
 
-The key figures in terms of 
-financial results are as follows: Total 2023 Group revenues of EUR 428.7 
-million, up 18.7% versus last year, in line 
-with expectations and driven by accelerated 
-backlog conversion in H2 across all 
-business units, with particularly strong 
-growth from Proton Therapy (PT) Services, Dosimetry and Other Accelerators
+The objectives and policy of the Company in 
+terms 
+of 
+financial 
+risk 
+management, including its policy concerning the hedging 
+of each main category of transactions 
+planned to be used by hedge accounting; and
+
+The company's exposure to price risk, credit 
+risk, liquidity risk, and treasury risk. === Page 49 ===
+IBA Annual Report 2023 
+46. IBA

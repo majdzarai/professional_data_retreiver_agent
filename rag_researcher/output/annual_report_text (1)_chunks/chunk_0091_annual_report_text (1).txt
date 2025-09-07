@@ -1,17 +1,3 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 91 of 1106
-SIZE: 680 characters
-PREVIOUS: chunk_0090_annual_report_text (1).txt
-NEXT: chunk_0092_annual_report_text (1).txt
-------------------------------
-cumulated knowledge 
-and expertise. The campus community is built on 3 pillars:. Learn to expand your skills. Share by collaborating with your peers. Excel to maximize your centers performance
-THE CAMPUS PLATFORM
-Whether you are a newcomer willing to accelerate your 
-learning curve, an experienced user looking to develop new 
-expertise, or the most eminent expert keen on sharing your 
-knowledge or expanding your research, the Campus platform 
-is made for you. Campus it is a place where proton therapy 
-resources are shared, covering a wide variety of topics. At the 
-end of 2023, 436 summaries of scientific articles and more 
-than 90 webinars were available on the platform.
+technologies 
+to a center installed 25 years ago. Anthony Zietman, Chief of Radiation Oncology, Massachusetts 
+General Hospital, Boston, United States

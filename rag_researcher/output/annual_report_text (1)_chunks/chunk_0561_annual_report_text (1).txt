@@ -1,18 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 561 of 1106
-SIZE: 625 characters
-PREVIOUS: chunk_0560_annual_report_text (1).txt
-NEXT: chunk_0562_annual_report_text (1).txt
-------------------------------
-pts to minimize potential 
-negative effects on financial results. IBA uses 
-derivative financial instruments to hedge its 
-exposure to certain risks. Financial risk management is carried out by a 
-central treasury department (Group Treasury). Rules are in place which establish written 
-principles for the management of financial risks 
-as well as written rules covering specific areas, such as currency risk, the use of derivative and 
-non-derivative financial instruments and the 
-investment of excess liquidity. The Group's 
-Treasury identifies, assesses and covers 
-financial risks in close cooperation with the 
-Company.
+provided as follows: "The Company 
+may, without any further decision of the general 
+assembly, acquire its own shares, profit shares 
+or 
+certificates, in 
+accordance 
+with 
+legal 
+conditions (articles 7: 215 et seq. of the BCAC) 
+in one or more transactions, up to a maximum of 
+twenty percent (20%) of the total number of 
+issued securities concerned, for a minimum 
+equivalent of ten cents (0,10 EUR) and a 
+maximum of twenty percent (20%) higher than 
+the last share price.

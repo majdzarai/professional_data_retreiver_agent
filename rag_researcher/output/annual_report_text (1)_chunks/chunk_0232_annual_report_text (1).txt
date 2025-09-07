@@ -1,17 +1,23 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 232 of 1106
-SIZE: 262 characters
-PREVIOUS: chunk_0231_annual_report_text (1).txt
-NEXT: chunk_0233_annual_report_text (1).txt
-------------------------------
-dition 
-to 
-obtain 
-financing, delays 
-in 
-obtaining 
-regulatory 
-approvals or authorizations may have an impact 
-on the level of inventory required. Product development risk 
-Because IBA does not have a full product in-
-house testing capability, new products or
+anys risk management in the relevant risk 
+areas. IBA 
+has 
+designed 
+its 
+Enterprise 
+Risk 
+Management based on the ERM Integrated 
+framework (2017) established by the Committee 
+of Sponsoring Organizations of the Treadway 
+Commission (COSO). IBA 
+is 
+continuously 
+improving 
+its 
+risk 
+management process and regularly assesses 
+changes that could affect its strategy and 
+objectives, including strategic, financial, human 
+and environmental. Our quality management 
+system is ISO9001, ISO13485, MDD and 
+MDSAP certified. We are audited once a year by 
+our Notified Body.

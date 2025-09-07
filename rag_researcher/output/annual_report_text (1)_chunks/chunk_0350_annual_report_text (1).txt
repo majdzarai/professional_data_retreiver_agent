@@ -1,18 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 350 of 1106
-SIZE: 647 characters
-PREVIOUS: chunk_0349_annual_report_text (1).txt
-NEXT: chunk_0351_annual_report_text (1).txt
-------------------------------
-re capital and as the proposed 
-amendments are approved by at least eighty-five 
-per cent (85%) of the votes cast. (x) Powers of the board of directors to issue 
-or to redeem the companys own shares 
-As of 31 December 2023, the Board of Directors 
-was authorized to issue new shares or redeem 
-the Companys own shares. In this respect, article 6 of the Companys Articles of Association 
-provide the following: Article 6: The Board of Directors shall have the power to 
-increase the Company's share capital, to issue 
-convertible bonds or subscription rights, in one 
-or more operations, within the legal limits in 
-terms of threshold and duration.
+mployment of the 
+staff ceases as a result of a public 
+takeover bid 
+There are no such arrangements in place. vi) Controlling mechanism in a system of 
+staff-shareholding 
+There is no system of staff-shareholding in force 
+within the Company. vii) Legal restrictions or restrictions included 
+in the companys articles of association, on the exercise of voting rights 
+As of 31 December 2023, articles 27 and 28 of 
+the 
+Company's 
+coordinated 
+Articles 
+of 
+Association provide the following limitations: Article 27: === Page 71 ===
+IBA Annual Report 2023 
+68.

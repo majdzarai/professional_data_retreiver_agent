@@ -1,17 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 220 of 1106
-SIZE: 539 characters
-PREVIOUS: chunk_0219_annual_report_text (1).txt
-NEXT: chunk_0221_annual_report_text (1).txt
-------------------------------
-and environmental. Our quality management 
-system is ISO9001, ISO13485, MDD and 
-MDSAP certified. We are audited once a year by 
-our Notified Body. In 2023 we were also 
-inspected by the FDA and no observations were 
-made. The Sustainability Council in October 2023 
-presented the action plan that has been put in 
-place along a number of lines, including CO2, waste, diversity and governance, as well as the 
-status of each action. A more comprehensive 
-review of environmental risks by the Risk 
-Management Committee is planned for 2024.
+on for Cardiac PET imaging, launched in May 2023. The field of radiotheranostics holds enormous 
+promise for the future of cancer treatment8 and 
+IBA is providing specialist support for theranostic 
+clinical research in the production of two of the 
+most investigated radioisotopes, actinium-225 
+(225Ac) and astatine-211 (211At). IBA and SCK CENs joint venture, PanTera, continued to progress its plans for the expansion 
+of 225Ac production during 2023.

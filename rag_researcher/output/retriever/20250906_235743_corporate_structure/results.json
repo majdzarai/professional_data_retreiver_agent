@@ -1,0 +1,18 @@
+{
+  "query": "corporate structure",
+  "timestamp": "2025-09-06 23:57:43",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "2-9 \nGovernance structure and composition \np58 AR2023 Management report / corporate governance statement \n2-10 \nNomination and selection of the highest \ngovernance body \np58 AR2023 Management report / corporate governance statement \n2-11 \nChair of the highest governance body \np58 AR2023 Management report / corporate governance statement \n2-12 \nRole of the highest governance body in \noverseeing the management of impacts \np58 AR2023 Management report / corporate governance statement \n2-13 \nDelegat",
+      "similarity_score": 0.357441428729466
+    }
+  ]
+}

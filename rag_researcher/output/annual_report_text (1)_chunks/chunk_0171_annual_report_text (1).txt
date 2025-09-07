@@ -1,14 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 171 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0170_annual_report_text (1).txt
-NEXT: chunk_0172_annual_report_text (1).txt
-------------------------------
-reen alternative to gases such 
-as ethylene oxide, and nuclear materials such as cobalt-60, hence avoiding associated hazardous waste and pollutants. IBA has also developed low activation concrete, which 
-significantly reduces the amount of waste to be reprocessed 
-during the future dismantling of the casemates hosting its 
-accelerators, and therefore costs and environmental impact. This concrete was also used during the construction of our 
-new headquarters. As for carbon emissions, to better manage the outcome of our 
-actions, we monitor and publish our waste emissions related 
-to our worldw
+acting 
+our logistics, manufacturing and offices. Product packaging, for instance, is being continually improved to reduce its overall 
+environmental impact. Recently, the warehouse team replaced 
+a machine using non-recyclable materials with three new 
+ones utilizing recovered or recycled materials. These include 
+a padding machine for reusing cardboard boxes, an air cushion 
+machine minimizing plastic waste, and a paper compression 
+machine utilizing recycled paper.

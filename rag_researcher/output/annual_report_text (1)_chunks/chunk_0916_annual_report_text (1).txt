@@ -1,19 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 916 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0915_annual_report_text (1).txt
-NEXT: chunk_0917_annual_report_text (1).txt
-------------------------------
-d. === Page 164 ===
-IBA Annual Report 2023 
-161. 7. Description of financial risk management 
-(sections 3:6, 1, 8 and 3:32, 1, 5, of the 
-BCAC) 
-7.1. DESCRIPTION OF FINANCIAL RISKS 
-The Group has decided to present its financial 
-risks with the other principal identified risks in 
-the section Principal risks and uncertainties 
-faced by the company starting on page 51. These include credit risk, foreign currency risk, interest rate risk, liquidity risk, covenant risks. 7.2. CAPITAL MANAGEMENT 
-The Groups aim is to optimize the capital 
-structure in order to maximize its value for the 
-sharehold
+ture interest rate with the S.R.I.W. and S.F.P.I. IBA has agreed with the two lenders to decrease 
+the interest rates, this represents a non-
+substantial change to the contract terms in the 
+sense of IFRS and is treated as a contract 
+modification. As a result, IFRS 9 requires the 
+revised future cash flows to be amortised with 
+the initial effective interest rate, leading to a one 
+off gain of EUR 0.6 million in 2022 (recognised 
+in Other financial income in the consolidated 
+statement of income).

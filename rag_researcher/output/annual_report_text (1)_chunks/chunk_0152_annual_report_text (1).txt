@@ -1,16 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 152 of 1106
-SIZE: 571 characters
-PREVIOUS: chunk_0151_annual_report_text (1).txt
-NEXT: chunk_0153_annual_report_text (1).txt
-------------------------------
-of influence, IBA also 
-expects suppliers to communicate the principles and 
-to apply these minimum standards to their subcontractors 
-and suppliers. IBAs Code of Conduct for Suppliers follows and supports 
-the United Nations Sustainable Development Goals (SDGs) 
-by aligning the principles of this Code of Conduct with relevant 
-SDGs. IBA is committed to achieving this journey together 
-with its suppliers as equal partners. Since 2023, we partner with Ecovadis to map the social 
-and environmental performance of our supply chain and screen 
-our main Tier 1 suppliers.
+nd knowledge 
+with universities and high schools. We have an active policy 
+of integrating young people into professional life, by offering 
+internships, end-of-study work, and student jobs. IBA mainly 
+hires local employees in the countries where it has operations, creating jobs and providing wages to residents in the nearby 
+area, and thus boosting the local economy. This is our way of 
+making a positive contribution to the future of society at large, and of attracting new talent to IBA.

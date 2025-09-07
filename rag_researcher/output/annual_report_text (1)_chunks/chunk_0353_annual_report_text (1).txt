@@ -1,22 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 353 of 1106
-SIZE: 635 characters
-PREVIOUS: chunk_0352_annual_report_text (1).txt
-NEXT: chunk_0354_annual_report_text (1).txt
-------------------------------
-In establishing the remuneration policy, the 
-Board of Directors has considered the external 
-environment in which IBA operates, legal 
-requirements and principles of the Belgian 
-Corporate Governance Code 2020, market 
-practice and guidance issued by organizations 
-representing institutional shareholders. After review by the Compensation Committee, the Board of Directors determines the direct or 
-indirect remuneration paid to the Managing 
-Directors in accordance with its remuneration 
-policy. The 
-Committee 
-ensures 
-that 
-remuneration is in line with market practice, as 
-determined by studies performed by specialized 
-firms.
+ve or management body 
+of such shareholder or of a company 
+referred to under (i) above. (iii) any third party acting in its own name but on 
+behalf of such shareholder or of a person 
+referred to under (i) or (ii) above. (iv) any shareholder who granted a power-of-
+attorney to such shareholder or to a person 
+referred to under (i), (ii) or (iii) above, to 
+represent him/her at the said meeting." 
+Article 28: Without prejudice to Article 27, any shareholder 
+who owns fully-paid shares, registere

@@ -1,11 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1018 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_1017_annual_report_text (1).txt
-NEXT: chunk_1019_annual_report_text (1).txt
-------------------------------
-In our opinion, after having performed specific procedures in relation to the directors report on the 
-consolidated accounts, this directors report is consistent with the consolidated accounts for the year 
-under audit and is prepared in accordance with article 3:32 of the Companies' and Associations' Code. In the context of our audit of the consolidated accounts, we are also responsible for considering, in 
-particular based on the knowledge acquired resulting from the audit, whether the directors report on 
-the consolidated accounts and the other information included in the annual report on t
+As at December 31, 2023, Other financing 
+cash flows includes new payment of grants in 
+Belgium and advances from local government 
+in Belgium for EUR +0.1 million (2022: EUR 
++1.3 million) and repayments of advances from 
+local government in Belgium for EUR -1.9 
+million (2022: EUR -0.5 million). 9. Litigation 
+The Group is currently not involved in any 
+significant 
+litigation. The 
+potential 
+risks 
+connected to minor proceedings are deemed to 
+be either groundless or insignificant, or when

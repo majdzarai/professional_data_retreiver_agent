@@ -1,11 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 765 of 1106
-SIZE: 565 characters
-PREVIOUS: chunk_0764_annual_report_text (1).txt
-NEXT: chunk_0766_annual_report_text (1).txt
-------------------------------
-res in the Consolidated Statement of Income. As most of these tax credits are not immediately utilizable by 
-IBA SA, a long-term asset is recognised. Deferred taxes: A deferred tax asset on deductible temporary differences and on unused tax losses carried forward is only recognised to the 
-extent that it is probable that taxable profit will be available against which the deductible temporary difference and/or tax 
-losses can be utilized. When assessing deferred tax assets, management ensure that it is based on a reasonable number of 
-years of taxable results.
+te the level 
+of billings remaining high in 2023. As at December 31, 2023 and December 31, 2022, IBA did not identify any risk related to the 
+recoverability of these contract assets; as a 
+result, no allowance for expected credit loss 
+was recognised. === Page 134 ===
+IBA Annual Report 2023 
+131. Accounting policy on revenue recognition 
+IBA has the following revenue streams which will determine how the revenue is recognised.

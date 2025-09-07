@@ -1,0 +1,18 @@
+{
+  "query": "majority shareholder ID",
+  "timestamp": "2025-09-07 00:00:17",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "one-third of its members \nmay be \"directly or indirectly related to a \nshareholder\" or group of shareholders (or to a \ncompany or person related to it or them) within \nthe meaning of indent 2 of this Article 12, where \nthat shareholder (or group of shareholders): (i) \neither directly or indirectly engages in \nbusiness activities in one or more sectors of \nactivity in which the Company or one of its \nsubsidiaries is also active. (ii) \nor holds more than forty percent (40%) \nof the voting securities issued by the Company.",
+      "similarity_score": 0.3503643374694021
+    }
+  ]
+}

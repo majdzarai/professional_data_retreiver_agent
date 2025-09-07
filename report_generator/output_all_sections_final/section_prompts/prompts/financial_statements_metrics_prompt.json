@@ -1,0 +1,135 @@
+{
+  "section_metadata": {
+    "chapter_title": "Financials",
+    "section_title": "Financial Statements / Metrics",
+    "description": "Income statements, balance sheets, key performance metrics.",
+    "total_questions": 4
+  },
+  "writing_instructions": {
+    "objective": "Write a comprehensive and professional section titled 'Financial Statements / Metrics' for the chapter 'Financials'",
+    "scope": "Income statements, balance sheets, key performance metrics.",
+    "structure_requirements": [
+      "Start with a clear introduction to the section topic",
+      "Present information in a logical, well-organized manner",
+      "Use professional business report language and tone",
+      "Include specific data points and facts from the research findings",
+      "Ensure accuracy and cite relevant information appropriately",
+      "Conclude with a summary of key points if the section is substantial"
+    ],
+    "content_guidelines": [
+      "Focus on factual, objective information",
+      "Use clear, concise language suitable for business stakeholders",
+      "Organize information hierarchically (most important first)",
+      "Include specific details such as dates, numbers, and official names",
+      "Maintain consistency with overall report structure and tone"
+    ]
+  },
+  "research_findings": [
+    {
+      "question": "What are the key financial metrics presented in Ion Beam Applications SA's income statements and balance sheets that indicate its revenue growth, profitability, and liquidity?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications SA income statement key performance indicators"
+        },
+        {
+          "text": "00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosimetry America Inc. Bartlett, USA \n100% \n100% \nIBA Proton Therapy Inc. Edgewood New York, USA \n100% \n100% \nIBA Industrial Inc. Edgewood New York, USA \n100% \n100% \nIBA USA Inc. Edgewood New York, USA \n100% \n100% \nIBA Particle Therapy Ltd.",
+          "source": "",
+          "score": 0.0,
+          "query": "balance sheet metrics for Ion Beam Applications SA"
+        }
+      ],
+      "key_information": [
+        "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023",
+        "Responsibilities of the board of directors for the preparation of the consolidated accounts",
+        "00% \n100% \nIon Beam Beijing Applications Co"
+      ]
+    },
+    {
+      "question": "How does Ion Beam Applications SA's financial situation compare to its industry peers in terms of debt-to-equity ratio, return on equity, and asset turnover?",
+      "total_results": 3,
+      "results": [
+        {
+          "text": "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications SA financial performance compared to industry peers"
+        },
+        {
+          "text": "=== Page 118 ===\nIBA Annual Report 2023 \n115. 1. Summary of significant group accounting \npolicies \n1.1. THE REPORTING ENTITY \nIon Beam Applications SA (the Company or \nthe Parent), founded in 1986, and its \nsubsidiaries (together, the Group or IBA) are \ncommitted to technological progress in the field \nof cancer diagnosis and therapy and deliver \nefficient, dependable \nsolutions \nproviding \nunequalled precision. IBA also offers innovative \nsolutions for everyday hygiene and safety. The \nCompany \nis \na \nlimited \ncompany \nincorporated and domiciled in Belgium.",
+          "source": "",
+          "score": 0.0,
+          "query": "debt-to-equity ratio analysis for Ion Beam Applications SA"
+        },
+        {
+          "text": "STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023",
+          "source": "",
+          "score": 0.0,
+          "query": "return on equity calculation for Ion Beam Applications SA"
+        }
+      ],
+      "key_information": [
+        "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023",
+        "Responsibilities of the board of directors for the preparation of the consolidated accounts",
+        "=== Page 118 ===\nIBA Annual Report 2023 \n115",
+        "STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023"
+      ]
+    },
+    {
+      "question": "What are the trends in Ion Beam Applications SA's key performance metrics, such as operating margin, net income margin, and cash flow margin, over a specified period?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "=== Page 118 ===\nIBA Annual Report 2023 \n115. 1. Summary of significant group accounting \npolicies \n1.1. THE REPORTING ENTITY \nIon Beam Applications SA (the Company or \nthe Parent), founded in 1986, and its \nsubsidiaries (together, the Group or IBA) are \ncommitted to technological progress in the field \nof cancer diagnosis and therapy and deliver \nefficient, dependable \nsolutions \nproviding \nunequalled precision. IBA also offers innovative \nsolutions for everyday hygiene and safety. The \nCompany \nis \na \nlimited \ncompany \nincorporated and domiciled in Belgium.",
+          "source": "",
+          "score": 0.0,
+          "query": "operating margin trend analysis for Ion Beam Applications SA"
+        },
+        {
+          "text": "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts",
+          "source": "",
+          "score": 0.0,
+          "query": "cash flow margin calculation for Ion Beam Applications SA"
+        }
+      ],
+      "key_information": [
+        "=== Page 118 ===\nIBA Annual Report 2023 \n115",
+        "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023",
+        "Responsibilities of the board of directors for the preparation of the consolidated accounts"
+      ]
+    },
+    {
+      "question": "How does Ion Beam Applications SA's financial health and stability impact its creditworthiness, considering factors such as leverage, interest coverage, and cash flow generation?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts",
+          "source": "",
+          "score": 0.0,
+          "query": "credit risk assessment for Ion Beam Applications SA"
+        },
+        {
+          "text": "00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosimetry America Inc. Bartlett, USA \n100% \n100% \nIBA Proton Therapy Inc. Edgewood New York, USA \n100% \n100% \nIBA Industrial Inc. Edgewood New York, USA \n100% \n100% \nIBA USA Inc. Edgewood New York, USA \n100% \n100% \nIBA Particle Therapy Ltd.",
+          "source": "",
+          "score": 0.0,
+          "query": "leverage ratio analysis for Ion Beam Applications SA"
+        }
+      ],
+      "key_information": [
+        "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023",
+        "Responsibilities of the board of directors for the preparation of the consolidated accounts",
+        "00% \n100% \nIon Beam Beijing Applications Co"
+      ]
+    }
+  ],
+  "key_questions_addressed": [
+    "What are the key financial metrics presented in Ion Beam Applications SA's income statements and balance sheets that indicate its revenue growth, profitability, and liquidity?",
+    "How does Ion Beam Applications SA's financial situation compare to its industry peers in terms of debt-to-equity ratio, return on equity, and asset turnover?",
+    "What are the trends in Ion Beam Applications SA's key performance metrics, such as operating margin, net income margin, and cash flow margin, over a specified period?",
+    "How does Ion Beam Applications SA's financial health and stability impact its creditworthiness, considering factors such as leverage, interest coverage, and cash flow generation?"
+  ],
+  "writing_prompt": "# Writing Instructions for Report Section\n\n## Section Details\n- **Chapter**: Financials\n- **Section**: Financial Statements / Metrics\n- **Purpose**: Income statements, balance sheets, key performance metrics.\n\n## Writing Task\nWrite a comprehensive, professional section for a business report that addresses the following requirements:\n\n### Content Requirements:\n1. **Introduction**: Begin with a clear introduction that establishes the purpose and scope of this section\n2. **Main Content**: Present the information in a logical, well-structured manner using the research findings provided\n3. **Professional Tone**: Use formal business language appropriate for stakeholders and decision-makers\n4. **Factual Accuracy**: Base all statements on the provided research findings and cite specific data points\n5. **Clarity**: Ensure the content is clear, concise, and easy to understand\n\n### Structure Guidelines:\n- Use appropriate headings and subheadings if the content is substantial\n- Present information in order of importance\n- Include specific details such as dates, numbers, company names, and official designations\n- Maintain consistency with professional report formatting standards\n\n### Research Findings to Incorporate:\n\n#### Question 1: What are the key financial metrics presented in Ion Beam Applications SA's income statements and balance sheets that indicate its revenue growth, profitability, and liquidity?\n**Key Information to Include:**\n- The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023\n- Responsibilities of the board of directors for the preparation of the consolidated accounts\n- 00% \n100% \nIon Beam Beijing Applications Co\n\n**Supporting Research Data:**\n1. The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated ac...\n\n2. 00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosime...\n\n\n#### Question 2: How does Ion Beam Applications SA's financial situation compare to its industry peers in terms of debt-to-equity ratio, return on equity, and asset turnover?\n**Key Information to Include:**\n- The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023\n- Responsibilities of the board of directors for the preparation of the consolidated accounts\n- === Page 118 ===\nIBA Annual Report 2023 \n115\n- STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023\n\n**Supporting Research Data:**\n1. The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated ac...\n\n2. === Page 118 ===\nIBA Annual Report 2023 \n115. 1. Summary of significant group accounting \npolicies \n1.1. THE REPORTING ENTITY \nIon Beam Applications SA (the Company or \nthe Parent), founded in 1986, a...\n\n\n#### Question 3: What are the trends in Ion Beam Applications SA's key performance metrics, such as operating margin, net income margin, and cash flow margin, over a specified period?\n**Key Information to Include:**\n- === Page 118 ===\nIBA Annual Report 2023 \n115\n- The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023\n- Responsibilities of the board of directors for the preparation of the consolidated accounts\n\n**Supporting Research Data:**\n1. === Page 118 ===\nIBA Annual Report 2023 \n115. 1. Summary of significant group accounting \npolicies \n1.1. THE REPORTING ENTITY \nIon Beam Applications SA (the Company or \nthe Parent), founded in 1986, a...\n\n2. The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated ac...\n\n\n#### Question 4: How does Ion Beam Applications SA's financial health and stability impact its creditworthiness, considering factors such as leverage, interest coverage, and cash flow generation?\n**Key Information to Include:**\n- The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023\n- Responsibilities of the board of directors for the preparation of the consolidated accounts\n- 00% \n100% \nIon Beam Beijing Applications Co\n\n**Supporting Research Data:**\n1. The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated ac...\n\n2. 00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosime...\n\n\n### Final Instructions:\n- Synthesize the research findings into coherent, flowing prose\n- Ensure all factual claims are supported by the provided research data\n- Maintain professional objectivity throughout the section\n- Aim for completeness while being concise\n- Review for accuracy, clarity, and professional presentation\n\n**Expected Output**: A well-written, professional report section that fully addresses the section requirements using the provided research findings."
+}

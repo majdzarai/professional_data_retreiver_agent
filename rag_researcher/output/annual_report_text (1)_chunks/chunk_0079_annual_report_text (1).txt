@@ -1,16 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 79 of 1106
-SIZE: 576 characters
-PREVIOUS: chunk_0078_annual_report_text (1).txt
-NEXT: chunk_0080_annual_report_text (1).txt
-------------------------------
-lgian 
-Nuclear Research Centre SCK CEN, focusing on the development 
-and commercialization of radiopharmaceuticals for cancer 
-diagnosis and therapy. One of its key areas of research is the use 
-of actinium-225, a radioactive isotope that has shown promise 
-in the treatment of several types of cancer. Actinium-225 emits 
-alpha particles, which are highly effective at killing cancer cells 
-while sparing healthy tissues. PanTera is working on developing 
-actinium-225-based radiopharmaceuticals to treat a variety 
-of cancers, including prostate cancer and multiple myeloma.
+of isotopes for the radiopharmaceutical industry. This is particularly the case for Germanium-68 (used for 
+Germanium-68/Gallium-68 generators), Iodine-123 and other 
+radioisotopes such as Copper-64, for which the demand has 
+been consistently expanding year after year. Watch the video: IBA new CycloneIKON. IBA has been a trusted partner 
+of Curium for a long time. We selected IBA for its globally 
+recognized expertise and due to 
+the outstanding capabilities and 
+reliability of the Cyclotron.

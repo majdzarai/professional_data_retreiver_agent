@@ -1,25 +1,20 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 502 of 1106
-SIZE: 608 characters
-PREVIOUS: chunk_0501_annual_report_text (1).txt
-NEXT: chunk_0503_annual_report_text (1).txt
-------------------------------
-=== Page 98 ===
-IBA Annual Report 2023 
-95. IBA 
-to a streghtened backlog conversion in H2. We 
-also see a good order intake for Other 
-Accelerators, as well as continued growth for 
-Dosimetry. For the year ended on December 31, 2023, the 
-Group 
-gross 
-margin 
-(31.4%) 
-worsened 
-compared to 2022 (35.1%) following inflation 
-and lower overhead absorption. The previous 
-year performance was also positively impacted 
-by indemnities related to the Rutherfords 
-bankruptcy. As of December 31, 2023, the Group operating 
-expenses were EUR 128.0 million, a 10.6%% 
-increase from 2022 (2022: EUR 115.7 million).
+pt-Ins are linked to said B Corp score 
+increase. We have selected Ecovadis as our 
+service 
+provider 
+for 
+Supply 
+Chain 
+ESG 
+screening. And we closely survey the applicable 
+and 
+forthcoming 
+non-financial 
+reporting 
+regulations (GRI 2021, taxonomy, CSRD, due 
+diligence). THE 
+NEW 
+AND 
+FORTHCOMING 
+EU 
+SUSTAINABLE FINANCE LANDSCAPE

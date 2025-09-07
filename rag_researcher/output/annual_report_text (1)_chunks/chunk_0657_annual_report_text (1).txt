@@ -1,19 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 657 of 1106
-SIZE: 489 characters
-PREVIOUS: chunk_0656_annual_report_text (1).txt
-NEXT: chunk_0658_annual_report_text (1).txt
-------------------------------
-=== Page 125 ===
+=== Page 120 ===
 IBA Annual Report 2023 
-122. advantage. IBA launched an ecodesign 
-program through which the environmental 
-performance of each manufacturing part of 
-the most representative products is being 
-assessed and monitored. This program will 
-be the stepping stone for the focus of the 
-future R&D efforts. Opportunity: it is observed that employee 
-attractivity and retention is increasingly 
-impacted by the continuous investments 
-made by IBA in being a sustainable 
-company.
+117. following new standards, amendments and/or 
+interpretations are described below: IFRS 17 Insurance Contracts, effective 1 
+January 2023 and 'Amendments to IFRS 17 
+Insurance contracts: Initial Application of 
+IFRS 17 and IFRS 9 Comparative 
+Information (effective 1 January 2023). Amendments to IAS 8 Accounting Policies, Changes in Accounting Estimates and 
+Errors Definition of accounting estimates, effective 1 January 2023

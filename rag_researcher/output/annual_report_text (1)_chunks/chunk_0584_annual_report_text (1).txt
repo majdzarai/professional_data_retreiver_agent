@@ -1,41 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 584 of 1106
-SIZE: 488 characters
-PREVIOUS: chunk_0583_annual_report_text (1).txt
-NEXT: chunk_0585_annual_report_text (1).txt
-------------------------------
-5 
-Current borrowings 
-5.10. 3 734 
-6 469 
-Current lease liabilities 
-5.10. 5 675 
-6 104 
-Current provisions 
-5.11 
-7 647 
-8 783 
-Current derivative financial liabilities 
-7.3. 2 907 
-555 
-Trade payables 
-5.12.1. 65 559 
-76 564 
-Current income tax liabilities 
-5.12. 3 853 
-1 723 
-Other payables 
-5.12. 75 578 
-68 914 
-Contract liabilities 
-4.3.1. 296 219 
-283 489 
-Current liabilities 
-461 172 
-452 601 
-TOTAL LIABILITIES 
-507 948 
-491 316 
-TOTAL EQUITY AND LIABILITIES 
-623 899 
-597 528
+in short-term deposits 
+(EUR 50 million in 2022). Cut-off accounts 
+The assets-side cut-off accounts decreased 
+year-on-year with EUR -1.6 million, to a balance 
+per the end of 2023 of EUR 15.9 million. These 
+accounts are used to ensure that revenues and 
+charges are correctly cut off at year-end. Liabilities 
+Shareholders equity 
+Share capital and share premium 
+The subscribed capital is EUR 42.5 million as per 
+December 31, 2023. Share premiums amount to 
+EUR 43.5 million.

@@ -1,55 +1,37 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 949 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0948_annual_report_text (1).txt
-NEXT: chunk_0950_annual_report_text (1).txt
-------------------------------
-fit or 
-loss 
-As at December 31, 2023, the Group holds 2 
-forward exchange contracts (14 on December 
-31, 2022), 6 exchange rate swaps (8 swaps as 
-at December 31, 2022), to cover future cash 
-flows of US dollars and Chinese Yuan. === Page 169 ===
+=== Page 161 ===
 IBA Annual Report 2023 
-166. (EUR 000) 
-HEDGE INSTRUMENT MATURITIES 
+158. 5.12. TRADE PAYABLES AND OTHER OPERATING 
+LIABILITIES 
+ (EUR 000) 
 December 31, 2022 
-Equity 
-< 1 year 
-1-2 years 
-> 2 years 
-CAD 
--213 
--213 
-0 
-0 
-CNY 
--4 354 
--1 436 
--705 
--2 213 
-SGD 
--325 
--325 
-0 
-0 
-USD 
--3 319 
--2 533 
--786 
-0 
-KRW 
--192 
-0 
--192 
-0 
--8 403 
--4 507 
--1 683 
--2 213 
 December 31, 2023 
-Equity 
-< 1 year 
-1-2 years 
-> 2 years
+Current 
+Trade payable 
+65 559 
+76 564 
+Payroll debts 
+28 653 
+31 005 
+Accrued charges 
+2 302 
+2 096 
+Capital grants 
+2 912 
+1 906 
+Non-trade payables 
+16 217 
+9 801 
+Refund liability 
+5 000 
+0 
+Current income tax payables 
+3 853 
+1 723 
+Advances received from local government 
+1 293 
+1 054 
+Other 
+1 486 
+2 912 
+Total other current payable 
+61 716

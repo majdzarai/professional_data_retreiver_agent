@@ -1,0 +1,138 @@
+{
+  "section_metadata": {
+    "chapter_title": "References",
+    "section_title": "References",
+    "description": "Sources used: filings, financial reports, external data.",
+    "total_questions": 4
+  },
+  "writing_instructions": {
+    "objective": "Write a comprehensive and professional section titled 'References' for the chapter 'References'",
+    "scope": "Sources used: filings, financial reports, external data.",
+    "structure_requirements": [
+      "Start with a clear introduction to the section topic",
+      "Present information in a logical, well-organized manner",
+      "Use professional business report language and tone",
+      "Include specific data points and facts from the research findings",
+      "Ensure accuracy and cite relevant information appropriately",
+      "Conclude with a summary of key points if the section is substantial"
+    ],
+    "content_guidelines": [
+      "Focus on factual, objective information",
+      "Use clear, concise language suitable for business stakeholders",
+      "Organize information hierarchically (most important first)",
+      "Include specific details such as dates, numbers, and official names",
+      "Maintain consistency with overall report structure and tone"
+    ]
+  },
+  "research_findings": [
+    {
+      "question": "What financial reports and filings by Ion Beam Applications SA provide relevant information for a comprehensive KYC analysis?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications SA annual report"
+        },
+        {
+          "text": "company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of the Group and the Ultimate \nParent. The Company is listed on the pan-European \nEuronext stock exchange (B-compartment) and \nis included in the BEL Mid Index. IBA publishes condensed half-yearly and \nannual consolidated financial statements which \nhave been prepared in accordance with IFRS \nas endorsed by EU.",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications SA investor relations website"
+        }
+      ],
+      "key_information": [
+        "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023",
+        "Responsibilities of the board of directors for the preparation of the consolidated accounts",
+        "company \nincorporated and domiciled in Belgium",
+        "The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium"
+      ]
+    },
+    {
+      "question": "What external data sources can be used to supplement or verify the credit risk assessment for Ion Beam Applications SA?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts",
+          "source": "",
+          "score": 0.0,
+          "query": "credit rating agencies Ion Beam Applications SA"
+        },
+        {
+          "text": "=== Page 185 ===\nIBA Annual Report 2021 \n182. CORPORATE NAME \nIon Beam Applications SA, abbreviated IBA SA. Following a resolution of the Extraordinary \nGeneral Meeting of shareholders of the \nCompany held on June 14, 2023 article 1 of the \nbylaws has been amended and now reads as \nfollows: Article 1: The Company takes the form of a public limited \ncompany. The name of the Company is Ion \nBeam Applications and, in short, IBA. \" \nREGISTERED OFFICE \nChemin du Cyclotron, 3; B-1348 Louvain-la-\nNeuve",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications SA news articles and press releases"
+        }
+      ],
+      "key_information": [
+        "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023",
+        "Responsibilities of the board of directors for the preparation of the consolidated accounts",
+        "=== Page 185 ===\nIBA Annual Report 2021 \n182",
+        "CORPORATE NAME \nIon Beam Applications SA, abbreviated IBA SA"
+      ]
+    },
+    {
+      "question": "Are there any specific regulations or industry standards that need to be considered in the KYC analysis for Ion Beam Applications SA?",
+      "total_results": 3,
+      "results": [
+        {
+          "text": "sh flows for the year then ended, in accordance with International Financial \nReporting Standards as adopted by the European Union and with the legal and regulatory \nrequirements applicable in Belgium. Basis for unqualified opinion",
+          "source": "",
+          "score": 0.0,
+          "query": "KYC requirements EU financial institutions"
+        },
+        {
+          "text": "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications SA compliance with AML regulations"
+        },
+        {
+          "text": "ose \ncooperation with the Groups operating units. Credit risk \nThe Group has exposure to credit risk. In order \nto cover this risk, the Company policy for \nequipment contracts is to have confirmed letters \nof credit issued by its customers prior to \nshipment of the equipment, or to contract a \nspecific credit insurance from either the Belgian \nofficial export credit agency Credendo or private \ninsurers. Besides, the consolidated financial statements \npresents the financial assets and the financial \nliabilities of the Group by valuation method (fair \nvalue and carrying amount).",
+          "source": "",
+          "score": 0.0,
+          "query": "industry standards for credit risk assessment"
+        }
+      ],
+      "key_information": [
+        "sh flows for the year then ended, in accordance with International Financial \nReporting Standards as adopted by the European Union and with the legal and regulatory \nrequirements applicable in Belgium",
+        "Basis for unqualified opinion",
+        "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023",
+        "Responsibilities of the board of directors for the preparation of the consolidated accounts",
+        "ose \ncooperation with the Groups operating units"
+      ]
+    },
+    {
+      "question": "What additional sources of information are available to provide context and supporting evidence for the comprehensive KYC analysis?",
+      "total_results": 2,
+      "results": [
+        {
+          "text": "00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosimetry America Inc. Bartlett, USA \n100% \n100% \nIBA Proton Therapy Inc. Edgewood New York, USA \n100% \n100% \nIBA Industrial Inc. Edgewood New York, USA \n100% \n100% \nIBA USA Inc. Edgewood New York, USA \n100% \n100% \nIBA Particle Therapy Ltd.",
+          "source": "",
+          "score": 0.0,
+          "query": "Ion Beam Applications SA Wikipedia page"
+        },
+        {
+          "text": "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts",
+          "source": "",
+          "score": 0.0,
+          "query": "analyst reports on Ion Beam Applications SA"
+        }
+      ],
+      "key_information": [
+        "00% \n100% \nIon Beam Beijing Applications Co",
+        "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023",
+        "Responsibilities of the board of directors for the preparation of the consolidated accounts"
+      ]
+    }
+  ],
+  "key_questions_addressed": [
+    "What financial reports and filings by Ion Beam Applications SA provide relevant information for a comprehensive KYC analysis?",
+    "What external data sources can be used to supplement or verify the credit risk assessment for Ion Beam Applications SA?",
+    "Are there any specific regulations or industry standards that need to be considered in the KYC analysis for Ion Beam Applications SA?",
+    "What additional sources of information are available to provide context and supporting evidence for the comprehensive KYC analysis?"
+  ],
+  "writing_prompt": "# Writing Instructions for Report Section\n\n## Section Details\n- **Chapter**: References\n- **Section**: References\n- **Purpose**: Sources used: filings, financial reports, external data.\n\n## Writing Task\nWrite a comprehensive, professional section for a business report that addresses the following requirements:\n\n### Content Requirements:\n1. **Introduction**: Begin with a clear introduction that establishes the purpose and scope of this section\n2. **Main Content**: Present the information in a logical, well-structured manner using the research findings provided\n3. **Professional Tone**: Use formal business language appropriate for stakeholders and decision-makers\n4. **Factual Accuracy**: Base all statements on the provided research findings and cite specific data points\n5. **Clarity**: Ensure the content is clear, concise, and easy to understand\n\n### Structure Guidelines:\n- Use appropriate headings and subheadings if the content is substantial\n- Present information in order of importance\n- Include specific details such as dates, numbers, company names, and official designations\n- Maintain consistency with professional report formatting standards\n\n### Research Findings to Incorporate:\n\n#### Question 1: What financial reports and filings by Ion Beam Applications SA provide relevant information for a comprehensive KYC analysis?\n**Key Information to Include:**\n- The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023\n- Responsibilities of the board of directors for the preparation of the consolidated accounts\n- company \nincorporated and domiciled in Belgium\n- The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium\n\n**Supporting Research Data:**\n1. The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated ac...\n\n2. company \nincorporated and domiciled in Belgium. The \naddress of its registered office is Chemin du \nCyclotron, 3; B-1348 \nLouvain-la-Neuve, Belgium. Ion Beam Applications SA is the \nmother Company of ...\n\n\n#### Question 2: What external data sources can be used to supplement or verify the credit risk assessment for Ion Beam Applications SA?\n**Key Information to Include:**\n- The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023\n- Responsibilities of the board of directors for the preparation of the consolidated accounts\n- === Page 185 ===\nIBA Annual Report 2021 \n182\n- CORPORATE NAME \nIon Beam Applications SA, abbreviated IBA SA\n\n**Supporting Research Data:**\n1. The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated ac...\n\n2. === Page 185 ===\nIBA Annual Report 2021 \n182. CORPORATE NAME \nIon Beam Applications SA, abbreviated IBA SA. Following a resolution of the Extraordinary \nGeneral Meeting of shareholders of the \nCompany...\n\n\n#### Question 3: Are there any specific regulations or industry standards that need to be considered in the KYC analysis for Ion Beam Applications SA?\n**Key Information to Include:**\n- sh flows for the year then ended, in accordance with International Financial \nReporting Standards as adopted by the European Union and with the legal and regulatory \nrequirements applicable in Belgium\n- Basis for unqualified opinion\n- The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023\n- Responsibilities of the board of directors for the preparation of the consolidated accounts\n- ose \ncooperation with the Groups operating units\n\n**Supporting Research Data:**\n1. sh flows for the year then ended, in accordance with International Financial \nReporting Standards as adopted by the European Union and with the legal and regulatory \nrequirements applicable in Belgium...\n\n2. The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated ac...\n\n\n#### Question 4: What additional sources of information are available to provide context and supporting evidence for the comprehensive KYC analysis?\n**Key Information to Include:**\n- 00% \n100% \nIon Beam Beijing Applications Co\n- The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023\n- Responsibilities of the board of directors for the preparation of the consolidated accounts\n\n**Supporting Research Data:**\n1. 00% \n100% \nIon Beam Beijing Applications Co. Ltd. Beijing, China \n100% \n100% \nIBA RadioIsotopes France SAS \nLyon, France \n100% \n100% \nIBA Dosimetry Ltd. Schwarzenbruck, Germany \n100% \n100% \nIBA Dosime...\n\n2. The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated ac...\n\n\n### Final Instructions:\n- Synthesize the research findings into coherent, flowing prose\n- Ensure all factual claims are supported by the provided research data\n- Maintain professional objectivity throughout the section\n- Aim for completeness while being concise\n- Review for accuracy, clarity, and professional presentation\n\n**Expected Output**: A well-written, professional report section that fully addresses the section requirements using the provided research findings."
+}

@@ -1,18 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 145 of 1106
-SIZE: 647 characters
-PREVIOUS: chunk_0144_annual_report_text (1).txt
-NEXT: chunk_0146_annual_report_text (1).txt
-------------------------------
-=== Page 41 ===
-COMMITTED TO SOCIETY
-We firmly believe that the purpose of an economic player 
-must be to promote social progress and collective well-being. The model we endorse - both externally and internally - goes 
-beyond regulatory compliance: it encourages an ethical 
-vision of practices and behavior, respect for differences 
-and a meaningful contribution to the communities around us. A big thank you for the greater 
-choice offered by the new bike lease 
-formula, for the bike allowance and 
-the excellent infrastructure at IBA. Its a pleasure to cross the fields in 
-the morning and then overtake the 
-line of cars when approaching IBA.
+=== Page 40 ===
+All IBA employees have access to a global high-quality 
+Employee Assistance Program, regardless of where they live 
+and work, providing assistance in the local language in more 
+than 70 countries. Through this program, practical information and counselling 
+on a variety of topics is available to employees and their 
+relatives, and counselling is offered at the most convenient 
+time and location. ENCOURAGING LOW IMPACT MOBILITY
+IBA encourages efficient, low-impact and healthy mobility.

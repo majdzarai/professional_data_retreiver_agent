@@ -1,64 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 925 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0924_annual_report_text (1).txt
-NEXT: chunk_0926_annual_report_text (1).txt
-------------------------------
-Non-current Current 
-Fair value 
-Non-current 
-Current Fair value 
-At fair value through OCI 
-3 806 
-0 
-3 806 
-2 438 
-0 
-2 438 
-Shares in listed entities 
-995 
-0 
-995 
-843 
-0 
-843 
-Shares in non-listed entities 
-2 811 
-0 
-2 811 
-1 595 
-0 
-1 595 
-At fair value through Profit and loss 
-42 
-160 
-202 
-510 
-739 
-1 249 
-Derivative hedge-accounted financial assets 
-3 
-134 
-137 
-493 
-563 
-1 056 
-Derivatives assets at fair value through the 
-income statement 
-39 
-26 
-65 
-17 
-176 
-193 
-At amortised cost 
-23 445 351 937 
-375 382 
-20 940 
-274 260 
-295 200 
-Trade receivables 
-0 111 649 
-111 649 
-0 
-107 576
+the financial position date are as follows: December 31, 2022 
+December 31, 2023 
+EUR 
+USD 
+INR 
+CNY 
+EUR 
+CNY 
+Bank and other borrowings 
+2.33% 
+0.00% 
+n/a - credit 
+line not 
+used 
+n/a - credit line 
+not used 
+5.10% 
+n/a - credit 
+line not used

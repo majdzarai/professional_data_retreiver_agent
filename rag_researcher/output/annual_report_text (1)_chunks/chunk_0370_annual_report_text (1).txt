@@ -1,18 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 370 of 1106
-SIZE: 527 characters
-PREVIOUS: chunk_0369_annual_report_text (1).txt
-NEXT: chunk_0371_annual_report_text (1).txt
-------------------------------
-or death of the 
-concerned Executive. The Managing Directors are significant owners 
-of the reference shareholder and comply with the 
-MHR provision. Retirement Plan 
-IBA does not pay any pension contribution to its 
-Managing Directors and members of the 
-Executive Management Team, who operate 
-under a Management Company agreement. Other Components 
-IBA does not pay any other compensation 
-components to its Managing Directors and 
-members of the Executive Management Team, who operate under a Management Company 
-agreement.
+In establishing the remuneration policy, the 
+Board of Directors has considered the external 
+environment in which IBA operates, legal 
+requirements and principles of the Belgian 
+Corporate Governance Code 2020, market 
+practice and guidance issued by organizations 
+representing institutional shareholders. After review by the Compensation Committee, the Board of Directors determines the direct or 
+indirect remuneration paid to the Managing 
+Directors in accordance with its remuneration 
+policy.

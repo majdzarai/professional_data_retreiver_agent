@@ -1,0 +1,18 @@
+{
+  "query": "dependency risks iba suppliers",
+  "timestamp": "2025-09-07 00:30:06",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "ve an impact \non the level of inventory required. Product development risk \nBecause IBA does not have a full product in-\nhouse testing capability, new products or",
+      "similarity_score": 0.4365126927693685
+    }
+  ]
+}

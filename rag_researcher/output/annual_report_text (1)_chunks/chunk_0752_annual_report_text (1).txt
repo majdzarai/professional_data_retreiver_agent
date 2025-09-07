@@ -1,19 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 752 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0751_annual_report_text (1).txt
-NEXT: chunk_0753_annual_report_text (1).txt
-------------------------------
-hyperinflation accounting since 2018. The Argentina government 
-published the monthly indices as officially defined by local resolutions RT Indice 6. Under IAS 29, IBA has revalued the net monetary position of IBA Argentinas subsidiary to the closing index as well as the 
-revenue and expenses. Furthermore, the indexed financial position and income statement of the Company have been 
-translated to the group currency at the closing exchange rate instead of the average of each month. (EUR 000) 
-December 31, 2022 
-December 31, 2023 
-Current taxes 
--4 757 
--6 897 
-Deferred taxes 
-11 244 
--1 898 
-TO
+the subsidiary in Argentina for EUR 2.0 
+million. Partially compensated by interest revenues 
+on bank accounts and investment bonds in 
+relation to proton therapy projects for EUR 
+1.7 million for the Proton Therapy and Other 
+Accelerators segment; As at December 31, 2023, the group has 
+recorded its share (50%) in the loss of PanTera 
+SA/NV) for EUR 0.2 million. IBA does not 
+account for its share of the loss in Cyclhad SAS 
+and Normandy Hadrontherapy SAS above the 
+value of its investment as the Group has no 
+commitment to participate in any potential future 
+capital increase.

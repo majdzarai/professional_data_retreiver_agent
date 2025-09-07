@@ -1,27 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 647 of 1106
-SIZE: 577 characters
-PREVIOUS: chunk_0646_annual_report_text (1).txt
-NEXT: chunk_0648_annual_report_text (1).txt
-------------------------------
-Inventory which is being consumed in the 
-maintenance project as needed, and for 
-which obsolescence has been evaluated 
-considering the expected future spare parts 
-needs of the site. Given that all parts are 
-considered 
-as 
-recommended 
-to 
-be 
-available 
-on 
-a 
-maintenance 
-site, Management did not identify excessive 
-inventory levels for which additional write off 
-should be recognised. Trade receivable: there are no large 
-overdue balances requiring expected credit 
-loss allowances and customers have been 
-paying regularly, in accordance with the 
-contractual terms
+company 
+incorporated and domiciled in Belgium. The 
+address of its registered office is Chemin du 
+Cyclotron, 3; B-1348 
+Louvain-la-Neuve, Belgium. Ion Beam Applications SA is the 
+mother Company of the Group and the Ultimate 
+Parent. The Company is listed on the pan-European 
+Euronext stock exchange (B-compartment) and 
+is included in the BEL Mid Index. IBA publishes condensed half-yearly and 
+annual consolidated financial statements which 
+have been prepared in accordance with IFRS 
+as endorsed by EU.

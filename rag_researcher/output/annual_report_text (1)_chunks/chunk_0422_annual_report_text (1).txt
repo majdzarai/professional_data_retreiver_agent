@@ -1,20 +1,51 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 422 of 1106
-SIZE: 609 characters
-PREVIOUS: chunk_0421_annual_report_text (1).txt
-NEXT: chunk_0423_annual_report_text (1).txt
-------------------------------
-A 
-is also committed to a workplace free of 
-harassment. Social rights, as an integral part of 
-human rights, are actively protected by the 
-Company. IBA also ensures the highest standards of safety 
-for all employees. IBAs target, as defined in the 
-Code of Business Conduct, is No Harm to our 
-people. As an example, the Code of Business 
-Conduct clearly states that all employees are 
-empowered to stop any activity which they judge 
-hazardous and goes against the No Harm 
-principle. The Code also defines working times 
-that cannot be exceeded, even if local rules and 
-regulations allow for such excess.
+33.967 
+Soumya 
+CHANDRAMOULI, CFO 
+SOP 
+2021 
+25-01-
+21 
+01-01-
+25 
+3 years from 
+end of 
+agreement 
+(40% of 
+grant) 
+from 02-01-25 
+to 31-12-26 
+13,39
+
+23.967 
+SOP 
+2020 
+01-06-
+20 
+02-01-
+24 
+N/A 
+5.a) 50% from 
+02-01-24 to 
+31-05-26 
+5.b) 50% from 
+02-01-24 to 
+31-05-30 
+7,54 
+10.000
+
+33.967 
+Frederic NOLF, CHRO 
+SOP 
+2021 
+25-01-
+21 
+01-01-
+25 
+3 years from 
+end of 
+agreement 
+(40% of 
+grant) 
+from 02-01-25 
+to 31-12-26 
+13,39

@@ -1,19 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 547 of 1106
-SIZE: 605 characters
-PREVIOUS: chunk_0546_annual_report_text (1).txt
-NEXT: chunk_0548_annual_report_text (1).txt
-------------------------------
-ies is the result of the significant 
-ramp-up of activities after the two covid-years 
-2020 and 2021, which is also visible in the 
-operating income. Since 2016, the amounts of contracts in progress 
-and down-payments received on such contracts 
-are shown as a net position at the level of each 
-project whereby the ones with a down-payment 
-that is lower than the contract in progress value 
-are shown as a net contract in progress position 
-under this section. Short-term receivables 
-Short-term receivables decreased with EUR -
-48.5 million from EUR 181.6 million in 2022 to 
-EUR 133.1 million in 2023.
+contracts for EUR -6.0 million and 
+the deposit. A decrease of the trade receivable by EUR -
+4.1 million due to a high level of significant 
+milestone completion at the end of 2022; Offset by: An increase of the inventories and contract 
+in progress by EUR 28.6 million: an increase of work in progress for EUR 2.8 
+million, an increase of raw material and supplies for 
+EUR 28.5 million, an increase of the write-off on inventories for 
+EUR -2.3 million. Non-current liabilities decreased by EUR -8.1 
+million to close with a balance of EUR 38.7 
+million at end of 2023.

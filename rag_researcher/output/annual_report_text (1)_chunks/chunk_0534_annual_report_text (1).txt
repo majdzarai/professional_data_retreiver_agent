@@ -1,19 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 534 of 1106
-SIZE: 638 characters
-PREVIOUS: chunk_0533_annual_report_text (1).txt
-NEXT: chunk_0535_annual_report_text (1).txt
-------------------------------
-r 
-categories of cost include interest expenses, foreign exchange impacts, and bank charges. The operational perspectives of IBA SA remain 
-positive. At the end of 2023, the Company had ten 
-branches, in the following locations: Prague, Czech Republic; Orsay, France; Krakow, === Page 102 ===
-IBA Annual Report 2023 
-99. IBA 
-Poland; Trento, Italy; Seoul; South Korea 
-Uppsala, Sweden; Groningen, Netherlands; Newport, United Kingdom; Madrid, Spain, and 
-Dublin, Ireland. The South Korean branch will 
-be dissolved in 2024. The branches were 
-established as part of the Companys Proton 
-Therapy business (section 3:6, 1, 5, of the 
-BCAC).
+generation facilities using fossil gaseous fuels. No 
+6 
+The undertaking carries out, funds or has exposures to construction, refurbishment and 
+operation of heat generation facilities that produce heat/cool using fossil gaseous fuels. No

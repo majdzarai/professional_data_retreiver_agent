@@ -1,16 +1,42 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 427 of 1106
-SIZE: 366 characters
-PREVIOUS: chunk_0426_annual_report_text (1).txt
-NEXT: chunk_0428_annual_report_text (1).txt
-------------------------------
-ate 
-measuresto bring the situation back into 
-conformity with the Code and the Companys 
-policies, and to prevent a recurrence of such a 
-situation. The age distribution within the IBA Group is quite 
-wide, ranging from 20 to over 60, indicating a fair 
-and balanced value between employees. === Page 85 ===
-IBA Annual Report 2023 
-82. IBA 
-IBA Employee age pyramid
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+PBT 
+ (894) 
+ 10.766 
+ 33.054 
+8.255 
+(430) 
+(315) 
+Order Intake 
+ 167.797 
+ 306.021 
+ 165.696 
+278.000 
+523.000 
+256.955 
+Net profit 
+ (4.401) 
+ 7.610 
+ 31.921 
+3.879 
+ 6.057 
+(9.110) 
+*the table above is used to calculate the bonus paid during the first quarter of the following year 
+c) 
+Annual 
+evolution 
+of 
+average 
+employee remuneration ()
+The 
+average 
+employee 
+remuneration 
+is 
+calculated as follows: Selection of all people under employment 
+present and active on December 31 of the 
+fiscal year.

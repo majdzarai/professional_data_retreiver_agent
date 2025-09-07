@@ -1,18 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 313 of 1106
-SIZE: 571 characters
-PREVIOUS: chunk_0312_annual_report_text (1).txt
-NEXT: chunk_0314_annual_report_text (1).txt
-------------------------------
-quidity situation, analysis 
-of the external auditors' review, examination of 
-the 2024 budget, and follow-up of internal audit 
-and risk management. The Company keeps close control of the risks to 
-which it is subject through its financial controllers 
-employed in each of the divisions. This enables 
-the risks to be managed closely. The risks 
-identified are transmitted up to the Management 
-Team which reports to the Audit Committee and 
-develops an appropriate solution, in conjunction 
-with the Audit Committee and the appropriate 
-departments in the organization.
+40% of the voting rights 
+issued by the Company. The Board of Directors appoints among its 
+members a chairman and, as the case may be, a deputy chairman. Unless otherwise decided by 
+unanimous 
+resolution 
+of 
+the 
+Board, the 
+chairman, and deputy chairman may not be the 
+type of directors as defined in the preceding 
+paragraph. The Board of Directors meets whenever 
+necessary and whenever at least two members 
+require a meeting. In practice, the Board gathers at least four times 
+a year.

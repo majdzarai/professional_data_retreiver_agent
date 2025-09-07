@@ -1,37 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 398 of 1106
-SIZE: 341 characters
-PREVIOUS: chunk_0397_annual_report_text (1).txt
-NEXT: chunk_0399_annual_report_text (1).txt
-------------------------------
-) 
-9.a) Number of 
-options vested 
-9.b) Value of the 
-shares @ Vesting 
-date 
-9.c) Value @ 
-Exercise price 
-9.d) Added value @ 
-Vesting date (4) 
-10. Number 
-of options 
-offered 
-but not 
-yet vested 
-(5) 
-Olivier LEGRAIN, CEO 
-SOP 
-2021 
-25-01-
-21 
-01-01-
-25 
-3 years from 
-end of 
-mandate 
-(40% of 
-grant) 
-from 02-01-25 
-to 31-12-26 
-13,39
+paration) and adjusted per half day if 
+required. Non-Managing Directors do not receive any form 
+of variable remuneration and no other form of 
+fixed, equity-based or in-kind remuneration in 
+the course of the year. At present, it is not anticipated that the policy will 
+fundamentally change over the next two years. Both the level and structure of director 
+remuneration are monitored and reviewed on an 
+annual basis, which may result in an adjustment 
+when deemed necessary or appropriate. Managing Directors do not receive specific 
+director remuneration.

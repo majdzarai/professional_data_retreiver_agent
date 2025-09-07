@@ -1,60 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 695 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0694_annual_report_text (1).txt
-NEXT: chunk_0696_annual_report_text (1).txt
-------------------------------
-19 308 
-Non-current assets 
-104 635 
-22 544 
-127 179 
-0 
-127 179 
-Current assets 
-425 367 
-26 678 
-452 045 
-0 
-452 045 
-Segment assets 
-530 002 
-49 222 
-579 224 
-0 
-579 224 
-Investments accounted for using the equity method 
-18 304 
-- 
-18 304 
-0 
-18 304 
-TOTAL ASSETS 
-548 306 
-49 222 
-597 528 
-597 528 
-Non-current liabilities 
-34 806 
-3 909 
-38 715 
-0 
-38 715 
-Current liabilities 
-439 819 
-12 782 
-452 601 
-0 
-452 601 
-Segment liabilities 
-474 625 
-16 691 
-491 316 
-491 316 
-TOTAL LIABILITIES 
-474 625 
-16 691 
-491 316 
-491 316 
-Other segment information 
-Capital expenditure - Intangible assets a
+IBA does not have cash flow hedge derivatives 
+with respect to its activities in Russia, therefore 
+no further consideration has been given to the 
+application of hedge accounting. IBA also considered whether the conflict could 
+have an impact on its customers and their ability 
+to pay the balances due to IBA; no significant 
+additional credit losses were recognised for that 
+reason in the year ended December 31, 2023. 2.2.

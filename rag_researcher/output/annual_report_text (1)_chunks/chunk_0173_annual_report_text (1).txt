@@ -1,16 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 173 of 1106
-SIZE: 538 characters
-PREVIOUS: chunk_0172_annual_report_text (1).txt
-NEXT: chunk_0174_annual_report_text (1).txt
-------------------------------
-been implemented 
-to support biodiversity, such as green roofs, planting native 
-species and differential mowing to reduce our ecological 
-footprint. A pilot micro-compost of green waste is now in 
-place, in partnership with a local company to test and hopefully 
-develop this innovative practice around our facilities. MATERIALITY AND REPORTING
-To clarify its priorities, IBA maintains a materiality assessment 
-based on a dialogue with its stakeholders and the 
-reference framework recommended by the Global Reporting 
-Initiative (GRI).
+is now in place, for repair, resale or recycling. Additionally, IBA has demonstrated its focus on extending 
+the lifetime of its products, having entered a contract with 
+its first proton therapy system customer for a total system 
+restoration, bringing to a center installed 25 years ago the 
+latest proton therapy technologies. Similar refurbishment of 
+a Rhodotron installation, ensuring it meets the latest industry 
+standards and extending its operational lifetime, or relocation 
+and recommissi

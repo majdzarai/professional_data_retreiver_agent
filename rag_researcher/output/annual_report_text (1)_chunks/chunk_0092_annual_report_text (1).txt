@@ -1,13 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 92 of 1106
-SIZE: 368 characters
-PREVIOUS: chunk_0091_annual_report_text (1).txt
-NEXT: chunk_0093_annual_report_text (1).txt
-------------------------------
-vering a wide variety of topics. At the 
-end of 2023, 436 summaries of scientific articles and more 
-than 90 webinars were available on the platform. Content is 
-easily searchable and continuously updated. IBA stands committed to advancing 
-proton therapy education, from 
-project inception and well into 
-the decades ahead. Aurelien Jongen, Clinical Education Manager
+=== Page 27 ===
+Join the CAMPUS platform: campus-iba.com
+Campus, the most knowledgeable proton therapy community
+WHAT IS CAMPUS? IBA is fully committed to Proton Therapy for more than 
+30 years. The Company has come a long way to get where 
+it is today: at the top of the proton therapy market. Yet, IBA could never have achieved this on its own. Everything it has accomplished is the result of the strong 
+relationships it has built with its unique community. Because 
+turning the world into one that is cancer-free requires a great 
+deal of collaboration, knowledge sharing and joint research.

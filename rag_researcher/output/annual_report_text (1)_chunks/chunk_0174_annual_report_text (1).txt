@@ -1,15 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 174 of 1106
-SIZE: 609 characters
-PREVIOUS: chunk_0173_annual_report_text (1).txt
-NEXT: chunk_0175_annual_report_text (1).txt
-------------------------------
-materiality assessment 
-based on a dialogue with its stakeholders and the 
-reference framework recommended by the Global Reporting 
-Initiative (GRI). It is in this broad area that we are concentrating our efforts, with the hierarchy of our priorities obtained by aligning the 
-concerns of the company (outside in view) with the interests 
-of our stakeholders (inside-out view). This results in a materiality matrix that takes into account data 
-from the ongoing dialogue that IBA has established with all 
-its stakeholders, through formal and informal exchanges 
-and from publications on environmental issues.
+perational lifetime, or relocation 
+and recommissioning of a RadioPharma Solutions accelerator, further exemplify IBAs commitment to prolonging the lifespan 
+of its products and minimizing waste. Our Rhodotron industrial solutions allow in-house customers 
+or contract sterilizers to sterilize medical devices by E-beam, offering a readily available and green alternative to gases such 
+as ethylene oxide, and nuclear materials such as cobalt-60, hence avoiding associated hazardous waste and pollutants.

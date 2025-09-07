@@ -1,25 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 948 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0947_annual_report_text (1).txt
-NEXT: chunk_0949_annual_report_text (1).txt
-------------------------------
-ay however 
-arise when actual timing of cash flows differs 
-from the initial expectation and the hedging 
-position has to be rolled-over as a result. As at December 31, 2023, the Group held 18 
-forward 
-exchange 
-contracts 
-(17 
-as 
-at 
-December 31, 2022) and 9 foreign exchange 
-swaps (7 as at December 31, 2022) to cover 
-future cash flow movements in US dollars, Canadian dollars, Chinese Yuan and Korean 
-Won. Derivative at fair value through profit or 
-loss 
-As at December 31, 2023, the Group holds 2 
-forward exchange contracts (14 on December 
-31, 2022), 6 exchange rate swaps (8 swaps as 
-at
+The impact on the benefit liability of the fluctuation of the salary adjustment rate is as follows: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Salary adjustment rate 0.25% increase 
+-2 491 
+-2 802 
+Salary adjustment rate applied 
+-2 663 
+-3 021 
+Salary adjustment rate 0.25% decrease 
+-2 841 
+-3 239

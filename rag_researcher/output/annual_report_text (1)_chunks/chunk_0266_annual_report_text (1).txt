@@ -1,19 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 266 of 1106
-SIZE: 642 characters
-PREVIOUS: chunk_0265_annual_report_text (1).txt
-NEXT: chunk_0267_annual_report_text (1).txt
-------------------------------
-ial matters including group financial 
-reporting, working 
-capital 
-management, transversal finance transformation programs, and efficiency tracking. Mrs. Christine Dubus is an independent as 
-defined in article 7: 87 of the BCAC. She does 
-not maintain relations with the company or any 
-of its shareholders that would jeopardize its 
-independence. Corporate governance statement (section 3:6, 2 and 3, and 3:32, 1, 7 and 8 of the BCAC) 
-Pursuant to section 3:6, 2, 1, of the BCAC, the 
-philosophy, structure, and general principles of 
-IBA SAs corporate governance are presented in 
-the Companys Corporate Governance Charter 
-(the Charter).
+=== Page 59 ===
+IBA Annual Report 2023 
+56. IBA 
+transactions, with reporting to the Audit 
+Committee of the Group four times a year. The Group has certain investments In foreign 
+operations, whose net assets are exposed to 
+foreign currency translation risk. As appropriate, currency exposure arising from the net assets of 
+the Groups foreign operations may be managed 
+through borrowings denominated in the relevant 
+currencies. Proton Therapy segment is impacted by the 
+fluctuation of the USD exchange rate against 
+EUR.

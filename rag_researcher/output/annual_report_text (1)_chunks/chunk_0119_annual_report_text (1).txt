@@ -1,17 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 119 of 1106
-SIZE: 631 characters
-PREVIOUS: chunk_0118_annual_report_text (1).txt
-NEXT: chunk_0120_annual_report_text (1).txt
-------------------------------
-=== Page 35 ===
-IBAs consideration of its stakeholders lies at 
-the heart of its entrepreneurial ethos. For, just 
-as we are committed to our customers, patients, and shareholders, we realize that a commitment 
-to our people, to society and to the planet is key 
-to maintaining the quality of life of both present 
-and future generations. Nothing less than our societal 
-and environmental legitimacy as a company is 
-at stake. B CORP AS A TOOL TO OPERATIONALIZE 
-OUR STAKEHOLDER APPROACH. Assess: 360 thinking to identify our strengths 
-and improvement opportunities in 5 impact areas, based on a recognized and evolving standard..
+=== Page 33 ===
+PATIENT SAFETY DRIVEN BY ADVANCED 
+CUSTOMER TRAINING AND SUPPORT
+For IBA, service and support are about how the company cares 
+for its customers and their performance. With almost 50 years of dosimetry experience, and through its 
+training offerings, IBA helps its customers run their equipment 
+efficiently and safely, thereby ensuring patient safety in 
+medical imaging and radiotherapy. The qualified dosimetry 
+service teams - uniquely distributed over 3 continents - ensure 
+24/7 instant access and quality support to customers.

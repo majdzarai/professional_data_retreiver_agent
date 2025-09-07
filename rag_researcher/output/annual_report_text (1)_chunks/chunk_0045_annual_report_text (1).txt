@@ -1,15 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 45 of 1106
-SIZE: 659 characters
-PREVIOUS: chunk_0044_annual_report_text (1).txt
-NEXT: chunk_0046_annual_report_text (1).txt
-------------------------------
-lization emerged as a pivotal focus area, marked 
-by the initiation of several projects that have already yielded 
-notable successes. These include:. A comprehensive overhaul and vertical integration 
-of Beagle, an intelligent control system designed 
-to streamline operations within the irradiation facility.. The introduction of Be-In, an innovative Customer Portal aimed 
-at empowering customers with digital tools to enhance their 
-daily operations, bolster system availability, and provide 
-remote visual insights into machine parameters.. Implementation of the IBA Technical Support Center (TSC) 
-along with IBA RadioPharma Solutions and Proton Therapy.
+w sites will be available to customers from 2027. X-ray is 
+recognized by major sterilizers and manufacturers as the safest 
+technology to handle the volume growth, both for businesses 
+and for patients. Thanks to its ambitious R&D program, which was started 
+in 2010, the Rhodotron based X-ray solutions are recognized 
+as the most high-performing and sustainable product in the field. An IBA X-ray facility can treat up to 100,000 pallets and run 24/7 
+with a limited number of operators and only a few days of servicing 
+per year.

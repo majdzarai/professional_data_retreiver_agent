@@ -1,13 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 149 of 1106
-SIZE: 537 characters
-PREVIOUS: chunk_0148_annual_report_text (1).txt
-NEXT: chunk_0150_annual_report_text (1).txt
-------------------------------
-oosting the local economy. This is our way of 
-making a positive contribution to the future of society at large, and of attracting new talent to IBA. And, since 2021, we support YouthStart, an association 
-which every year trains more than 1,000 young people not in 
-Education, Employment or Training (NEETs), preparing them 
-to enter the professional world. YouthStart, an association which every year trains young people not in Education, Employment or Training (NEETs). Watch the video: Hera sponsoring. 38
-IBA
-CORPORATE BROCHURE 2024
+=== Page 41 ===
+COMMITTED TO SOCIETY
+We firmly believe that the purpose of an economic player 
+must be to promote social progress and collective well-being. The model we endorse - both externally and internally - goes 
+beyond regulatory compliance: it encourages an ethical 
+vision of practices and behavior, respect for differences 
+and a meaningful contribution to the communities around us. A big thank you for the greater 
+choice offered by the new bike lease 
+formula, for the bike allowance and 
+the excellent infrastructure at IBA.

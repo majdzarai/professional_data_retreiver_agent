@@ -1,9 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 810 of 1106
-SIZE: 282 characters
-PREVIOUS: chunk_0809_annual_report_text (1).txt
-NEXT: chunk_0811_annual_report_text (1).txt
-------------------------------
-ation is allocated among the Groups cash-generating units (CGU) that are 
-expected to benefit from synergies as a result of the business combination. This allocation is based on Managements 
-assessment of the synergies gained. Source of estimation uncertainty and critical judgments
+IBA Group as the turnover threshold is 
+not met. Tax incentives: R&D tax credit: IBA is eligible for a tax credit on the R&D investments and the tax credits are carried forward up to 5 
+years (4 years until 2022), after which point these are reimbursed. IBA accounts for these as a direct deduction from the 
+R&D expenditures in the Consolidated Statement of Income. As most of these tax credits are not immediately utilizable by 
+IBA SA, a long-term asset is recognised.

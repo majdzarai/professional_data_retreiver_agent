@@ -1,16 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 100 of 1106
-SIZE: 646 characters
-PREVIOUS: chunk_0099_annual_report_text (1).txt
-NEXT: chunk_0101_annual_report_text (1).txt
-------------------------------
-=== Page 29 ===
-1. DynamicARC is a registered brand of IBAs Proton ARC irradiation solution currently 
-under development phase. 2. Ding et al, International Journal of Radiation Oncology Biology Physics 2016 (http://
-dx.doi.org/10.1016/j.ijrobp.2016.08.049)
-3. Data on file
-1. ConformalFLAsH is a registered brand of IBAs Proton FLASH irradiation solution 
-currently under research and development phase. 2. Diffenderfer E. et Al. The Current State of Pre-Clinical Proton FLASH Radiation 
-and Future Directions; Medical Physics; 2021
-3. Bourhis J. et Al. Clinical translation of FLASH radiotherapy, Why and how? Radiotherapy and Oncology; 2019
-4.
+he medical staffs daily practice safe and easier. SUPPORT & SERVICES
+With the largest proton therapy installed base, IBA has built a 
+strong and reliable service team to guarantee the availability of 
+its proton therapy technology and consistently achieve system 
+uptime. IBA provides support teams, parts, and processes 
+to provide full system operation and maintenance services 
+while guaranteeing the highest performance standards on its 
+state-of-the-art technology.

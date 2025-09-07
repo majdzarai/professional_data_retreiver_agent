@@ -1,17 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 57 of 1106
-SIZE: 331 characters
-PREVIOUS: chunk_0056_annual_report_text (1).txt
-NEXT: chunk_0058_annual_report_text (1).txt
-------------------------------
-ion. Its product range includes advanced production 
-equipments like cyclotron solutions, targetry 
-systems, synthesizers, control systems, and more. Moreover, IBA has gained considerable expertise 
-in establishing cGMP radiopharmaceutical 
-production centers. 02
-RadioPharma 
-Solutions
-IntegraLabONE
-16
-IBA
-CORPORATE BROCHURE 2024
+, by contrast, only 3% 
+of cases are undiagnosed. If there is no improvement, the authors of the study estimated that more than 
+3 million new cases of childhood cancer would 
+be missed between 2015 and 2030. 1. Zachary J Ward, MPH, Jennifer M Yeh, PhD, Nickhill Bhakta, MD, A Lindsay 
+Frazier, MD, Prof Rifat Atun, FRCP, Estimating the total incidence of global 
+childhood cancer: a simulation-based analysis. 26 February 2019. https://www.thelancet.com/journals/ lanonc/article/
+PIIS1470-2045(18)30

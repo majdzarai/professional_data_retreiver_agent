@@ -1,45 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 978 of 1106
-SIZE: 628 characters
-PREVIOUS: chunk_0977_annual_report_text (1).txt
-NEXT: chunk_0979_annual_report_text (1).txt
-------------------------------
-ny 
-100% 
-100% 
-IBA Dosimetry America Inc. Bartlett, USA 
-100% 
-100% 
-IBA Proton Therapy Inc. Edgewood New York, USA 
-100% 
-100% 
-IBA Industrial Inc. Edgewood New York, USA 
-100% 
-100% 
-IBA USA Inc. Edgewood New York, USA 
-100% 
-100% 
-IBA Particle Therapy Ltd. Schwarzenbruck, Germany 
-100% 
-100% 
-LLC Ion Beam Applications 
-Moscow, Russia 
-100% 
-100% 
-IBA Particle Therapy India Private Limited 
-Chennai, India 
-100% 
-100% 
-IBA Dosimetry India Private Limited 2 
-Mumbai, India 
-100% 
-0% 
-Ion Beam Application SRL 
-Buenos Aires, Argentina 
-100% 
-100% 
-IBA Japan KK 
-Tokyo, Japan 
-100% 
-100% 
-Ion Beam Applications Singapore PTE.
+09 306 
+109 306 
+Others financial assets 
+1 828 
+69 829 
+71 657 
+680 
+55 927 
+56 607 
+TOTAL 
+27 293 352 097 
+379 390 
+23 888 
+274 999 
+298 887

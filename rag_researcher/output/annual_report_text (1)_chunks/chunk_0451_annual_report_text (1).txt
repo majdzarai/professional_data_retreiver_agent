@@ -1,21 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 451 of 1106
-SIZE: 645 characters
-PREVIOUS: chunk_0450_annual_report_text (1).txt
-NEXT: chunk_0452_annual_report_text (1).txt
-------------------------------
-r. To that 
-extent, IBA complies with all applicable local, national, and international laws and regulations 
-dealing with or impacting Human Rights. The 
-relevant international sources we refer to are the 
-International Bill of Human Rights, UN Guiding 
-Principles on Business and Human Rights, and 
-the principles set out in the International Labor 
-Organizations Declaration on Fundamental 
-Principles and Rights at Work. === Page 89 ===
-IBA Annual Report 2023 
-86. IBA 
-This Code of Business Conduct contains the 
-IBAs policy regarding Human Rights. It 
-establishes the common principles applicable in 
-every market where IBA has activities.
+Committee for Protection and Prevention at 
+Work. Beyond mere compliance with the law, IBA 
+conducts its business in accordance with the 
+highest standards of honesty and integrity. In addition to the Code of Business Conduct, IBAs Data Handling Policy explains how IBA 
+complies with the General Data Protection 
+Regulation (GDPR) to protect the Personal Data 
+of 
+clients, suppliers, patients, investors, contractors, staff members, and anyone else IBA 
+is doing business with.

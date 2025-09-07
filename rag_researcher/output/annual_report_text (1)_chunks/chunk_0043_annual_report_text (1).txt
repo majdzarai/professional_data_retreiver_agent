@@ -1,16 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 43 of 1106
-SIZE: 623 characters
-PREVIOUS: chunk_0042_annual_report_text (1).txt
-NEXT: chunk_0044_annual_report_text (1).txt
-------------------------------
-y is 
-recognized by major sterilizers and manufacturers as the safest 
-technology to handle the volume growth, both for businesses 
-and for patients. Thanks to its ambitious R&D program, which was started 
-in 2010, the Rhodotron based X-ray solutions are recognized 
-as the most high-performing and sustainable product in the field. An IBA X-ray facility can treat up to 100,000 pallets and run 24/7 
-with a limited number of operators and only a few days of servicing 
-per year. Through strong digitalization and sustainability 
-programs, this performance will continue to advance and lead 
-the market in the coming years.
+=== Page 16 ===
+to experience substantial growth, estimated at 5-7 times 
+their current levels over the same period. Electron beam 
+and X-ray irradiation offer competitive alternatives to ethylene 
+oxide and Gamma irradiation. Both techniques are electricity 
+based and do not present major regulation issues. Powered 
+by green energy, both are very sustainable over more than 30 
+years of usage. Moreover, this transformation is being facilitated by increased 
+accessibility, ease of use, and reliab

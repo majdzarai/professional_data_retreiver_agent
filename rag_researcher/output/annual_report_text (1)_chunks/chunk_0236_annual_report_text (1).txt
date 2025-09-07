@@ -1,22 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 236 of 1106
-SIZE: 696 characters
-PREVIOUS: chunk_0235_annual_report_text (1).txt
-NEXT: chunk_0237_annual_report_text (1).txt
-------------------------------
-d others for damages caused. Adverse 
-publicity regarding accidents or mistreatments 
-could cause patients to seek alternative methods 
-of treatment. Legal and compliance risks 
-Anti-trust / fair competition risk / ethics 
-risk 
-In our field of activity, and depending on the 
-countries and the regions concerned, bribery 
-and corruption are considered as potential 
-dangers. Being fully aware of this risk for over 25 
-years, IBA has since long published a Code of 
-Business Conduct. This code defines, among 
-other things, the strict framework in which IBA 
-conducts business, including unambiguous 
-rejection of risks related to corruption and 
-bribery. This Code is part of our work policies.
+ure and 
+effectiveness of key financial controls. Hardware, Software, and Network Controls 
+Evaluate potential system failures 
+and innovation lag risks and 
+Strategic 
+Risks 
+Legal & 
+Compliance 
+Risks 
+Financial 
+Risks 
+Digital 
+Risks 
+Operational 
+Rsks

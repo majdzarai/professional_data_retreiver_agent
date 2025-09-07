@@ -1,24 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 234 of 1106
-SIZE: 615 characters
-PREVIOUS: chunk_0233_annual_report_text (1).txt
-NEXT: chunk_0235_annual_report_text (1).txt
-------------------------------
-ific requirements of customers, IBA 
-must maintain multiple versions worldwide, with 
-the risk of maintenance, upgradability, and ability 
-to update. IBA strategy of open vendor for software drives 
-additional risks to maintain interoperability all 
-along 
-with 
-product 
-life, and 
-product 
-development. It has an impact on architecture 
-and requests close interactions with all those 
-vendors. Quality risk / consumer protection / 
-product safety risk 
-IBA is required to comply with quality standards 
-in the manufacture of its medical devices and is 
-subject to the supervision of various national 
-authorities.
+e Risk 
+Management Committee is planned for 2024. The risk overview highlights the main risk areas 
+known 
+by 
+IBA, which 
+could 
+affect 
+the 
+achievement of its strategic and financial 
+business objectives. The risk overview may, however, not include all the risks that may 
+ultimately affect IBA. IBA describes the relevant 
+factors within each risk category and provides 
+insight into the most prominent areas 
+IBA has decided to present its risks as follows: Customers, Competitors, Investors 
+Evaluate risks that drive the IBAs 
+mission and strategy.

@@ -1,19 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 642 of 1106
-SIZE: 537 characters
-PREVIOUS: chunk_0641_annual_report_text (1).txt
-NEXT: chunk_0643_annual_report_text (1).txt
-------------------------------
-ontract for this 
-center has been renewed in 2023 for another 
-year. At the same time, the installation of the 
-last treatment room is still ongoing. We have analyzed the impact of these 
-sanctions on the control of IBA SA on its 
-Russian subsidiary from a consolidation scope 
-perspective, access to its resources, and the 
-indicators of asset impairment the conflict may 
-raise: 2.1.1 Control 
-We have reviewed whether IBA Group still has 
-control over its Russian subsidiary (Ion Beam 
-Applications LLC, a 100% subsidiary of IBA 
-SA).
+=== Page 117 ===
+IBA Annual Report 2023 
+114. Notes 
+1. Summary of significant group accounting 
+policies. 115 
+2. Significant events in the period and 
+accounting estimates and judgements. 120 
+2.1. Direct financial impacts of Russias invasion 
+of Ukraine. 120 
+2.2. Climate-related matters. 121 
+2.3. Macro-economic environment. 122 
+2.4. Contributions to Pantera SA/NV. 123 
+2.5. Significant accounting estimates and 
+judgements. 124 
+3. Business combinations and other 
+changes in the composition of the group. 125 
+4. Operating segments and IBA Group 
+performance. 126 
+4.1.

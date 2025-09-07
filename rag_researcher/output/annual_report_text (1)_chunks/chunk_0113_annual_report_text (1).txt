@@ -1,17 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 113 of 1106
-SIZE: 614 characters
-PREVIOUS: chunk_0112_annual_report_text (1).txt
-NEXT: chunk_0114_annual_report_text (1).txt
-------------------------------
-ver the required dose in the exact location designated 
-by the medical team. It also increases physicians peace 
-of mind about their patients safety. SAFE HEALTH CARE PROCESSES: DISCOVER 
-RISKS, IDENTIFY CORRECTIVE SAFETY 
-MEASURES AND PREVENT ACCIDENTS
-Every clinic, regardless of its size, resources, and experience, can benefit from prospective risk management. myQA 
-PROactive enables departments to maximize safety and 
-optimize their QA program with their available resources. myQA PROactive workflow
-Watch the video. myQA iON provides high level 
-of automation and an easy 
-overview of all patient QA tasks.
+gnized 
+for its advanced tools for MR image guidance and motion 
+management capabilities. 04
+Dosimetry
+MagicMax
+Modus QA - QUASARTM MRgRT Insight Phantom
+myQA SRS
+28
+IBA
+CORPORATE BROCHURE 2024

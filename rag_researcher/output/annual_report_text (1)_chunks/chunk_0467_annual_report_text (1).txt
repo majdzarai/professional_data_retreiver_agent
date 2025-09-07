@@ -1,20 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 467 of 1106
-SIZE: 692 characters
-PREVIOUS: chunk_0466_annual_report_text (1).txt
-NEXT: chunk_0468_annual_report_text (1).txt
-------------------------------
-for certification. In accordance with B 
-Lab requirements, IBA has also modified its 
-articles of Association to formally integrate its 
-commitment to consider the consequences of its 
-activities and the interests of all stakeholders 
-(patients, shareholders, employees, customers, suppliers, the community, the planet, etc.) in 
-social, economic, legal, societal 
-and 
-environmental areas. The B Corp certification was an important but 
-humble first step; IBA is becoming an 
-inspirational company for others, which brings 
-responsibility to us and inspiration to others. Inspired by the findings along the B Corp 
-certification process, we mapped our strengths 
-and weaknesses as a company.
+s) certified in order 
+to become an IBA supplier. Risks and Risk Management 
+The November Sustainability Board focussed 
+amongst others on environmental risks and the 
+intention to work on an action plan for 2023 and 
+the 
+following 
+years. Hence, the 
+Risk 
+Management Committee will consider the 
+environmental risk as of 2023. Anti-corruption and Bribery 
+Matters 
+Policy and Targets 
+IBA has as an objective to prevent and prohibit 
+bribes or any sort of corruption and as such, the 
+Company is compliant with the applicable anti-
+corruption and bribery legislation.

@@ -1,25 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 290 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0289_annual_report_text (1).txt
-NEXT: chunk_0291_annual_report_text (1).txt
-------------------------------
-is chart cannot consider 
-the variations of which the Company has no 
-knowledge 
-as 
-they 
-do 
-not 
-reach 
-the 
-transparency notification thresholds. According to article 35 of the Companys Articles 
-of Association applicable as of 31 December 
-2020, and in accordance with article 18 of the 
-law of 2nd May 2007 relating to the disclosure of 
-significant holdings in issuers whose shares are 
-admitted to trading on a regulated market and 
-laying down various provisions, the notification 
-obligation provided for in articles 6 and following 
-of this law is applicable to the crossing, upward 
-or do
+ted transactions 
+In addition, the Chief Compliance Officer is 
+responsible for monitoring compliance with the 
+Code of Business Conduct and company 
+procedures. A reporting procedure is established 
+allowing all employees to report any incidents or 
+events representing a risk for the company. In 
+addition, since December 2021, IBA has taken 
+the initiative to establish a whistleblower platform 
+in line with Belgian, European and international 
+standards. The platform is accessible to 
+everyone through the Companys website.

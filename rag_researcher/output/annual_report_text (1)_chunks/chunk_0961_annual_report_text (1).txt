@@ -1,26 +1,21 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 961 of 1106
-SIZE: 677 characters
-PREVIOUS: chunk_0960_annual_report_text (1).txt
-NEXT: chunk_0962_annual_report_text (1).txt
-------------------------------
-ial gain recognised on the interest rates 
-renegotiation with the S.F.P.I and S.R.I.W (EUR 
--0.6 million), the net gain from a settlement
-agreement with a former partner in Italy (EUR -
-0.9 million), the future tax credits to be received
-and recognised in the current year for the
-research activities of IBA (EUR -2.0 million), the
-impact of grant amortisation and discounting
-(EUR 
--2.3 
-million), the 
-revaluation 
-and
-unwinding of interests on long term loans and
-bonds (EUR -0.7 million), the costs of the stock
-option plan (EUR +0.9 million) and the net
-impact of losses and write-downs on inventories
-(EUR +0.5 million). === Page 171 ===
-IBA Annual Report 2023 
-168. 8.2.
+of 
+these are provided in the second table below. Details of the valuation of the options granted in 
+2023 are given in this section: Option plan 
+Type of plan 
+Stock option 
+Date of grant 
+March 24, 2023; July 13, 2023; December 20, 2023 
+Number of options granted 
+79 825.00 
+Exercise price 
+17.6; 15.74; 10.76 
+Share price at date of grant 
+17.59; 15.79; 10.75 
+Contractual life (years) 
+5.78; 5.47; 5.04 
+Settlement 
+Shares 
+Expected volatility 
+48.26%; 47.33%. 45.57% 
+Risk-free interest rate 
+2

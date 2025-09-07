@@ -1,13 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 131 of 1106
-SIZE: 504 characters
-PREVIOUS: chunk_0130_annual_report_text (1).txt
-NEXT: chunk_0132_annual_report_text (1).txt
-------------------------------
-d countries, the new 
-MyChoice plan is designed to better align the individual value 
-of a salary benefit with the individual needs of IBA employees. Each employee can, within set limits, use his or her a la carte 
-budget to receive benefits such as complementary health 
-insurance, multimedia, education or mobility means. International Womens Day at IBA Dosimetry
-One of the ideas behind this change is that before we evaluated people and granted them 
-a bonus on the basis of objectives they achieved.
+=== Page 37 ===
+COMMITTED TO OUR EMPLOYEES
+As Yves Jongen, IBAs founder, always reminds us, our 
+people are IBAs most valuable asset. After all, would our 
+mission statement to protect, enhance and save lives still 
+make sense if it isnt put into practice for and by our employees? As a responsible employer, we want to provide our employees 
+with safe and efficient working conditions and a friendly 
+environment conducive to their professional and personal 
+development. AT OUR BEST
+Peak performance is achieved when we are at our best.

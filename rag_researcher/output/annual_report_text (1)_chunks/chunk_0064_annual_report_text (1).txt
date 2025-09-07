@@ -1,17 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 64 of 1106
-SIZE: 536 characters
-PREVIOUS: chunk_0063_annual_report_text (1).txt
-NEXT: chunk_0065_annual_report_text (1).txt
-------------------------------
-topes in the radioactive tracers, IBAs 
-CycloneKIUBE cyclotron offers the highest production 
-capacity enabling increased diagnostic capabilities. 3. By offering adjustable production solutions, the Cyclone
-KIUBE produces the widest range of radioisotopes, enabling 
-it to produce fluorodeoxyglucose (FDG, the most commonly 
-used radiopharmaceutical for cancer diagnosis), Gallium-68 
-for the diagnosis of neuroendocrine tumors, and Copper-64 
-for a more accurate diagnosis of prostate cancer. CycloneKEY 
-CORPORATE BROCHURE 2024
-IBA
-17
+l, reduction of morbidity and lower cost of care. Cancer Research UK2 confirmed that the average cancer 
+survival rate for the 8 most common cancers amongst patients 
+with stage 1 cancer is 90%. However, the survival rate plummets 
+to just 5% when the patient is diagnosed as having stage 
+4 cancer. In light of these findings, and in keeping with its mission 
+to protect, enhance and save lives, IBA is committed to making 
+cancer diagnosis more accessible around the world by working 
+on several levels: 1.

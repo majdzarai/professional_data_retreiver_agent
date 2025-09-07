@@ -1,21 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 340 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0339_annual_report_text (1).txt
-NEXT: chunk_0341_annual_report_text (1).txt
-------------------------------
-be independent directors, chosen for their 
-experience, discernment, and personality and 
-who meet the definition of section 7:87 of the 
-BCAC. (b) 
-at least one-third of its members 
-(hereinafter referred to as "internal directors") 
-must be elected on the proposal of the managing 
-director(s); (c) 
-the other directors (hereinafter referred 
-to as "other directors") shall be appointed freely 
-by the General Meeting, provided however that 
-no more than two of these other directors may 
-be "directly or indirectly related to the same 
-shareholder" (or to a company or person linked 
-to it) withi
+inciples of IBAs social and staff-related policy. It is, among others, based on the International 
+Labor 
+Organizations 
+Declaration 
+on 
+Fundamental Principles and Rights at Work. In addition, the Board approved in its meeting of 
+December 2021 the Companys Diversity, Equity 
+and Inclusion Policy (DEI Policy") as follows: Diversity, Equity and Inclusion are fundamental 
+aspects of IBAs sustainability approach. We 
+value the uniqueness.

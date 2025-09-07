@@ -1,24 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 123 of 1106
-SIZE: 685 characters
-PREVIOUS: chunk_0122_annual_report_text (1).txt
-NEXT: chunk_0124_annual_report_text (1).txt
-------------------------------
-assess, benchmark 
-and ultimately improve our sustainability journey. And being a 
-certified B Corp provides what is often lacking elsewhere: proof. Through its recertification in 2024 at a score of 114 points 
-(vs 90 points in 2021), IBA is strengthening its presence within 
-the B Corp community of more than 8,000 businesses globally. Patients / Clients
-Shareholders
-Employees
-Society
-Planet
-We want to test our ability to operate 
-to high social, environmental and 
-governance standards. We took 
-the time we needed to understand 
-the B Corp certification, and what 
-it means in practice for the whole 
-Group. Weve been certified since 
-2021, but theres still a lot of work 
-to do.
+TOOL TO OPERATIONALIZE 
+OUR STAKEHOLDER APPROACH. Assess: 360 thinking to identify our strengths 
+and improvement opportunities in 5 impact areas, based on a recognized and evolving standard.. Compare: a community of 8,000+ companies 
+worldwide, to benchmark our performance and share 
+best practices.. Improve: a framework to set milestones on our 
+sustainability journey.. Advocate: an inspiration for others, a contribution 
+to the advancement of sustainability standards.

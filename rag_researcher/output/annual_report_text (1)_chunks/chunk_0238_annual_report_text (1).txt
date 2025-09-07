@@ -1,21 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 238 of 1106
-SIZE: 692 characters
-PREVIOUS: chunk_0237_annual_report_text (1).txt
-NEXT: chunk_0239_annual_report_text (1).txt
-------------------------------
-e end 
-of 2021. The latest revision includes additional 
-principles on environment protection, respect of 
-human rights, and anti-corruption matters. In addition to the Code of Conduct, control 
-mechanisms are implemented throughout the 
-organization to prevent and detect frauds, including 
-separation 
+cause 
 of 
-duties, regular 
-independent audits of travel and entertainment 
-expenses, and the availability of a fraud 
-reporting procedure. Respect for Ethics is also part of our terms with 
-suppliers of products and services, agents, distributors, and partners (see for example the 
-IBA Code of Conduct for Suppliers). Intellectual property risk 
-The Company holds intellectual property rights.
+competing 
+technological 
+development. Asset depreciation risk 
+IBA invests in companies whose business sector 
+is complementary to its own. In most cases, these are recently established companies in 
+innovative sectors. IBA cannot guarantee that all 
+these investments will be profitable in the future 
+or that some projects will not be purely and 
+simply terminated. Staff bench strength risk 
+Since IBA was established, the number of highly 
+qualified persons employed by the Company has 
+significantly increased.

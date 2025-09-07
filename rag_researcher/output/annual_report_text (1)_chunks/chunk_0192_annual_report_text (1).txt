@@ -1,41 +1,27 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 192 of 1106
-SIZE: 459 characters
-PREVIOUS: chunk_0191_annual_report_text (1).txt
-NEXT: chunk_0193_annual_report_text (1).txt
-------------------------------
-s the 
-customer-related delays in backlog conversion 
-of some ProteusPLUS projects in China and 
-project mix, including older lower margin 
-projects. In 
-addition, targeted 
-investment 
-(EUR 000) 
-FY 2023 
-FY 2022 
-Variance 
-Variance % 
-Equipment Proton Therapy 
-113 449 
-110 162 
-3 287 
-3.0% 
-Services Proton Therapy 
-115 616 
-108 599 
-7 017 
-6.5% 
-Net sales 
-229 065 
-218 761 
-10 304 
-4.7% 
-REBIT2 
--23 403 
-4 383 
--27 786 
--634.0% 
-% of Sales 
--10.2% 
-2.0%
+Performance 
+significantly 
+second 
+half 
+weighted, as 
+anticipated, with 
+strong 
+execution of backlog, resulting in positive 
+Group REBIT of EUR 6.4 million (FY22 EUR 
+11.1 million)
+
+Very 
+strong 
+Other 
+Accelerators 
+and 
+Dosimetry REBIT driven by high value 
+backlog conversion and sales growth, compensating 
+Proton 
+Therapy 
+REBIT
+
+=== Page 50 ===
+IBA Annual Report 2023 
+47. IBA 
+affected by customer delays, inflationary 
+pressures and R&D investments

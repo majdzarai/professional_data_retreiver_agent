@@ -1,19 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 339 of 1106
-SIZE: 598 characters
-PREVIOUS: chunk_0338_annual_report_text (1).txt
-NEXT: chunk_0340_annual_report_text (1).txt
-------------------------------
-wing: Article 11: The company is managed by a board of directors 
-comprised of a minimum of three members and 
-a maximum of twelve members, appointed by 
-the shareholders general meeting for a 
-renewable term, which shall not exceed the legal 
-term. Article 12: The structure of the board of directors must at all 
-times reflect the following equilibrium: (a) 
-at least one-third of its members 
-(hereafter referred to as independent directors) 
-must be independent directors, chosen for their 
-experience, discernment, and personality and 
-who meet the definition of section 7:87 of the 
-BCAC. (b)
+hief Financial Officer since 2016/ Working at IBA since 2004, consecutively Group Consolidator, Group Financial Analyst, VP 
+Corporate Finance and VP Finance, Medical Accelerators Solutions/ 5 
+years as Senior Auditor at EY 
+Frederic Nolf 
+Chief Human Resources & 
+Sustainability Officer 
+Joined IBA in 2007 as HR Director Particle Therapy/ Previously working 
+at Abbott Vascular (Guidant) and GSK in various HR roles 
+DIVERSITY, EQUITY AND INCLUSION POLICY 
+(SECTION 3:6, 2, 6, OF THE BCAC) 
+The Code of Business Conduct sets out the 
+principles of IBAs social and staff-related policy.

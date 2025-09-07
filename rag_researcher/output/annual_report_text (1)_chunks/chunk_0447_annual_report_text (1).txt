@@ -1,20 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 447 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0446_annual_report_text (1).txt
-NEXT: chunk_0448_annual_report_text (1).txt
-------------------------------
-f 
-implementation in IBAs system. To mitigate 
-Cyber risk, several measures have already been 
-implemented and further measures will be 
-implemented. As of August 23, 2021, a Data 
-Protection Officer has been put in function 
-Risks and Risk Management 
-The risks and risk management of the anti-
-corruption and bribery matters are described 
-above, in the dedicated Section Principal Risks 
-and Uncertainties faced by the Company 
-(Sections 3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the BCAC).In order to limit its bribery and 
-corruption risk, IBA is continuously identifying 
-the specific risks it cou
+ry one of us 
+to fully contribute to its success. IBA is committed to provide equal employment 
+opportunities 
+and 
+treating 
+applicants 
+and 
+employees 
+without 
+discrimination. No 
+discrimination is based on race, color, age, sex 
+(including pregnancy, sexual orientation, or 
+gender 
+identity), national 
+origin, religion, language, veteran status, genetic information 
+(including family medical history), and physical 
+or mental disability. The Companys DEI policy is 
+that no one at IBA should ever be subject to any 
+kind of discrimination.

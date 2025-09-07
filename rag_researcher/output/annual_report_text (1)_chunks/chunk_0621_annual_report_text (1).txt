@@ -1,22 +1,35 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 621 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0620_annual_report_text (1).txt
-NEXT: chunk_0622_annual_report_text (1).txt
-------------------------------
-f that 
-period. The amendments did not have a material 
-impact on the Group as the clarifications are 
-confirming the current practices of the Group. Amendments to IAS 1 and IFRS 
-Practice Statement 2 - Disclosure of 
-Accounting Policies 
-The IASB provides guidance and examples to 
-help entities apply materiality judgements to 
-accounting 
-policy 
-disclosures. The 
-amendments aim to help entities provide 
-accounting policy disclosures that are more 
-useful by replacing the requirement for entities 
-to disclose their significant accounting policies 
-with a requirement to disclose their material
+5 
+Current borrowings 
+5.10. 3 734 
+6 469 
+Current lease liabilities 
+5.10. 5 675 
+6 104 
+Current provisions 
+5.11 
+7 647 
+8 783 
+Current derivative financial liabilities 
+7.3. 2 907 
+555 
+Trade payables 
+5.12.1. 65 559 
+76 564 
+Current income tax liabilities 
+5.12. 3 853 
+1 723 
+Other payables 
+5.12. 75 578 
+68 914 
+Contract liabilities 
+4.3.1. 296 219 
+283 489 
+Current liabilities 
+461 172 
+452 601 
+TOTAL LIABILITIES 
+507 948 
+491 316 
+TOTAL EQUITY AND LIABILITIES 
+623 899 
+597 528

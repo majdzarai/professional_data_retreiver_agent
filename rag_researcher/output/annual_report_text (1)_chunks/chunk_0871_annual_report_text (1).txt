@@ -1,38 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 871 of 1106
-SIZE: 333 characters
-PREVIOUS: chunk_0870_annual_report_text (1).txt
-NEXT: chunk_0872_annual_report_text (1).txt
-------------------------------
-00 
-3 851 
-3 000 
-2 906 
-EUR 
-Fixed 
-2026 
-Amortizing 
-Overdraft facility - 
-China 
-Senior 
-Secured 
-0 
-0 
-0 
-0 
-CNY 
-Floating** UFN *** 
-Revolving 
-Revolving credit 
-facilities 
-Senior 
-Secured 
-0 
-0 
-0 
-0 
-EUR 
-Floating* 
-2024 
-Revolving 
-* EURIBOR + margin dependent on Net Leverage ratio ** MCLR + margin *** Until further notice
+the 
+carrying amount is reduced to nil and recognition of further losses is discontinued except to the extent that IBA has 
+committed to further contributions to that associate or JV. === Page 150 ===
+IBA Annual Report 2023 
+147. 5.5. OTHER SHARES AND PARTICIPATIONS 
+The carrying amount of IBAs holding of shares and participations in other companies is disclosed in the 
+table below
+(EUR 000) 
+2022 
+2023 
+As at January 1 
+12 923 
+3 805 
+Movements through reserves (Valuation at fair value - IFRS

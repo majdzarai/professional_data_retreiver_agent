@@ -1,54 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 896 of 1106
-SIZE: 442 characters
-PREVIOUS: chunk_0895_annual_report_text (1).txt
-NEXT: chunk_0897_annual_report_text (1).txt
-------------------------------
-(EUR 000) 
-January 
-1, 2023 
-Service 
-cost 
-Net 
-interest 
-expenses 
-Actuarial change 
-arising from 
-change in financial 
-assumptions 
-Contributions 
-by employer 
-Deferred 
-population 
-Benefits 
-plan 
-December 
-31, 2023 
-Defined benefit 
-obligation 
--13 893 
--1 674 
--508 
--1 538 
-398 
-0 
-287 
--16 928 
-Fair value of plan assets 
-11 230 
-0 
-452 
-423 
-2 089 
-0 
--287 
-13 907 
-Benefit liability 
--2 663 
--1 674 
--56 
--1 115 
-2 487 
-0 
-0 
--3 021
+The adjustment for individual balances overdue 
+by more than 360 days EUR 44.7 million is 
+driven by 4 ProtonTherapy equipment projects 
+and no allowance for credit loss has been 
+recognised for various reasons, such as projects 
+on hold with limited exposure, post balance 
+sheet payments, arbitration procedures ongoing 
+etc. These are followed closely by Management 
+who is confident in the ability of IBA to recover 
+these balances.

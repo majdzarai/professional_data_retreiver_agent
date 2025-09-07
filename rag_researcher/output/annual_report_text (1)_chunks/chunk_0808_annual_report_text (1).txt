@@ -1,21 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 808 of 1106
-SIZE: 602 characters
-PREVIOUS: chunk_0807_annual_report_text (1).txt
-NEXT: chunk_0809_annual_report_text (1).txt
-------------------------------
-23, IBA further contributed to the capital of 
-PanTera 
-SA/NV 
-with 
-cash 
-to 
-purchase 
-equipment from IBA and IP in kind as described 
-in Note 2.4. The gain on this transation has been 
-recognised only to the extent of unrelated 
-investors interests, being 50%, against Other 
-operating income for EUR 2.2 million. Accounting policy for impairment of assets 
-As the Group does not carry any intangible asset with an indefinite useful life, IBA is only testing the goodwill 
-recognised on business combinations annually for impairment, after the latest strategic plan has been approved by 
-Management.
+ation exercise done on the 
+acquisition of Modus. Deferred tax assets are recognized on tax loss 
+carry-forwards to the extent that it is probable 
+that they can be recovered through future 
+earnings. On December 31, 2023, EUR 39.5 million (EUR 
+38.4 million in 2022) of deferred taxes were not 
+recognized 
+as 
+assets 
+in 
+the 
+financial

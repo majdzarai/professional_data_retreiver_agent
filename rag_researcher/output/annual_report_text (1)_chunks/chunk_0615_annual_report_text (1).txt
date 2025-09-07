@@ -1,19 +1,33 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 615 of 1106
-SIZE: 576 characters
-PREVIOUS: chunk_0614_annual_report_text (1).txt
-NEXT: chunk_0616_annual_report_text (1).txt
-------------------------------
-cial statements for the year ended 
-December 31, 2022, except for the adoption of 
-new standards and interpretations effective as 
-of 1 January 2023. Changes in estimates are accounted for 
-prospectively. Significant errors are accounted 
-for retrospectively, but there were no such 
-significant accounting errors recorded in these 
-consolidated financial statements. 1.2.3 Standards issued and 
-effective 
-The Group applied for the first time certain 
-standards and amendments endorsed by the 
-EU, which are effective for annual periods 
-beginning on or after 1 January 2023.
+ace value 
+24 412 
+17 516 229 
+24 412 
+17 516 229 
+Ordinary shares without designation of face value with WPR strips 
+18 001 
+12 702 489 
+18 001 
+12 702 489 
+2.2 Registered or bearer shares 
+Registered shares 
+8 145 467 
+8 145 467 
+Bearer shares 
+22 073 251 
+22 073 251 
+Own shares held by 
+The Company itself 
+1 559 
+1 110 781 
+1 545 
+1 100 781 
+Its subsidiaries 
+73 
+51 973 
+73 
+51 973 
+Stock issue commitments 
+Following exercise of share options 
+Number of outstanding share options 
+1 115 682 
+1

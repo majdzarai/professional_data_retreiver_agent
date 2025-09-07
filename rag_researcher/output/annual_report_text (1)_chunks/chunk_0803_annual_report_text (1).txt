@@ -1,14 +1,21 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 803 of 1106
-SIZE: 659 characters
-PREVIOUS: chunk_0802_annual_report_text (1).txt
-NEXT: chunk_0804_annual_report_text (1).txt
-------------------------------
-ry entities. (2) Rate consistent with expected growth in the sector. The recoverable amount of goodwill has been 
-determined on a value in use basis. For the CGU Dosimetry, if the growth rate is 
-decreased by 100 basis points and the discount 
-rate is increased by 100 basis points, the 
-recoverable amount remains greater than the 
-carrying amount of the tested assets. No 
-impairment was identified in 2023 and in 2022. the commencement date, the Group reassesses the lease term if there is a significant event or change in circumstances that 
-is within its control and affects its ability to exercise or not to exercise the option to renew or to terminate.
+hs - temporary differences 
+0 
+0 
+TOTAL 
+1 495 
+1 023 
+Deferred tax liabilities netted against the deferred tax assets in the statement of 
+financial position for entities that are part of the same fiscal group 
+-739 
+-737 
+Total DTL recognised 
+756 
+286 
+Net deferred tax assets 
+19 455 
+17 340 
+Deferred tax assets have decreased from EUR 
+20.2 million as at year ended December 31, 2022 to EUR 17.6 million as at December 31, 2023, representing a decrease of temporary 
+differences by EUR 0.3 million and a decrease 
+of usable tax losses carried forward by EUR 2.3 
+million.

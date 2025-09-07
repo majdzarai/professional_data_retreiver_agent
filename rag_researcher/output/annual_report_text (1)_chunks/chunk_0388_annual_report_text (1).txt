@@ -1,15 +1,18 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 388 of 1106
-SIZE: 387 characters
-PREVIOUS: chunk_0387_annual_report_text (1).txt
-NEXT: chunk_0389_annual_report_text (1).txt
-------------------------------
-At the group level, the Order Intake portion and 
-the PBT portion did not generate any payment, and a B-Corp interim assessment by an 
-independent body led to a payment of 150. This 
-resulted in a final pay-out of 51%. The variable pay is capped at 150% of target 
-payment. There was no need to apply this cap 
-for performance year 2023. Score 
-Unsatisfactory 
-Improvement Needed 
-Medium
+s 
+and members of the Executive Management 
+Team. Each of them has to acquire, hold and 
+retain directly or indirectly a number of Company 
+shares corresponding to 100.000 IBA shares for 
+the Managing Directors and to 10.000 IBA 
+shares 
+for 
+members 
+of 
+the 
+Executive 
+Management Team. The MHR shall have to be 
+reached at the latest by 31st December 2026. The MHR can be built up in the manner which is 
+deemed most appropriate by the individual on 
+whom such minimum is imposed, including 
+through the Long-Term Incentive plan described 
+above.

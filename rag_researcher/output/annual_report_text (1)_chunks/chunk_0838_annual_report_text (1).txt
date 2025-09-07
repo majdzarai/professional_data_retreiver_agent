@@ -1,9 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 838 of 1106
-SIZE: 349 characters
-PREVIOUS: chunk_0837_annual_report_text (1).txt
-NEXT: chunk_0839_annual_report_text (1).txt
-------------------------------
-anned labour and overhead costs. Any variances with actual costs is included in the line Cost of 
-Goods Sold in the consolidated statement of income. The net realizable value is assessed by reviewing the ageing of each individual inventory item and the value of inventory is 
-adjusted for obsolescence and slow moving items with the following policy
+=== Page 145 ===
+IBA Annual Report 2023 
+142. Dynamitron 
+business, which 
+have 
+been 
+recorded in Other operating expenses for EUR 
+0.4 million. In 2023, we observe a significant incerase of 
+new leased cars which follows the increase in 
+headcount but also 2022 was impacted by 
+important delivery delays in the car industry. The other significant addition to fixed assets 
+relates to the installation of the new solar 
+carports on IBAs premises as well as some 
+major repairs on the older buildings.

@@ -1,10 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 585 of 1106
-SIZE: 208 characters
-PREVIOUS: chunk_0584_annual_report_text (1).txt
-NEXT: chunk_0586_annual_report_text (1).txt
-------------------------------
-The notes on pages 114 to 174 are an integral part of these consolidated financial statements. === Page 113 ===
+2023. Share premiums amount to 
+EUR 43.5 million. Both subscribed capital and 
+share premium remained unchanged compared 
+to 2022. === Page 104 ===
 IBA Annual Report 2023 
-110. Consolidated income statement for the year 
-ended December 31, 2023
+101. IBA 
+IBA SA currently has four stock option plans in 
+place, fully subscribed per December 31, 2023. The plans for 2014 and 2015 expire on June 30, 2024. In June 2020, a stock option plan was 
+issued comprising medium-term options as well 
+as long-term options: medium-term options 
+expire on June 30, 2026; long-term options 
+expire on June 30, 2030.

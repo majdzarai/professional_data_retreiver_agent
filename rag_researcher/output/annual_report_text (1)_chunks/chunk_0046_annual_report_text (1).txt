@@ -1,16 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 46 of 1106
-SIZE: 567 characters
-PREVIOUS: chunk_0045_annual_report_text (1).txt
-NEXT: chunk_0047_annual_report_text (1).txt
-------------------------------
-insights into machine parameters.. Implementation of the IBA Technical Support Center (TSC) 
-along with IBA RadioPharma Solutions and Proton Therapy. The TSC serves as an intelligent knowledge repository 
-facilitating efficient knowledge sharing, accelerating 
-troubleshooting processes, and fostering autonomy in 
-problem-solving endeavors. E-BEAM AND X-RAY IRRADIATION IS 
-RECOGNIZED AS THE SAFEST TECHNOLOGY 
-TO HANDLE THE GROWTH OF THE MEDICAL 
-DEVICE INDUSTRY
-The medical device industry has a wide range of products that 
-enable patient diagnosis and treatment.
+ators and only a few days of servicing 
+per year. Through strong digitalization and sustainability 
+programs, this performance will continue to advance and lead 
+the market in the coming years. In 2023, IBA has introduced a new level of X-Ray integration 
+and automation, including robotize quality control. X-Ray represents today around 50% of the activity 
+of IBA Industrial. GETTING READY FOR THE FUTURE 
+THROUGH DIGITALIZATION
+In 2023, digitalization emerged as a pivotal focus area, marked 
+by the initiation of several projects that have already yielded 
+notable successes. These include:.

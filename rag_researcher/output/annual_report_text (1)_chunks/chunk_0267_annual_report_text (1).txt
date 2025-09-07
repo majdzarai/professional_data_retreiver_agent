@@ -1,24 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 267 of 1106
-SIZE: 684 characters
-PREVIOUS: chunk_0266_annual_report_text (1).txt
-NEXT: chunk_0268_annual_report_text (1).txt
-------------------------------
-sophy, structure, and general principles of 
-IBA SAs corporate governance are presented in 
-the Companys Corporate Governance Charter 
-(the Charter). The Charter is available on the 
-Company's website www.iba-worldwide.com, on 
-the 
-following 
-page 
-https://iba-
-worldwide.com/investor-relations/legal. The Company has implemented the principles 
-laid out in the 2020 Belgian Code of Corporate 
-Governance by adopting the Charter. The 
-Company has explained in its Corporate 
-Governance Charter, as well as further in this 
-Management Report where and why it deviates 
-from the Code. The Charter was endorsed by IBAs Board of 
-Directors during its meeting held on 18th 
-December 2020.
+luctuation of the USD exchange rate against 
+EUR. In 2023 a fluctuation of -3% of USD 
+against EUR would have had a negative impact 
+on the sales of Proton Therapy segment of -
+1.12% (-1.10% in 2022). The Dosimetry segment is impacted by the 
+fluctuation of the USD exchange rate against 
+EUR. In 2023 a fluctuation of -3% of USD 
+against EUR would have had a negative impact 
+on the sales of the Dosimetry segment of -0.46% 
+(-0.40% in 2022).

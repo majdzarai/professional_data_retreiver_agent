@@ -1,27 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 379 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0378_annual_report_text (1).txt
-NEXT: chunk_0380_annual_report_text (1).txt
-------------------------------
-eration. The remuneration they 
-receive for their direct or indirect role in the 
-company includes compensation for their 
-director responsibilities. Departure allowances (section 3: 6, 3, 3, of the BCAC) 
-Termination agreements with non-Managing Director 
-The schedule below summarizes the main contractual agreements, concerning each non-Managing 
-Director, in relation to termination at the initiative of the Company. NON-MANAGING 
-DIRECTORS 
-START OF 
-TERM 
-END OF TERM 
-APPLICABLE NOTICE 
-PERIOD 
-TERMINATION 
-AGREEMENT 
-Saint-Denis SA, represented 
-by Pierre Mottet 
-1998 
-GAM 2025 
-None 
-None
+ectors and other Executive 
+Management 
+Team 
+members, total 
+remuneration 
+generally 
+consists 
+of 
+fixed 
+remuneration, variable remuneration and long-
+term incentives. The weight of the different 
+remuneration components, as part of total 
+remuneration differs on an individual basis. In 
+general terms, the weight of each component of 
+remuneration accounts for a part of total 
+remuneration that may be summarized as 
+follows: Managing directors and other executive management team members

@@ -1,12 +1,43 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 917 of 1106
-SIZE: 296 characters
-PREVIOUS: chunk_0916_annual_report_text (1).txt
-NEXT: chunk_0918_annual_report_text (1).txt
-------------------------------
-risk, covenant risks. 7.2. CAPITAL MANAGEMENT 
-The Groups aim is to optimize the capital 
-structure in order to maximize its value for the 
-shareholders while maintaining the financial 
-flexibility required carrying out the strategy 
-approved by the Board of Directors. 7.3. FINANCIAL INSTRUMENTS
+income in the consolidated 
+statement of income). The maturities of bank and other borrowings and 
+lease liabilities are detailed as follows: (EUR 000) 
+Bank borrowings 
+Leases 
+Total 
+Bank borrowings Leases 
+Total 
+Due 
+0 
+0 
+0 
+2 734 
+0 
+2 734 
+One year or less 
+3 734 
+5 679 
+9 413 
+3 568 
+6 104 
+9 672 
+Between 1 and 2 years 
+3 467 
+4 312 
+7 779 
+3 610 
+4 112 
+7 722 
+Between 2 and 5 years 
+7 180 
+5 535 12 715 
+3 671 
+7 566 
+11 237 
+Over 5 years 
+0 
+10 960 10 960 
+0 
+10 217 
+10 217 
+TOTAL 
+14 3

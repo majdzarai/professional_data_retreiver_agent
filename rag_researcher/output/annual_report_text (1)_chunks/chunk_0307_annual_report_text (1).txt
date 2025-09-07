@@ -1,14 +1,38 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 307 of 1106
-SIZE: 658 characters
-PREVIOUS: chunk_0306_annual_report_text (1).txt
-NEXT: chunk_0308_annual_report_text (1).txt
-------------------------------
-eeting as candidate independent directors on their election, without excluding the fact that 
-other directors also fulfill the independence criteria. None of the independent directors ceased during the financial year to 
-fulfill the independence criteria set out in the corporate charte. The Board of Directors considers that the current non-renewable mandate of Mr. Marcel Miller, representing Consultance 
-Marcel Miller S.Comm. as independent director is in line with Article 7:87 CCA and will end at the General Meeting of 
-2026. Remuneration committee 
-The Remuneration Committee met 2 times in 
-2023. A report on each meeting was provided to 
-the Board.
+Sub-total 
+ 606 885 
+2,00% 
+ 606 885 
+2,00% 
+Sustainable Anchorage SRL 
+6 204 668 
+20,49% 
+6 204 668 
+20,49% 
+IBA Investment SCRL 
+ 51 973 
+0,17% 
+ 51 973 
+0,17% 
+Management Anchorage 
+ 348 530 
+1,15% 
+ 348 530 
+1,15% 
+SRIW SA
+
+58 200 
+0,19% 
+ 58 200 
+0,19% 
+Belfius Insurance SA 
+1 189 196 
+3,93% 
+1 189 196 
+3,93% 
+Institut des Radioelements 
+FUP 
+1 423 271 
+4,70% 
+1 423 271 
+4,70% 
+BNP Paris

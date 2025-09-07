@@ -1,14 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 450 of 1106
-SIZE: 533 characters
-PREVIOUS: chunk_0449_annual_report_text (1).txt
-NEXT: chunk_0451_annual_report_text (1).txt
-------------------------------
-e, freedom of opinion and expression, the right to 
-work and education, and many more. Everyone 
-is entitled to these rights, without discrimination. Respect of Human Rights is essential to ensure 
-a sustainable working environment for everyone. It is also essential to act for a better world and it 
-is a part of how the Company wants to behave 
-and the values we want to be known for. To that 
-extent, IBA complies with all applicable local, national, and international laws and regulations 
-dealing with or impacting Human Rights.
+azardous and goes against the No Harm 
+principle. The Code also defines working times 
+that cannot be exceeded, even if local rules and 
+regulations allow for such excess. Other internal 
+policies ensure a high level of safety for all 
+employees (e.g. the Working at Height Policy, the PPE Matrix Policy, the Global Radiation 
+Safety Policy, the LOTO Policy, the Electrical 
+Policy,). The implementation, monitoring, and 
+updating of these policies are discussed in the 
+Committee for Protection and Prevention at 
+Work.

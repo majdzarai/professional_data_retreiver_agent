@@ -1,20 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 83 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0082_annual_report_text (1).txt
-NEXT: chunk_0084_annual_report_text (1).txt
-------------------------------
-ed in the trial. A total of 
-approximately 400 patients are expected to be included 
-in the randomized trial with study completion planned 
-for 2027. It is hoped that the trial will produce high-quality data, which will contribute towards the creation of European 
-guidelines on the use of proton therapy for esophageal 
-cancer. More information: https://protecttrial.eu/
-340,000 patients treated with PT worldwide 
-at the end of 20232
-340,000 patients
-Protect, enhance and save 
-lives by contributing to 
-MORE TARGETED TREATMENTS
-Proton therapy is one of the most advanced forms 
-of radiation therap
+=== Page 25 ===
+1. Makbule Tambas et al, Radiotherapy 
+and Oncology https://doi.org/10.1016/j. radonc.2020.07.056
+2. Source: PTCOG
+One of the initiatives IBA Proton Therapy is currently 
+supporting is the PROTECTTrial. The PROTECT Trial 
+is a large-scale, multi-institutional, randomized 
+controlled clinical trial in conjunction with 19 industry 
+and academic partners. The consortium conducts 
+trials in esophageal cancer with the aim of improving 
+access to proton therapy for patients, whilst validating 
+a model-based approach for the use of proton therapy 
+treatment in cancer more broadly.

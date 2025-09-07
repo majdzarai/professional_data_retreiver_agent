@@ -1,35 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 303 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0302_annual_report_text (1).txt
-NEXT: chunk_0304_annual_report_text (1).txt
-------------------------------
-n 
-Business 
-Association) and several funds and start-ups 
-in the field of health and environment 
-Yves Jongen(1) 
-1991 
-GM 
-2024 
-Chief Research Officer / Internal 
-Director / Managing Director / NC / PC 
-/ SC 
-Before the incorporation of IBA in 1986, Director of the Cyclotron Research Center of 
-the Universite Catholique de Louvain (UCL) 
-Nextstepefficiency 
-SAS 
-(represented by Christine Dubus) 
-(2) 
-2021 
-GM 
-2024 
-Independent Director / AC 
-(chairwoman) 
-Executive Director at Credit Mutuel Equity, Credit 
-Mutuel 
-Alliance 
-Federaless 
-Subsidiary 
-Consultance Marcel Miller SCS 
-(represente
+s every quarter or more 
+frequently if necessary. The Audit Committee 
+receives a summary of the control reviews 
+conducted internally; underlining weaknesses 
+identified by the internal audit department. It also 
+receives any comments made by external 
+auditors on the accounting decisions and 
+evaluation rules used in the preparation of 
+financial statements, as well as their proposed 
+action in relation to internal control.

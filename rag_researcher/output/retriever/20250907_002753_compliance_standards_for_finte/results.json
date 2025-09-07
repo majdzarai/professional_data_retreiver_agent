@@ -1,0 +1,18 @@
+{
+  "query": "compliance standards for fintech companies",
+  "timestamp": "2025-09-07 00:27:53",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "We have also verified, in accordance with the draft standard on the verification of the compliance of \nthe financial statements with the European Uniform Electronic Format (hereinafter ESEF), the \ncompliance of the ESEF format with the regulatory technical standards established by the European \nDelegate Regulation No. 2019/815 of 17 December 2018 (hereinafter: Delegated Regulation). The board of directors is responsible for the preparation, in accordance with ESEF requirements, of \nthe consolida",
+      "similarity_score": 0.36511132478713987
+    }
+  ]
+}

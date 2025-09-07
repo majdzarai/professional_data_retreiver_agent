@@ -1,19 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 286 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0285_annual_report_text (1).txt
-NEXT: chunk_0287_annual_report_text (1).txt
-------------------------------
-municating this 
-financial information to the market, based on 
-whether the information is restricted or not, and 
-commercial or financial in nature. Management 
-Evaluation of the internal control system takes 
-place primarily when the management bodies 
-review the financial statements and analyses 
-prepared by the Finance Department, as well as 
-during the follow-up on the effectiveness of 
-internal control and risk management systems 
-by the Audit Committee. The analysis tools referred to above are 
-established in line with the accounting principles 
-validated by the Audit Committee and Boar
+NS 3:6, 2, 3 AND 3:32, 1, 7, OF THE BCAC) 
+Management has established an Internal Control 
+system addressing its operations and financial 
+reporting objectives. Control environment 
+The Board of Directors and senior management 
+establish the tone at the top regarding the 
+importance of internal control. Management sets 
+expectations at the various levels of the 
+organization. The process of preparing consolidated financial 
+information is supported by procedures and work 
+instructions 
+to 
+guide 
+subsidiaries 
+in 
+the 
+preparation of their local accounts.

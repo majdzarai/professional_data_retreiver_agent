@@ -1,23 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 337 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0336_annual_report_text (1).txt
-NEXT: chunk_0338_annual_report_text (1).txt
-------------------------------
-stered in 
-his/her/its name since at least two years without 
-interruption in the register of registered shares 
-and which meet the legal requirements (section 
-7:53 of the BCAC) shall benefit from the multiple 
-voting rights provided by the law for those shares 
-compared to other shares representing a same 
-fraction of the share capital. viii) Agreements 
-in 
-force 
-among 
-shareholders, known by the company 
-and that are likely to restrict the transfer 
-of shares and/or the exercise of the 
-voting right 
-There are no such arrangements in place. ix) Rules applicable to the appointment and 
-the
+t. PT Strategy Committee met on October 18, 2023. Management Team as of December 31, 2023: MANAGEMENT TEAM MEMBERS 
+POSITIONS 
+OTHER AND PRIOR DUTIES 
+Olivier 
+Legrain 
+(representing 
+Lamaris Group SRL) 
+Chief Executive Officer 
+Internal Director/ Managing Director/ Member of Nomination 
+Committee/ Member of the Product Committee (prior to its integration)/ 
+Member of the Sustainability Committee (prior to its integration) 
+Yves 
+Jongen 
+(representing 
+Research Management Systems 
+SRL) 
+Chief Re

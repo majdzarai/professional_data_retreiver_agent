@@ -1,0 +1,18 @@
+{
+  "query": "KYC and credit risk analysis industry market share by company",
+  "timestamp": "2025-09-07 00:29:04",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "luation method (fair \nvalue and carrying amount). The carrying \namount of these financial assets represents the \nmaximum credit exposure of the Group. Foreign currency risk \nThe Group operates internationally and as such, is exposed to foreign exchange risks arising from \ncommercial transactions (sales and supply \ncontracts), from financial assets and liabilities, and from net investments in non-Eurozone \noperations.",
+      "similarity_score": 0.3973796458620774
+    }
+  ]
+}

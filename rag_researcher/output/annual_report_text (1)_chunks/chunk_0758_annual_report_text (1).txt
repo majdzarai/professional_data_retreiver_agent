@@ -1,19 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 758 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0757_annual_report_text (1).txt
-NEXT: chunk_0759_annual_report_text (1).txt
-------------------------------
-2023, representing a decrease of temporary 
-differences by EUR 0.3 million and a decrease 
-of usable tax losses carried forward by EUR 2.3 
-million. The main driver of the decrease is the 
-decrease of the deferred tax assets on the tax 
-losses carried forward in Belgium by EUR 1.7 
-million following the revision of the strategic plan 
-prepared by Management. As at December 31, 2023, the Group had 
-accumulated tax losses of EUR 157.0 million 
-(2022: EUR 162.7 million) usable to offset future 
-profits taxable mainly in Belgium and in Germany 
-and temporary differences for which the tax base 
-am
+assessing 
+performance of the operating segments. On the basis of its internal financial reports and given the Groups primary source 
+of risk and profitability, IBA has identified two operating segments: - 
+Proton therapy and other accelerators: This segment constitutes the technological basis of the Groups many 
+businesses and encompasses development, fabrication, and services associated with medical and industrial 
+particle accelerators and proton therapy systems. - 
+Dosimetry: This segment in

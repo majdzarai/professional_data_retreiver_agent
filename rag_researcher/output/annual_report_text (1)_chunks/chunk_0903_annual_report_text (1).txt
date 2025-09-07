@@ -1,13 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 903 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0902_annual_report_text (1).txt
-NEXT: chunk_0904_annual_report_text (1).txt
-------------------------------
-Estimating the defined benefit obligations 
-To make the actuarial calculations for the valuation of defined benefit obligations, IBA needs me make assumptions for 
-interest rates, future pension increases, life expectancy and employee turnover rates. The actuarial calculations are made 
-by external actuaries based on inputs from observable market data, such as corporate bond returns and yield curves to 
-determine the discount rates to apply, mortality tables to determine life expectancy and inflation rates to determine future 
-salary and pension growth assumptions. === Page 162 ===
-IBA Annual
+s 
+represents a total amount of EUR 5.0 millions. The following table shows the movements in the outstanding number of shares over the last two years: Accounting policy for trade and other receivables 
+Trade and other receivables are held by IBA to collect the related cash flows. Trade receivables, other receivables and 
+prepayment are measured at initial recognition at fair value and are subsequently measured at amortised cost using the 
+effective interest rate method less impairment losses.

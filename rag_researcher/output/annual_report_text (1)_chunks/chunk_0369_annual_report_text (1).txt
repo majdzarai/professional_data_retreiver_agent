@@ -1,19 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 369 of 1106
-SIZE: 578 characters
-PREVIOUS: chunk_0368_annual_report_text (1).txt
-NEXT: chunk_0370_annual_report_text (1).txt
-------------------------------
-ich is 
-deemed most appropriate by the individual on 
-whom such minimum is imposed, including 
-through the Long-Term Incentive plan described 
-above. The MHR is applicable during the entire period 
-of the contractual relationship with IBA, and 
-during a three year period starting at the date the 
-said contractual relationship terminates unless 
-the termination of the contractual relationship is 
-consecutive to the retirement or death of the 
-concerned Executive. The Managing Directors are significant owners 
-of the reference shareholder and comply with the 
-MHR provision.
+CAC). === Page 73 ===
+IBA Annual Report 2023 
+70. IBA 
+REMUNERATION REPORT (SECTION 3:6, 3, OF THE 
+BCAC) 
+Remuneration Policy: Managing 
+Directors and other Executive 
+Management Team Members 
+Procedure

@@ -1,0 +1,15 @@
+ndependent local suppliers amounting exceeds 30%. Unit 
+2021 
+2022 
+2023 
+302-1 Energy consumption within the organization 
+Energy 
+GJ 
+29.055 
+30.373 
+29.690 
+Energy - intensity per million Eur revenues 
+GJ / million Eur 
+93 
+84 
+69

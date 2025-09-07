@@ -1,11 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 940 of 1106
-SIZE: 531 characters
-PREVIOUS: chunk_0939_annual_report_text (1).txt
-NEXT: chunk_0941_annual_report_text (1).txt
-------------------------------
-ns and borrowings including bank overdrafts, and 
-derivative financial instruments. All financial liabilities are recognised initially at fair value. Subsequent measurement 
-For purposes of subsequent measurement, financial liabilities are classified in two categories: Financial liabilities at fair value through profit or loss: This category mainly includes derivative financial 
-instruments entered into by the Group that are not designated as hedging instruments in hedge relationships as 
-defined by IFRS 9 and explained above
+lity 
+is EUR 0.1 million as at December 31, 2023. Given the immateriality of that plan, only the plan 
+in Belgium is presented below. Changes in the 
+present value of defined benefit obligations are 
+presented as follows: Accounting policy for provisions 
+The main categories of provisions are recognised as follow: Warranty provision 
+Most equipment sales have the legal contractual warranty for a period of 1 year and the warranty period starts when the 
+equipment is accepted by the customer. Provisions for product warranty are recognized as cost of sales.

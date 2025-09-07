@@ -1,14 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 909 of 1106
-SIZE: 582 characters
-PREVIOUS: chunk_0908_annual_report_text (1).txt
-NEXT: chunk_0910_annual_report_text (1).txt
-------------------------------
-Accounting policy for trade and other payables 
-Trade and other payable are recognised at fair value and subsequently remeasured at amortised cost. Accounting policy government grants 
-When IBA receives government grants for specific projects, these are kept as a deferred income in the liabilities 
-on the statement of financial position and IBA unwinds the income when the relevant expenses are incurred, shown net in 
-the R&D expenditure line. === Page 163 ===
-IBA Annual Report 2023 
-160. and another 79 825 in 2023. The details of 
-these are provided in the second table below.
+oup entities and are 
+valued at acquisition cost. Most of these shares 
+are held by the Group to cover the Stock Option 
+Plans and have been acquired in the previous 
+years with the aim of hedging against share price 
+fluctuations. In 2023, the changes of Revaluation reserves - 
+Equity instruments at fair value through Profit or 
+Loss is related to the reevaluation at fair value 
+of the other investment in ScandiDos A.B (EUR 
+-0.2 million) and HIL applied Medical Ltd (EUR -
+2.8 million), see Note 5.5.

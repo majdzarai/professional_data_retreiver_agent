@@ -1,11 +1,51 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 733 of 1106
-SIZE: 683 characters
-PREVIOUS: chunk_0732_annual_report_text (1).txt
-NEXT: chunk_0734_annual_report_text (1).txt
-------------------------------
-h an alternative use to the Group and it has concluded that, at all 
-times, it has an enforceable right to payment for performance completed to date. Therefore, control transfers over time and 
-the Group recognizes revenue by measuring the progress using the input method on the basis of the costs incurred which 
-are compared to the total expected cost of the project (formerly referred to as percentage of completion). Measurement of the costs to fulfill an obligation: The Group recognises revenue over time under contracts for the sales of equipments and the progress is measured by 
-reference to the costs incurred when comparing it to the total estimated costs of the contract.
+REBITDA 
+18 443 
+3 128 
+21 571 
+0 
+21 571 
+Financial position 
+Non-current assets 
+99 932 
+23 218 
+123 150 
+0 
+123 150 
+Current assets 
+478 157 
+22 319 
+500 476 
+0 
+500 476 
+Segment assets 
+578 089 
+45 537 
+623 626 
+0 
+623 626 
+Investments accounted for using the equity method 
+273 
+- 
+273 
+0 
+273 
+TOTAL ASSETS 
+578 362 
+45 537 
+623 899 
+0 
+623 899 
+Non-current liabilities 
+43 541 
+3 235 
+46 776 
+0 
+46 776 
+Current liabilities 
+449 700 
+11 472 
+461 172 
+0 
+461 172 
+Segment liabilities 
+493 241

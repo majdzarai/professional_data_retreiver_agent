@@ -1,20 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 206 of 1106
-SIZE: 581 characters
-PREVIOUS: chunk_0205_annual_report_text (1).txt
-NEXT: chunk_0207_annual_report_text (1).txt
-------------------------------
-eener 
-sterilization solutions, illustrating its importance 
-alongside the more traditional ethylene oxide- 
-and gamma-based sterilization solutions. This 
-shift will be further boosted by more in-house 
-sterilization sites operated by the sectors major 
-players, thanks to the increased simplicity and 
-reliability of IBAs technology. Industrial Solutions continues to investigate new 
-opportunities, such 
-as 
-environmental 
-applications to treat PFAS (forever chemicals) 
-and wastewater. RadioPharma Solutions continues to provide 
-market-leading support for radiopharmaceutical
+will be the second ever PT system in the country. In October, a contract was secured with 
+Massachusetts General Hospital for the total 
+system restoration of a three-room system, which was IBAs first ever PT installation. There are 43 IBA PT sites generating service 
+revenues 
+worldwide, with 
+two 
+new 
+ProteusONE centers initiating treatment in 
+2023, in Arkansas, USA and Milan, Italy. PT 
+Services continued on its growth trajectory of the 
+past few years, increasing by 6.5% compared to 
+2022.

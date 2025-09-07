@@ -1,13 +1,3 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 418 of 1106
-SIZE: 357 characters
-PREVIOUS: chunk_0417_annual_report_text (1).txt
-NEXT: chunk_0419_annual_report_text (1).txt
-------------------------------
-ntract 
-templates and final contracts signed by IBAs 
-suppliers. Annual ad hoc audits are carried out 
-to monitor compliance with the Suppliers Code. Policy and Targets 
-The Code of Business Conduct sets out the 
-principles of IBAs social and staff-related 
-Diversity, Equity and Inclusion (DEI) policy. It is, among others, based on the International Labor
+es defined in the Remuneration 
+Policy for Managing Directors and other 
+Executive Management Team Members

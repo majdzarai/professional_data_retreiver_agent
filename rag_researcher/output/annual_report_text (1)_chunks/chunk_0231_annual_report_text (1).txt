@@ -1,30 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 231 of 1106
-SIZE: 655 characters
-PREVIOUS: chunk_0230_annual_report_text (1).txt
-NEXT: chunk_0232_annual_report_text (1).txt
-------------------------------
-t our customers. IBA 
-optimizes the level of inventory required for 
-production and support on sites for our 
-customers under a maintenance contract. Nevertheless, the evolution of the product and 
-variability of the demand may impact the 
-provision required for obsolete and excess 
-inventory, which would have an impact on our 
-operating results. Unanticipated 
-or 
-uncontrolled 
-construction 
-delays on a customer site, cancellations or 
-rescheduling by customers, a change in 
-customers 
-financial 
-condition 
-to 
-obtain 
-financing, delays 
+ement Review (QMR) assists 
+the 
+Management 
+Team 
 in 
-obtaining 
-regulatory 
-approvals or authorizations may have an impact 
-on the level of inventory required.
+fulfilling 
+its 
+management 
+responsibilities 
+particularly 
+in 
+respect of the quality of the Companys products, systems, services and software and the 
+development, testing, manufacturing, marketing 
+and service thereof, and regulatory requirements 
+related thereto. As such, the QMR supports the 
+Companys risk management in the relevant risk 
+areas.

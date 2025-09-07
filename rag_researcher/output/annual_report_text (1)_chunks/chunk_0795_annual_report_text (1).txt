@@ -1,11 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 795 of 1106
-SIZE: 644 characters
-PREVIOUS: chunk_0794_annual_report_text (1).txt
-NEXT: chunk_0796_annual_report_text (1).txt
-------------------------------
-assets: The Group applies a single recognition and measurement approach for all leases, except for short-term leases and leases 
-of low-value assets. The Group recognizes a lease liability estimating the future lease payments and a corresponding right-
-of-use assets representing the right to use the underlying assets. The Group recognizes right-of-use assets at the commencement date of the lease (i.e. the date the underlying asset is 
-available for use). Right-of-use assets are measured and adjusted for any remeasurement of lease liabilities which could be 
-following a revision of the lease term or a change in the future lease payments.
+ial expenses 
+and income in the income statement. Foreign exchange differences arising from long-term loans that are part of the Groups net investment in foreign operations 
+are reclassified to equity as cumulative translation difference via the Other Comprehensive Income. === Page 138 ===
+IBA Annual Report 2023 
+135. 4.6. TAXATION 
+4.6.1 Income tax expense 
+The tax profit/(charge) for the year can be broken down as follows: The tax profit on IBAs result before taxes differs 
+from the theoretica

@@ -1,0 +1,18 @@
+{
+  "query": "alignment of Ion Beam Applications SA products with industry requirements",
+  "timestamp": "2025-09-07 00:29:45",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "The consolidated accounts of Ion Beam Application SA for the fiscal year ended on December 31, 2022, have been audited by another auditor who expressed an unqualified opinion on these \nconsolidated accounts in their report dated April 28, 2023. Responsibilities of the board of directors for the preparation of the consolidated accounts",
+      "similarity_score": 0.4181193735382774
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "query": "KYC implications of Ion Beam Applications SA products",
+  "timestamp": "2025-09-07 00:29:14",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "ith IBA RadioPharma Solutions and Proton Therapy. The TSC serves as an intelligent knowledge repository \nfacilitating efficient knowledge sharing, accelerating \ntroubleshooting processes, and fostering autonomy in \nproblem-solving endeavors. E-BEAM AND X-RAY IRRADIATION IS \nRECOGNIZED AS THE SAFEST TECHNOLOGY \nTO HANDLE THE GROWTH OF THE MEDICAL \nDEVICE INDUSTRY\nThe medical device industry has a wide range of products that \nenable patient diagnosis and treatment.",
+      "similarity_score": 0.39716435687882556
+    }
+  ]
+}

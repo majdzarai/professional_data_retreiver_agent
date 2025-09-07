@@ -1,14 +1,3 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 135 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0134_annual_report_text (1).txt
-NEXT: chunk_0136_annual_report_text (1).txt
-------------------------------
-uccess. IBA is committed to providing equal employment and training 
-opportunities, and to treating applicants and employees 
-without discrimination. We do not discriminate based on race, color, age, sex, sexual orientation, national origin, religion, language, or disabilities. Our policy is that no one at IBA 
-should ever be subject to any kind of discrimination, and we 
-have designated individuals responsible for diversity, equality 
-and inclusion. Through collective intelligence initiatives, voluntary 
-employees get involved into the development of IBA 
-beyond their day-to-day work perimete
+a bonus on the basis of objectives they achieved. Now, we have changed the mindset and 
+we award the bonus because we trust they are engaged and will fulfill the tasks, projects, and objectives that are required on a daily basis - and these objectives might be reviewed 
+more often. Soumya Chandramouli, Chief Financial Officer

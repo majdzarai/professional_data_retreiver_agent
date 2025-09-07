@@ -1,10 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 19 of 1106
-SIZE: 219 characters
-PREVIOUS: chunk_0018_annual_report_text (1).txt
-NEXT: chunk_0020_annual_report_text (1).txt
-------------------------------
-lished at the same level as the dividend, in accordance with 
+a gross 
+dividend of EUR 0.17 per share in 2024. If approved, the annual bonus paid 
+to employees will be established at the same level as the dividend, in accordance with 
 the companys initiative to share the value created with all its stakeholders equitably. Olivier Legrain
 Chief Executive Officer
 6

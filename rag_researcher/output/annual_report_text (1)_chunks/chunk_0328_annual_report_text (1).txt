@@ -1,26 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 328 of 1106
-SIZE: 614 characters
-PREVIOUS: chunk_0327_annual_report_text (1).txt
-NEXT: chunk_0329_annual_report_text (1).txt
-------------------------------
-on Committee fully 
-acknowledge the benefits of diversity among 
-employees, within the Executive Management 
-Team, and within the Board of Directors. As of December 31, 2023, more than one third 
-of the directors are of the other gender which 
-means 
-that 
-the 
-Company 
-meets 
-the 
-requirements on gender diversity. The age distribution within the management 
-team is quite broad, indicating a fair and 
-balanced 
-value 
-between 
-said 
-members. Management approved the Diversity, Equity and 
-Inclusion Policy on 15 and 16 December 2021, and requests the Management to implement this 
-policy to the fullest extent.
+osals in this 
+respect to the Board of Directors. Based on the report prepared by this Committee, the Board had proposed to the Ordinary General 
+Meeting held on June 14, 2023 (i) to approve the 
+renewal 
+of 
+Mrs. PROF.Hedvig 
+Hricak, Independent administrator and SAINT-DENIS 
+SA, represented by M. Pierre Mottet and to set 
+the term of their mandate at the OGM to be held 
+in 2025, called to resolve on the 2024 annual 
+accounts. The Nomination Committee is composed of five 
+members, among which the chairman of the 
+Board of Directors and a minimum of two 
+independent directors.

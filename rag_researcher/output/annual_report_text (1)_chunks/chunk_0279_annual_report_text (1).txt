@@ -1,25 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 279 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0278_annual_report_text (1).txt
-NEXT: chunk_0280_annual_report_text (1).txt
-------------------------------
-re between staff 
-from 
-operational 
-divisions 
-and 
-financial 
-managers of the legal entities. Certain operations are centralized on a Group 
-level. Members of senior management are 
-directly involved in the review and approval of 
-these operations, thus ensuring control on the 
-completion 
-of 
-accounting 
-and 
-financial 
-information related to: Research and development activity; Investment and divestment in intangible, tangible, and financial assets, based on an 
-approval matrix; Long-term contracts and partnership contracts; Treasury, financing and financial instruments; Supervision 
-of 
-si
+erapy business (section 3:6, 1, 5, of the 
+BCAC). Conflicts of interests and other information to 
+be disclosed pursuant to section 3:6, 1, 7, of 
+the BCAC 
+During the 2023 financial year, there was no 
+conflict of interest matter between the Company 
+and some of its directors, in the meaning of 
+section 7:96 of the BCAC. === Page 61 ===
+IBA Annual Report 2023 
+58. IBA 
+Competence and independence of members of 
+the audit committee (sections 3:6, 1, 9 and 
+3:32, 1, 6, of the BCAC) 
+In accordance with section 3:6, 1, 9, of the 
+BCAC, IBAs Board of Directors reports that: Mrs.

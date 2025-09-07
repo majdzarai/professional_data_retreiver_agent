@@ -1,19 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 112 of 1106
-SIZE: 684 characters
-PREVIOUS: chunk_0111_annual_report_text (1).txt
-NEXT: chunk_0113_annual_report_text (1).txt
-------------------------------
-metry solutions offer 
-a complete and instant analysis of the released dose to complete 
-the required test efficiency and with the highest precision. SAFE RADIOTHERAPY: QUALITY ASSURANCE 
-OF EQUIPMENT FOR THE TREATMENT OF 
-PATIENTS AND INDEPENDENT VERIFICATION 
-OF THE TREATMENT PLAN
-It is vital that a series of quality control checks are made 
-on the calibration of the equipment and the plan calculation 
-to ensure patient safety. These controls are designed 
-to certify that the radiotherapy and proton therapy equipment 
-will deliver the required dose in the exact location designated 
-by the medical team. It also increases physicians peace 
-of mind about their patients safety.
+control the diagnostic and therapeutic equipment. This is the responsibility of IBAs Dosimetry business, which has 
+developed a range of tools to calibrate radiation equipment 
+and verify the dose of ionizing radiation that the patient absorbs 
+during medical imaging and radiotherapy. In 2022, IBA acquired Modus Medical Devices and added 
+its sophisticated QA solutions to IBAs existing portfolio. The entity was rebranded as IBA QUASAR and is recognized 
+for its advanced tools for MR image guidan

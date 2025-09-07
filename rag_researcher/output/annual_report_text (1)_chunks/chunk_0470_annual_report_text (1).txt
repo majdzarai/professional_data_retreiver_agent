@@ -1,13 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 470 of 1106
-SIZE: 389 characters
-PREVIOUS: chunk_0469_annual_report_text (1).txt
-NEXT: chunk_0471_annual_report_text (1).txt
-------------------------------
-nd value chains. Ecodesign workgroup is in place, with 220 
-people trained and challenges ongoing to 
-promote the 8 established IBA eco-design rules. Based on life cycle analysis of main products 
-and activities, the IBA Group carbon footprint 
-has been assessed and allocated to the relevant 
-BU activities and products. Dialogue is engaged 
-with BUs on sustainability in product extended
+lt in the Company losing a business 
+opportunity. As such, IBA, including its employees and 
+representatives, must not accept, neither 
+directly, nor through any family member or 
+anyone else, gifts or favours of any kind from a 
+business partner, or offer the same to the latter, or to any public official, except if they are 
+courtesy gifts, considered as modest in value 
+and to the extent that the time and place is 
+appropriate.

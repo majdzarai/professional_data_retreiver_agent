@@ -1,0 +1,18 @@
+{
+  "query": "external ratings influence investor behavior",
+  "timestamp": "2025-09-07 00:28:29",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "d or not, and \ncommercial or financial in nature. Management \nEvaluation of the internal control system takes \nplace primarily when the management bodies \nreview the financial statements and analyses \nprepared by the Finance Department, as well as \nduring the follow-up on the effectiveness of \ninternal control and risk management systems \nby the Audit Committee. The analysis tools referred to above are \nestablished in line with the accounting principles \nvalidated by the Audit Committee and Boar",
+      "similarity_score": 0.33793967374733513
+    }
+  ]
+}

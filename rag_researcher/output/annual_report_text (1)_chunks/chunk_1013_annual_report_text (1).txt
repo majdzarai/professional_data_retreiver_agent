@@ -1,12 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1013 of 1106
-SIZE: 634 characters
-PREVIOUS: chunk_1012_annual_report_text (1).txt
-NEXT: chunk_1014_annual_report_text (1).txt
-------------------------------
-s in a manner that achieves fair presentation; Obtain sufficient and appropriate audit evidence regarding the financial information of the 
-entities or business activities within the Group to express an opinion on the consolidated 
-financial statements. We are responsible for the direction, supervision and performance of the 
-Group audit. We remain solely responsible for our audit opinion. We communicate with the audit committee regarding, among other matters, the planned scope and 
-timing of the audit and significant audit findings, including any significant deficiencies in internal control 
-that we identify during our audit.
+d write-downs on inventories 
+(EUR +2.4 million). As at December 31, 2022, the heading mainly 
+included the partial release of the refund liability 
+related to the performance bond issued to CGN 
+(EUR -5.0 million), the return in stock of a Proton 
+Therapy equipment from a bankrupt site, net of 
+the uncollected amounts (EUR -2.5 million), a 
+financial gain recognised on the interest rates 
+renegotiation with the S.F.P.I and S.R.I.W (EUR 
+-0.6 million), the net gain from a settlement
+agreement wi

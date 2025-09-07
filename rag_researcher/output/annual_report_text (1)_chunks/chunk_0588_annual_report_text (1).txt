@@ -1,29 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 588 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0587_annual_report_text (1).txt
-NEXT: chunk_0589_annual_report_text (1).txt
-------------------------------
-=== Page 114 ===
-IBA Annual Report 2023 
-111. Consolidated statement of other 
-comprehensive income for the year ended 
-December 31, 2023 
-(EUR 000) 
-Notes 
-December 31, 2022 
-December 31, 2023 
-Profit/(loss) for the period (net of tax) 
-6 057 
--9 110 
-Other comprehensive income to be reclassified to profit or loss in 
-subsequent periods (net of tax): - Exchange differences on translation of foreign operations 
-545 
-2 451 
-- Exchange difference related to net investment in foreign operation 
-185 
-981 
-- Net movement on cash flow hedges 
-7.4.1. 38 
-5 057 
-Net other comprehensive income to be re
+Profit carried forward for the financial 
+year 2022 of EUR 132.6 million 
+Own shares 
+IBA SA holds 1.100.781 treasury shares as per 
+December 31, 2023, compared to 1.110.781 in 
+2022. The value of these treasury shares 
+amounts to EUR 12.7 million as per December 
+31, 2023. Provisions for risks and charges 
+Provisions for risks and charges equivalent to 
+EUR 10.1 million in 2023 compared to EUR 11.0 
+million in 2022. These mainly correspond to 
+provisions for technical and order fulfilment 
+guarantees as well as for the stock option plans 
+issued.

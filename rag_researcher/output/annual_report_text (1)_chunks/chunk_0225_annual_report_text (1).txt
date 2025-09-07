@@ -1,23 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 225 of 1106
-SIZE: 690 characters
-PREVIOUS: chunk_0224_annual_report_text (1).txt
-NEXT: chunk_0226_annual_report_text (1).txt
-------------------------------
-use 
-of 
-competing 
-technological 
-development. Asset depreciation risk 
-IBA invests in companies whose business sector 
-is complementary to its own. In most cases, these are recently established companies in 
-innovative sectors. IBA cannot guarantee that all 
-these investments will be profitable in the future 
-or that some projects will not be purely and 
-simply terminated. Staff bench strength risk 
-Since IBA was established, the number of highly 
-qualified persons employed by the Company has 
-significantly increased. However, it is possible 
-that the defection of certain key employees 
-possessing specific expertise could, for a short 
-time, affect one of the Companys activities.
+ades, new acquisitions and 
+strategic 
+alliances. In 
+April 
+2023, IBA 
+successfully 
+launched 
+a 
+next-generation 
+reference class electrometer DOSE-X, which 
+has already reached sales of more than 300 
+units. In May at ESTRO, IBA launched a 
+radiation oncology risk management software 
+called myQA PROactive, alongside updates to 
+existing patient QA software. Post period end, IBA announced the acquisition 
+of US-based Radcal Corporation, a pioneer in X-
+ray imaging quality assurance.

@@ -1,18 +1,2 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1078 of 1106
-SIZE: 371 characters
-PREVIOUS: chunk_1077_annual_report_text (1).txt
-NEXT: chunk_1079_annual_report_text (1).txt
-------------------------------
-d impacts. It also records the actions and control measures deployed by our various entities in the 
-context of their continuous improvement process. Unit 
-2021 
-2022 
-2023 
-2-28 Membership of associations 
-IBA is a certified B Corp since 2021 
-B Corp score1 
-90 
-97+ 
-106+ 
-https://www.bcorporation.net/en-us/find-a-b-corp/company/i-b-a-group-ion-beam-applications-group
+olidated accounts and to report on these matters. Aspects related to the directors report on the consolidated accounts and to the other 
+information included in the annual report on the consolidated accounts

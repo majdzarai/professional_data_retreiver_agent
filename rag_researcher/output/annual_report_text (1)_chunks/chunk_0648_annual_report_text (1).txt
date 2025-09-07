@@ -1,13 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 648 of 1106
-SIZE: 277 characters
-PREVIOUS: chunk_0647_annual_report_text (1).txt
-NEXT: chunk_0649_annual_report_text (1).txt
-------------------------------
-=== Page 124 ===
-IBA Annual Report 2023 
-121. Contract asset: there are no unusual delays 
-to be observed on the installation contract 
-which indicate a risk of recoverability. Other assets mainly relate to various tax 
-receivables where we do not observe any 
-significant risk
+pared in accordance with IFRS 
+as endorsed by EU. These consolidated financial statements have 
+been approved for release by the Board of 
+Directors on March 19, 2024. 1.2. BASIS OF PREPARATION 
+The consolidated financial statements are: Prepared in accordance with International 
+Financial Reporting Standards (IFRS) as 
+adopted by the European Union (EU). All 
+standards and interpretations issued by the 
+International Accounting Standards Board 
+(IASB) and the International Financial 
+Reporting 
+Interpretations 
+Committee 
+(IFRIC) effective year-end 2023 have been 
+adopted by the EU.

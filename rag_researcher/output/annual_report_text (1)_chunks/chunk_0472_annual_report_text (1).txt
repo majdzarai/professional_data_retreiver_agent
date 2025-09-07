@@ -1,19 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 472 of 1106
-SIZE: 675 characters
-PREVIOUS: chunk_0471_annual_report_text (1).txt
-NEXT: chunk_0473_annual_report_text (1).txt
-------------------------------
-s in place. We have been ranked 
-at B score by CDP (from C in 2020). Our 
-warehouse has suppressed toxic packaging 
-(polyurethan) from its processes. We have set 
-an internal carbon price at 40/ton with a 
-recommendation of 80/ton as of 2024. We have 
-purchased 1700t of CO2 certificates from carbon 
-farming projects (Soil Capital). A green mobility 
-project is in place, based on employee survey, in 
-view of defining a lower impact, yet attractive, mobility policy for our commuting employees. The stream diverse, equitable and inclusive 
-workplace aims to pro-actively incorporate 
-diversity, equality and inclusion into our business 
-as a major contributor to belonging.
+and 
+that share its values of business integrity. Hence, the target is to achieve the objective of 
+no IBAs third-party providers, customers, and 
+partners involved in any corrupt practices. Non-financial Indicators and Results 
+A two-phase plan is being implemented to 
+increase awareness and monitoring targets. The 
+first phase took place in 2020, with an in-depth 
+evaluation of IBAs practices, the conduction of 
+a fraud risk assessment, and an update of a 
+number of internal processes.

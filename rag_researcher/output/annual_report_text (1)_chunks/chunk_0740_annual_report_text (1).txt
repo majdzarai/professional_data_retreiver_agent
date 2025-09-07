@@ -1,12 +1,37 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 740 of 1106
-SIZE: 577 characters
-PREVIOUS: chunk_0739_annual_report_text (1).txt
-NEXT: chunk_0741_annual_report_text (1).txt
-------------------------------
-o EUR 5 million in December 2022 at 
-which point IBA recognised the corresponding variable consideration in the income statement of respective years. In 
-December 2023, it was agreed with CGN to cancel the remaining portion of the performance bond which was finally 
-forfeited in January 2024 after finalisation of the administrative processes of both CGN and the bank. Given that the 
-uncertainty attached to the bond is now fully removed, IBA Group has released the remaining EUR 5 million of the variable 
-consideration in its Income Statement in the current financial year.
+16 691 
+491 316 
+491 316 
+TOTAL LIABILITIES 
+474 625 
+16 691 
+491 316 
+491 316 
+Other segment information 
+Capital expenditure - Intangible assets and Property, Plant 
+and Equipment 
+11 522 
+752 
+12 274 
+0 
+12 274 
+Capital expenditure - Right-of-use assets 
+6 459 
+1 837 
+8 296 
+0 
+8 296 
+Depreciation of property, plant and equipment and Right-of-
+use assets 
+8 045 
+1 729 
+9 774 
+0 
+9 774 
+Amortisation and impairment of intangible assets 
+1 091 
+656 
+1 747 
+0 
+1 747 
+Personnel expenses 
+176 247

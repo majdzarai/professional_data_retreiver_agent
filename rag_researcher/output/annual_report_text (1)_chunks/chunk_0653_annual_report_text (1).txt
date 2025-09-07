@@ -1,20 +1,18 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 653 of 1106
-SIZE: 568 characters
-PREVIOUS: chunk_0652_annual_report_text (1).txt
-NEXT: chunk_0654_annual_report_text (1).txt
-------------------------------
-RS
-Climate related matters are managed by the 
-Sustainability Board which meets once a year 
-and decides on the Groups commitments and 
-action plans. Three risks categories have been 
-identified being strategic risks, process and 
-operational risks and product risks; all are 
-monitored closely by Management. The risk 
-assessment is done once a year and each risk 
-is managed internally with a defined process 
-which covers the risk identification, the risk 
-analysis and scoring, the risk strategy, risk 
-mitigation and closure as well as the review and 
-monitoring.
+pment 
+5.2 Property, plant and equipment 
+Leases 
+5.2 Property, plant and equipment 
+5.10 Borrowings 
+Impairment of intangible and tangible assets 
+5.3 Impairment of assets 
+Associates and Joint Ventures 
+5.4 Associates and Joint Ventures 
+Inventories 
+5.6 Inventories 
+Financial Instruments 
+5.5 Other shares and participations 
+5.7 Trade receivables and other operating assets 
+5.12 Trade payables and other operating liabilities 
+5.8 Cash and cash equivalents 
+5.10 Borrowings 
+7.3 Financial Instr

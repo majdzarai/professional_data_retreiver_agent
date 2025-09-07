@@ -1,20 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 314 of 1106
-SIZE: 591 characters
-PREVIOUS: chunk_0313_annual_report_text (1).txt
-NEXT: chunk_0315_annual_report_text (1).txt
-------------------------------
-Audit Committee and 
-develops an appropriate solution, in conjunction 
-with the Audit Committee and the appropriate 
-departments in the organization. As of December 31, 2023, the Audit Committee 
-was comprised of three members: Consultance 
-Marcel Miller SCS, represented by its permanent 
-representative 
-Mr. Marcel 
-Miller, Nextstepefficiency SAS, represented by its 
-permanent representative Mrs. Christine Dubus 
-and Dr. Richard A. Hausmann. It is chaired by 
-Mrs. Christine Dubus. Sustainability board meeting 
-The sustainability committee was set-up in 2018 
-as an IBA Board Committee.
+e, the Board gathers at least four times 
+a year. The major topics of discussion include market 
+situation, strategy, technological developments, financial 
+developments, human 
+resources 
+management and sustainability. Reports on topics dealt with at Board meetings 
+are sent to the directors beforehand so that they 
+can exercise their duties with full knowledge of 
+the facts. During the financial year 2023, the Board of 
+Directors met 5 times on the occasion of regular 
+board meetings - under the chairmanship of Mr.

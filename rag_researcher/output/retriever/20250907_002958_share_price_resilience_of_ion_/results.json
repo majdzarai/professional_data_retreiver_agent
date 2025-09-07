@@ -1,0 +1,18 @@
+{
+  "query": "Share price resilience of Ion Beam Applications SA during recession",
+  "timestamp": "2025-09-07 00:29:58",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "STATUTORY AUDITOR'S REPORT TO THE GENERAL SHAREHOLDERS MEETING OF ION \nBEAM APPLICATION SA ON THE CONSOLIDATED ACCOUNTS FOR THE YEAR ENDED \n31 DECEMBER 2023",
+      "similarity_score": 0.3827088387573466
+    }
+  ]
+}

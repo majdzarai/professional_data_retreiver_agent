@@ -1,14 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 181 of 1106
-SIZE: 212 characters
-PREVIOUS: chunk_0180_annual_report_text (1).txt
-NEXT: chunk_0182_annual_report_text (1).txt
-------------------------------
-The objectives and policy of the Company in 
-terms 
-of 
-financial 
-risk 
-management, including its policy concerning the hedging 
-of each main category of transactions 
-planned to be used by hedge accounting; and
+est. for
+shareholders
+Community Engagement
+Education
+Business Ethics
+Responsible Sourcing
+Waste Management
+GHG Emissions
+Biodiversity
+Resource Scarity
+Sustainable logistics
+Sustainable mobility
+Materiality Matrix
+44
+IBA
+CORPORATE BROCHURE 2024

@@ -1,13 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 429 of 1106
-SIZE: 315 characters
-PREVIOUS: chunk_0428_annual_report_text (1).txt
-NEXT: chunk_0430_annual_report_text (1).txt
-------------------------------
-ment policy and internal mobility offer 
-every year development opportunities to our 
-employees and for applicants to join IBA all 
-around the world. In 2023, IBA opened more than 400 positions in 
-39 countries: More than 40% were opportunities for IBA 
-employees to benefit from internal mobility 
-within the group
+ivalents) 
+present 
+and 
+active 
+on 
+December 31. The number of FTEs 
+corresponds to the sum of the activity rate, 2019 
+2020 
+2021 
+2022 
+2023

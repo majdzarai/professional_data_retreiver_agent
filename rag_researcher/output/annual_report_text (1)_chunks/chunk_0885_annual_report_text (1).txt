@@ -1,11 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 885 of 1106
-SIZE: 655 characters
-PREVIOUS: chunk_0884_annual_report_text (1).txt
-NEXT: chunk_0886_annual_report_text (1).txt
-------------------------------
-mmencement date of the lease, the Group recognizes lease liabilities measured at the present value of lease 
-payments to be made over the lease term. Some leases have variable lease payments that depend on an index in which case 
-an initial estimation is prepared using the local relevant index; when the actual indexe is known, the future cash flows are 
-reassessed and the lease liabilities are adjusted with the corresponding Right of Use asset. In calculating the present value of lease payments, the Group uses its incremental borrowing rate at the lease 
-commencement date because the interest rate implicit in the lease is not readily determinable.
+which IBA does not hold a significant 
+influence. These are carried at fair value and are not held for trading, IBA has designated these investments as FVOCI 
+whereby all changes in fair value are recognised in OCI and will never recycle in profit and loss. Accounting policy for inventories 
+Inventory is valued at the lower of cost or net realizable value. The cost of inventories that are ordinarily interchangeable is allocated by using the weighted average cost formula. The 
+same cost formula is used for all inventories that have a similar nature and use to the entity.

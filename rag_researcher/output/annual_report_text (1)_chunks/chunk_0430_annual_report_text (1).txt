@@ -1,15 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 430 of 1106
-SIZE: 239 characters
-PREVIOUS: chunk_0429_annual_report_text (1).txt
-NEXT: chunk_0431_annual_report_text (1).txt
-------------------------------
-IBA regularly runs equity analysis, in the context 
-of 
-the 
-worker council 
-analysis 
-(Conseil 
-dEntreprise), or during our yearly salary review 
-process 
-This addresses the following topics a.o. F/M ratio, absolute, and per work category
+Average annual target 
+remuneration (fixed + variable) 
+Belgium 
+67 543 
+68 017 
+70 295 
+74 836 
+79 975
+
+=== Page 82 ===
+IBA Annual Report 2023 
+79. IBA 
+on the same date, of each person included 
+in the selection. d) Ratio between highest and lowest 
+remuneration

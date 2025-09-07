@@ -1,18 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 47 of 1106
-SIZE: 672 characters
-PREVIOUS: chunk_0046_annual_report_text (1).txt
-NEXT: chunk_0048_annual_report_text (1).txt
-------------------------------
-DLE THE GROWTH OF THE MEDICAL 
-DEVICE INDUSTRY
-The medical device industry has a wide range of products that 
-enable patient diagnosis and treatment. Within this large multi-
-segment industry, Disposal Medical Devices (DMD) include all 
-single-use devices e.g. surgical gloves, dialysis tubes, diabetes 
-patches, orthopedic implants, syringes, etc. The medical device sterilization market is projected 
-to double within the next decade. Additionally, there is 
-a notable shift occurring in the distribution of sterilization 
-methods. Previously dominated by ethylene oxide 
-and Gamma technologies, the landscape is now 
-transitioning towards a more equitable distribution.
+ready yielded 
+notable successes. These include:. A comprehensive overhaul and vertical integration 
+of Beagle, an intelligent control system designed 
+to streamline operations within the irradiation facility.. The introduction of Be-In, an innovative Customer Portal aimed 
+at empowering customers with digital tools to enhance their 
+daily operations, bolster system availability, and provide 
+remote visual insights into machine parameters.. Implementation of the IBA Technical Support Center (TSC) 
+along with IBA RadioPharma Solutions and Proton Therapy.

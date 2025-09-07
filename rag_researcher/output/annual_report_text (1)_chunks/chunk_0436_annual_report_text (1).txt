@@ -1,13 +1,36 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 436 of 1106
-SIZE: 225 characters
-PREVIOUS: chunk_0435_annual_report_text (1).txt
-NEXT: chunk_0437_annual_report_text (1).txt
-------------------------------
-practices; reduce emissions (in particular greenhouse 
-gas); protect surrounding nature (substance of 
-concern 
-management, ground 
-and 
-groundwater contamination, and biodiversity 
-protection surrounding our facilities); and
+lle van den Hove (independent 
+director, chairwoman of the Sustainability 
+Committee) 
+26 400 
+9 000 
+BM 
+AC 
+CC/NC 
+MAC 
+PC 
+SC 
+OTHER 
+12 000 
+N/A 
+N/A 
+N/A 
+3 200 
+2 200 
+NONE 
+Hedvig Hricak (independent director) 
+32 000 
+16 000 
+BM 
+AC 
+CC/NC 
+MAC 
+PC 
+SC 
+OTHER 
+11 200 
+N/A 
+N/A 
+N/A 
+3 200 
+1 600 
+NONE

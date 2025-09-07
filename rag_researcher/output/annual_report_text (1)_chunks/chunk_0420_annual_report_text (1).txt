@@ -1,25 +1,34 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 420 of 1106
-SIZE: 582 characters
-PREVIOUS: chunk_0419_annual_report_text (1).txt
-NEXT: chunk_0421_annual_report_text (1).txt
-------------------------------
-bute to its success. IBA is committed to provide equal employment 
-opportunities 
-and 
-treating 
-applicants 
-and 
-employees 
-without 
-discrimination. No 
-discrimination is based on race, color, age, sex 
-(including pregnancy, sexual orientation, or 
-gender 
-identity), national 
-origin, religion, language, veteran status, genetic information 
-(including family medical history), and physical 
-or mental disability. The Companys DEI policy is 
-that no one at IBA should ever be subject to any 
-kind of discrimination. The membership or non-
-membership of a trade union is also free.
+of the 
+shares @ 
+Offer date 
+(3) 
+9.a) Number of 
+options vested 
+9.b) Value of the 
+shares @ Vesting 
+date 
+9.c) Value @ 
+Exercise price 
+9.d) Added value @ 
+Vesting date (4) 
+10. Number 
+of options 
+offered 
+but not 
+yet vested 
+(5) 
+Olivier LEGRAIN, CEO 
+SOP 
+2021 
+25-01-
+21 
+01-01-
+25 
+3 years from 
+end of 
+mandate 
+(40% of 
+grant) 
+from 02-01-25 
+to 31-12-26 
+13,39

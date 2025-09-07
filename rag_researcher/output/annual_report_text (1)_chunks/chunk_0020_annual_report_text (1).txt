@@ -1,9 +1,3 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 20 of 1106
-SIZE: 664 characters
-PREVIOUS: chunk_0019_annual_report_text (1).txt
-NEXT: chunk_0021_annual_report_text (1).txt
-------------------------------
 === Page 10 ===
 By providing innovative and high-quality solutions, IBA aims to support patients throughout their journey. As such, our mission to protect, enhance and save lives takes them from diagnosis with radiopharmaceuticals 
 to treatment by particle beam therapy, and includes sterilization of medical equipment for safer operations 
@@ -12,6 +6,4 @@ Sterilization
 02
 Diagnosis
 Industrial Solutions is the world leader 
-in electron and proton accelerators. Its comprehensive solutions are available 
-for meaningful applications such as medical 
-devices sterilization, food pasteurization, property enhancement for various materials, etc.
+in electron and proton accelerators.

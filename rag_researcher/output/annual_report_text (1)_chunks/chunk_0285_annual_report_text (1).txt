@@ -1,23 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 285 of 1106
-SIZE: 575 characters
-PREVIOUS: chunk_0284_annual_report_text (1).txt
-NEXT: chunk_0286_annual_report_text (1).txt
-------------------------------
-er concentration in the 
-Belgian market allows this process to be 
-centralized with a limited number of people, with 
-the CFO playing a leading role. A schedule 
-summarizing the periodic requirements for the 
-communication 
-of 
-financial 
-information 
-is 
-available at the Group level, with details of the 
-nature and date of each requirement. A 
-procedure stipulates the persons responsible for 
-preparing, approving, and communicating this 
-financial information to the market, based on 
-whether the information is restricted or not, and 
-commercial or financial in nature.
+muneration in the 
+form of shares of the company. Therefore, IBA is 
+not in a position to abide by principle 7.6 of the 
+2020 Belgian Corporate Governance Code. The Company has complied with all the 
+provisions of the 2020 Corporate Governance 
+Code, except those from which it has deviated 
+for the reasons explained hereabove. === Page 62 ===
+IBA Annual Report 2023 
+59. IBA 
+MAIN FEATURES OF THE INTERNAL CONTROL & 
+RISK MANAGEMENT SYSTEMS (SECTIONS 3:6, 2, 3 AND 3:32, 1, 7, OF THE BCAC) 
+Managem

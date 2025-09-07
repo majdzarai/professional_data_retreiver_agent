@@ -1,21 +1,35 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1027 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_1026_annual_report_text (1).txt
-NEXT: chunk_1028_annual_report_text (1).txt
-------------------------------
-u Cyclotron, 3; B-1348 Louvain-la-
-Neuve, Belgium; enterprise 
-number 
-VAT 
-BE0428.750.985, Register of Legal Entities 
-(RLE) of the Walloon Brabant. DATE, FORM AND PERIOD OF INCORPORATION 
-IBA was incorporated for an indefinite period on 
-March 28, 1986 as a limited liability company 
-(societe anonyme) under Belgian law. IBA is a 
-listed company in the meaning of section 1:11 of 
-the Belgian Companies & Associations Code. CORPORATE PURPOSE (ARTICLE 3 OF THE 
-ARTICLES OF ASSOCIATION) 
-The purpose of the Company is to engage in 
-research and development and to acquire 
-intellectual property rig
+=== Page 174 ===
+IBA Annual Report 2023 
+171. The main transactions completed with the shareholders are the following: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+ASSETS 
+Receivables 
+Long-term receivables 
+5 807 
+5 711 
+Trade and other receivables 
+27 
+183 
+Impairment of receivables 
+0 
+0 
+TOTAL RECEIVABLES 
+5 834 
+5 894 
+LIABILITIES 
+Payables 
+Bank and other borrowings 
+18 671 
+13 583 
+Trade and other payables 
+106 
+0 
+TOTAL PAYABLES 
+18 777 
+13 583 
+INCOME STATEMENT 
+Sales 
+0 
+0 
+Costs (

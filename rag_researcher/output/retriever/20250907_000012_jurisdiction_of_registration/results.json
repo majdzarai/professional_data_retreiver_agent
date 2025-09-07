@@ -1,0 +1,18 @@
+{
+  "query": "jurisdiction of registration",
+  "timestamp": "2025-09-07 00:00:12",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "ve or management body \nof such shareholder or of a company \nreferred to under (i) above. (iii) any third party acting in its own name but on \nbehalf of such shareholder or of a person \nreferred to under (i) or (ii) above. (iv) any shareholder who granted a power-of-\nattorney to such shareholder or to a person \nreferred to under (i), (ii) or (iii) above, to \nrepresent him/her at the said meeting.\" \nArticle 28: Without prejudice to Article 27, any shareholder \nwho owns fully-paid shares, registere",
+      "similarity_score": 0.3426506161689758
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "query": "company incorporation date",
+  "timestamp": "2025-09-06 22:29:27",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "Chemin du Cyclotron, 3; B-1348 Louvain-la-\nNeuve, Belgium; enterprise \nnumber \nVAT \nBE0428.750.985, Register of Legal Entities \n(RLE) of the Walloon Brabant. DATE, FORM AND PERIOD OF INCORPORATION \nIBA was incorporated for an indefinite period on \nMarch 28, 1986 as a limited liability company \n(societe anonyme) under Belgian law. IBA is a \nlisted company in the meaning of section 1:11 of \nthe Belgian Companies & Associations Code.",
+      "similarity_score": 0.3531346794477728
+    }
+  ]
+}

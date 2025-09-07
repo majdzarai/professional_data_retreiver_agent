@@ -1,27 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1044 of 1106
-SIZE: 587 characters
-PREVIOUS: chunk_1043_annual_report_text (1).txt
-NEXT: chunk_1045_annual_report_text (1).txt
-------------------------------
-30 282 218 
-100% 
-30 282 218 
-100% 
-SHAREHOLDERS SCHEDULE 
-Business Update Q1 2023 21 March 2024 
-2023 Annual Shareholders Meeting 12 June 2024 
-Half year Results 29 August 2024 
-Business Update Q3 2023 21 November 2024 
-STOCK MARKET PRICES
-
-=== Page 190 ===
-IBA Annual Report 2023 
-187. STATEMENT OF USE 
-IBA has reported the information cited in this GRI content index for the period 1 
-January 2023 to 31 December 2023 in accordance with the GRI Standards. GRI 1 used 
-GRI 1: Foundation v2021 
-Ref 
-Disclosure 
-Cross reference, URL and/or information 
-GRI 2: GENERAL DISCLOSURES v2021
+PwC Bedrijfsrevisoren BV - PwC Reviseurs d'Entreprises SRL - Financial Assurance Services 
+Maatschappelijke zetel/Siege social: Culliganlaan 5, B-1831 Diegem 
+T: +32 (0)2 710 4211, F: +32 (0)2 710 4299, www.pwc.com 
+BTW/TVA BE 0429.501.944 / RPR Brussel - RPM Bruxelles / ING BE43 3101 3811 9501 - BIC BBRUBEBB / 
+BELFIUS BE92 0689 0408 8123 - BIC GKCC BEBB

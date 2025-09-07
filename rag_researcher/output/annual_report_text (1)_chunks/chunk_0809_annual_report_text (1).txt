@@ -1,12 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 809 of 1106
-SIZE: 697 characters
-PREVIOUS: chunk_0808_annual_report_text (1).txt
-NEXT: chunk_0810_annual_report_text (1).txt
-------------------------------
-testing the goodwill 
-recognised on business combinations annually for impairment, after the latest strategic plan has been approved by 
-Management. All other assets are depreciated or amortised and are tested for impairment only if there is an indicator that an asset is 
-impaired; management monitors closely the past and future performance of each segment as well as other internal and 
-external factors through regular meetings, performance reviews, discussions with third parties and other stakeholders. Goodwill arising from a business combination is allocated among the Groups cash-generating units (CGU) that are 
-expected to benefit from synergies as a result of the business combination.
+=== Page 140 ===
+IBA Annual Report 2023 
+137. position(EUR 26.9 million on accumulated tax 
+losses and EUR 12.6 million on temporary 
+differences) mainly due to the uncertainty of 
+future taxable profit to use these against in the 
+future. Tax losses and corresponding temporary 
+differences have no expiry dates. Accounting policy on taxes 
+Current income taxes: Management is not expecting that the requirements of Pillar II will be applicable to IBA Group as the turnover threshold is 
+not met.

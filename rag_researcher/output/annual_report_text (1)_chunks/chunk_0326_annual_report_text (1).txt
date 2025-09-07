@@ -1,21 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 326 of 1106
-SIZE: 642 characters
-PREVIOUS: chunk_0325_annual_report_text (1).txt
-NEXT: chunk_0327_annual_report_text (1).txt
-------------------------------
-elonging. It 
-is the feeling for an individual to be integral part 
-of IBA, an organization where we all can feel at 
-our best everywhere, every day. The B Corp framework chosen by IBA as 
-reference for its sustainability approach includes 
-measures on DEI, allowing IBA to track progress 
-on that front. === Page 70 ===
-IBA Annual Report 2023 
-67. IBA 
-The Code of Business Conduct and the DEI 
-Policy are today our reference to describe our 
-commitment to diversity in our corporate culture. The Corporate Governance Charter, published 
-on the Groups website, defines the core 
-competencies the Board of Directors requires to 
-be effective.
+represented by its permanent representative, Mr. Marcel Miller, Nextstepefficiency SAS, represented by its permanent representative 
+Mrs. Christine Dubus and Dr. Richard A. Hausmann. The latter three members being 
+independent, the Remuneration Committee is 
+thus comprised of a majority of independent 
+directors. The Remuneration Committee is 
+chaired by Mr. Pierre Mottet. Mr. Olivier Legrain 
+and Mr.

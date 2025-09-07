@@ -1,0 +1,15 @@
+00 
+1.700 
+2.000 
+Carbon shadow pricing4 
+eur / t CO2eq 
+NA 
+40 
+40 
+CDP Score3 
+rank 
+B- 
+B- 
+B 
+Emissions (absolute and intensity) continues to increase in the context of post-covid situation, due to the plane travel part. - Plane related emissions increased impacted by end of Covid pandemic, though remaining 21% lower than prepandemic year 2019 per FTE (6604t 
+CO2eq), thanks to alternative to flight travel such remote conferencing, remote maintenance, and more intense use of local resources.

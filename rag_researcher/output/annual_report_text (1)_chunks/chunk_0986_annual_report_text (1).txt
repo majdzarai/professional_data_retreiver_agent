@@ -1,23 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 986 of 1106
-SIZE: 556 characters
-PREVIOUS: chunk_0985_annual_report_text (1).txt
-NEXT: chunk_0987_annual_report_text (1).txt
-------------------------------
-mance of the group (or 
-segment) before financial income/expenses and 
-taxes. It shows all operating income and 
-expenses incurred during the period. Reason: EBIT is a useful performance indicator 
-as it shows IBAs operational performance of the 
-period by eliminating the impact of the financial 
-transactions and taxes. REBIT 
-Definition: Recurring earning before interests 
-and taxes (REBIT) shows the result of the 
-group 
-(or 
-segment) 
-before 
+ges in fair values or cash flows of hedged items. Cash flow hedges 
+Derivative financial instruments used for the protection of future cash flows are designated as hedges under cash flow hedge 
+accounting. === Page 167 ===
+IBA Annual Report 2023 
+164. 7.4. FINANCIAL ASSETS AND FINANCIAL 
+LIABILITIES AT FAIR VALUE 
+The following table provides an analysis of 
 financial 
-income/expenses and taxes and before the 
-other operating income and other operating 
-expenses.
+instruments 
+that 
+are 
+measured 
+subsequent to initial recognition at fair value, grouped into Levels 1 to 3.

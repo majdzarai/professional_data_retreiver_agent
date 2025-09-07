@@ -1,38 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 819 of 1106
-SIZE: 480 characters
-PREVIOUS: chunk_0818_annual_report_text (1).txt
-NEXT: chunk_0820_annual_report_text (1).txt
-------------------------------
-in affiliated companies 
-Current assets 
-31 942 
-28 364 
-Non-current assets 
-89 035 
-88 949 
-Current liabilities (-) 
--14 505 
--21 637 
-Non-Current liabilities (-) 
--120 116 
--119 037 
-Equity 
--13 645 
--23 361 
-Groups share in equity 
--4 705 
--8 410 
-Unrealized gain on sale of an intangible asset 
--1 991 
--1 991 
-Cumulative unrecognized share of losses of associate 
-6 721 
-10 426 
-Other 
-0 
-0 
-Groups carrying amount of Investment accounted for using the 
-equity method 
-25 
-25
+quity holders (EUR 000) 
+6 057 
+-9 110 
+Diluted earnings per share from operations (EUR per share) 
+0.2007 
+-0.3128 
+In compliance with IAS33, which stipulates that the diluted earnings per share does not take into account assumptions for 
+conversion, financial year, or other issuing of potential ordinary shares which may have an anti-dilutive effect on the earnings 
+per share (shares whose conversion involves a decrease in the loss per share).

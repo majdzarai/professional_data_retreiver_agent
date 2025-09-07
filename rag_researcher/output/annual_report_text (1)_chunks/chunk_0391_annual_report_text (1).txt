@@ -1,51 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 391 of 1106
-SIZE: 614 characters
-PREVIOUS: chunk_0390_annual_report_text (1).txt
-NEXT: chunk_0392_annual_report_text (1).txt
-------------------------------
-representative of Research Management Systems SRL and subsequently Exoplanets Research SRL 
-Details of 2023 variable pay for Managing Directors 
-Name 
-Title 
-Currency 
-Profit Before 
-Tax 
-a. % pay-out 
-b. amount 
-Order Intake 
-a. % pay-out 
-b. amount 
-Sustainability 
-a. % pay-out 
-b. amount 
-Profit sharing 
-a. sharing value 
-b. amount 
-Olivier 
-Legrain 
-(1) 
-CEO 
-EUR 
-a. 0% 
-b. 0 
-a. 150% 
-b. 103 122 
-a. 120% 
-b. 84 998 
-a. 10,36 
-b. 205 822 
-Yves 
-Jongen (2) 
-CRO 
-EUR 
-a. 0% 
-b. 0 
-a. 150% 
-b. 56 764 
-a. 120% 
-b. 46 787 
-a. 10,36 
-b. 113 296 
-1. Managing Director and representative of Lamaris Group SRL 
-2.
+ho operate under a Management Company 
+agreement. Contractual agreements with Managing Directors and members of the Executive 
+Management Team 
+The schedule below summarizes the main contractual arrangements, concerning each Managing 
+Director and member of the Executive Management Team, in relation to termination at the initiative of 
+the Company. MANAGING DIRECTORS 
+AND EXECUTIVE 
+MANAGEMENT TEAM 
+START OF 
+TERM 
+END OF 
+TERM 
+APPLICABLE 
+NOTICE PERIOD 
+TERMINATION AGREEMENT 
+Lamaris Group SRL

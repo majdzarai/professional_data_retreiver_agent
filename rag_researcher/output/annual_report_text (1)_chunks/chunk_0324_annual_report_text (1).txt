@@ -1,18 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 324 of 1106
-SIZE: 665 characters
-PREVIOUS: chunk_0323_annual_report_text (1).txt
-NEXT: chunk_0325_annual_report_text (1).txt
-------------------------------
-ess of peoples unique 
-backgrounds, lives, cultural experiences, and 
-the diversity of thought and ways of acting that 
-this brings to our workplace. We foster Inclusion by respecting individual 
-differences and capturing the advantages that 
-this provides to drive greater impact and value in 
-our work. We call it the IBA culture, in which we 
-create an environment that helps each and every 
-one of us to fully contribute to IBAs success. Equity is the guarantee of fair treatment, access, opportunity, and advancement. IBA is committed 
-to providing equal employment and training 
-opportunities, and to treating applicants and 
-employees without discrimination.
+Submitted to the General Meeting as candidate independent directors on their election, without excluding the fact that 
+other directors also fulfill the independence criteria. None of the independent directors ceased during the financial year to 
+fulfill the independence criteria set out in the corporate charte. The Board of Directors considers that the current non-renewable mandate of Mr. Marcel Miller, representing Consultance 
+Marcel Miller S.Comm. as independent director is in line with Article 7:87 CCA and will end at the General Meeting of 
+2026.

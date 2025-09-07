@@ -1,20 +1,30 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 270 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0269_annual_report_text (1).txt
-NEXT: chunk_0271_annual_report_text (1).txt
-------------------------------
-w applicable to some 
-non-executive directors of IBA prohibits them 
-from receiving part of their remuneration in the 
-form of shares of the company. Therefore, IBA is 
-not in a position to abide by principle 7.6 of the 
-2020 Belgian Corporate Governance Code. The Company has complied with all the 
-provisions of the 2020 Corporate Governance 
-Code, except those from which it has deviated 
-for the reasons explained hereabove. === Page 62 ===
-IBA Annual Report 2023 
-59. IBA 
-MAIN FEATURES OF THE INTERNAL CONTROL & 
-RISK MANAGEMENT SYSTEMS (SECTIONS 3:6, 2, 3 AND 3:32, 1, 7, OF THE BCAC) 
-Managem
+These credit facilities 
+are detailed hereunder. As at December 31, 2023, the Group has at its 
+disposal credit facilities amounting to EUR 58.0 
+million of which 23.4% are used. (EUR 000) 
+Credit 
+facilities 
+total 
+amount 
+Credit 
+facilities 
+used 
+Credit 
+facilities 
+available 
+S.R.I.W. - subordinated 
+10 676 
+10 676 
+0 
+S.F.P.I. - subordinated 
+2 906 
+2 906 
+0 
+Short-term credit facilities 
+44 458 
+0 
+44 458 
+TOTAL 
+58 040 
+13 582 
+44 458

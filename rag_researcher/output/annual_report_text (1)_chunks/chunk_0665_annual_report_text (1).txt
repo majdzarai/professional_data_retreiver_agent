@@ -1,21 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 665 of 1106
-SIZE: 563 characters
-PREVIOUS: chunk_0664_annual_report_text (1).txt
-NEXT: chunk_0666_annual_report_text (1).txt
-------------------------------
-of non-financial 
-assets, expected credit losses, provisions, revenue 
-recognition, hedge 
-accounting, pension plans, deferred tax and going concern. When preparing the budget for 2024 and the 
-medium-term 
-strategic 
-plan, the 
-macro-
-economic conditions were taken into account 
-for the assumptions and forecast transactions. IBAs order intake remains strong and the 
-backlog is increasing, therefore reducing 
-uncertainty on future revenues. In addition, the 
-cash position of the group remains solid with 
-EUR 109.3 million gross cash (EUR 67.7 million 
-net).
+the previous periods 
+presented as comparatives. Amendments to IAS 12 Income Taxes: International Tax Reform Pillar Two 
+Model Rules 
+In 2023, the IASB introduced some exceptions 
+to the accounting of deferred tax related to the 
+application of the International Tax Reform 
+Pillar 
+II 
+and 
+clarifies 
+the 
+disclosures 
+requirements. As IBA Group does not reach the

@@ -219,10 +219,8 @@ class ResearcherAgent:
         
         self.logger.info(f"Found {len(sections)} sections to process")
         
-        # For testing, only process the first section
-        if len(sections) > 1:
-            sections = sections[:1]
-        self.logger.info(f"Testing mode: Processing only first section: {sections[0].get('section_title', 'Unknown')}")
+        # Process all sections
+        self.logger.info(f"Processing all {len(sections)} sections")
         
         # Load global plan to get topic
         global_plan_file = self.planner_output_dir / "plan.json"

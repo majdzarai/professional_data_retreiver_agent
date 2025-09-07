@@ -1,16 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1066 of 1106
-SIZE: 342 characters
-PREVIOUS: chunk_1065_annual_report_text (1).txt
-NEXT: chunk_1067_annual_report_text (1).txt
-------------------------------
-ions 
-p193 AR2023 GRI appendix 305-3 / GHG emissions outside the organisation 
-305-4 
-GHG emissions intensity 
-p192 AR2023 GRI appendix 305-1 / GHG emissions within organisation 
-305-5 
-Reduction of GHG emissions 
-p40 AR2023 A committed company / planet 
-p192 AR2023 GRI appendix 305-1 / GHG emissions within organisation 
-GRI 306 WASTE v2020
+s detect a material misstatement 
+when it exists. Misstatements can arise from fraud or error and are considered material if, individually 
+or in the aggregate, they could reasonably be expected to influence the economic decisions of users 
+taken on the basis of these consolidated accounts. In performing our audit, we comply with the legal, regulatory and normative framework applicable to 
+the audit of the consolidated accounts in Belgium.

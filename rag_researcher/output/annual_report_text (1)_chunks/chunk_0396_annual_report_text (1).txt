@@ -1,16 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 396 of 1106
-SIZE: 571 characters
-PREVIOUS: chunk_0395_annual_report_text (1).txt
-NEXT: chunk_0397_annual_report_text (1).txt
-------------------------------
-s will expire on May 31st 2026, the 
-other 50% on May 31st 2030. The exercise 
-price is 7,54 (being the average closing price of 
-the prior 30 days). SOP2021 was granted on January 25, 2021 with a strike price at 13,39 (being the 
-average closing price of the prior 30 days). This plan will vest on January 1st, 2025 and 
-the options will expire on December 31, 2026. Participants to this plan automatically 
-contracted a Minimal Holding Requirement 
-as per the rules defined in the Remuneration 
-Policy for Managing Directors and other 
-Executive Management Team Members
+iewed 
+regularly in the light of market practice. IBA directors are currently remunerated by an 
+annual lump-sum fee of EUR 6,000, except 
+directors residing overseas, who, in order to 
+cover the specific time implications and 
+constraints related to intercontinental travel, receive EUR 16,000. The Chairman of the Board 
+receives an annual lump-sum fee of EUR 
+12,000, whilst the Chairs of the Audit Committee 
+and of the Sustainability Committee receive an 
+annual lump-sum fee of EUR 9,000 each.

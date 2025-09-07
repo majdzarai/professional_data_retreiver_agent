@@ -1,21 +1,30 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 681 of 1106
-SIZE: 645 characters
-PREVIOUS: chunk_0680_annual_report_text (1).txt
-NEXT: chunk_0682_annual_report_text (1).txt
-------------------------------
-=== Page 128 ===
-IBA Annual Report 2023 
-125. 3. Business combinations and other changes 
-in the composition of the group 
-3.1. ACQUISITIONS OF COMPANIES 
-In a transaction closed on March 3, 2023, the 
-Group acquired 100% of the shares of 
-Fluidomica LD.A. The consideration paid is 
-EUR 0.2 million, the variable consideration is 
-still to be estimated and will be payable in 2026 
-for an amount of maximum EUR 0.4 million. During the year: IBA set up two new 
-subsidiaries: IBA Dosimetry India Private 
-Limited in July 2023 and IBA Proton Therapy 
-Israel Ltd in September 2023. 3.2. DISPOSALS OF COMPANIES 
-No disposal was carried out in 2023.
+al rates published by the 
+European Central Bank. Alternatively, when a 
+rate is not published by the institution, the 
+groupe uses rates from the reputable source 
+Oanda.com. The main exchange rates used 
+for conversion to EUR are as follows: Closing rate on December 
+31, 2022 
+Average annual rate 
+2022 
+Closing rate on December 31, 2023 
+Average annual rate 
+2023 
+USD 
+1.0666 
+1.0541 
+1.1050 
+1.0814 
+CNY 
+7.3582 
+7.0768 
+7.8509 
+7.6464 
+INR 
+88.1710 
+82.5729 
+91.9045 
+89.2835 
+RUB 
+78.8640 
+73

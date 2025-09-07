@@ -1,17 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 745 of 1106
-SIZE: 495 characters
-PREVIOUS: chunk_0744_annual_report_text (1).txt
-NEXT: chunk_0746_annual_report_text (1).txt
-------------------------------
-ontract 
-liability position on the installation contract which 
-started early 2023. The increase in the argentinian official index in 
-2023 was 211%. The contract liability position 
-being the billing in excess of the revenue 
-recognised on the installation project was a 
-significant non monetary item and has resulted 
-in a revaluation impact of EUR 1.9 million. IBA 
-has issued large milestone invoices throughout 
-the period which have all been indexed to the 
-index as at December 31, 2023.
+owth following the acquisition 
+of Modus in 2022. For the year-ended December 31, 2023, the 
+Group 
+gross 
+margin 
+(31.4%) 
+worsened 
+compared to 2022 (35.1%) following inflation 
+and lower overhead absorption. The previous 
+year performance was also positively impacted 
+by indemnities related to the Rutherfords 
+bankruptcy. For the year-ended December 31, 2023, Group 
+operating expenses were EUR 128.0 million, a 
+10.6% increase from 2022 (2022: EUR 115.7 
+million).

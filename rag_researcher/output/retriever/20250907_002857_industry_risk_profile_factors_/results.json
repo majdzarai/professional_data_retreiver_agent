@@ -1,0 +1,18 @@
+{
+  "query": "industry risk profile factors for Ion Beam Applications SA",
+  "timestamp": "2025-09-07 00:28:57",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "=== Page 118 ===\nIBA Annual Report 2023 \n115. 1. Summary of significant group accounting \npolicies \n1.1. THE REPORTING ENTITY \nIon Beam Applications SA (the Company or \nthe Parent), founded in 1986, and its \nsubsidiaries (together, the Group or IBA) are \ncommitted to technological progress in the field \nof cancer diagnosis and therapy and deliver \nefficient, dependable \nsolutions \nproviding \nunequalled precision. IBA also offers innovative \nsolutions for everyday hygiene and safety. The \nCompany \nis \na \nlimited \ncompany \nincorporated and domiciled in Belgium.",
+      "similarity_score": 0.41433345613808464
+    }
+  ]
+}

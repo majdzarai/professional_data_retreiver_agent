@@ -1,29 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 724 of 1106
-SIZE: 677 characters
-PREVIOUS: chunk_0723_annual_report_text (1).txt
-NEXT: chunk_0725_annual_report_text (1).txt
-------------------------------
-ed to payment 
-for progress to date 
-Input method based on the 
-expected contract costs. This revenue is presented in the 
-income statement as Sales. Services 
-Over time as the customer 
-simultaneously receives and 
-consumes the benefit and its 
-efforts are spread evenly 
-throughout the performance 
-period that is the term of the 
-contract. Straight-line method 
-This revenue is presented in the 
-income statement as Services. Licences 
-At a point in time as IBA 
-transfers a right to use the 
-intellectual property rather 
-than a right to access the 
-intellectual property 
-When the rights are being 
-transferred 
-This revenue is presented in the 
-income statement as Sales.
+ract 
+Note 4.3 Revenue 
+Revenue recognition licensing contract with CGN 
+Note 4.3 Revenue 
+Stock option plan 
+Note 6 - Stock options and 
+share-based payments 
+Local taxes in countries other than Belgium 
+Note 4.7.1 Income tax 
+expense 
+Estimating the value in use of intangible and tangible assets 
+Note 5.3 - Impairment of assets 
+Estimation of the incremental borrowing rate of a lease 
+Note 5.10.2 Lease liabilities 
+Estimation of the defined benefit obligation of the post-employment 
+benefit pl

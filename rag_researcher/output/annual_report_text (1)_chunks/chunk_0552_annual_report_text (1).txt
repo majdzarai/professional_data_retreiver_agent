@@ -1,18 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 552 of 1106
-SIZE: 607 characters
-PREVIOUS: chunk_0551_annual_report_text (1).txt
-NEXT: chunk_0553_annual_report_text (1).txt
-------------------------------
-IBA SA currently has four stock option plans in 
-place, fully subscribed per December 31, 2023. The plans for 2014 and 2015 expire on June 30, 2024. In June 2020, a stock option plan was 
-issued comprising medium-term options as well 
-as long-term options: medium-term options 
-expire on June 30, 2026; long-term options 
-expire on June 30, 2030. In January 2021 
-another stock option plan was issued for 
-medium-term stock options expiring December 
-2026. For the last 2020 and 2021 stock option 
-plans, no new shares will be created; these will 
-be settled by means of own shares acquired by 
-the company.
+The short-term borrowing have increased by 
+EUR 2.7 million, due to an administrative 
+delay processing the reimbursement of the 
+S.R.IW loans on the closing date. Short-
+term borrowings of EUR 6.5 million at the 
+end of 2023 include the short-term portion of

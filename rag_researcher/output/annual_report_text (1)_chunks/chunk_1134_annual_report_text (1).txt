@@ -1,0 +1,11 @@
+generated 
+p40 AR2023 A committed company / planet 
+p194 AR2023 GRI appendix 306-3 / waste generated 
+306-4 
+Waste diverted from disposal 
+p40 AR2023 A committed company / planet 
+p80 AR2023 Management report / corporate governance statement / codes of 
+conduct 
+306-5 
+Waste directed to disposal 
+p194 AR2023 GRI appendix 306-3 / waste generated

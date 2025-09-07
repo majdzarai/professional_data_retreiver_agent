@@ -1,16 +1,3 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 850 of 1106
-SIZE: 549 characters
-PREVIOUS: chunk_0849_annual_report_text (1).txt
-NEXT: chunk_0851_annual_report_text (1).txt
-------------------------------
-ification to trade receivable of some 
-invoices to customers which had extended 
-payment terms but becoming due in 2024; The reclassification of prepaid shares to 
-Other investments as ownership of these 
-shares was confirmed in January 2023 for 
-EUR -1.5 million; The decrease of other Current income tax 
-receivable for EUR -2.6 million. In 2022, IBA had an open tax litigation regarding the 
-deductibility of some R&D expenditures for 
-EUR 0.9 million which was resolved early 
-2023 at which point the asset was settled. The decrease is offset by
+to exercise the option to renew or to terminate. Discount rate: The Group cannot readily determine the interest rate implicit in the lease, therefore, it uses its incremental borrowing rate 
+(IBR) to measure lease liabilities. The IBR is the rate of interest that IBA would have to pay to borrow over a similar term, and with a similar security, the funds necessary to obtain an asset of a similar value to the right-of-use asset in a similar 
+economic environment.

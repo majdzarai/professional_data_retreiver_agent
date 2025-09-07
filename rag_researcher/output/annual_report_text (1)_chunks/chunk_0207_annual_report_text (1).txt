@@ -1,22 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 207 of 1106
-SIZE: 652 characters
-PREVIOUS: chunk_0206_annual_report_text (1).txt
-NEXT: chunk_0208_annual_report_text (1).txt
-------------------------------
-8https://www.sciencedirect.com/science/article/abs/pii/S000
-129982400014X?dgcid=coauthor 
-production for both diagnosis and therapy in a 
-growing 
-range 
-of 
-applications 
-including 
-oncology, cardiology and neurology. A significant milestone was reached by the 
-RadioPharma business in December, with the 
-sale of IBAs 100th Cyclone KIUBE cyclotron, underlining IBAs world leading position in the 
-mid-energy cyclotron market. Post period end 
-saw the sale of the first Cyclone KEY, launched 
-to enable small and medium-sized hospitals to 
-produce their own radiopharmaceutical products 
-in-house, for installation at a hospital in Benin, West Africa.
+few years, increasing by 6.5% compared to 
+2022. The expansion of PT as a recommended 
+modality for the treatment of a wide range of 
+cancer cases continued at pace in 2023. ASTRO 
+further updated its guidelines to include the use 
+of PT for the curative treatment of Adolescent

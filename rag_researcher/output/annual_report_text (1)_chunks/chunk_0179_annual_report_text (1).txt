@@ -1,26 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 179 of 1106
-SIZE: 657 characters
-PREVIOUS: chunk_0178_annual_report_text (1).txt
-NEXT: chunk_0180_annual_report_text (1).txt
-------------------------------
-up consolidated annual accounts 
-(rapport de gestion sur les comptes consolides). Hence, the present report is a consolidated and 
-integrated report. The management 
-report 
-contains 
-a 
-fair 
-presentation and a balanced and exhaustive 
-analysis of the business development, the 
-results and the situation of the Company, as well 
-as a description of the main associated risks and 
-uncertainties. The 
-management 
-report 
-includes 
-key 
-performance indicators of both financial and, where applicable, non-financial nature related to 
-the specific activity of the Company, in particular 
-information related to environmental, societal 
-and employees aspects.
+data 
+from the ongoing dialogue that IBA has established with all 
+its stakeholders, through formal and informal exchanges 
+and from publications on environmental issues. For more information on our yearly results, please refer to 
+the GRI Index in our annual report. CORPORATE BROCHURE 2024
+IBA
+43

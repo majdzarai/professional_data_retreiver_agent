@@ -1,20 +1,20 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 708 of 1106
-SIZE: 665 characters
-PREVIOUS: chunk_0707_annual_report_text (1).txt
-NEXT: chunk_0709_annual_report_text (1).txt
-------------------------------
-pensated by interest revenues 
-on bank accounts and investment bonds in 
-relation to proton therapy projects for EUR 
-1.7 million for the Proton Therapy and Other 
-Accelerators segment; As at December 31, 2023, the group has 
-recorded its share (50%) in the loss of PanTera 
-SA/NV) for EUR 0.2 million. IBA does not 
-account for its share of the loss in Cyclhad SAS 
-and Normandy Hadrontherapy SAS above the 
-value of its investment as the Group has no 
-commitment to participate in any potential future 
-capital increase. As at December 31, 2023, the Group recognises 
-a tax expense for an amount of EUR 8.8 million 
-representing -2792.1% of the result before tax.
+expensive for IBA 
+due to the energy price level at the time of 
+the investigation done by IBA; Our 
+forecast 
+transactions 
+remain 
+sufficiently certain and cautious to ensure 
+that 
+effectiveness 
+of 
+our 
+derivatives 
+financial instruments is maintained to 
+qualify for hedge accounting; 2.3. MACRO-ECONOMIC ENVIRONMENT
+Management has considered several factors 
+related to the macro-economic environment and 
+their impact on impairment of non-financial 
+assets, expected credit losses, provisions, revenue 
+recognition, hedge 
+accounting, pension plans, deferred tax and going concern.

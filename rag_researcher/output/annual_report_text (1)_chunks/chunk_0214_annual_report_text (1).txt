@@ -1,20 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 214 of 1106
-SIZE: 617 characters
-PREVIOUS: chunk_0213_annual_report_text (1).txt
-NEXT: chunk_0215_annual_report_text (1).txt
-------------------------------
-d to end solution, that may 
-be supported by further strategic acquisitions 
-and a stronger presence in key geographical 
-areas like India and China. Principal risks and uncertainties faced by the 
-company (sections 3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the BCAC)
-APPROACH TO RISK MANAGEMENT
-The Board of Directors, supported by the 
-Management Team, the Risk Management 
-Committee, and the Audit Committee, oversees 
-and manages enterprise risk. The Management 
-Team, the Risk Management Committee, and 
-the Audit Committee identified several functional 
-experts covering the various categories of 
-enterprise risk.
+pgrades, with an order intake of EUR 81 
+million. Overall revenues grew more than 50%, with equipment revenues alone increasing 
+58.2% to EUR 99.1 million. REBIT grew to EUR 
+23.7 million, an increase of 293.7% year on year. This strong performance was underpinned by 
+high value backlog conversion. 26 installations 
+began in 2023, with 16 of them starting in the 
+second half. 17 installations were completed in 
+2023.

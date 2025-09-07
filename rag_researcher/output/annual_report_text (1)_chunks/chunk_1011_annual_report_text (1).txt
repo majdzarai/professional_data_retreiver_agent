@@ -1,13 +1,22 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1011 of 1106
-SIZE: 610 characters
-PREVIOUS: chunk_1010_annual_report_text (1).txt
-NEXT: chunk_1012_annual_report_text (1).txt
-------------------------------
-oard of directors use of the going concern basis of 
-accounting and, based on the audit evidence obtained, whether a material uncertainty exists 
-related to events or conditions that may cast significant doubt on the Groups ability to continue 
-as a going concern. If we conclude that a material uncertainty exists, we are required to draw 
-attention in our statutory auditors report to the related disclosures in the consolidated accounts 
-or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the 
-audit evidence obtained up to the date of our statutory auditors report.
+19 564 
+Changes in working capital 
+26 117 
+-18 525 
+Net income tax paid/received 
+-4 418 
+-2 521 
+Interest expense 
+2 049 
+742 
+Interest income 
+-1 496 
+-1 650 
+Net cash (used)/generated from operations 
+21 712 
+-19 769 
+As at December 31, 2023, the heading Other 
+non-cash items mainly includes the partial 
+release of the refund liability related to the 
+performance bond issued to CGN (EUR -5.0 
+million), the gain on the contribution in kind to 
+Pantera (-EUR 2.2 million), the future tax credit

@@ -1,20 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 559 of 1106
-SIZE: 594 characters
-PREVIOUS: chunk_0558_annual_report_text (1).txt
-NEXT: chunk_0560_annual_report_text (1).txt
-------------------------------
-Other debts mainly include the dividend for 
-the year to be distributed (EUR 5.0 million). === Page 105 ===
-IBA Annual Report 2023 
-102. IBA 
-Financial instruments (article 3:6, 1, 8, of the 
-BCAC) 
-The main financial instruments consist of inter-
-company loans, bank loans, bank balances, and 
-bank and / or intragroup deposits. The main 
-objective of these financial instruments is to raise 
-funds for the financing of the activities of the 
-company. The Company also has other financial assets 
-and liabilities such as trade receivables and 
-payables, which arise directly from its activity.
+temporis basis while 
+research 
+expenses 
+are 
+capitalised 
+and 
+expensed in the same year (2023: EUR 54.5 
+million recognised and partially amortised for 
+EUR 11.7 million), in accordance with the 
+accounting policies disclosed in the notes to the 
+annual accounts of IBA SA. These significant investments enable the 
+Company to remain among the world leaders in 
+all the markets in which it operates. Capital increases and issues of stock options 
+and convertible bonds section 7:203 of the 
+BCAC 
+In 2023, IBA did not proceed with any share 
+capital increases.

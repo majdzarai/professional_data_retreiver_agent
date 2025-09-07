@@ -1,0 +1,18 @@
+{
+  "query": "operational risks of currency fluctuations on company performance",
+  "timestamp": "2025-09-07 00:29:38",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "from net investments in non-Eurozone \noperations. Approximately 5.0% of the Groups \nsales (4.5% in 2022) are denominated in \ncurrencies other than the functional currency of \nthe operating unit making the sales, while 97.0% \nof costs (94.0% in 2022) are denominated in the \nunits functional currency. While the functional currency of the parent \ncompany of the Group is the euro, the Groups \nexposure to foreign currencies is related \nprimarily to the US dollar, Chinese yuan, Indian \nrupee, Russian ruble and Canadian dollar.",
+      "similarity_score": 0.39525497063346526
+    }
+  ]
+}

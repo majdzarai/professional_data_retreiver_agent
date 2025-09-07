@@ -1,19 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 316 of 1106
-SIZE: 617 characters
-PREVIOUS: chunk_0315_annual_report_text (1).txt
-NEXT: chunk_0317_annual_report_text (1).txt
-------------------------------
-rd meeting 
-with sustainability as a specific topic, as 
-sustainability is key for IBAs strategy. The name 
-has been changed to Sustainability Board. As of December 31, 2023, the Sustainanbility 
-Board consists of all members of the Board of 
-Directors. Bridging for Sustainability SRL 
-represented by its permanent representative Ms. Sybille van den Hove also chairs the meetings. Day-to-day and strategic 
-management 
-The day-to-day management of the Company 
-and the authority to represent the Company in 
-such matters is delegated to two managing 
-directors, Mr. Olivier Legrain, Chief Executive 
-Officer, and Mr.
+or Sustainability SRL, Independent 
+Director, Mr. Marcel 
+Miller, permanent 
+representative of Consultance Marcel Miller 
+S.Comm. Independent Director. The term of their mandate is set at the Ordinary 
+General Meeting to be held in 2026 (i.e. the 
+Ordinary General Meeting that will be convened 
+to approve the annual accounts as of 31 
+December 2025). An EGM was held on September 4, 2023. Whose articles of association were amended on 
+March 28, 2023, an extract of which was 
+published in the appendix to the Moniteur belge 
+of April 18, 2023.

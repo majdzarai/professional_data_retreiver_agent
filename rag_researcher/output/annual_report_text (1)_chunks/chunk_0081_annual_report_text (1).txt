@@ -1,19 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 81 of 1106
-SIZE: 596 characters
-PREVIOUS: chunk_0080_annual_report_text (1).txt
-NEXT: chunk_0082_annual_report_text (1).txt
-------------------------------
-=== Page 25 ===
-1. Makbule Tambas et al, Radiotherapy 
-and Oncology https://doi.org/10.1016/j. radonc.2020.07.056
-2. Source: PTCOG
-One of the initiatives IBA Proton Therapy is currently 
-supporting is the PROTECTTrial. The PROTECT Trial 
-is a large-scale, multi-institutional, randomized 
-controlled clinical trial in conjunction with 19 industry 
-and academic partners. The consortium conducts 
-trials in esophageal cancer with the aim of improving 
-access to proton therapy for patients, whilst validating 
-a model-based approach for the use of proton therapy 
-treatment in cancer more broadly.
+ted by IBA and the Belgian 
+Nuclear Research Centre SCK CEN, focusing on the development 
+and commercialization of radiopharmaceuticals for cancer 
+diagnosis and therapy. One of its key areas of research is the use 
+of actinium-225, a radioactive isotope that has shown promise 
+in the treatment of several types of cancer. Actinium-225 emits 
+alpha particles, which are highly effective at killing cancer cells 
+while sparing healthy tissues. PanTera is working on developing 
+actinium-225-based radiopharmaceuticals to treat a variety 
+of cancers, including prostate cancer and multiple myeloma.

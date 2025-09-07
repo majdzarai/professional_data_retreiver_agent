@@ -1,22 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 849 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0848_annual_report_text (1).txt
-NEXT: chunk_0850_annual_report_text (1).txt
-------------------------------
-2023, the other receivable and 
-operating assets have decreased by EUR -21.9 
-million, driven by: The decrease in deposits for EUR -10.8 
-million; The release of a EUR -7.3 million payment 
-from the Russian subsidiary previously 
-blocked by Belgian authorities as part of a 
-review 
-measure 
-under 
-the 
-current 
-embargo; The decrease of accrued income from 
-service contracts for EUR -3.7 million; A decrease for EUR -1.1 million due to the 
-reclassification to trade receivable of some 
-invoices to customers which had extended 
-payment terms but becoming due in 2024; The reclassification of prepa
+ill has been 
+determined on a value in use basis. For the CGU Dosimetry, if the growth rate is 
+decreased by 100 basis points and the discount 
+rate is increased by 100 basis points, the 
+recoverable amount remains greater than the 
+carrying amount of the tested assets. No 
+impairment was identified in 2023 and in 2022. the commencement date, the Group reassesses the lease term if there is a significant event or change in circumstances that 
+is within its control and affects its ability to exercise or not to exercise the option to renew or to terminate.

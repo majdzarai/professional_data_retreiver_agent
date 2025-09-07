@@ -1,0 +1,42 @@
+{
+  "section_id": "references",
+  "section_title": "References",
+  "chapter_id": "references",
+  "chapter_title": "References",
+  "description": "Sources used: filings, financial reports, external data.",
+  "topic": "comprehensive KYC and credit risk analysis for Ion Beam Applications SA",
+  "questions": [
+    {
+      "question": "What financial reports and filings by Ion Beam Applications SA provide relevant information for a comprehensive KYC analysis?",
+      "queries": [
+        "Ion Beam Applications SA annual report",
+        "Ion Beam Applications SA 10-K filing",
+        "Ion Beam Applications SA investor relations website"
+      ]
+    },
+    {
+      "question": "What external data sources can be used to supplement or verify the credit risk assessment for Ion Beam Applications SA?",
+      "queries": [
+        "credit rating agencies Ion Beam Applications SA",
+        "Ion Beam Applications SA news articles and press releases",
+        "external auditors' reports on Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "Are there any specific regulations or industry standards that need to be considered in the KYC analysis for Ion Beam Applications SA?",
+      "queries": [
+        "KYC requirements EU financial institutions",
+        "Ion Beam Applications SA compliance with AML regulations",
+        "industry standards for credit risk assessment"
+      ]
+    },
+    {
+      "question": "What additional sources of information are available to provide context and supporting evidence for the comprehensive KYC analysis?",
+      "queries": [
+        "Ion Beam Applications SA Wikipedia page",
+        "Ion Beam Applications SA social media presence",
+        "analyst reports on Ion Beam Applications SA"
+      ]
+    }
+  ]
+}

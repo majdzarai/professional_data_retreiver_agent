@@ -1,17 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 146 of 1106
-SIZE: 544 characters
-PREVIOUS: chunk_0145_annual_report_text (1).txt
-NEXT: chunk_0147_annual_report_text (1).txt
-------------------------------
-nd 
-the excellent infrastructure at IBA. Its a pleasure to cross the fields in 
-the morning and then overtake the 
-line of cars when approaching IBA. Francois, an IBA biker
-SUPPORTING EDUCATION
-While we invest heavily in training our employees, we are also 
-committed to educating young people. We believe that passing 
-on our knowledge to younger generations is vital to assuring 
-our future. Over the long term, we will continue to support partnerships 
-with NGOs, foundations and universities which will help improve 
-learning and education.
+rages efficient, low-impact and healthy mobility. We offer attractive leasing conditions to our employees 
+for low-impact mobility vehicles, such as electric bicycles 
+and scooters. This is an efficient way to combine daily 
+commuting and parking lot optimization, healthy exercise, fitness, and carbon footprint reduction. In 2023, IBA launched a revised, fully electric car policy, together with adapted infrastructures: specific parking lots, 500 kW photovoltaic car ports and high-power charging 
+stations.

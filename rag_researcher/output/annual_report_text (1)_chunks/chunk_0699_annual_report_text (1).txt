@@ -1,21 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 699 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0698_annual_report_text (1).txt
-NEXT: chunk_0700_annual_report_text (1).txt
-------------------------------
-2022: 308.8 EUR 
-million): the revenue of Proton Therapy activities 
-amounts to EUR 229.1 million (2022: EUR 218.8 million), showing a slow 
-increase of 4.7% due to a slow backlog 
-conversion in H1 as well as significant 
-costs at completion increases following 
-a high inflation; the revenue of Other Accelerators 
-activities amounts to EUR 133.7 million 
-(2022: EUR 88.5 million), showing a 
-significant increase of 51.1% thanks to a 
-good backlog conversion with a high 
-delivery volume and a solid order intake 
-in H1; === Page 131 ===
-IBA Annual Report 2023 
-128. revenues for the Dosimetry segm
+pricing mechanisms could 
+increase direct costs. IBA has run a 
+scenario based on 40 /tCO2e, in line with 
+our internal carbon pricing as used for our 
+contribution to the decarbonization program 
+of Soil Capital and could result in a EUR 1.0 
+million impact on future costs. IBA is 
+continuously looking for opportunities to 
+offset 
+the 
+remaining 
+part 
+of 
+the 
+organisations footprint. Opportunity: Development of new products 
+or services through R&D and innovation: IBA continues to invest he

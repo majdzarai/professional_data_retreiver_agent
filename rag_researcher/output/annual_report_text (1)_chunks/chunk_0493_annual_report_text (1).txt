@@ -1,39 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 493 of 1106
-SIZE: 299 characters
-PREVIOUS: chunk_0492_annual_report_text (1).txt
-NEXT: chunk_0494_annual_report_text (1).txt
-------------------------------
-EUR 
-000 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-Y/N 
-Y/N 
-Y/N 
-Y/N 
-Y/N 
-Y/N 
-Y/N 
-% 
-% 
-E 
-T 
-A. TAXONOMY-ELIGIBLE ACTIVITIES 
-A.1 Environmentally sustainable activities (Taxonomy-aligned) 
-Infrastructure enabling low-carbon road 
-transport and public transport 
-6.15 
-18 
-0.1% 
-100.0% 
-0.0% 
-0.0% 
-0.0% 
-0.0% 
-0.0%
+e, workers, community, environment and customers. The company was 
+able 
+to 
+demonstrate 
+socially 
+and 
+environmentally responsible practices in the 
+areas of energy, health, welfare, compensation, diversity, transparency and more. At the end of 
+2023, IBA had a proforma score of 106+pts, 26 
+points higher than the reference score of 80, required for certification. In accordance with B 
+Lab requirements, IBA has also modified its 
+articles of Association to formally integrate its 
+commitment to

@@ -1,17 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1068 of 1106
-SIZE: 346 characters
-PREVIOUS: chunk_1067_annual_report_text (1).txt
-NEXT: chunk_1069_annual_report_text (1).txt
-------------------------------
-generated 
-p40 AR2023 A committed company / planet 
-p194 AR2023 GRI appendix 306-3 / waste generated 
-306-4 
-Waste diverted from disposal 
-p40 AR2023 A committed company / planet 
-p80 AR2023 Management report / corporate governance statement / codes of 
-conduct 
-306-5 
-Waste directed to disposal 
-p194 AR2023 GRI appendix 306-3 / waste generated
+in 
+professional skepticism throughout the audit. We also: Identify and assess the risks of material misstatement of the consolidated accounts, whether 
+due to fraud or error, design and perform audit procedures responsive to those risks, and obtain 
+audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of 
+not detecting a material misstatement resulting from fraud is higher than for one resulting from 
+error, as fraud may involve collusion, forgery, inte

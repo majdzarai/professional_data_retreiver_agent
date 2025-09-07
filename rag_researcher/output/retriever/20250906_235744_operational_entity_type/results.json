@@ -1,0 +1,18 @@
+{
+  "query": "operational entity type",
+  "timestamp": "2025-09-06 23:57:44",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "currently \ndeems them to be not taxonomy-aligned. Operational expenditure \nIn 2023, IBA taxonomy-eligible operational \nexpenditure relates to: bike lease program (taxonomy category 6.4)",
+      "similarity_score": 0.33838047915842473
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+Query: external ratings influence investor behavior
+Timestamp: 2025-09-07 00:28:29
+Results: 1
+Top-K: 5
+Similarity Threshold: 0.0
+Reranking Enabled: True
+Hybrid Search Enabled: True
+Hybrid Search Weight: 0.7
+================================================================================
+
+Result #1 (Score: 0.3379)
+

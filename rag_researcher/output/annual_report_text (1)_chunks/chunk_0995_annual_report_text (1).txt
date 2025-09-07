@@ -1,9 +1,31 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 995 of 1106
-SIZE: 303 characters
-PREVIOUS: chunk_0994_annual_report_text (1).txt
-NEXT: chunk_0996_annual_report_text (1).txt
-------------------------------
-the ethical requirements that are relevant to our audit of the 
-consolidated accounts in Belgium, including the requirements related to independence. We have obtained from the board of directors and Company officials the explanations and information 
-necessary for performing our audit. === Page 180 ===
+Level 3 
+December 31, 2023 
+Forward foreign exchange contracts and swaps - through Other 
+Comprehensive Income 
+0 
+1 056 
+0 
+1 056 
+Forward foreign exchange contracts and swaps - through Profit 
+and loss 
+0 
+193 
+0 
+193 
+Derivative financial assets 
+0 
+1 249 
+0 
+1 249 
+Equity instruments at fair value (Note 9.1.) 
+843 
+0 
+1 595 
+2 438 
+Forward foreign exchange contracts and swaps - through Other 
+Comprehensive Income 
+0 
+-428 
+0 
+-428 
+Forward foreign exchange contracts and swaps - through Profi

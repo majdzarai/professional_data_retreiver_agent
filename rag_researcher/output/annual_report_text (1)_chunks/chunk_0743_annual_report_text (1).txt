@@ -1,41 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 743 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0742_annual_report_text (1).txt
-NEXT: chunk_0744_annual_report_text (1).txt
-------------------------------
-further claims from the customer is deemed sufficiently low to avoid future reversal of 
-revenue. === Page 137 ===
-IBA Annual Report 2023 
-134. 4.5. FINANCIAL EXPENSES AND INCOME 
-4.5.1 Financial expenses 
- (EUR 000) 
-December 31, 2022 
-December 31, 2023 
-Interest paid on debts 
-1 282 
-735 
-Interests on lease liabilities 
-774 
-589 
-Total interest expenses 
-2 056 
-1 324 
-Foreign exchange losses 
-4 789 
-4 270 
-Loss on the change in fair value of derivatives 
-8 205 
-2 188 
-Unwinding of discount 
-426 
-716 
-Impact of hyperinflation 
-0 
-1 956 
-Other financial expenses 
-795 
-727 
-TOTAL 
-16 271 
-11 1
+al revenues for the Proton Therapy 
+and Other Accelerators segment of EUR 
+366.4 million representing an increase of 
+18.65% from 2022 (2022: 308.8 EUR 
+million): the revenue of Proton Therapy activities 
+amounts to EUR 229.1 million (2022: EUR 218.8 million), showing a slow 
+increase of 4.7% due to a slow backlog 
+conversion in H1 as well as significant 
+costs at completion increases following 
+a high inflation; the revenue of Other Accelerators 
+activities amounts to EUR 133.7 million 
+(2022:

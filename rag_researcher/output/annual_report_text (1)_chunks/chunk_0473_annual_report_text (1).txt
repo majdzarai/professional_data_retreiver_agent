@@ -1,32 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 473 of 1106
-SIZE: 671 characters
-PREVIOUS: chunk_0472_annual_report_text (1).txt
-NEXT: chunk_0474_annual_report_text (1).txt
-------------------------------
-and inclusive 
-workplace aims to pro-actively incorporate 
-diversity, equality and inclusion into our business 
-as a major contributor to belonging. A number of 
-collective intelligence initiatives are in place such 
-a 
-sounding 
-board 
-to 
-involve 
-voluntary 
-employees into strategic, management, or day to 
-day initiatives such as ecodesign, biodiversity 
-protection, volunteering policy, or green mobility. The 
-stream 
-company 
-accountable 
-to 
-sustainability addresses the policies and 
-practices 
-pertaining 
-to 
-our 
-mission, accountability and transparency, and building a 
-sustainable supply chain, by screening our 
-suppliers societal and environmental impact.
+and an update of a 
+number of internal processes. This evaluation 
+focused on key risk areas such as corruption, asset misappropriation, financial statement 
+fraud, cyberfraud of theft of data, and contract 
+and procurement fraud. As a second phase, informal training of employees is taking place on 
+a daily basis. A system of formal reporting is also 
+described in the Code of Business Conduct and 
+encourages the denunciation of such practices, amongst 
+others 
+through 
+the 
+anonimous 
+whistleblower platform on the Companys 
+website.

@@ -1,17 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 773 of 1106
-SIZE: 652 characters
-PREVIOUS: chunk_0772_annual_report_text (1).txt
-NEXT: chunk_0774_annual_report_text (1).txt
-------------------------------
-quity holders (EUR 000) 
-6 057 
--9 110 
-Diluted earnings per share from operations (EUR per share) 
-0.2007 
--0.3128 
-In compliance with IAS33, which stipulates that the diluted earnings per share does not take into account assumptions for 
-conversion, financial year, or other issuing of potential ordinary shares which may have an anti-dilutive effect on the earnings 
-per share (shares whose conversion involves a decrease in the loss per share). Accounting policy for earnings per share 
-Net basic earnings: The weighted average number of ordinary shares used in the calculation excludes shares purchased by the Company and 
-held as treasury shares.
+he progress of IBA in fulfilling its obligations. Contract assets and liabilities 
+A contract asset is the right to consideration in exchange for goods or services transferred to the customer and is recognised 
+when the group has transferred goods or services to a customer before being contractually entitled to payment. A contract liability is the obligation to transfer goods or services to a customer for which the Group has received 
+consideration (or an amount of consideration is due) from the customer and will be recognized as revenue when the Group 
+performs under the contract.

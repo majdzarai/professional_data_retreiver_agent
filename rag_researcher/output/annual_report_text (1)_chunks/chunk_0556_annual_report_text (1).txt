@@ -1,18 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 556 of 1106
-SIZE: 543 characters
-PREVIOUS: chunk_0555_annual_report_text (1).txt
-NEXT: chunk_0557_annual_report_text (1).txt
-------------------------------
-million in 2022. These mainly correspond to 
-provisions for technical and order fulfilment 
-guarantees as well as for the stock option plans 
-issued. Long-term financial debts 
-Amounts payable after more than one year in 
-2023 amount to EUR 216.8 million compared to 
-EUR 212.4 million in 2022, a net decrease of 
-EUR 4.4 million: Bank debts and other long-term financial 
-debts decreased by EUR -4.4 million and 
-amount to EUR 15.8 million. The remaining 
-amount includes: loan from the S.R.I.W. (EUR 5.2 million) and 
-SFPI (EUR 1.9 million).
+income tax payable increase by EUR 2.1 
+million. Trade payables have increased by EUR 11.0 
+million which reflects the increase orders on 
+stock and inventories. The Group's cash and cash equivalents 
+presented in the cash-flow statement decreased 
+by EUR -49.1 million in 2023, mainly due to: a negative operating cash-flow of EUR -19.8 
+million mainly related to the change of 
+working capital for EUR -16.9 million and the 
+net loss of EUR -9.1 million; Negative financing cash-flow of EUR -14.4

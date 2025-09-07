@@ -1,11 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 567 of 1106
-SIZE: 225 characters
-PREVIOUS: chunk_0566_annual_report_text (1).txt
-NEXT: chunk_0568_annual_report_text (1).txt
-------------------------------
-CAPEX will be around EUR 10-12 million 
-per year until 2026 to support increased 
-investment in infrastructure, innovation, sustainability and digitalization to maintain 
-IBAs leading offering and invest in its future 
-growth
+compared to a loss of EUR -7.2 million in 
+2022. The profit of 2023 is mostly the result of a 
+dividend received from the Chinese subsidiary 
+(amounting to EUR 13.8 million); the other 
+categories of cost include interest expenses, foreign exchange impacts, and bank charges. The operational perspectives of IBA SA remain 
+positive. At the end of 2023, the Company had ten 
+branches, in the following locations: Prague, Czech Republic; Orsay, France; Krakow, === Page 102 ===
+IBA Annual Report 2023 
+99.

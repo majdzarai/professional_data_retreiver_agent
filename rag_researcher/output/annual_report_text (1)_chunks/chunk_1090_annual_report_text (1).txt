@@ -1,10 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1090 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_1089_annual_report_text (1).txt
-NEXT: chunk_1091_annual_report_text (1).txt
-------------------------------
-IEA 2023 guidelines. For consistency, same updated 
-emission factors have been applied to the reporting of previous years based on the same guidelines. 2Scope 3: included: car and heating fuel production, plane, rail and waste handling 
-3CDP Score related to disclosure year (eg B relates to disclosure year 2023 and is based on 2022 data, per CDP rules) 
-4An internal carbon shadow pricing has been set for the first time in 2022 at 40 eur/t, with a recommendation at 80 eur/t as of 2024. 5For the fourth consecutive year, IBA is supporting European farmers in their transition to regenerative agri
+11 of 
+the Belgian Companies & Associations Code. CORPORATE PURPOSE (ARTICLE 3 OF THE 
+ARTICLES OF ASSOCIATION) 
+The purpose of the Company is to engage in 
+research and development and to acquire 
+intellectual property rights with a view to the 
+operation, manufacturing, and marketing of 
+applications and equipment in the field of applied 
+physics. It may carry out financial, commercial 
+and industrial transactions, and all transactions 
+involving movable or immovable property, relating directly or indirectly to its corporate 
+purpose.

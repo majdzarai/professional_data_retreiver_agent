@@ -1,29 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 589 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0588_annual_report_text (1).txt
-NEXT: chunk_0590_annual_report_text (1).txt
-------------------------------
-elated to net investment in foreign operation 
-185 
-981 
-- Net movement on cash flow hedges 
-7.4.1. 38 
-5 057 
-Net other comprehensive income to be reclassified to profit or loss in 
-subsequent periods 
-768 
-8 489 
-Other comprehensive income not to be reclassified to profit or loss in 
-subsequent periods (net of tax): - Revaluation at fair value of other investments 
-5.5. -10 422 
--2 904 
-- Remeasurement gain/(loss) on defined benefit plans 
-5.11.1 
-3 548 
--1 067 
-Net other comprehensive income not to be reclassified to profit or loss 
-in subsequent periods 
--6 874 
--3 971 
-Total Other compreh
+es as well as for the stock option plans 
+issued. Long-term financial debts 
+Amounts payable after more than one year in 
+2023 amount to EUR 216.8 million compared to 
+EUR 212.4 million in 2022, a net decrease of 
+EUR 4.4 million: Bank debts and other long-term financial 
+debts decreased by EUR -4.4 million and 
+amount to EUR 15.8 million. The remaining 
+amount includes: loan from the S.R.I.W. (EUR 5.2 million) and 
+SFPI (EUR 1.9 million).

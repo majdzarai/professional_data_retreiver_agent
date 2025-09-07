@@ -1,13 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 999 of 1106
-SIZE: 685 characters
-PREVIOUS: chunk_0998_annual_report_text (1).txt
-NEXT: chunk_1000_annual_report_text (1).txt
-------------------------------
-We evaluated the design and implementation of internal controls related to revenue recognition 
-for this type of contracts, including the estimation of costs incurred and the review of sales 
-contracts. For a sample of projects, we obtained the contracts and validated the revenue characteristic 
-data by reconciling them to the specific accounting module for project management. Based on 
-the planned billing schedule, bank statements related to payments received during the fiscal 
-year were requested and obtained through sampling. For the same sample, we also validated the estimated total costs by reconciling them to the 
-tracking files and had discussions with project managers.
+counting are recognised in the Income 
+Statement. As at December 31, 2023, this is represented 
+by cash flow hedges with the following 
+balances: EUR 0.2 million as short-term and 
+long-term financial assets (EUR 0.1 million in 
+2022) and EUR -0.3 million (EUR -1.6 million in 
+2022) as short-term and long-term financial 
+liabilities. In 2023, a gain of EUR 0.5 million (2022: loss of 
+EUR 6.6 million) on these instruments was 
+therefore recorded in the income statement.

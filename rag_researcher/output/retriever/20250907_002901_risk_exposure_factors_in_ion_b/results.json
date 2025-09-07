@@ -1,0 +1,18 @@
+{
+  "query": "risk exposure factors in ion beam technology business",
+  "timestamp": "2025-09-07 00:29:01",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "assessing \nperformance of the operating segments. On the basis of its internal financial reports and given the Groups primary source \nof risk and profitability, IBA has identified two operating segments: - \nProton therapy and other accelerators: This segment constitutes the technological basis of the Groups many \nbusinesses and encompasses development, fabrication, and services associated with medical and industrial \nparticle accelerators and proton therapy systems. - \nDosimetry: This segment in",
+      "similarity_score": 0.4172655599457877
+    }
+  ]
+}

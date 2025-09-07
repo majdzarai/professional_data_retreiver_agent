@@ -1,19 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 908 of 1106
-SIZE: 682 characters
-PREVIOUS: chunk_0907_annual_report_text (1).txt
-NEXT: chunk_0909_annual_report_text (1).txt
-------------------------------
-49 972 stock options (the 
-"Stock Options") were granted to members of 
-the Group top management (including some 
-determined persons), the Head Plan. Each 
-Stock Option allows its beneficiary to subscribe 
-to one newly issued share or receive the 
-Company own shares against payment of a 
-strike. The plan allows for further additional new 
-persons to join the plan at a later stage; strike, vesting dates and expiry dates may vary. In 
-2021, after the initial plan launch, 38 346 more 
-options were issued followed by 16 839 in 2022 
-Accounting policy for trade and other payables 
-Trade and other payable are recognised at fair value and subsequently remeasured at amortised cost.
+Retained earnings 
+51 431 
+36 051 
+The hedging reserves include changes in the fair 
+value of financial instruments used to hedge 
+cash flows of future transactions. Hedging 
+reserves have increased in 2023 following 
+fluctuation in the foreign currencies as well as 
+ineffective 
+portions 
+of 
+instruments 
+being 
+released to the Income Statement. The treasury shares reserve includes shares of 
+IBA S.A. acquired by group entities and are 
+valued at acquisition cost.

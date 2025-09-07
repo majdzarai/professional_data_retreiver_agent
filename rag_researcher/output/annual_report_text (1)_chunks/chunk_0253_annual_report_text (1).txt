@@ -1,20 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 253 of 1106
-SIZE: 571 characters
-PREVIOUS: chunk_0252_annual_report_text (1).txt
-NEXT: chunk_0254_annual_report_text (1).txt
-------------------------------
-in market 
-interest rates relates primarily to the Groups 
-long-term debt obligations with floating interest 
-rates which were fully repaid in 2023. When the 
-Group considers that the fluctuation of interest 
-rates could have a significant impact on its 
-financial results, the Group will use interest rate 
-swaps in order to mitigate this impact. IBA does not apply hedge accounting to these 
-transactions, and 
-these 
-instruments 
-are 
-therefore revalued through profit and loss. At the end of 2023 and 2022, the Group did not 
-have any outstanding interest rate swaps.
+ocess know-how and are not 
+protected by patents. The Company has filed 
+patents, but it cannot guarantee that the scope 
+of these patents is broad enough to protect the 
+Companys intellectual property rights and 
+prevent its competitors from gaining access to 
+similar technologies. The Company cannot 
+guarantee 
+that 
+the 
+defection 
+of 
+certain 
+employees will not have a negative impact on its 
+intellectual property rights.

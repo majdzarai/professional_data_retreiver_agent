@@ -1,21 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1086 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_1085_annual_report_text (1).txt
-NEXT: chunk_1087_annual_report_text (1).txt
-------------------------------
-00 
-1.700 
-2.000 
-Carbon shadow pricing4 
-eur / t CO2eq 
-NA 
-40 
-40 
-CDP Score3 
-rank 
-B- 
-B- 
-B 
-Emissions (absolute and intensity) continues to increase in the context of post-covid situation, due to the plane travel part. - Plane related emissions increased impacted by end of Covid pandemic, though remaining 21% lower than prepandemic year 2019 per FTE (6604t 
-CO2eq), thanks to alternative to flight travel such remote conferencing, remote maintenance, and more intense use of local resources. - The impact of the car fleet decreases slightly compared to 2022, and drops 48% lower than prepande
+ESEF requirements under the Delegated Regulation. Based on our procedures performed, we believe that the format of and marking of information in the 
+digital consolidated financial statements included in the annual financial report of Ion Beam Application 
+per 31 December 2023 comply in all material respects with the ESEF requirements under the 
+Delegated Regulation. Other statements

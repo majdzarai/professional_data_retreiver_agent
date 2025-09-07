@@ -1,25 +1,28 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 629 of 1106
-SIZE: 634 characters
-PREVIOUS: chunk_0628_annual_report_text (1).txt
-NEXT: chunk_0630_annual_report_text (1).txt
-------------------------------
-That only if an embedded derivative in a 
-convertible liability is itself an equity 
-instrument, would the terms of a liability not 
-impact its classification 
-The amendments are effective for annual 
-reporting periods beginning on or after 1 
-January 
-2024 
-and 
-must 
-be 
-applied 
-retrospectively. Since the groups current 
-practice is in line with the amendments, the 
-Group does not expect any effect on its 
-consolidated financial statements. Amendments to IFRS 16 Lease liability 
-in a Sale and Leaseback 
-The IASB issued amendments to IFRS16,, specifying the measurement of lease liability in 
-a Sale and Leaseback transaction.
+=== Page 115 ===
+IBA Annual Report 2023 
+112. Consolidated statement of changes in equity 
+for the year ended December 31, 2023 
+EUR 000 
+Capital 
+stock 
+(Note 
+16.1) 
+Capital 
+surplus 
+(Note 
+16.1) 
+Treasury 
+shares 
+(Note 16.1) 
+Hedging 
+reserves 
+(Note 17) 
+Other 
+reserves 
+Stock option 
+plans and 
+share-based 
+compensation 
+(Note 16.2) 
+Other 
+reserves

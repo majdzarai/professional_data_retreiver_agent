@@ -1,45 +1,51 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 894 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0893_annual_report_text (1).txt
-NEXT: chunk_0895_annual_report_text (1).txt
-------------------------------
-for the remaining years of the initial term 
-is calculated based on the latest available reforecast of the future costs to complete IBAs obligations. The margin is then 
-discounted using a risk-free rate. === Page 160 ===
+=== Page 153 ===
 IBA Annual Report 2023 
-157. (EUR 000) 
-January 
-1, 2022 
-Service 
-cost 
-Net 
-interest 
-expenses 
-Actuarial change 
-arising from 
-change in financial 
-assumptions 
-Contributions 
-by employer 
-Deferred 
-population 
-Benefits 
-plan 
-December 
-31, 2022 
-Defined benefit 
-obligation 
--13 688 
--3 266 
--156 
-5 618 
-399 
--2 973 
-173 
--13 893 
-Fair value of plan assets 
-8 308 
-0 
-97 
--
+150. (EUR 000) 
+Not 
+overdue 
+Due 
+from 1 
+to 90 
+days 
+Due from 
+91 to 180 
+days 
+Due from 181 
+to 270 days 
+Due from 
+271 to 
+360 days 
+Due 
+more 
+than 
+360 
+days 
+Total 
+Trade 
+receivable 
+Expected credit loss rate 
+0% 
+25% 
+50% 
+75% 
+100% 
+Trade receivables 
+30 374 
+26 168 
+4 357 
+2 134 
+462 
+47 820 
+111 315 
+ Calculated credit loss 
+1 089 
+1 067 
+347 
+47 820 
+50 323 
+ Adjustment for individual balances not at risk 
+-785 
+-933 
+-161 
+-44 704 
+-46 584

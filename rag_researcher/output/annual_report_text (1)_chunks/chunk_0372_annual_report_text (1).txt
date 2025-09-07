@@ -1,37 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 372 of 1106
-SIZE: 550 characters
-PREVIOUS: chunk_0371_annual_report_text (1).txt
-NEXT: chunk_0373_annual_report_text (1).txt
-------------------------------
-MANAGING DIRECTORS 
-AND EXECUTIVE 
-MANAGEMENT TEAM 
-START OF 
-TERM 
-END OF 
-TERM 
-APPLICABLE 
-NOTICE PERIOD 
-TERMINATION AGREEMENT 
-Lamaris Group SRL, represented by Olivier 
-Legrain 
-Mandate: 2023; Management 
-agreement: 2011 
-Mandate: GM 
-2026; Management 
-agreement: indefinite 
-Mandate: None 
-Management 
-agreement: 6 
-months or 
-equivalent 
-compensation 
-None. The management 
-agreement also contains a non-
-competitionobligation for the 
-duration of the agreement and 12 
-months thereafter 
-Exoplanets Research 
-SRL, represented by 
-Yves Jongen
+al directors have the authority and duty, subject to the rules defined in the Corporate 
+Governance Charter, to assign themselves 
+sufficient resources, including the assistance of 
+external consultants, if and when appropriate. Principles of the remuneration policy 
+The key purpose of IBAs remuneration 
+philosophy is to ensure the Company is able to 
+attract, retain and engage the executive talent it 
+requires to deliver on its promises towards its 
+various stakeholders including its clients an

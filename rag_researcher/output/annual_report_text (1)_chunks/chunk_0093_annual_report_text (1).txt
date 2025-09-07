@@ -1,18 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 93 of 1106
-SIZE: 665 characters
-PREVIOUS: chunk_0092_annual_report_text (1).txt
-NEXT: chunk_0094_annual_report_text (1).txt
-------------------------------
-=== Page 28 ===
-Keep everything but cancer 
-with ProteusONE
-CREATING THE FUTURE FOR IBA CUSTOMERS
-Proton therapy is an essential tool of precision medicine in 
-cancer treatment, and ProteusONE makes this pioneering 
-treatment more accessible than ever before. By adding proton 
-therapy to their centers services, cancer centers can grow and 
-innovate alongside other leaders in this field and advance their 
-possibilities to help even more eligible patients. ProteusONE can be augmented through smart expansions 
-whenever patient demand grows. It is also designed to be 
-compatible with upcoming proton therapy innovations, futureproofing centers for years to come.
+laboration, knowledge sharing and joint research. Campus aims to bring this collaboration to the next level. Its a place where experts, academia, researchers and 
+entrepreneurs from all over the world have the opportunity 
+to share knowledge with each other, and find the information 
+they need at every stage of their proton therapy journey. Campus is a tangible community, which meets and interacts 
+in real life. The Campus platform is also a single repository 
+centralizing a large amount of accumulated knowledge 
+and expertise. The campus community is built on 3 pillars:.

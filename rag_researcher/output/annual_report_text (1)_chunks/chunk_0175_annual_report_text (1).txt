@@ -1,12 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 175 of 1106
-SIZE: 277 characters
-PREVIOUS: chunk_0174_annual_report_text (1).txt
-NEXT: chunk_0176_annual_report_text (1).txt
-------------------------------
-g dialogue that IBA has established with all 
-its stakeholders, through formal and informal exchanges 
-and from publications on environmental issues. For more information on our yearly results, please refer to 
-the GRI Index in our annual report. CORPORATE BROCHURE 2024
-IBA
-43
+oiding associated hazardous waste and pollutants. IBA has also developed low activation concrete, which 
+significantly reduces the amount of waste to be reprocessed 
+during the future dismantling of the casemates hosting its 
+accelerators, and therefore costs and environmental impact. This concrete was also used during the construction of our 
+new headquarters. As for carbon emissions, to better manage the outcome of our 
+actions, we monitor and publish our waste emissions related 
+to our worldw

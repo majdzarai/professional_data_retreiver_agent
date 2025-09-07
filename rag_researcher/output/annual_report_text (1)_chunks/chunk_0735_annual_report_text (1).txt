@@ -1,9 +1,24 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 735 of 1106
-SIZE: 467 characters
-PREVIOUS: chunk_0734_annual_report_text (1).txt
-NEXT: chunk_0736_annual_report_text (1).txt
-------------------------------
-ent with CGN Dasheng Electron Accelerator Technology Co. Ltd for the provision of goods and services related to its Multi-Room Proton Therapy System. The contract applies to the 
-mainland territory of the Peoples Republic of China. Initially, as the contract contains an element of variable consideration in the form of an unconditional and irrevocable 
-performance bond the customer can draw upon for an initial maximum value of EUR 15 million management decided not
+of intangible assets 
+1 135 
+587 
+1 722 
+0 
+1 722 
+Personnel expenses 
+154 788 
+18 294 
+173 082 
+0 
+173 082 
+Non-cash expenses/(income) 
+-16 759 
+237 
+-16 522 
+0 
+-16 522 
+Headcount at year-end (EFT) 
+1 512 
+252 
+1 764 
+0 
+1 764

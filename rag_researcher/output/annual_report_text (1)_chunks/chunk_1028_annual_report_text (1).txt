@@ -1,20 +1,30 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1028 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_1027_annual_report_text (1).txt
-NEXT: chunk_1029_annual_report_text (1).txt
-------------------------------
-CLE 3 OF THE 
-ARTICLES OF ASSOCIATION) 
-The purpose of the Company is to engage in 
-research and development and to acquire 
-intellectual property rights with a view to the 
-operation, manufacturing, and marketing of 
-applications and equipment in the field of applied 
-physics. It may carry out financial, commercial 
-and industrial transactions, and all transactions 
-involving movable or immovable property, relating directly or indirectly to its corporate 
-purpose. It may acquire an interest, by 
-contribution, merger, purchase of shares, or any 
-other means, in companies, partnerships, or 
-cor
+77 
+13 583 
+INCOME STATEMENT 
+Sales 
+0 
+0 
+Costs (-) 
+-216 
+0 
+Financial income 
+27 
+183 
+Financial expense (-) 
+-1 075 
+732 
+Other operating income 
+0 
+0 
+Other operating expense (-) 
+0 
+0 
+TOTAL INCOME STATEMENT 
+-1 264 
+915 
+The long-term receivables relate to the loan 
+issued to Management Anchorage and the bank 
+and other borrowings relate to the loans from 
+the S.R.IW. and S.F.P.I. The loan issued to 
+Management Anchorage bears an interest of 
+1.35% per year and the principal is reimbursed

@@ -1,18 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 300 of 1106
-SIZE: 543 characters
-PREVIOUS: chunk_0299_annual_report_text (1).txt
-NEXT: chunk_0301_annual_report_text (1).txt
-------------------------------
-Sustainability SRL, Independent 
-Director, Mr. Marcel 
-Miller, permanent 
-representative of Consultance Marcel Miller 
-S.Comm. Independent Director. The term of their mandate is set at the Ordinary 
-General Meeting to be held in 2026 (i.e. the 
-Ordinary General Meeting that will be convened 
-to approve the annual accounts as of 31 
-December 2025). An EGM was held on September 4, 2023. Whose articles of association were amended on 
-March 28, 2023, an extract of which was 
-published in the appendix to the Moniteur belge 
-of April 18, 2023.
+of people, with 
+the CFO playing a leading role. A schedule 
+summarizing the periodic requirements for the 
+communication 
+of 
+financial 
+information 
+is 
+available at the Group level, with details of the 
+nature and date of each requirement. A 
+procedure stipulates the persons responsible for 
+preparing, approving, and communicating this 
+financial information to the market, based on 
+whether the information is restricted or not, and 
+commercial or financial in nature.

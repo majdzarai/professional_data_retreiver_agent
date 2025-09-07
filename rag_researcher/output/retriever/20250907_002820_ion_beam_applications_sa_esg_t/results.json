@@ -1,0 +1,18 @@
+{
+  "query": "Ion Beam Applications SA ESG targets biodiversity conservation",
+  "timestamp": "2025-09-07 00:28:20",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "ered is part of a more \neco-responsible approach. Coupled with the latest technologies in terms of green energy \nproduction, increased efficiency of the ionization process, recovery of fatal calories, co-generation, numerical modelling, digitalization, and product handling developed for the logistics \nindustry, irradiation can be further optimized to reduce the total \necological footprint of the sterilization industry compared to \nother established technologies.",
+      "similarity_score": 0.36661819527889117
+    }
+  ]
+}

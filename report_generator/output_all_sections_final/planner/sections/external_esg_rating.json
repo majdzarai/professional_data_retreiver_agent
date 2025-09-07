@@ -1,0 +1,42 @@
+{
+  "section_id": "external_esg_rating",
+  "section_title": "External ESG Ratings",
+  "chapter_id": "esg",
+  "chapter_title": "ESG (Environmental, Social, Governance)",
+  "description": "Third-party ratings (e.g., MSCI, Sustainalytics).",
+  "topic": "comprehensive KYC and credit risk analysis for Ion Beam Applications SA",
+  "questions": [
+    {
+      "question": "What external ESG rating providers are commonly used for company evaluations?",
+      "queries": [
+        "common ESG rating providers",
+        "ESG ratings MSCI Sustainalytics",
+        "company evaluation external ratings"
+      ]
+    },
+    {
+      "question": "How do external ESG ratings impact investment decisions and risk assessment?",
+      "queries": [
+        "impact of ESG ratings on investment decisions",
+        "ESG ratings in credit risk analysis",
+        "external ratings influence investor behavior"
+      ]
+    },
+    {
+      "question": "Can external ESG ratings be used as an indicator for company sustainability and social responsibility?",
+      "queries": [
+        "relationship between ESG ratings and corporate social responsibility",
+        "using ESG ratings to measure sustainability performance",
+        "ESG ratings as a proxy for corporate governance"
+      ]
+    },
+    {
+      "question": "What is the methodology used by external ESG rating providers to evaluate companies?",
+      "queries": [
+        "methodology behind ESG rating calculations",
+        "how do MSCI and Sustainalytics evaluate companies",
+        "ESG rating criteria for company evaluation"
+      ]
+    }
+  ]
+}

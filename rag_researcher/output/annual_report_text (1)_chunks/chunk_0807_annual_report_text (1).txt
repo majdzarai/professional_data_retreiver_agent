@@ -1,40 +1,18 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 807 of 1106
-SIZE: 610 characters
-PREVIOUS: chunk_0806_annual_report_text (1).txt
-NEXT: chunk_0808_annual_report_text (1).txt
-------------------------------
-tes and Joint Ventures are listed in note 
-12.2 
-and 
-are 
-Cyclhad 
-SAS, Normandy 
-Hadrontherapy SAS, Normandy Hadrontherapy 
-SARL and PanTera SA/NV. Changes in equity-accounted investments are as follows: (EUR 000) 
-December 31, 2022 
-December 31, 2023 
-As at January 1 
-20 
-273 
-Share of profit/(loss) of equity-accounted investments 
-3 
--169 
-Additions 
-250 
-18 200 
-Unrealized gain on sale of an intangible asset 
+Credited/(charged) to the income statement 
+-2 319 
+421 
+Deferred tax recognised from a business combinations 
 0 
 0 
-As at December 31 
-273 
-18 304 
-In 2023, IBA further contributed to the capital of 
-PanTera 
-SA/NV 
-with 
-cash 
-to 
-purchase 
-equipment from IBA and IP in kind as described 
-in Note 2.4.
+Currency translation difference 
+-265 
+49 
+As at December 31, 2023 
+17 627 
+-286 
+The deferred tax recognised from a business 
+combination in 2022 represents the temporary 
+difference on the intangible assets with a finite 
+useful life recognised as part of the purchase 
+price allocation exercise done on the 
+acquisition of Modus.

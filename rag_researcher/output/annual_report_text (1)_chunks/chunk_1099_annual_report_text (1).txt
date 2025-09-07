@@ -1,33 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1099 of 1106
-SIZE: 561 characters
-PREVIOUS: chunk_1098_annual_report_text (1).txt
-NEXT: chunk_1100_annual_report_text (1).txt
-------------------------------
-Mixed (unsorted): ratio vs total 
-% 
-41% 
-39% 
-33% 
-Waste generated - intensity per FTE 
-t / FTE 
-0,1 
-0,1 
-0,1 
-Waste generated - intensity per million Eur revenues 
-t / million Eur 
-0,5 
-0,4 
-0,4 
-Hazardous waste 
-t 
-4,0 
-2,5 
-4,7 
-Hazardous waste - intensity per million Eur revenues 
-t / million Eur 
-0,01 
-0,01 
-0,01 
-Global generated waste intensity is stable, with share of unsorted waste progressively decreasing, with program in place internally and with our waste 
-management partner to increase awareness, improve process and source reduce the waste.
+e 
+of shareholders equity with preemptive rights. On 9 November 2022, it was noted that 63,500 
+shares were subscribed by exercising 63. 500 
+warrants offered for subscription by decision of 
+27 June 2014 taken in execution of the

@@ -1,19 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1046 of 1106
-SIZE: 438 characters
-PREVIOUS: chunk_1045_annual_report_text (1).txt
-NEXT: chunk_1047_annual_report_text (1).txt
-------------------------------
-cember 2023, yearly 
-p196 AR2023 IBA contact 
-2-4 
-Restatements of information 
-p114 AR2023 IFRS consolidated financial / notes to consolidated financial 
-statements 
-p192 AR2023 GRI appendix 305-1 / GHG emissions within organisation 
-p193 AR2023 GRI appendix 305-3 / GHG emissions outside the organisation 
-2-5 
-External assurance 
-p175 AR2023 Auditors report 
-p191 AR2023 GRI appendix 2-5 / external assurance 
-2. Activities and workers
+We present to you our statutory auditors report in the context of our statutory audit of the consolidated 
+accounts of Ion Beam Application SA (the Company) and its subsidiaries (jointly the Group). This 
+report includes our report on the consolidated accounts, as well as the other legal and regulatory 
+requirements. This forms part of an integrated whole and is indivisible. We have been appointed as statutory auditor by the general meeting dated 10 July 2023, following the 
+proposal formulated

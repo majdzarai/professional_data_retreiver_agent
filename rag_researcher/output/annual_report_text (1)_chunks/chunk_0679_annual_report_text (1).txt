@@ -1,23 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 679 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0678_annual_report_text (1).txt
-NEXT: chunk_0680_annual_report_text (1).txt
-------------------------------
-applying accounting policies 
-Revenue recognition Equipment and installation considered as one 
-performance obligation 
-Note 4.3 Revenue 
-Determination of the lease term of contract with renewal and/or 
-termination option as a lessee 
-Note 5.2 Property, plant and 
-equipment 
-Contract termination 
-Note 4.3 Revenue 
-Assumptions and sources of estimation uncertainty 
-Assessment of the recoverability of tax losses carryforward 
-Note 4.7.2 Deferred tax 
-Revenue recognition - Estimating the progress under the equipment 
-and installation services contract 
-Note 4.3 Revenue 
-Revenue recognition licens
+niform accounting policies to like 
+transactions and other events in similar 
+circumstances. 1.3.2 Translation of financial 
+statements of foreign 
+operations 
+The financial statements of the Group entities 
+are measured using their functional currency, which is the currency of the primary economic 
+environment in which they operate and 
+corresponds for most of them to their local 
+currency. All monetary and non-monetary assets and 
+liabilities (including goodwill) are translated to 
+euros at the closing rate.

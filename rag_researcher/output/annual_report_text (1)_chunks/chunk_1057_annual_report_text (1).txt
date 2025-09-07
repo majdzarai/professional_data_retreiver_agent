@@ -1,12 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1057 of 1106
-SIZE: 210 characters
-PREVIOUS: chunk_1056_annual_report_text (1).txt
-NEXT: chunk_1058_annual_report_text (1).txt
-------------------------------
-p88 AR2023 Management report / corporate governance statement / codes of 
-conduct / taxonomy 
-2-28 
-Membership associations 
-p191 AR2023 GRI appendix 2-28 / membership of associations 
-5. Stakeholder engagement
+We evaluated the design and implementation of internal controls related to revenue recognition 
+for this type of contracts, including the estimation of costs incurred and the review of sales 
+contracts. For a sample of projects, we obtained the contracts and validated the revenue characteristic 
+data by reconciling them to the specific accounting module for project management. Based on 
+the planned billing schedule, bank statements related to payments received during the fiscal 
+year were requested and obtained through sampling.

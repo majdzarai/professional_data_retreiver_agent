@@ -1,19 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 317 of 1106
-SIZE: 678 characters
-PREVIOUS: chunk_0316_annual_report_text (1).txt
-NEXT: chunk_0318_annual_report_text (1).txt
-------------------------------
-e authority to represent the Company in 
-such matters is delegated to two managing 
-directors, Mr. Olivier Legrain, Chief Executive 
-Officer, and Mr. Yves Jongen, The Chief 
-Executive Officer is specifically responsible for 
-implementing strategy and for the day-to-day 
-management and is assisted by the business 
-unit heads and heads of enabling services. The Chief Executive Officer, accompanied by 
-the Chief Financial Officer, submits regular 
-reports to the Board of Directors. The Board of Directors has also asked the 
-Management Team members and business unit 
-heads to report to the Board on two topics: adoption of the strategic plan and adoption of the 
-2024 budget.
+ppendix to the Moniteur belge 
+of April 18, 2023. Whose articles of association 6 al.2,9 al 3 and 10 
+were last amended by deed dated September 4, 2023, an extract of which will be published in the 
+appendix to the Moniteur belge

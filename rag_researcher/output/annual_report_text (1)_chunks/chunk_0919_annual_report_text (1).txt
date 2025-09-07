@@ -1,30 +1,32 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 919 of 1106
-SIZE: 227 characters
-PREVIOUS: chunk_0918_annual_report_text (1).txt
-NEXT: chunk_0920_annual_report_text (1).txt
-------------------------------
-rs 
-2-5 years 
-> 5 years Total contractual cash flows 
-Trade receivables 
-77 202 
-30 374 
-0 
-0 
-0 
-107 576 
-Other ST and LT assets 
-293 
-57 824 
-2 977 
-6 778 
-11 432 
-79 304 
+0 454 10 454 
+16 222 
+28 127 44 349 
+14 691 
+29 720 44 411 
+Future interest expense on bank and other borrowings (-) 
+-1 841 
+-1 641 
+-3 482 
+-1 108 
+-1 721 
+-2 829 
 TOTAL 
-77 495 
-88 198 
-2 977 
-6 778 
-11 432 
-186 880
+14 381 
+26 486 40 867 
+13 583 
+27 999 41 582 
+5.10.1 Bank borrowings and credit facilities 
+The table below outlines the key terms and conditions of the existing credit facilities: Loan/Credit line 
+Ranking 
+Status 
+Total due 
+December 
+31, 2022 
+(EUR 000) 
+Carrying 
+amount 
+December 
+31, 2022 
+(EUR 000) 
+Total due 
+December

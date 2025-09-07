@@ -1,10 +1,49 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 732 of 1106
-SIZE: 508 characters
-PREVIOUS: chunk_0731_annual_report_text (1).txt
-NEXT: chunk_0733_annual_report_text (1).txt
-------------------------------
-rmined that due to the nature of its promises, the equipment and installation services contract have to be considered as 
-one performance obligation. Timing of revenue recognition: The Group assessed that its performance creates or enhances an asset that the customer controls as the asset is created. In 
-addition its performance does not create an asset with an alternative use to the Group and it has concluded that, at all 
-times, it has an enforceable right to payment for performance completed to date.
+3 
+-22 769 
+-115 632 
+-83 
+-115 715 
+Other operating income/(expenses) 
+-5 992 
+-96 
+-6 088 
+0 
+-6 088 
+Segment result (EBIT) 
+4 405 
+557 
+4 962 
+0 
+4 962 
+Recurring segment (REBIT) excluding internal sales 
+10 397 
+653 
+11 050 
+0 
+11 050 
+Financial income/(expenses) 
+-5 363 
+-32 
+-5 395 
+0 
+-5 395 
+Share of profit/(loss) of companies consolidated using the 
+equity method 
+3 
+0 
+3 
+0 
+3 
+Result before taxes 
+-955 
+525 
+-430 
+0 
+-430 
+Tax income/(expenses) 
+7 043 
+-556 
+6 487 
+0 
+6 487 
+RESULT FO

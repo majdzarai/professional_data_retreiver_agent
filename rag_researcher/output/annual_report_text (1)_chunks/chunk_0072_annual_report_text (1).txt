@@ -1,17 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 72 of 1106
-SIZE: 641 characters
-PREVIOUS: chunk_0071_annual_report_text (1).txt
-NEXT: chunk_0073_annual_report_text (1).txt
-------------------------------
-the same 
-radiopharmaceutical can be used to deliver a targeted dose 
-of radiation to the cancer cells, killing them while sparing 
-healthy tissues. Radiotheranostics is a promising approach to cancer care 
-because it allows for the personalized treatment of individual 
-patients based on the specific characteristics of their cancer 
-cells. This means that patients may experience fewer side 
-effects and better treatment outcomes compared to traditional 
-cancer treatments. Additionally, radiotheranostics can be used 
-to treat a wide range of cancers, including neuroendocrine 
-tumors, prostate cancer, and certain types of breast cancer.
+ociated with the 
+transportation of radiotracers. This can help improve patient 
+care by allowing more patients to have access to the benefits 
+of PET imaging. Major technological breakthroughs were achieved in the 
+diagnosis of coronary heart disease through PET. IBAs 70MeV 
+cyclotron enables the production of Rubidium-82, while the 
+CycloneKIUBE produces 13N-Ammonia both are used for 
+non-invasive myocardial perfusion tests. 18
+IBA
+CORPORATE BROCHURE 2024

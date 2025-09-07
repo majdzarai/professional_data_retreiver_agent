@@ -1,0 +1,42 @@
+{
+  "section_id": "aml_issues",
+  "section_title": "AML Issues",
+  "chapter_id": "risk_factors",
+  "chapter_title": "Risk Factors",
+  "description": "History of sanctions, money laundering, regulatory findings.",
+  "topic": "comprehensive KYC and credit risk analysis for Ion Beam Applications SA",
+  "questions": [
+    {
+      "question": "What are the historical sanctions imposed on entities and individuals related to Ion Beam Applications SA?",
+      "queries": [
+        "Ion Beam Applications SA sanctions history",
+        "Entity sanctions related to Ion Beam Applications SA",
+        "Individuals sanctioned for dealings with Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "What are the key findings of regulatory bodies and law enforcement agencies regarding money laundering and AML issues in the company's operations?",
+      "queries": [
+        "Regulatory findings on money laundering by Ion Beam Applications SA",
+        "AML issues in Ion Beam Applications SA business operations",
+        "Law enforcement reports on financial crimes involving Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "What are the specific AML and compliance deficiencies identified in previous assessments or audits of Ion Beam Applications SA?",
+      "queries": [
+        "AML deficiencies in Ion Beam Applications SA risk assessments",
+        "Compliance issues identified in Ion Beam Applications SA audit reports",
+        "Previous AML and KYC related concerns about Ion Beam Applications SA"
+      ]
+    },
+    {
+      "question": "Are there any notable cases or instances of money laundering, sanctions evasion, or other financial crimes linked to Ion Beam Applications SA?",
+      "queries": [
+        "Money laundering cases involving Ion Beam Applications SA",
+        "Sanctions evasion schemes related to Ion Beam Applications SA",
+        "Financial crime cases linked to Ion Beam Applications SA"
+      ]
+    }
+  ]
+}

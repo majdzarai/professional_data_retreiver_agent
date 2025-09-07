@@ -1,23 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 839 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0838_annual_report_text (1).txt
-NEXT: chunk_0840_annual_report_text (1).txt
-------------------------------
-If no movement after 1 year: write-off over 3 years; If movement occurs after write-off: reversal of write-off. Exceptions to the above general policy are made when justified by the individual valuation. === Page 152 ===
-IBA Annual Report 2023 
-149. 5.7. TRADE RECEIVABLES AND OTHER 
-OPERATING ASSETS 
-The trade receivable, other receivables and other operating assets are detailed as follows: (EUR 000) 
-December 31, 2022 
-December 31, 2023 
-Current 
-Gross trade receivables 
-115 013 
-111 315 
-Allowance for expected credit losses on trade 
-receivables (-) 
--3 364 
--3 739 
-Trade receivable 
-111 649
+ll as some 
+major repairs on the older buildings. The additions to the leased buildings are mainly 
+due to contracts that were near the term which 
+have been prolonged. In 2023 and 2022, additional investments were 
+also made for IT equipment. In 2023 and 2022, the disposals of tangible 
+assets mainly correspond to the scrapping of 
+unused assets by the Group as well as leases 
+that came to the end of contracts and that were 
+not renewed. Accounting policy for tangible fixed assets 
+Owned assets: Most assets are large structural enhancements made to buildings that are leased by IBA.

@@ -1,22 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 663 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0662_annual_report_text (1).txt
-NEXT: chunk_0664_annual_report_text (1).txt
-------------------------------
-any operational onerous 
-contract provisions other than those already 
-presented in these consolidated financial 
-statements; Currently, IBA is not involved in emission 
-trading schemes (even though investments 
-are made in Carbon Farming, these are not 
-allowed for compensation activities as they 
-are outside IBAs value chain). In addition, IBA has not signed any Power Purchase 
-Agreement for the supply of green energy 
-as these are deemed too expensive for IBA 
-due to the energy price level at the time of 
-the investigation done by IBA; Our 
-forecast 
-transactions 
-remain 
-sufficiently cert
+ies 
+with a requirement to disclose their material 
+accounting policies and adding guidance on 
+how entities apply the concept of materiality in 
+making decisions about accounting policy 
+disclosures. The amendments have had an impact on the 
+Groups disclosures of accounting policies, but 
+not on the measurement, recognition or 
+presentation of any items in the Groups 
+financial statements. Amendments to IAS 12 Deferred Tax 
+related to Assets and Liabilities arising 
+from a Single Transaction 
+I

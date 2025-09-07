@@ -1,20 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 442 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0441_annual_report_text (1).txt
-NEXT: chunk_0443_annual_report_text (1).txt
-------------------------------
-=== Page 88 ===
-IBA Annual Report 2023 
-85. IBA 
-they contain, within the Company. In order to do 
-so, IBA has made corruption and anti-bribery 
-one of the key principles of its Code of Business 
-Conduct; bribery of any government official in 
-any country or of any private person as well as 
-corrupt practices are strictly against IBAs policy, even if refusing to make such payment would 
-result in the Company losing a business 
-opportunity. As such, IBA, including its employees and 
-representatives, must not accept, neither 
-directly, nor through any family member or 
-anyone else, gifts or favo
+options to report non-compliance with 
+the Code. In December 2021, a whistleblower 
+platform in line with European and international 
+standards was activated on the Companys 
+website. The platform thus provides IBAs 
+stakeholders with the possibility to anonimously 
+report alleged violations of the Code of Business 
+Conduct in addition to the existing Company 
+channels. Complaints are managed by the 
+Compliance Officer who remains the central 
+point of contact with the responsibility to monitor 
+compliance and follow up on reported incidents 
+of non-compliance.

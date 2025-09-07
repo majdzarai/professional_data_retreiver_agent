@@ -1,24 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 545 of 1106
-SIZE: 686 characters
-PREVIOUS: chunk_0544_annual_report_text (1).txt
-NEXT: chunk_0546_annual_report_text (1).txt
-------------------------------
-ceivables 
-Long-term receivables amounted to EUR 21.1 
-million at end of 2023, a small decrease when 
-compared to the end of 2022 (EUR 21.4 million). The decrease of EUR -0.3 million is mainly due 
-to a decrease of miscellaneous long-term 
-receivables for an amount of EUR -1.2 million, which includes a long-term receivable on a 
-Proton Therapy Centre in Italy as well as the 
-long-term portion of a commercial receivable on 
-a Chinese customer, compensated by a higher 
-receivable (increase with EUR 1.1 million) of a 
-tax 
-credit 
-received 
-for 
-Research 
-and 
-Development activities (CIRD). Given these 
-R&D activities increased compared to last year, the tax credit also increased.
+A reduction of the fair value of the groups 
+investment by EUR -1.4 million following the 
+financial 
+difficulties 
+of 
+HIL 
+Applied 
+Technologies, offset by an investment in 
+InvestBW. A reduction of the deferred tax assets by 
+EUR -2.6 million mainly driven by changes 
+in the operating losses recoverability 
+following the new strategic plan; The reclassification to current assets of the 
+portion of some bonds and receivables that 
+will become due in 2024 for EUR -3.1 million 
+Current assets amount to EUR 452.0 million at 
+the end of 2023 and have decreased by EUR -
+48.4 million.

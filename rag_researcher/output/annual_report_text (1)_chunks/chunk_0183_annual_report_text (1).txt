@@ -1,16 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 183 of 1106
-SIZE: 225 characters
-PREVIOUS: chunk_0182_annual_report_text (1).txt
-NEXT: chunk_0184_annual_report_text (1).txt
-------------------------------
-in 
-accordance with applicable accounting 
-standards, give a true and fair view of 
-the assets and liabilities, financial 
-position, and results of IBA SA and the 
-undertakings 
-included 
-in 
-the 
-consolidation perimeter; and
+report is a consolidated and 
+integrated report. The management 
+report 
+contains 
+a 
+fair 
+presentation and a balanced and exhaustive 
+analysis of the business development, the 
+results and the situation of the Company, as well 
+as a description of the main associated risks and 
+uncertainties. The 
+management 
+report 
+includes 
+key 
+performance indicators of both financial and, where applicable, non-financial nature related to 
+the specific activity of the Company, in particular 
+information related to environmental, societal 
+and employees aspects.

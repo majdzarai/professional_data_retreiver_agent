@@ -1,54 +1,18 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 397 of 1106
-SIZE: 633 characters
-PREVIOUS: chunk_0396_annual_report_text (1).txt
-NEXT: chunk_0398_annual_report_text (1).txt
-------------------------------
-=== Page 80 ===
-IBA Annual Report 2023 
-77. IBA 
-Stock options 
-Name, Position 
-Stock option plan definition 
-Information related to the financial year covered by the 
-report 
-Opening 
-balance 
-During the year (*) 
-Closing 
-balance 
-1. Plan 
-2. Offer 
-date 
-3. Vesting 
-date 
-4. End of the 
-retention period 
-5. Exercise period 
-6. Exercise 
-price 
-7. Number 
-of options 
-at the 
-start of 
-the year 
-(2) 
-8.a) 
-Number of 
-options 
-offered 
-8.b) Value 
-of the 
-shares @ 
-Offer date 
-(3) 
-9.a) Number of 
-options vested 
-9.b) Value of the 
-shares @ Vesting 
-date 
-9.c) Value @ 
-Exercise price 
-9.d) Added value @ 
-Vesting date (4) 
-10.
+eceive an 
+annual lump-sum fee of EUR 9,000 each. The annual lump-sum fee is supplemented with 
+a fixed fee of EUR 1,600 per Board or committee 
+meeting the director has been invited to and 
+which he has attended. The Chairman of the Board receives EUR 3 000 
+per meeting attended. The Chairman of the Audit 
+Committee 
+and 
+the 
+Chairman 
+of 
+the 
+Sustainability Committee receive EUR 2,200 per 
+Committee meeting they chaired and EUR 1,600 
+per other meeting attended. The fixed fees are 
+on a half-day basis (assuming a half-day of 
+preparation) and adjusted per half day if 
+required.

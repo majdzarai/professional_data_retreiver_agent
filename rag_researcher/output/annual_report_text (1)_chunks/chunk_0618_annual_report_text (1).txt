@@ -1,21 +1,28 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 618 of 1106
-SIZE: 640 characters
-PREVIOUS: chunk_0617_annual_report_text (1).txt
-NEXT: chunk_0619_annual_report_text (1).txt
-------------------------------
-Amendments to IAS 12 Income Taxes: International Tax Reform Pillar Two 
-Model Rules (effective 1 January 2023).' 
-IFRS 17 insurance contracts 
-IFRS 17 is a new accounting standard for 
-insurance contracts covering recognition and 
-measurement, presentation and disclosure, replacing IFRS 4, already amended with 
-transition 
-option 
-regarding 
-comparative 
-information. The group does not issue insurance contracts, the financial guarantees that may be issued by 
-the Group are treated as financial instruments 
-in accordance with IFRS 9. The new standard 
-had no impact on the consolidated financial 
-statements as from the effective date.
+(EUR 000) 
+Note 
+December 31, 2022 
+December 31, 2023 
+ASSETS 
+Goodwill and other intangible assets 
+5.1. 17 840 
+23 396 
+Property, plant and equipment and Right-of-use assets 
+5.2. 46 068 
+49 465 
+Investments accounted for using the equity method 
+5.4. 273 
+18 304 
+Other investments 
+5.5. 3 805 
+2 438 
+Deferred tax assets 
+4.7.2. 20 211 
+17 627 
+Non-current derivative financial assets 
+7.3. 42 
+510 
+Other non-current receivable and operating assets 
+5.7. 35 184 
+33 743 
+Non-current assets 
+123

@@ -1,20 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 905 of 1106
-SIZE: 597 characters
-PREVIOUS: chunk_0904_annual_report_text (1).txt
-NEXT: chunk_0906_annual_report_text (1).txt
-------------------------------
-rease is primarily driven by an increased 
-level of purchases to support the groups 
-business growth. 5.12.2 Other current and non-
-current liabilities 
-Advances from local governments amount to 
-EUR 1.9 million as at December 31, 2023 and 
-have decreased (2022: EUR 3.7 million) 
-following the scheduled repayments made 
-during the year. In 2022, the liabilities also included the refund 
-liability related to the CGN contract as 
-described in Note 4.3 for EUR 5.0 million. As 
-the performance bond was fully released at the 
-end of 2023, the amount has been recognized 
-as a revenue in the year.
+er 270 days overdue; 100% after 360 days overdue. The credit loss is further reviewed in detail to take into consideration other customer specific factors such as 
+re-negotiation, customer refinancing, and guarantees received. For large Proton Therapy contracts, such analysis is performed considering the overall position of the contract, taking into 
+account trade receivable, contract asset and contract liabilities. As such, ECL allowances are rarely recognised when the 
+revenue recognised on the project is lower than the paid invoices.

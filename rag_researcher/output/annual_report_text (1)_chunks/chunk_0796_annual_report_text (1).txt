@@ -1,21 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 796 of 1106
-SIZE: 598 characters
-PREVIOUS: chunk_0795_annual_report_text (1).txt
-NEXT: chunk_0797_annual_report_text (1).txt
-------------------------------
-adjusted for any remeasurement of lease liabilities which could be 
-following a revision of the lease term or a change in the future lease payments. Right-of-use assets are depreciated using the straight-line method and are subject to impairment. The table below summarises useful lives of the main asset categories: TANGIBLE FIXED ASSETS 
-Useful life 
-Land 
-Not depreciated 
-Office buildings 
-33 years 
-Industrial buildings 
-33 years 
-Cyclotrons and vaults 
-15 years, except in specific rare circumstances where a different 
-useful life is justified 
-Laboratory equipment 
-5 years 
-Other technical
+s result before taxes differs 
+from the theoretical amount that would have 
+resulted from application of the average 
+applicable tax rates to the profits of the 
+consolidated companies. The analysis is as 
+follows: The theoritical tax rate presented here above is 
+a weighted average nominal rate of IBA group 
+and therefore is strongly impacted by the 
+disparity of profit and losses made in different 
+jurisdictions with different tax rates.

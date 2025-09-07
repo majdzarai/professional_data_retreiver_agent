@@ -1,10 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 8 of 1106
-SIZE: 236 characters
-PREVIOUS: chunk_0007_annual_report_text (1).txt
-NEXT: chunk_0009_annual_report_text (1).txt
-------------------------------
-ions 
+cellent sales in our businesses 
+(Proton Therapy, Dosimetry, Industrial Solutions 
 and RadioPharma Solutions), we are managing an 
 increasingly larger installed base and are, as a result, focusing more on service and upgrades. Patients / Clients
 Shareholders

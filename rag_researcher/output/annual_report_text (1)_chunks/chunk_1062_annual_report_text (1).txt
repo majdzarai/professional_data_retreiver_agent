@@ -1,22 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1062 of 1106
-SIZE: 553 characters
-PREVIOUS: chunk_1061_annual_report_text (1).txt
-NEXT: chunk_1063_annual_report_text (1).txt
-------------------------------
-3-1 
-Management of material topics 
-p40 AR2023 A committed company / planet 
-p84 AR2023 Management report / corporate governance statement / codes of 
-conduct / environmental matters 
-302-1 
-Energy consumption within the organization 
-p40 AR2023 A committed company / planet
-
-p192 AR2023 GRI appendix 302-1 / energy consumption within organisation 
-302-2 
-Energy consumption outside of the 
-organization 
-p40 AR2023 A committed company / planet 
-p193 AR2023 GRI appendix 305-3 / GHG emissions outside the organisation 
-GRI 303: WATER AND EFFLUENTS v2018
+The board of directors is responsible for the preparation of consolidated accounts that give a true and 
+fair view in accordance with International Financial Reporting Standards as adopted by the European 
+Union and with the legal and regulatory requirements applicable in Belgium, and for such internal 
+control as the board of directors determines is necessary to enable the preparation of consolidated 
+accounts that are free from material misstatement, whether due to fraud or error.

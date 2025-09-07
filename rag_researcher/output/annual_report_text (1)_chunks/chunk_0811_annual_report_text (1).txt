@@ -1,11 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 811 of 1106
-SIZE: 557 characters
-PREVIOUS: chunk_0810_annual_report_text (1).txt
-NEXT: chunk_0812_annual_report_text (1).txt
-------------------------------
-Value in use and goodwill impairment test: When management considers that there is a risk of impairment, the recoverable amounts of tangible and intangible assets 
-are determined on a value in use basis. Value in use is determined on the basis of cash-flows coming from IBAs most 
-recent business plans (4-years horizon), as approved by the Board of Directors in the context of the strategic plan. These 
-plans incorporate various assumptions made by management and approved by the Board as to how the business, profit 
-margins, and investments will evolve.
+able by 
+IBA SA, a long-term asset is recognised. Deferred taxes: A deferred tax asset on deductible temporary differences and on unused tax losses carried forward is only recognised to the 
+extent that it is probable that taxable profit will be available against which the deductible temporary difference and/or tax 
+losses can be utilized. When assessing deferred tax assets, management ensure that it is based on a reasonable number of 
+years of taxable results.

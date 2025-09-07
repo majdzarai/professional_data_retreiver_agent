@@ -1,48 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 914 of 1106
-SIZE: 469 characters
-PREVIOUS: chunk_0913_annual_report_text (1).txt
-NEXT: chunk_0915_annual_report_text (1).txt
-------------------------------
-Average exercise 
-price in EUR per 
-share 
-Number of stock options 
-Average exercise 
-price in EUR per 
-share 
-Number of stock 
-options 
-Outstanding as at January 1 
-11.40 
-1 119 153 
-11.92 
-1 115 682 
-Issued 
-17.15 
-16 839 
-13.20 
-79 825 
-Forfeited (-) 
-7.54 
--5 000 
-11.30 
--29 276 
-Exercised (-) 
-11.52 
--15 310 
-11.52 
--10 000 
-Expired (-) 
-- 
-0 
-- 
-0 
-Outstanding as at December 31 
-11.92 
-1 115 682 
-11.10 
-1 156 231 
-Exercisable as at December 31 
-82 500 
-73 500
+=== Page 156 ===
+IBA Annual Report 2023 
+153. unsecured subordinated bond from S.F.P.I. for 
+EUR 2.9 million (EUR 3.9 million in 2022) as well 
+as unused revolving (short term) credit facilities 
+(unchanged from 2022), and unused overdraft 
+facilities in China. The term loan of EUR 21 million was fully repaid 
+in 2022. The facilities expiring within one year include the 
+short-term portion of long-term debt, annual 
+facilities subject to review at various dates during 
+the 12 months following th

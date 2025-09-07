@@ -1,11 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1051 of 1106
-SIZE: 202 characters
-PREVIOUS: chunk_1050_annual_report_text (1).txt
-NEXT: chunk_1052_annual_report_text (1).txt
-------------------------------
-munication of critical concerns 
-p51 AR2023 Management report / principal risks and uncertainties faced by the 
-company 
-p80 AR2023 Management report / corporate governance statement / codes of 
-conduct
+We conducted our audit in accordance with International Standards on Auditing (ISAs) as applicable in 
+Belgium. Furthermore, we have applied the International Standards on Auditing as approved by the 
+IAASB which are applicable to the year-end and which are not yet approved at the national level. Our 
+responsibilities under those standards are further described in the Statutory auditors responsibilities 
+for the audit of the consolidated accounts section of our report.

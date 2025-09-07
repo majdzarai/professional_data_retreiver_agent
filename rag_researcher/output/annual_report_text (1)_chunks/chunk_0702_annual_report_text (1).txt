@@ -1,19 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 702 of 1106
-SIZE: 628 characters
-PREVIOUS: chunk_0701_annual_report_text (1).txt
-NEXT: chunk_0703_annual_report_text (1).txt
-------------------------------
-s for EUR 53.8 million, Sales and Marketing expenses for EUR 26.3 
-million and Research and Development net of 
-research credit for EUR 47.9 million. Despite 
-efficient control of overhead costs, careful 
-spending and IBAs cost control measures, the 
-increase is to be observed on all three types of 
-expenses and reflects the conditions of the 
-general macro-economic environment, however 
-the increase is mainly to be seen on Research 
-and Development which went up by 16%; this 
-demonstrates the strategic efforts that IBA is 
-making on both operating segments to maintain 
-its technological leadership in all business lines.
+nts 
+made by IBA in being a sustainable 
+company. In order to mitigate the risks and contribute 
+positively to climate change, IBA is committed 
+to several targets: Reduction of GHG emissions of our 
+infrastructure and mobility by 50% at the 
+latest by 2030 (base year 2018): A decrease of the energy consumption 
+of our infrastructure with additional 
+solar panels and other smaller scale 
+projects such as the installation of more 
+energy efficient lights and the renewal 
+of and the decarbonizatio

@@ -1,14 +1,7 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 161 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0160_annual_report_text (1).txt
-NEXT: chunk_0162_annual_report_text (1).txt
-------------------------------
-, via incentives for low-impact transportation, mandatory electric 
-car leasing, home working practices and a more efficient 
-servicing organization. Through the carbon farming project led by Soil Capital, IBA 
-buys carbon certificates from local regenerative agriculture, aiding in decarbonizing regional operations. This voluntary 
-effort boosts Wallonias carbon farming market by backing 
-agricultural practices that cut greenhouse gas emissions 
-at the farm level. Through the introduction of eco-design rules and practices, IBA also continuously reduces the CO2 footprint per functional 
-unit of
+as (GHG) emissions is both 
+direct and indirect:. A direct impact through our operations: our offices and 
+manufacturing infrastructures, and our employees travel.. An indirect impact through our installed product base: production at our suppliers facilities, transport within the 
+value chain, and, once installed at the customers location, via electricity consumption, servicing, and decommissioning. It was very positive to see behavior 
+changes in the participants and 
+their families during this challenge. Some of these changes will 
+definitely remain.

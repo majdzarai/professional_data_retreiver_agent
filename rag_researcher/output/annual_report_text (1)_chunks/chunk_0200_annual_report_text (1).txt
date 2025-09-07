@@ -1,24 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 200 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0199_annual_report_text (1).txt
-NEXT: chunk_0201_annual_report_text (1).txt
-------------------------------
-onformalFLASH6 technology. This builds on 
-the existing relationship between IBA and 
-KUMC, who had previously published a joint 
-abstract on FLASH technology together during 
-the 
 Proton 
 Therapy 
-Co-Operative 
-Group 
-(PTCOG) Congress in June 2023. Earlier in 
-2023, IBA also announced the first FLASH 
-research project on a ProteusONE in a clinical 
-setting, with PARTICLE, the proton therapy 
-center in Leuven, Belgium. IBA also continues to 
-develop Proton ARC Therapy and completed a 
-comprehensive integration test at the Proton 
-Therapy Center of William Beaumont Hospital in 
-Michigan, US, at
+REBIT 
+significantly 
+decreased to EUR -23.4 million, impacted by: customer delays, lower margin backlog 
+conversion of legacy projects and investment 
+and inflation costs
+
+Other Accelerators REBIT on the other hand 
+grew strongly to a record EUR 23.7 million, attributable to growing order intake, high value 
+backlog conversion and the growth of its 
+Services revenue 
+Proton therapy

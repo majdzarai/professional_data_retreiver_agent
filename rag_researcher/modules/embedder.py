@@ -123,9 +123,9 @@ class TextEmbedder:
                     self.model = {"type": "local", "path": local_model_path}
                     logger.info(f"Using local Nomic embedding model at: {local_model_path}")
                 elif self.model_name in ["nomic-embed-text", "nomic-embed-text:latest"]:
-                    # Use Ollama for nomic-embed-text model
-                    self.model = {"type": "ollama", "name": "nomic-embed-text:latest"}
-                    logger.info(f"Using Ollama Nomic embedding model: nomic-embed-text:latest")
+                    # Use local sentence-transformers for nomic-embed-text model
+                    self.model = {"type": "local", "name": "nomic-ai/nomic-embed-text-v1"}
+                    logger.info(f"Using local Nomic embedding model: nomic-ai/nomic-embed-text-v1")
                 else:
                     # For API models, we'll load on-demand during embedding
                     self.model = {"type": "api", "name": self.model_name}
@@ -171,35 +171,13 @@ class TextEmbedder:
         elif self.model_provider == "nomic":
             try:
                 # Handle different Nomic model types
-                if isinstance(self.model, dict) and self.model.get("type") == "ollama":
-                    # Use Ollama API for nomic-embed-text
-                    try:
-                        import requests
-                        import json
-                        
-                        url = "http://localhost:11434/api/embeddings"
-                        data = {
-                            "model": self.model["name"],
-                            "prompt": text
-                        }
-                        
-                        response = requests.post(url, json=data)
-                        if response.status_code == 200:
-                            result = response.json()
-                            return np.array(result["embedding"])
-                        else:
-                            logger.error(f"Ollama API error: {response.status_code} - {response.text}")
-                            return np.random.rand(self.embedding_dim)
-                    except Exception as ollama_e:
-                        logger.warning(f"Ollama API failed, using random embedding: {ollama_e}")
-                        return np.random.rand(self.embedding_dim)
-                elif isinstance(self.model, dict) and self.model.get("type") == "local":
+                if isinstance(self.model, dict) and self.model.get("type") == "local":
                     try:
                         from sentence_transformers import SentenceTransformer
-                        local_path = self.model.get("path")
+                        model_name = self.model.get("name") or self.model.get("path")
                         # Load the local model with sentence-transformers
                         if not hasattr(self, '_local_model'):
-                            self._local_model = SentenceTransformer(local_path)
+                            self._local_model = SentenceTransformer(model_name, trust_remote_code=True)
                         result = self._local_model.encode([text])
                         return np.array(result[0])
                     except Exception as local_e:
@@ -288,39 +266,13 @@ class TextEmbedder:
         elif self.model_provider == "nomic":
             try:
                 # Handle different Nomic model types
-                if isinstance(self.model, dict) and self.model.get("type") == "ollama":
-                    # Use Ollama API for batch embedding
-                    try:
-                        import requests
-                        import json
-                        
-                        embeddings = []
-                        for text in texts:
-                            url = "http://localhost:11434/api/embeddings"
-                            data = {
-                                "model": self.model["name"],
-                                "prompt": text
-                            }
-                            
-                            response = requests.post(url, json=data)
-                            if response.status_code == 200:
-                                result = response.json()
-                                embeddings.append(np.array(result["embedding"]))
-                            else:
-                                logger.error(f"Ollama API error: {response.status_code} - {response.text}")
-                                embeddings.append(np.random.rand(self.embedding_dim))
-                        
-                        return embeddings
-                    except Exception as ollama_e:
-                        logger.warning(f"Ollama batch embedding failed, using random embeddings: {ollama_e}")
-                        return [np.random.rand(self.embedding_dim) for _ in texts]
-                elif isinstance(self.model, dict) and self.model.get("type") == "local":
+                if isinstance(self.model, dict) and self.model.get("type") == "local":
                     try:
                         from sentence_transformers import SentenceTransformer
-                        local_path = self.model.get("path")
+                        model_name = self.model.get("name") or self.model.get("path")
                         # Load the local model with sentence-transformers
                         if not hasattr(self, '_local_model'):
-                            self._local_model = SentenceTransformer(local_path)
+                            self._local_model = SentenceTransformer(model_name, trust_remote_code=True)
                         results = self._local_model.encode(texts)
                         return [np.array(emb) for emb in results]
                     except Exception as local_e:

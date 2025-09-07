@@ -1,29 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 426 of 1106
-SIZE: 658 characters
-PREVIOUS: chunk_0425_annual_report_text (1).txt
-NEXT: chunk_0427_annual_report_text (1).txt
-------------------------------
-ontrolled in respect of local 
-regulations, have waste recycling in place, and 
-no toxic air or water emissions that could affect 
-local communities. Non-financial Indicators and Results 
-A system of formal reporting is described in the 
-Code of Business Conduct and encourages the 
-denunciation 
-of 
-infringing 
-practices 
-(e.g. discrimination, harassment, coercion, etc.) 
-through 
-both 
-internal 
-channels 
-and 
-a 
-whistleblower platform. When such notification is 
-made to IBA, IBA promptly takes appropriate 
-measuresto bring the situation back into 
-conformity with the Code and the Companys 
-policies, and to prevent a recurrence of such a 
-situation.
+7.179 
+585.948 
+879.883 
+866.345 
+779.304 
+Annual target remuneration (fixed + variable) 
+1.779.687 
+1.772.049 
+1.776.116 
+1.928.453 
+2.245.273 
+Annual actual remuneration (fixed + variable) 
+1.453.972 
+1.686.606 
+1.983.154 
+2.070.730 
+2.117.461 
+b) Annual evolution of company 
+performance

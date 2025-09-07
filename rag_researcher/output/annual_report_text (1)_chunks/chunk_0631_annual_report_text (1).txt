@@ -1,23 +1,82 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 631 of 1106
-SIZE: 641 characters
-PREVIOUS: chunk_0630_annual_report_text (1).txt
-NEXT: chunk_0632_annual_report_text (1).txt
-------------------------------
-amendments are not expected to have an 
-impact on the the Groups financial statements 
-as IBA has not entered into Sales and 
-Leaseback transactions. Amendments to IAS 7 and IFRS 7 
-Supplier Finance Arrangements 
-The IASB amended IAS 7 and IFRS 7 to clarify 
-the 
-description 
-of 
-supplier 
-finance 
-arraangements and the related disclosures. These are effective for annual reporting periods 
-beginning on or after 1 January 2024 with earlier 
-application permitted. As at December 31, 2023, the group has not 
-entered into such arrangements as a buyer and 
-had therefore concluded that the additional 
-disclosures are not applicable to IBA.
+-6 106 
+Total comprehensive 
+income for the period 
+0 
+0 
+0 
+38 
+0 
+3 548 
+-10 422 
+730 
+6 057 
+-49 
+Capital increase 
+89 
+642 
+-555 
+0 
+0 
+0 
+0 
+0 
+0 
+176 
+Dividends 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-5 598 
+-5 598 
+Employee stock options 
+and share-based 
+payments (note 16.2) 
+0 
+0 
+0 
+0 
+941 
+0 
+0 
+0 
+0 
+941 
+(Purchase)/Sale of 
+treasury shares (note 
+16.1) 
+0 
+0 
+-5 160 
+0 
+0 
+0 
+0 
+0 
+0 
+-5 160 
+Hyperinflation 
+adjustment 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-247 
+-247 
+Other changes 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0

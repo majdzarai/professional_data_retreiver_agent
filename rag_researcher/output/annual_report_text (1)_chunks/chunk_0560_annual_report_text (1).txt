@@ -1,24 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 560 of 1106
-SIZE: 691 characters
-PREVIOUS: chunk_0559_annual_report_text (1).txt
-NEXT: chunk_0561_annual_report_text (1).txt
-------------------------------
-ompany. The Company also has other financial assets 
-and liabilities such as trade receivables and 
-payables, which arise directly from its activity. In addition, the Company also has external 
-foreign exchange contracts which are entered 
-into at the level of the Company for the purpose 
-of hedging operations against foreign exchange 
-risks 
-on 
-assets, liabilities 
-or 
-specific 
-transactions, committed or to come, in gross 
-terms. General financial risk management policy 
-focuses on the unpredictability of financial 
-markets and attempts to minimize potential 
-negative effects on financial results. IBA uses 
-derivative financial instruments to hedge its 
-exposure to certain risks.
+id not proceed with any share 
+capital increases. IBA did not issue a new share 
+option plan, however the group issued new stock 
+options under the existing plan started in 2021. === Page 101 ===
+IBA Annual Report 2023 
+98. IBA 
+These are further detailed in the General 
+Information Capital Section. Repurchase of own shares - section 7:215 of 
+the BCAC 
+As of 31 December 2023, article 9, first 
+paragraph of the Companys Articles of 
+Associations provided as follows: "The Company 
+may, without an

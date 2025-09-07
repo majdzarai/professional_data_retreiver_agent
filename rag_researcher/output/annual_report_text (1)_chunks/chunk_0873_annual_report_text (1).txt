@@ -1,24 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 873 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0872_annual_report_text (1).txt
-NEXT: chunk_0874_annual_report_text (1).txt
-------------------------------
-es 
-As at December 31, 2023, the Group has at its 
-disposal credit facilities amounting to EUR 83.1 
-million of which 23.4% are used (23.4% in 2022). The bank facilities at IBA SA level include a EUR 
-40 million revolving credit facility (increase of 
-EUR 3.0 million compared to 2022, following a 
-re-negociation). The financial covenants applying to these 
-syndicated facilities consist of (a) a maximum net 
-leverage ratio (calculated as the consolidated 
-net 
-senior 
-indebtedness 
-divided 
-by 
-the 
-consolidated REBITDA over the last 12 months) 
-and (b) a minimum corrected equity level 
-(calcul
+Investment at fair value level 1: Scandidos A.B. for -0.2 million (2022: EUR 
+-0.3 million); 2022 also included the fair 
+value adjustment on Rutherford for EUR -
+11.1 million; Investment at fair value level 3: HIL for 
+EUR -3.0 million (2022: EUR 1.0 million). HIL Applied Medical Ltd 
+In 2016, the Group invested USD 2.0 million 
+(EUR 1.8 million) in HIL Applied Medical Ltd, a 
+private Israeli developer of laser-based proton 
+therapy systems which is developing a novel, patented approach to part

@@ -1,42 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 957 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0956_annual_report_text (1).txt
-NEXT: chunk_0958_annual_report_text (1).txt
-------------------------------
-rofits)/losses 
--3 591 
-654 
-Changes in provisions 
-19 
-6 143 
-2 074 
-Deferred taxes 
-10 
--11 244 
-1 898 
-Share of result of associates and joint ventures accounted for using the equity method 
-9.1 
--3 
-169 
-Other non-cash items 
--7 864 
--5 478 
-Net cash flow changes before changes in working capital 
--540 
-2 185 
-Trade receivables, other receivables and deferrals 
--72 997 
-3 716 
-Inventories and contracts in progress 
-66 009 
--53 159 
-Trade payables, other payables and accruals 
-40 720 
-11 354 
-Other short-term assets and liabilities 
--7 615 
-19 564 
-Changes in working capital 
-26 117 
--18 52
+nt has been recognized 
+as a revenue in the year. The non-trade payables of EUR 9.8 million 
+(2022: EUR 16.2 million) represent primarily 
+VAT due in different countries where the Group 
+operates. The significant decrease is driven by 
+a high level of customer invoices raised at the 
+end of 2022. 6. Stock options and share-based payments 
+Stock option plans launched in 2014 and 2015 
+have the following vesting scheme: 100 percent 
+vesting as at December 31, 2018 and can be 
+exercised until June 30, 2024. In 2016, 2017, 2018 and 2019, no stock option 
+plan has been launched.

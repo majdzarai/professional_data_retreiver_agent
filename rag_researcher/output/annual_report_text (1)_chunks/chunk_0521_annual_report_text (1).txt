@@ -1,20 +1,47 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 521 of 1106
-SIZE: 597 characters
-PREVIOUS: chunk_0520_annual_report_text (1).txt
-NEXT: chunk_0522_annual_report_text (1).txt
-------------------------------
--6.4 
-million, the decrease of other current liabilies for 
-EUR -3.8 million which includes the release of 
-the refund liability of EUR -5.0 million. The 
-performance bond with CGNTT was recognised 
-as a refund liability until the uncertainty 
-associated with the variable consideration is 
-resolved, and it was agreed in December 2023 
-to cancel completely the performance bond. The other short-term payables are also impacted 
-by the increase of social debts for EUR 2.4 
-million, and by the increase of deferred income 
-for EUR 2.1 million 
- The income tax payable increase by EUR 2.1 
-million.
+EUR 
+000 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+Y/N 
+% 
+% 
+E 
+T 
+A. TAXONOMY-ELIGIBLE ACTIVITIES 
+A.1 Environmentally sustainable activities (Taxonomy-aligned) 
+Infrastructure enabling low-carbon road 
+transport and public transport 
+6.15 
+18 
+0.1% 
+100.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0%
+
+Installation, maintenance and repair of 
+charging stations for electric vehicles in 
+buildings (and parking spaces attached 
+to buildings) 
+7.4 
+268 
+1.8% 
+100.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0%

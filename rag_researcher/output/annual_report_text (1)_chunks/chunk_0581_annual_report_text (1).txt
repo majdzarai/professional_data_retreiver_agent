@@ -1,42 +1,13 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 581 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0580_annual_report_text (1).txt
-NEXT: chunk_0582_annual_report_text (1).txt
-------------------------------
-(EUR 000) 
-Note 
-December 31, 2022 
-December 31, 2023 
-ASSETS 
-Goodwill and other intangible assets 
-5.1. 17 840 
-23 396 
-Property, plant and equipment and Right-of-use assets 
-5.2. 46 068 
-49 465 
-Investments accounted for using the equity method 
-5.4. 273 
-18 304 
-Other investments 
-5.5. 3 805 
-2 438 
-Deferred tax assets 
-4.7.2. 20 211 
-17 627 
-Non-current derivative financial assets 
-7.3. 42 
-510 
-Other non-current receivable and operating assets 
-5.7. 35 184 
-33 743 
-Non-current assets 
-123 423 
-145 483 
-Inventories 
-5.6. 101 017 
-130 545 
-Contract assets 
-4.3.1. 39 391 
-38 444 
-Trade rece
+of each 
+project whereby the ones with a down-payment 
+that is lower than the contract in progress value 
+are shown as a net contract in progress position 
+under this section. Short-term receivables 
+Short-term receivables decreased with EUR -
+48.5 million from EUR 181.6 million in 2022 to 
+EUR 133.1 million in 2023. This decrease is on 
+the one side driven by a decrease of the Trade 
+Accounts Receivable section, decrease of EUR 
+-32.0 million, in which predominantly the 
+intercompany receivables decreased (EUR -
+21.8 million).

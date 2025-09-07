@@ -1,21 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 332 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0331_annual_report_text (1).txt
-NEXT: chunk_0333_annual_report_text (1).txt
-------------------------------
-iv) All significant agreements to which the 
-issuer is a party and which are contingent 
-to a change of control following a public 
-takeover bid unless their disclosing 
-would harm the issuer severely 
-Not applicable. v) All agreements among the issuer and the 
-directors or staff, containing the granting 
-of compensations if the directors resign 
-or must cease their functions without a 
-sound reason or if the employment of the 
-staff ceases as a result of a public 
-takeover bid 
-There are no such arrangements in place. vi) Controlling mechanism in a system of 
-staff-shareholding 
-There is no s
+rs. Christine Dubus 
+and Dr. Richard A. Hausmann. It is chaired by 
+Mrs. Christine Dubus. Sustainability board meeting 
+The sustainability committee was set-up in 2018 
+as an IBA Board Committee. That committee met once on October 19, 2023, to define the strategy and ambition of IBA on the 
+Sustainability fronts which is, at IBA, defined 
+through commitments to our 5 stakeholders: our 
+customers and their patients, our employees, our shareholders, society, and the planet.

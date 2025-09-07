@@ -1,23 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 641 of 1106
-SIZE: 695 characters
-PREVIOUS: chunk_0640_annual_report_text (1).txt
-NEXT: chunk_0642_annual_report_text (1).txt
-------------------------------
-=== Page 123 ===
-IBA Annual Report 2023 
-120. 2. Significant events in the period and 
-accounting estimates and judgements 
-2.1. DIRECT FINANCIAL IMPACTS OF RUSSIAS 
-INVASION OF UKRAINE
-Early 2022 Russia invaded Ukraine, leading to 
-a myriad of economic and other sanctions 
-against Russia, some of which also impact the 
-functioning of IBA. IBA has a subsidiary in Russia employing about 
-25 employees, whose operations have been 
-maintained to ensure the operation and 
-maintenance of a proton therapy center in 
-Dimitrovgrad; the maintenance contract for this 
-center has been renewed in 2023 for another 
-year. At the same time, the installation of the 
-last treatment room is still ongoing.
+199 270 
+158 366 
+Net change in cash and cash equivalents 
+-38 899 
+-47 477 
+Exchange (profits)/losses on cash and cash equivalents 
+-2 005 
+-1 583 
+Net cash and cash equivalents at end of the year 
+15 
+158 366 
+109 306

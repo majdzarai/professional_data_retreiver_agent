@@ -1,19 +1,20 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 506 of 1106
-SIZE: 684 characters
-PREVIOUS: chunk_0505_annual_report_text (1).txt
-NEXT: chunk_0507_annual_report_text (1).txt
-------------------------------
-ess in the US. This was a non-major 
-business for IBA and Management decided to re-
-focus the efforts on developing its other 
-sterilization devices. For the year-ended on December 31, 2023, the 
-financial result (expenses) was EUR -5.2million 
-(2022: EUR -5.4 million expenses). In 2023, despite decreasing interests payments and 
-improved foreign currency impacts (realised and 
-un-realised gains and losses as well as change 
-in fair value of derivatives), the group was 
-strongly impacted by the effects of hyperinflation 
-in Argentina. As at December 31, 2023, the Group recognises 
-a tax expense for an amount of EUR -8.8 million 
-representing -2792.1% of the profit before tax.
+n of climate change 
+- 
+Adaptation to climate change 
+- 
+Sustainable use and protection of water 
+and marine resources 
+- 
+Transition to a circular economy 
+- 
+Pollution prevention and control 
+- 
+Protection and restoration of 
+biodiversity and ecosystems 
+Activities covered by the taxonomy are referred 
+to as taxonomy-eligible activities. For these 
+activities, the delegated acts that complete the 
+taxonomy define performance criteria for the 
+environmental objectives, as well as minimum 
+safeguards for the protection of human rights 
+and labor law.

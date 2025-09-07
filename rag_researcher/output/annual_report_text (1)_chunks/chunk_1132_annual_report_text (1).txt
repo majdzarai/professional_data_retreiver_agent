@@ -1,0 +1,10 @@
+ions 
+p193 AR2023 GRI appendix 305-3 / GHG emissions outside the organisation 
+305-4 
+GHG emissions intensity 
+p192 AR2023 GRI appendix 305-1 / GHG emissions within organisation 
+305-5 
+Reduction of GHG emissions 
+p40 AR2023 A committed company / planet 
+p192 AR2023 GRI appendix 305-1 / GHG emissions within organisation 
+GRI 306 WASTE v2020

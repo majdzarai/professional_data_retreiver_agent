@@ -1,40 +1,19 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 302 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0301_annual_report_text (1).txt
-NEXT: chunk_0303_annual_report_text (1).txt
-------------------------------
-Board of Directors as of December 31, 2023: NAME 
-START OF 
-TERM 
-END OF 
- TERM 
-DUTIES AT IBA 
-PRIMARY DUTIES OUTSIDE IBAIBA 
-Olivier Legrain(1) 
-2012 
-GM 
-2026 
-Chief Executive Officer / Internal 
-Director / Managing Director / NC / PC 
-/ SC 
-Saint-Denis SA (represented by 
-Pierre Mottet) (1) 
-1998 
-GM 
-2025 
-Internal Director / Chairman of the 
-Board of Directors / RC (chairman) / 
-NC (chairman) / PC (chairman) / SC 
-Director 
+=== Page 64 ===
+IBA Annual Report 2023 
+61. IBA 
+Directors. They are adapted in function of the 
+evolution 
 of 
-UWE 
-(Walloon 
-Business 
-Association) and several funds and start-ups 
-in the field of health and environment 
-Yves Jongen(1) 
-1991 
-GM 
-2024 
-Chief Research Offi
+the 
+Groups 
+activities 
+and 
+environment, as necessary. The pertinence of 
+the information and proper application of 
+accounting principles are reviewed by the 
+Finance Department during the preparation of 
+these accounting principles and by management 
+bodies during their successive reviews. The CEO and CFO present and comment on the 
+financial statements to the Audit Committee and 
+Board of Directors every quarter or more 
+frequently if necessary.

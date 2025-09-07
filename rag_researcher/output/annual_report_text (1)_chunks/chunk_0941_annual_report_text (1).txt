@@ -1,9 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 941 of 1106
-SIZE: 215 characters
-PREVIOUS: chunk_0940_annual_report_text (1).txt
-NEXT: chunk_0942_annual_report_text (1).txt
-------------------------------
-Financial liabilities at amortised cost (loans and borrowings): This is the category most relevant to the Group. More details on this method given in Note 7.3. === Page 168 ===
-IBA Annual Report 2023 
-165. (EUR 000)
+product warranty are recognized as cost of sales. Onerous contract provision 
+If IBA has an onerous contract (that is, if the unavoidable costs of meeting the obligations under the contract exceed the 
+economic benefits expected to be received under it), the present obligation under the contract is recognized as a provision 
+against cost of sales. The provision is reassessed at least 3 times a year.

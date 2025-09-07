@@ -1,22 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 498 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0497_annual_report_text (1).txt
-NEXT: chunk_0499_annual_report_text (1).txt
-------------------------------
-annual financial statement 
-(sections 3:23, 3:31 and 3:32, of the BCAC) 
-INCOME STATEMENT 
-IBA reported a 18.7% increase in revenues to 
-EUR 428.7 million during 2023 (2022: EUR 
-361.3 million), which is shown with a growth on 
-both equipments and services sales. Despite a 
-slow backlog conversion for Proton Therapy, the 
-revenue of other accelerators increased thanks 
-Delegated regulation obligations, article 8 annex II Template 1 Nuclear and fossil gas related activities 
-# 
-Activity 
-IBA 
-Nuclear energy related activities 
-1 
-The undertaking carries out, funds or has exposures to research,
+=== Page 91 ===
+IBA Annual Report 2023 
+88. IBA 
+value proposition and action plans have been put 
+in place. The stream low carbon, low waste company 
+addresses the monitoring of the group carbon 
+footprint, in view of making it neutral by 2030 
+(reducing and carbon contribution combined 
+through different action plans). It also addresses 
+the monitor and reduction of the group waste 
+footprint, in view of reducing the unsorted waste 
+by 2/3, by 2025. An environmental management 
+system EMS is in place. We have been ranked 
+at B score by CDP (from C in 2020).

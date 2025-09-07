@@ -1,0 +1,24 @@
+Query: company overview
+
+Result 1:
+Score: 0.3648840638899034
+Content: ble negative environmental and 
+societal impacts. CONSULTATION OF CORPORATE DOCUMENTS 
+The Companys statutory and consolidated 
+statements are filed with the National Bank of 
+Belgium. Copies of the Companys consolidated 
+articles of incorporation, its annual and semi-
+annual reports, and all other shareholder 
+documentation 
+may 
+be 
+obtained 
+at 
+the 
+Companys website (www.iba-worldwide.com) 
+or by shareholders request to the Companys 
+registered office.
+Filename: annual_report_text (1).txt
+Chunk ID: 1092
+--------------------------------------------------
+

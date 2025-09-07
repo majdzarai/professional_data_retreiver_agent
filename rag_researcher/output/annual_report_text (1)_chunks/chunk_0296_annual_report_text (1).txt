@@ -1,16 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 296 of 1106
-SIZE: 584 characters
-PREVIOUS: chunk_0295_annual_report_text (1).txt
-NEXT: chunk_0297_annual_report_text (1).txt
-------------------------------
-eing understood 
-however that, among those directors, there 
-cannot be more than two members who are, directly or indirectly, related to one and the same 
-shareholder (or a company or individual related 
-to the latter) when such shareholder: 1) either carries out (directly or indirectly) 
-activities in one or several business areas in 
-which the Company (or a subsidiary of it) are 
-doing business as well; 2) or owns more than 40% of the voting rights 
-issued by the Company. The Board of Directors appoints among its 
-members a chairman and, as the case may be, a deputy chairman.
+d directly with the Groups 
+financial department. Information and communication 
+The availability and relevance of accounting and 
+financial information are assured by the analysis 
+tools described above and by the information 
+technology and data processing environment. Although 
+the 
+current 
+IT 
+environment 
+is 
+heterogeneous, the computing systems are 
+sufficiently secured by: A right-of-access procedure to data and 
+programs; An anti-virus protection system; A protection system for networki

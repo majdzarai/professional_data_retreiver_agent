@@ -1,14 +1,18 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 501 of 1106
-SIZE: 526 characters
-PREVIOUS: chunk_0500_annual_report_text (1).txt
-NEXT: chunk_0502_annual_report_text (1).txt
-------------------------------
-s out, funds or has exposures to construction or operation of electricity 
-generation facilities that produce electricity using fossil gaseous fuels. No 
-5 
-The undertaking carries out, funds or has exposures to construction, refurbishment, and 
-operation of combined heat/cool and power generation facilities using fossil gaseous fuels. No 
-6 
-The undertaking carries out, funds or has exposures to construction, refurbishment and 
-operation of heat generation facilities that produce heat/cool using fossil gaseous fuels. No
+otection, volunteering policy, or green mobility. The 
+stream 
+company 
+accountable 
+to 
+sustainability addresses the policies and 
+practices 
+pertaining 
+to 
+our 
+mission, accountability and transparency, and building a 
+sustainable supply chain, by screening our 
+suppliers societal and environmental impact. We 
+have achieved B Corp 2023 score of 106+pts 
+(proforma as measured by a 3rd party 
+verification interim report on B Corp progress). 34% of 2023 variable targets for Management 
+and Opt-Ins are linked to said B Corp score 
+increase.

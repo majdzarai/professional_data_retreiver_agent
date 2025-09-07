@@ -1,24 +1,14 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 329 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0328_annual_report_text (1).txt
-NEXT: chunk_0330_annual_report_text (1).txt
-------------------------------
-the Diversity, Equity and 
-Inclusion Policy on 15 and 16 December 2021, and requests the Management to implement this 
-policy to the fullest extent. INFORMATION DISCLOSED PURSUANT TO 
-SECTION 34 OF THE ROYAL DECREE OF 14 
-NOVEMBER 2007 (SECTIONS 3:6, 2, 7 AND 3:32, 1, 8, OF THE BCAC) 
-In accordance with section 34, 5 of the Royal 
-Decree of November 14, 2007, regarding the 
-obligations of issuers of securities admitted to 
-trading 
-on 
-a 
-regulated 
-market 
-(B.S.G. 03/12/2007), the 
-corporate 
-governance 
-statement contains the following information. i) 
-Structure of the share capital, classe
+tors and a minimum of two 
+independent directors. As of December 31, 2023, the Nomination 
+Committee was comprised of Saint-Denis SA 
+represented by its managing director, Mr. Pierre 
+Mottet, Consultance 
+Marcel 
+Miller 
+SCS 
+represented by its permanent representative, Mr. Marcel Miller, Mr. Olivier Legrain, Mr. Yves 
+Jongen, and Dr. Richard A. Hausmann. This 
+Committee is chaired by Mr. Pierre Mottet. Audit committee 
+The Audit Committee met 2 times in 2023, in the 
+presence of Mr. Olivier Legrain and occasionally 
+of Mr. Pierre Mottet.

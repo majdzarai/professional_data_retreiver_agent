@@ -14,15 +14,16 @@ logger = logging.getLogger(__name__)
 class PlannerAgent:
     """Agent that generates a plan for each section of a report structure."""
     
-    def __init__(self, structure_path):
+    def __init__(self, structure_path, output_dir="output/planner"):
         """Initialize the planner agent with the path to the report structure.
         
         Args:
             structure_path (str): Path to the report structure JSON file.
+            output_dir (str): Output directory for planner results.
         """
         self.structure_path = structure_path
         self.structure = self._load_structure()
-        self.output_dir = Path("output/planner")
+        self.output_dir = Path(output_dir)
         self.sections_dir = self.output_dir / "sections"
         
         # Initialize LLM client
@@ -63,20 +64,16 @@ class PlannerAgent:
             "sections": []
         }
         
-        # Process only the first section for testing
-        sections_processed = 0
+        # Process all sections in all chapters
         for chapter in self.structure.get("chapters", []):
-            if sections_processed >= 1:
-                break
-                
             chapter_id = chapter.get("id")
             chapter_title = chapter.get("title")
             
             # Check if the chapter has sections
             if "sections" in chapter:
-                # Process only the first section in the chapter
+                # Process all sections in the chapter
                 for section in chapter["sections"]:
-                    logger.info(f"Testing mode: Processing only first section: {section.get('title')}")
+                    logger.info(f"Processing section: {section.get('title')} in chapter: {chapter_title}")
                     section_plan = self._generate_section_plan(chapter_id, chapter_title, section, topic)
                     global_plan["sections"].append({
                         "section_id": section["id"],
@@ -87,11 +84,9 @@ class PlannerAgent:
                     
                     # Save the section plan to a file
                     self._save_section_plan(section_plan)
-                    sections_processed += 1
-                    break
             else:
                 # The chapter itself is a section
-                logger.info(f"Testing mode: Processing only first chapter as section: {chapter_title}")
+                logger.info(f"Processing chapter as section: {chapter_title}")
                 section_plan = self._generate_section_plan(chapter_id, chapter_title, chapter, topic)
                 global_plan["sections"].append({
                     "section_id": chapter_id,
@@ -102,7 +97,6 @@ class PlannerAgent:
                 
                 # Save the section plan to a file
                 self._save_section_plan(section_plan)
-                sections_processed += 1
         
         # Save the global plan
         self._save_global_plan(global_plan)

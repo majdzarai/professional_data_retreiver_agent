@@ -1,47 +1,23 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 927 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0926_annual_report_text (1).txt
-NEXT: chunk_0928_annual_report_text (1).txt
-------------------------------
-=== Page 166 ===
-IBA Annual Report 2023 
-163. The table below summarises the financial liabilities held by IBA: (EUR 000) 
-December 31, 2022 
-December 31, 2023 
-FINANCIAL LIABILITIES 
-Non-current Current 
-Fair value 
-Non-current 
-Current Fair value 
-At fair value through Profit and loss 
-1 221 
-2 907 
-4 128 
-217 
-555 
-772 
-Derivative hedge-accounted financial 
-liabilities 
-844 
-1 687 
-2 531 
-95 
-334 
-429 
-Derivatives liabilities at fair value through the 
-income statement 
-377 
-1 220 
-1 597 
-122 
-221 
-343 
-At amortised cost 
-37 320 136 684 
-171 067 
-31 965 
-139 634 
-174 427 
-Trade payables 
-0
+yond one year 
+10 647 
+0 
+9 848 
+0 
+TOTAL FIXED 
+14 381 
+0 
+13 582 
+0 
+TOTAL 
+14 381 
+41 757 
+13 582 
+44 458 
+5.10.2 Lease liabilities 
+As at December 31, 2023, the average interest 
+rate paid on lease liabilities is 2.29% (2.82% as 
+at December 31, 2022). As at December 31, 2023 and December 31, 2022, there were no significant undiscounted 
+potential future rental payments relating to 
+periods following the exercise date of extension 
+and termination options that are not included in 
+the lease

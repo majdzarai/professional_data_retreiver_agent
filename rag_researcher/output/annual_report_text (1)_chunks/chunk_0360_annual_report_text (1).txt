@@ -1,14 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 360 of 1106
-SIZE: 356 characters
-PREVIOUS: chunk_0359_annual_report_text (1).txt
-NEXT: chunk_0361_annual_report_text (1).txt
-------------------------------
-ation and long-
-term incentives. The weight of the different 
-remuneration components, as part of total 
-remuneration differs on an individual basis. In 
-general terms, the weight of each component of 
-remuneration accounts for a part of total 
-remuneration that may be summarized as 
-follows: Managing directors and other executive management team members
+of the voting securities issued by the Company. For the purposes of this Article 12, indent 1, (c), (d) and (e), shall be deemed to be "related, === Page 72 ===
+IBA Annual Report 2023 
+69. IBA 
+directly or indirectly, to a shareholder", any 
+director (natural or legal person) who: (a) is, or has been within the five years preceding 
+his appointment, a member of the administrative 
+or management bodies, or of the staff, of that 
+shareholder (or of an affiliated company) or has 
+received a power

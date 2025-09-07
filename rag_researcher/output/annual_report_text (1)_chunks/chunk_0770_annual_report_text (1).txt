@@ -1,13 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 770 of 1106
-SIZE: 481 characters
-PREVIOUS: chunk_0769_annual_report_text (1).txt
-NEXT: chunk_0771_annual_report_text (1).txt
-------------------------------
-erm covered by the plan with a REBIT to sales ratio of 8%, relying on the 
-assumption that the macro-economic factors normalize over the coming year. The group reversed EUR 1.7 million in 2023 
-following the revision of the latest plan, however, Management remains confident in its capacity to develop the business in 
-the coming years and deliver value to all of its stakeholders. === Page 141 ===
-IBA Annual Report 2023 
-138. 4.7. NET EARNINGS PER SHARE 
-4.7.1 Net basic earnings
+e is presented in the 
+income statement as Sales. Dosimetry 
+At a point in time 
+When the control has passed 
+to the customer 
+This revenue is presented in the 
+income statement as Sales. Contract costs in the input method 
+Expected contract costs comprise: - 
+Direct and indirect production costs (e.g. resources consumed, labour hours expended, costs incurred, time 
+elapsed or machine hours used); - 
+Such other costs as are specifically chargeable to the customer under the terms of the contract;

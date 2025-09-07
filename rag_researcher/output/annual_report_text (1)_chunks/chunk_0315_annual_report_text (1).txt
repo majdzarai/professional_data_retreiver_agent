@@ -1,20 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 315 of 1106
-SIZE: 660 characters
-PREVIOUS: chunk_0314_annual_report_text (1).txt
-NEXT: chunk_0316_annual_report_text (1).txt
-------------------------------
-nn. It is chaired by 
-Mrs. Christine Dubus. Sustainability board meeting 
-The sustainability committee was set-up in 2018 
-as an IBA Board Committee. That committee met once on October 19, 2023, to define the strategy and ambition of IBA on the 
-Sustainability fronts which is, at IBA, defined 
-through commitments to our 5 stakeholders: our 
-customers and their patients, our employees, our shareholders, society, and the planet. Since 
-October 
-2020, the 
-Sustainability 
-Committee is considered as a full board meeting 
-with sustainability as a specific topic, as 
-sustainability is key for IBAs strategy. The name 
-has been changed to Sustainability Board.
+r 
+board meetings - under the chairmanship of Mr. Pierre Mottet -, once for the Sustainability Board 
+meeting, and once for the Product Committee 
+meeting. Attendance at meetings of the Board 
+was very high. A large majority of the directors 
+attended all meetings. During the Ordinary 
+General Meeting (held on June 14, 2023),three 
+mandates were renewed, i.e. Mr. Olivier Legrain, Internal 
+Director 
+Ms. Sibille 
+Vandenhove 
+dErtsenrijck, permanent 
+representative 
+of 
+Bridging for Sustainability SRL, Independent 
+Director, Mr.

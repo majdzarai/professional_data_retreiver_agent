@@ -1,0 +1,18 @@
+{
+  "query": "KYC requirements EU financial institutions",
+  "timestamp": "2025-09-07 00:29:30",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "sh flows for the year then ended, in accordance with International Financial \nReporting Standards as adopted by the European Union and with the legal and regulatory \nrequirements applicable in Belgium. Basis for unqualified opinion",
+      "similarity_score": 0.3651370643894627
+    }
+  ]
+}

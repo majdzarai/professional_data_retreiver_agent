@@ -1,19 +1,31 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 415 of 1106
-SIZE: 533 characters
-PREVIOUS: chunk_0414_annual_report_text (1).txt
-NEXT: chunk_0416_annual_report_text (1).txt
-------------------------------
-ith 
-the Code. In December 2021, a whistleblower 
-platform in line with European and international 
-standards was activated on the Companys 
-website. The platform thus provides IBAs 
-stakeholders with the possibility to anonimously 
-report alleged violations of the Code of Business 
-Conduct in addition to the existing Company 
-channels. Complaints are managed by the 
-Compliance Officer who remains the central 
-point of contact with the responsibility to monitor 
-compliance and follow up on reported incidents 
-of non-compliance.
+=== Page 79 ===
+IBA Annual Report 2023 
+76. IBA 
+Details of 2023 variable pay for Executive Management Team 
+Title 
+Currency 
+Profit 
+Before Tax 
+a. % pay-out 
+b. amount 
+Order Intake 
+a. % pay-out 
+b. amount 
+Sustainability 
+a. % pay-out 
+b. amount 
+Profit Sharing 
+a. sharing value 
+b. amount 
+Executive 
+Management 
+Team 
+EUR 
+a. 0% 
+b. 0 
+a. 150% 
+b. 43 188 
+a. 120% 
+b. 35 598 
+a. 10,36 
+b. 89 728

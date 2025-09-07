@@ -1,84 +1,20 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 881 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0880_annual_report_text (1).txt
-NEXT: chunk_0882_annual_report_text (1).txt
-------------------------------
-0 
-0 
--3 549 
-Currency translation difference 
-0 
--46 
-0 
--3 
--21 
--28 
--98 
-Total movement 
-7 
-1 565 
-0 
--2 718 
-453 
-941 
-248 
-As at December 31, 2022 
-118 
-6 243 
-140 
-2 726 
-732 
-5 167 
-15 126 
-As at January 1, 2023 
-118 
-6 243 
-140 
-2 726 
-732 
-5 167 
-15 126 
-Additions (+) 
-5 
-4 214 
-0 
-52 
-272 
-2 348 
-6 891 
-Write-backs (-) 
-0 
--2 492 
--140 
-0 
--16 
--2 162 
--4 810 
-Utilizations (-) 
-0 
--1 114 
-0 
--756 
--15 
--1 190 
--3 075 
-Actuarial (gains)/losses generated during the year 
-0 
-0 
-0 
-1 068 
-0 
-0 
-1 068 
-Currency translation difference 
-0 
--22 
-0 
--3 
--31 
--114 
--170 
-Total movement 
-5 
-58
+=== Page 151 ===
+IBA Annual Report 2023 
+148. million at the end of 2021. Rutherford Estates 
+Ltd has declared bankruptcy in 2022, at that 
+time the group reduced the fair value of its 
+investment from EUR 11.1 million to zero 
+(against the groups Statement of Other 
+Comprehensive Income). 5.6. INVENTORIES 
+Inventories are detailed as follows: (EUR 000) 
+December 31, 2022 
+December 31, 2023 
+Raw materials and supplies 
+101 793 
+130 260 
+Finished products 
+3 219 
+3 768 
+Work in progress 
+8 285 
+1

@@ -1,33 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 958 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0957_annual_report_text (1).txt
-NEXT: chunk_0959_annual_report_text (1).txt
-------------------------------
-bles, other payables and accruals 
-40 720 
-11 354 
-Other short-term assets and liabilities 
--7 615 
-19 564 
-Changes in working capital 
-26 117 
--18 525 
-Net income tax paid/received 
--4 418 
--2 521 
-Interest expense 
-2 049 
-742 
-Interest income 
--1 496 
--1 650 
-Net cash (used)/generated from operations 
-21 712 
--19 769 
-As at December 31, 2023, the heading Other 
-non-cash items mainly includes the partial 
-release of the refund liability related to the 
-performance bond issued to CGN (EUR -5.0 
-million), the gain on the contribution in kind to 
-Pantera (-EUR 2.2 million), the future tax credit
+nd 2019, no stock option 
+plan has been launched. The options granted under the stock option 
+plans launched in 2020 vested on 2 January 
+2024 and fifty percent of these options can be 
+exercised until May 31, 2026 while the 
+remaining fifty percent can be exercised until 
+May 31, 2030. In January 2021, 649 972 stock options (the 
+"Stock Options") were granted to members of 
+the Group top management (including some 
+determined persons), the Head Plan.

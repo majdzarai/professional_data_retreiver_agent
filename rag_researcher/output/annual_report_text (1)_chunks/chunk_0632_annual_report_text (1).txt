@@ -1,27 +1,68 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 632 of 1106
-SIZE: 633 characters
-PREVIOUS: chunk_0631_annual_report_text (1).txt
-NEXT: chunk_0633_annual_report_text (1).txt
-------------------------------
-the group has not 
-entered into such arrangements as a buyer and 
-had therefore concluded that the additional 
-disclosures are not applicable to IBA. Amendment to IAS 21 the Effects of 
-Changes in Foreign Exchange Rates 
-The IASB amended IAS 21 to add requirements 
-to help entities to determine whether a currency 
-is exchangeable into another currency and 
-which rate to use. A currency is exchangeable when there is an 
-ability to obtain the other currency (with a 
-normal 
-administrative 
-delay), and 
-the 
-transaction would take place through a market 
-or 
-exchange 
-mechanism 
-that 
-creates 
-enforceable rights and obligations.
+247 
+-247 
+Other changes 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-8 
+-8 
+As at December 31, 2022 
+42 502 
+43 478 
+-18 328 
+-8 402 
+17 779 
+-516 
+-6 408 
+-5 585 
+51 431 
+115 951 
+As at January 1, 2023 
+42 502 
+43 478 
+-18 328 
+-8 402 
+17 779 
+-516 
+-6 408 
+-5 585 
+51 431 
+115 951 
+Profit/(loss) for the 
+period (note 4) 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+-9 110 
+-9 110 
+Other comprehensive 
+income 
+0 
+0 
+0 
+5 057 
+0 
+-1 067 
+-2 904 
+3 432 
+0 
+4 518 
+Total comprehensive 
+income for the period 
+0 
+0 
+0 
+5 057 
+0 
+-1 067 
+-2

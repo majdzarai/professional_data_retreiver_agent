@@ -1,33 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 491 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0490_annual_report_text (1).txt
-NEXT: chunk_0492_annual_report_text (1).txt
-------------------------------
-Proportion of CapEx from products or services associated with Taxonomy-aligned economic activities disclosure covering 
-year 2022/2023 
-Economic activities (1) 
-Code(s) (2) 
-Absolute of CapEx (3) 
-Proportion of CapEx (4) 
-Substantial contribution criteria 
-Criteria regarding DNSH 
-Minimum safeguards 
-(17) 
-Taxonomy aligned 
-proportion of CapEx, year 2023 (18) 
-Taxonomy aligned 
-proportion of CapEx, year 2022 (19) 
-Category enabling 
-activity 
-(20) 
-Category transitional 
-activity 
-(21) 
-Climate change 
-mitigation (5) 
-Climate change 
-adaption (6) 
-Water and marine 
-resources (7) 
-Circular econ
+e 
+sustainable and inclusive economy and society. The B Corp certification has been awarded to 
+IBA by B Lab, the non-profit organization behind 
+the B Corp movement worldwide. The rigorous 
+assessment of the company's business model 
+and operations demonstrates that IBA meets 
+some 
+of 
+the 
+highest 
+environmental, transparency 
+and 
+social 
+responsibility 
+standards. This prestigious label, internationally 
+recognized as one of the most comprehensive 
+and demanding in its field, attests to IBA

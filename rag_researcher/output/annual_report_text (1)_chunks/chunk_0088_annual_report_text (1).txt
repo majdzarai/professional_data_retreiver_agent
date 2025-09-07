@@ -1,17 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 88 of 1106
-SIZE: 509 characters
-PREVIOUS: chunk_0087_annual_report_text (1).txt
-NEXT: chunk_0089_annual_report_text (1).txt
-------------------------------
-ngdu, China. 34 ProteusPLUS Centers
-41 ProteusONE Centers
-Market share in rooms (end 2023)
-ProteusONE and ProteusPLUS are brand names of Proteus 235. IBA also demonstrated its long-term 
-commitment to its partners, having 
-entered a contract with its first proton 
-therapy system customer, for a total 
-system restoration, bringing the 
-latest proton therapy technologies 
-to a center installed 25 years ago. Anthony Zietman, Chief of Radiation Oncology, Massachusetts 
-General Hospital, Boston, United States
+=== Page 26 ===
+IBA is the world leader in 
+proton therapy
+IBA is the world leader in proton therapy with IBA customers 
+having treated more than half of all the proton therapy patients 
+treated on commercial systems. The company has been a leader in proton therapy development 
+for the last 30 years and has built the largest user community 
+worldwide. IBA offers maximum uptime rates and can install 
+a system in less than 12 months.

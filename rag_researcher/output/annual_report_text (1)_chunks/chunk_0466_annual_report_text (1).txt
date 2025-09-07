@@ -1,21 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 466 of 1106
-SIZE: 600 characters
-PREVIOUS: chunk_0465_annual_report_text (1).txt
-NEXT: chunk_0467_annual_report_text (1).txt
-------------------------------
-fication process covered all of 
-IBA's activities and assessed five main areas of 
-impact: governance, workers, community, environment and customers. The company was 
-able 
-to 
-demonstrate 
-socially 
-and 
-environmentally responsible practices in the 
-areas of energy, health, welfare, compensation, diversity, transparency and more. At the end of 
-2023, IBA had a proforma score of 106+pts, 26 
-points higher than the reference score of 80, required for certification. In accordance with B 
-Lab requirements, IBA has also modified its 
-articles of Association to formally integrate its 
-commitment to
+ble negative 
+environmental and societal impacts. Non-financial Indicators and Results 
+A system of formal reporting is described in the 
+Code of Business Conduct and encourages the 
+notification of practices that would not conform 
+to IBAs environmental priorities. Depending on the nature of their services, certain suppliers are required to be ISO 14001 
+(Environmental Management) or ISO 50001 
+(Energy Management Systems) certified in order 
+to become an IBA supplier.

@@ -1,0 +1,18 @@
+{
+  "query": "Audit findings on financial statement accuracy",
+  "timestamp": "2025-09-07 00:27:47",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "tatements for the year ended December 31, 2023 are consistent with those followed in the \npreparation of the Groups annual consolidated \nfinancial statements for the year ended \nDecember 31, 2022, except for the adoption of \nnew standards and interpretations effective as \nof 1 January 2023. Changes in estimates are accounted for \nprospectively. Significant errors are accounted \nfor retrospectively, but there were no such \nsignificant accounting errors recorded in these \nconsolidated financial st",
+      "similarity_score": 0.4024117765426636
+    }
+  ]
+}

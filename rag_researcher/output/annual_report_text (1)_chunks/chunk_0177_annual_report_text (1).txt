@@ -1,22 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 177 of 1106
-SIZE: 243 characters
-PREVIOUS: chunk_0176_annual_report_text (1).txt
-NEXT: chunk_0178_annual_report_text (1).txt
-------------------------------
-est. for
-shareholders
-Community Engagement
-Education
-Business Ethics
-Responsible Sourcing
-Waste Management
-GHG Emissions
-Biodiversity
-Resource Scarity
-Sustainable logistics
-Sustainable mobility
-Materiality Matrix
-44
-IBA
-CORPORATE BROCHURE 2024
+workplace by taking actions that 
+benefit nature. Various measures have been implemented 
+to support biodiversity, such as green roofs, planting native 
+species and differential mowing to reduce our ecological 
+footprint. A pilot micro-compost of green waste is now in 
+place, in partnership with a local company to test and hopefully 
+develop this innovative practice around our facilities. MATERIALITY AND REPORTING
+To clarify its priorities, IBA maintains a materiality assessment 
+based on a dial

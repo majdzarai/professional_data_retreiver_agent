@@ -1,15 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 726 of 1106
-SIZE: 588 characters
-PREVIOUS: chunk_0725_annual_report_text (1).txt
-NEXT: chunk_0727_annual_report_text (1).txt
-------------------------------
-ts incurred, time 
-elapsed or machine hours used); - 
-Such other costs as are specifically chargeable to the customer under the terms of the contract; === Page 135 ===
-IBA Annual Report 2023 
-132. - 
-Costs incurred in securing the contract if they can be separately identified and measured reliably and if it is 
-probable that the contract will be obtained. Transaction price 
-The transaction price sometimes relates to a promised bundle package or services to a customer which comprises the 
-equipment, installation and an agreed number of years of operation and maintenance of the site.
+roton Therapy 
+Israel Ltd in September 2023. 3.2. DISPOSALS OF COMPANIES 
+No disposal was carried out in 2023. In 2023, Management has decided to re-focus 
+the efforts of the Industrial business on the 
+Rhodotron, as a result, the group closed a non-
+major line of operations in the Dynamitron 
+business. The relevant assets such as 
+inventories and facilities have been sold to a 
+third party early 2024. Accounting policy for business combinations 
+Business combinations: All business combinations (acquisitions of businesses) are accounted for using the acquisition method.

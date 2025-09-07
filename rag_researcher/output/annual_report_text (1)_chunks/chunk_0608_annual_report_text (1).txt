@@ -1,24 +1,33 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 608 of 1106
-SIZE: 680 characters
-PREVIOUS: chunk_0607_annual_report_text (1).txt
-NEXT: chunk_0609_annual_report_text (1).txt
-------------------------------
-h IFRS 
-as endorsed by EU. These consolidated financial statements have 
-been approved for release by the Board of 
-Directors on March 19, 2024. 1.2. BASIS OF PREPARATION 
-The consolidated financial statements are: Prepared in accordance with International 
-Financial Reporting Standards (IFRS) as 
-adopted by the European Union (EU). All 
-standards and interpretations issued by the 
-International Accounting Standards Board 
-(IASB) and the International Financial 
-Reporting 
-Interpretations 
-Committee 
-(IFRIC) effective year-end 2023 have been 
-adopted by the EU. Consequently, the 
-accounting policies applied by the Group 
-also fully comply with IFRS as issued by the 
-IASB.
+=== Page 109 ===
+IBA Annual Report 2021 
+106. INCOME STATEMENT (EUR 000) 
+2022 
+2023 
+Operating income 
+346 061 
+449 393 
+Turnover 
+217 637 
+311 910 
+Work in progress, finished goods and contracts in progress 
+11 544 
+-5 041 
+Capitalized production 
+46 737 
+55 683 
+Other operating income 
+70 143 
+86 841 
+Other extraordinary income 
+0 
+0 
+Operating expenses (-) 
+-352 653 
+-434 296 
+Raw materials, consumables, and goods for resale 
+-92 379 
+-157 715 
+Services and other goods 
+-116 798 
+-130 425 
+S

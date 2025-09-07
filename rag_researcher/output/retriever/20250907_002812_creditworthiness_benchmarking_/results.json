@@ -1,0 +1,18 @@
+{
+  "query": "creditworthiness benchmarking in the industrial equipment sector",
+  "timestamp": "2025-09-07 00:28:12",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "ensive \nand demanding in its field, attests to IBA's \neffective commitment to objectives that are \naimed at both the collective interest and \nshareholder \nprofit. The \nperformance \nis \nparticularly remarkable for an international \nindustrial company of IBA's size. The B Corp certification process covered all of \nIBA's activities and assessed five main areas of \nimpact: governance, workers, community, environment and customers.",
+      "similarity_score": 0.3750440980593363
+    }
+  ]
+}

@@ -1,47 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 407 of 1106
-SIZE: 504 characters
-PREVIOUS: chunk_0406_annual_report_text (1).txt
-NEXT: chunk_0408_annual_report_text (1).txt
-------------------------------
-MEETING RELATED FEES* (EUR) 
-Saint-Denis SA, represented by Pierre 
-Mottet (internal director, Chairman of 
-the Board, of the Nomination Committee 
-and of the Compensation Committee) 
-61 500 
-12 000 
-BM 
-AC 
-CC/NC 
-MAC 
-PC 
-SC 
-OTHER 
-22 500 
-9 000 
-9 000 
-N/A 
-6 000 
-3 000 
-NONE 
-SCS Consultance Marcel Miller, represented by Marcel Miller 
-(independent director) 
-34 000 
-6 000 
-BM 
-AC 
-CC/NC 
-MAC 
-PC 
-SC 
-OTHER 
-12 000 
-6 400 
-4 800 
-N/A 
-3 200 
-1 600 
-NONE 
-Hausmann Consulting, represented by 
-Dr.
+The variable compensation paid in 2023 
+relates to 2022 performance year. The plan 
+was based on business results vs pre-
+defined goals which were measured for 33% 
+against Profit Before Tax (PBT), for 33% 
+against Order Intake and for 34% on 
+Sustainability. The choice of these performance criteria 
+contributes to the long term development of 
+the company, being a mix of current financial 
+performance (backlog conversion), new 
+business 
+(backlog 
+creation) 
+and 
+stakeholders impact (sustainability). In order to protect its competitive 
+position, IBA does not disclose targets.

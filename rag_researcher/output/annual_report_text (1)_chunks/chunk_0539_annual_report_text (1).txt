@@ -1,20 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 539 of 1106
-SIZE: 515 characters
-PREVIOUS: chunk_0538_annual_report_text (1).txt
-NEXT: chunk_0540_annual_report_text (1).txt
-------------------------------
-mber 31, 2023. The increase of EUR 
-1.4 million year-on-year is mainly related to 
-investments for a total amount of EUR 4.3 
-million, among 
-others 
-in 
-building-related 
-expenditure (such as solar panels), installations 
-and IT equipment (such as laptops), offset by 
-EUR -2.8 million of depreciation of existing and 
-newly acquired assets in operation. Financial fixed assets 
-Financial fixed assets amount to EUR 160.4 
-million in 2023 compared to EUR 139.0 million in 
-2022, a net increase of EUR 21.4 million.
+on of the Dynamitron line of 
+business in the US. This was a non-major 
+business for IBA and Management decided to re-
+focus the efforts on developing its other 
+sterilization devices. For the year-ended on December 31, 2023, the 
+financial result (expenses) was EUR -5.2million 
+(2022: EUR -5.4 million expenses). In 2023, despite decreasing interests payments and 
+improved foreign currency impacts (realised and 
+un-realised gains and losses as well as change 
+in fair value of derivatives), the group was 
+strongly impacted by the effects of hyperinflation 
+in Argentina.

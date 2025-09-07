@@ -1,10 +1,31 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 730 of 1106
-SIZE: 376 characters
-PREVIOUS: chunk_0729_annual_report_text (1).txt
-NEXT: chunk_0731_annual_report_text (1).txt
-------------------------------
-Refund liabilities 
-A refund liability is recognised for consideration that IBA has received in advance from a customer and expects to refund 
-to the customer, and is measured at the amount of consideration received for which the entity does not expect to be entitled 
-(ie amounts not included in the transaction price). Source of estimation uncertainty and critical judgments
+perating segments and IBA Group 
+performance
+4.1. PERFORMANCE OF EACH SEGMENTS
+The following tables provide details of the perfomance and financial position of each segment: (EUR 000) 
+Year ended December 31, 2022 
+Proton Therapy and 
+Other Accelerators Dosimetry 
+Total 
+segments Eliminations 
+IBA 
+Group 
+Sales of equipments and licences 
+174 279 
+46 255 
+220 534 
+0 
+220 534 
+Sales of services 
+134 530 
+6 206 
+140 736 
+0 
+140 736 
+Internal sales 
+24 
+1 510 
+1 534 
+-1 534 
+0 
+Total sales 
+308 833

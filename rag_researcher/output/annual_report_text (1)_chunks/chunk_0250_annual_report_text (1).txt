@@ -1,14 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 250 of 1106
-SIZE: 464 characters
-PREVIOUS: chunk_0249_annual_report_text (1).txt
-NEXT: chunk_0251_annual_report_text (1).txt
-------------------------------
-asury uses financial 
-instruments to hedge its net exposure to these 
-risks, including forward exchange contracts, currency swaps, and forex options. Cash flow hedges are further designated at the 
-Group level as hedges of foreign exchange risk 
-on specific assets, liabilities, or committed or 
-future transactions on a gross basis. Appropriate documentation is prepared in 
-accordance with IFRS 9. The CFO approves and 
-the CEO is informed of significant hedging
+corruption are considered as potential 
+dangers. Being fully aware of this risk for over 25 
+years, IBA has since long published a Code of 
+Business Conduct. This code defines, among 
+other things, the strict framework in which IBA 
+conducts business, including unambiguous 
+rejection of risks related to corruption and 
+bribery. This Code is part of our work policies. Every employee is required to read and pass a 
+post-training test to acknowledge clear and full 
+understanding and acceptance of the principles.

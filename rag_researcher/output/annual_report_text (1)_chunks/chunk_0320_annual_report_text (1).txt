@@ -1,25 +1,24 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 320 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0319_annual_report_text (1).txt
-NEXT: chunk_0321_annual_report_text (1).txt
-------------------------------
-AND PRIOR DUTIES 
-Olivier 
-Legrain 
-(representing 
-Lamaris Group SRL) 
-Chief Executive Officer 
-Internal Director/ Managing Director/ Member of Nomination 
-Committee/ Member of the Product Committee (prior to its integration)/ 
-Member of the Sustainability Committee (prior to its integration) 
-Yves 
-Jongen 
-(representing 
-Research Management Systems 
-SRL) 
-Chief Research Officer 
-Internal Director / Managing Director / Member of the Nomination 
-Committee / Member of the Product Committee (prior to its integration)/ 
-Member of the Sustainability Committee (prior to its integration) 
-Before the
+(chairwoman) 
+Executive Director at Credit Mutuel Equity, Credit 
+Mutuel 
+Alliance 
+Federaless 
+Subsidiary 
+Consultance Marcel Miller SCS 
+(represented by Marcel Miller) (2) 
+2011 
+GM 
+2026 
+Independent Director / AC / RC / NC / 
+SC / PC 
+/ Former Chairman of Alstom Benelux / 
+Member of the Board of Directors of 
+Schreder / Chairman of the Board of 
+Directors of Technord 
+Hedvig Hricak (2) 
+2017 
+GM 
+2025 
+Independent Director / PC / SC 
+Chair of the Department of Radiology at 
+Memorial Sloan Ke

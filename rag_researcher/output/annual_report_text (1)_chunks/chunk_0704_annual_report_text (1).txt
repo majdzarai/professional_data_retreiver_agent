@@ -1,25 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 704 of 1106
-SIZE: 555 characters
-PREVIOUS: chunk_0703_annual_report_text (1).txt
-NEXT: chunk_0705_annual_report_text (1).txt
-------------------------------
-(net of 
-other investors interests). The reorganization 
-expenses mostly relate to the discontinuation of 
-the Dynamitron line of business in the US. This 
-was 
-a 
-non-core 
-business 
-for 
-IBA 
-and 
-Management decided to re-focus its efforts on 
-developing its other sterilization devices. The 
-costs include the impact of the inventories write 
-downs, employee severance and retention 
-packages, fixed assets impairment and all other 
-future estimated unavoidable costs related to 
-that business, net of the proceeds received on 
-the sale of some assets.
+An optimisation program of the sites 
+travels for flying engineers with an 
+increased use of remote maintenance 
+and a better geographic allocation of 
+the staff visiting several serviced sites
+
+Reduction by 2/3rd of the unsorted waste 
+(base year 2018) to be achieved by waste 
+sorting awareness campains, production of 
+user-centric sorting rules and new waste 
+bins, in offices and manufacturing areas

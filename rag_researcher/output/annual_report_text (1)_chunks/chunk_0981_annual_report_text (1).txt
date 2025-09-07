@@ -1,38 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 981 of 1106
-SIZE: 658 characters
-PREVIOUS: chunk_0980_annual_report_text (1).txt
-NEXT: chunk_0982_annual_report_text (1).txt
-------------------------------
-=== Page 176 ===
-IBA Annual Report 2023 
-173. 12.2. LIST OF EQUITY-ACCOUNTED INVESTMENTS 
-NAME 
-Country of incorporation 
-Equity ownership (%) 
-2023 
-Equity ownership (%) 
-2022 
-Cyclhad SAS 
-France 
-33.33% 
-33.33% 
-Normandy Hadrontherapy SAS 
-France 
-39.81% 
-39.81% 
-Normandy Hadrontherapy SARL 
-France 
-50.00% 
-50.00% 
-Pantera NV/SA 
-Belgium 
-50.00% 
-50.00% 
-IBA does not account for its share of the loss in 
-Cyclhad SAS and Normandy Hadrontherapy 
-SAS above the value of its investment as there 
-is no commitment to participate in any potential 
-future capital increase. The unrecognised 
-losses from these participations are mentionned 
-in note 5.5). 13.
+Accounting policy 
+Classification and measurement 
+Financial assets: The classification and measurement of the Groups financial assets are, as follows: Debt instruments at amortized cost: this category includes the Groups Trade receivables, long-term receivables on 
+contracts in progress, other receivables and loans included under other long-term assets, non-trade receivables/advance 
+payments, short-term receivables and cash and cash equivalents. Equity instruments at FVOCI, with no recycling of gains or losses to profit or loss on derecognition.

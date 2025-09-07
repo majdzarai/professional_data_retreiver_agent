@@ -1,12 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 108 of 1106
-SIZE: 565 characters
-PREVIOUS: chunk_0107_annual_report_text (1).txt
-NEXT: chunk_0109_annual_report_text (1).txt
-------------------------------
-their treatment depend upon it. In medical imaging, the objective is to reduce patient exposure 
-to radiation, while maintaining good image quality. In radiotherapy and proton therapy, the goal is to expose tumors 
-with millimeter precision to a high dose of rays, while reducing 
-the exposure to healthy tissue as much as possible. In each case, the accuracy of the equipment and the control 
-of the dose are of paramount importance. To achieve this, dosimetry instruments and software are needed to calibrate 
-and control the diagnostic and therapeutic equipment.
+tion of the total dose received by the patient2.. Simplified treatment planning and delivery without performing 
+multiple field adjustments.. Less time in the treatment room and a maximized patient 
+throughput thanks to an optimized workflow3. Today, the IBA Proteus system is the only PT system meeting all 
+the needs in terms of beam characteristics for DynamicARC: fast energy-layer switching time, intrinsic small beam, fast 
+scanning, and the ability to modulate dose rate within a layer. Watch the video: Shaping the future 
+of proton therapy.

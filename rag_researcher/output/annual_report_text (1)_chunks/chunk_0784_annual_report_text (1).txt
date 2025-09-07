@@ -1,13 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 784 of 1106
-SIZE: 229 characters
-PREVIOUS: chunk_0783_annual_report_text (1).txt
-NEXT: chunk_0785_annual_report_text (1).txt
-------------------------------
-rams (e.q. ERP) 
-5 years, except if a longer useful life is justified 
-Other software 
-3 years 
-Concessions, patents, licenses, know-how, trademarks, and other similar 
-rights 
-3 years, except if a longer useful life is justified
+In July 2023, IBA contributed intellectual 
+property to its Joint Venture Pantera which was 
+valued at EUR 4.4 million. The IP was not 
+valued in IBAs balance sheet and the gain on 
+the contribution was recognised in the entity's 
+financial statements only to the extent of the 
+other investor's interests in the Joint Venture 
+(50%). to recognize the full revenue of the license, given the level of uncertainty linked to this type of sale (unique in its kind for 
+IBA).

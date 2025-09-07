@@ -1,18 +1,3 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 288 of 1106
-SIZE: 529 characters
-PREVIOUS: chunk_0287_annual_report_text (1).txt
-NEXT: chunk_0289_annual_report_text (1).txt
-------------------------------
-d CFO present and comment on the 
-financial statements to the Audit Committee and 
-Board of Directors every quarter or more 
-frequently if necessary. The Audit Committee 
-receives a summary of the control reviews 
-conducted internally; underlining weaknesses 
-identified by the internal audit department. It also 
-receives any comments made by external 
-auditors on the accounting decisions and 
-evaluation rules used in the preparation of 
-financial statements, as well as their proposed 
-action in relation to internal control.
+th company law, deadlines, and quality standards. Senior management has introduced a range of 
+analyses to identify, evaluate and track financial 
+and operational risks. These include: A four-year strategic plan and annual budget

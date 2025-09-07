@@ -1,40 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 599 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0598_annual_report_text (1).txt
-NEXT: chunk_0600_annual_report_text (1).txt
-------------------------------
-37 
-Acquisition of subsidiaries, net of cash acquired 
-6.1 
--8 679 
--270 
-Acquisition of third-party and equity-accounted investments 
-9.1 
--3 091 
-0 
-Loan to equity-accounted investments 
-0 
--1 000 
-Other investing cash flows 
--73 
-223 
-Net cash (used)/generated from investing activities 
--19 135 
--13 324 
-CASH FLOW FROM FINANCING ACTIVITIES 
-Repayment of borrowings 
-18 
--24 734 
--1 000 
-Repayment of principal portion of lease liabilities and proceeds from sublease 
-23.2 
--6 074 
--6 489 
-Interest paid 
--2 311 
--761 
-Interest received 
-1 496 
-1 650 
-Capital increase (or proceeds from issuance
+exibility for both organic and 
+inorganic growth. IBA reiterates its previously announced mid-term 
+guidance, based on the assumption that macro-
+economic factors normalize over the coming 
+years: supply chain issues stabilize, inflation 
+drops towards 3%, and challenges accessing 
+certain regions reduce. In addition, guidance is 
+on the basis that order intake remains solid, especially in the Proton Therapy and Industrial 
+Solutions businesses.

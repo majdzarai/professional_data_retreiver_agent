@@ -1,16 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 104 of 1106
-SIZE: 694 characters
-PREVIOUS: chunk_0103_annual_report_text (1).txt
-NEXT: chunk_0105_annual_report_text (1).txt
-------------------------------
-to better understand the mechanisms of FLASH irradiation. DYNAMICARC1
-IBA is developing a novel proton therapy delivery technique 
-called DynamicARC. This technique allows dynamic spot-
-scanning irradiation and energy switching while the gantry 
-is rotating. It offers the advantages of Pencil Beam Scanning 
-(PBS), the advanced characteristic of the Bragg peak with 
-no exit dose, and the conformal delivery. Proton arc therapy has the possibility to further improve 
-the quality of treatment. This technological evolution will 
-offer patients numerous advantages:. Potentially enhanced dose conformity at the tumor level and 
-a potential reduction of the total dose received by the patient2..
+tions; Medical Physics; 2021
+3. Bourhis J. et Al. Clinical translation of FLASH radiotherapy, Why and how? Radiotherapy and Oncology; 2019
+4. Source: Internal IBA Models
+CONFORMALFLASH1: FLASH is a key research area that may dramatically improve 
+the clinical relevance of proton therapy for patients around 
+the world. IBA is uniquely positioned to drive the development 
+of FLASH irradiation2-3, the next major innovation expected 
+in radiation therapy. IBA is investing heavily in developing a novel technique 
+using the Bragg peak called ConformalFLASH.

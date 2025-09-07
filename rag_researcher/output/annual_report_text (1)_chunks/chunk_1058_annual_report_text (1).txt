@@ -1,20 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1058 of 1106
-SIZE: 412 characters
-PREVIOUS: chunk_1057_annual_report_text (1).txt
-NEXT: chunk_1059_annual_report_text (1).txt
-------------------------------
-2-29 
-Approach to stakeholder engagement 
-p1 AR2023 IBA World leader 
-p34 AR2023 A committed company / employees 
-p38 AR2023 A committed company / society 
-p40 AR2023 A committed company / planet 
-p43 AR2023 A committed company / materiality 
-2-30 
-Collective bargaining agreements 
-p34 AR2023 A committed company / employees 
-Ref 
-Disclosure 
-Cross reference, URL and/or information 
-GRI 3: MATERIAL TOPIC v2021
+ear were requested and obtained through sampling. For the same sample, we also validated the estimated total costs by reconciling them to the 
+tracking files and had discussions with project managers. We verified the proper allocation of costs incurred through a sample of approved invoices and 
+timesheets to ensure that these costs are properly attributable to the project. We checked the correct application and consistency of the percentage of completion method as 
+described in the evaluation rules.

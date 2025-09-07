@@ -1,10 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 804 of 1106
-SIZE: 566 characters
-PREVIOUS: chunk_0803_annual_report_text (1).txt
-NEXT: chunk_0805_annual_report_text (1).txt
-------------------------------
-nt or change in circumstances that 
-is within its control and affects its ability to exercise or not to exercise the option to renew or to terminate. Discount rate: The Group cannot readily determine the interest rate implicit in the lease, therefore, it uses its incremental borrowing rate 
-(IBR) to measure lease liabilities. The IBR is the rate of interest that IBA would have to pay to borrow over a similar term, and with a similar security, the funds necessary to obtain an asset of a similar value to the right-of-use asset in a similar 
-economic environment.
+e tax losses carried forward by EUR 2.3 
+million. The main driver of the decrease is the 
+decrease of the deferred tax assets on the tax 
+losses carried forward in Belgium by EUR 1.7 
+million following the revision of the strategic plan 
+prepared by Management. As at December 31, 2023, the Group had 
+accumulated tax losses of EUR 157.0 million 
+(2022: EUR 162.7 million) usable to offset future 
+profits taxable mainly in Belgium and in Germany 
+and temporary differences for which the tax base 
+am

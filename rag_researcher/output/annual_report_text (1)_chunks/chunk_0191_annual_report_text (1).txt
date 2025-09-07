@@ -1,20 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 191 of 1106
-SIZE: 638 characters
-PREVIOUS: chunk_0190_annual_report_text (1).txt
-NEXT: chunk_0192_annual_report_text (1).txt
-------------------------------
-PT revenues increased by 4.7% to EUR 229.1 
-million (2022: EUR 218.8 million), driven by the 
-anticipated acceleration of revenue recognition 
-in the second half. Equipment revenues 
-increased by 3% as contracts were converted to 
-revenues from the backlog, with five projects 
-under installation during the period. This was 
-further supported by PT Services growth with 
-two new centers in the USA and Italy starting to 
-treat patients in 2023. The decrease in REBIT in the period reflects the 
-customer-related delays in backlog conversion 
-of some ProteusPLUS projects in China and 
-project mix, including older lower margin 
-projects.
+1 ProteusONE and ProteusPLUS are brand names of 
+Proteus 235 
+acquisition of Radcal Corporation, an X-ray 
+imaging specialist
+
+The key figures in terms of 
+financial results are as follows: Total 2023 Group revenues of EUR 428.7 
+million, up 18.7% versus last year, in line 
+with expectations and driven by accelerated 
+backlog conversion in H2 across all 
+business units, with particularly strong 
+growth from Proton Therapy (PT) Services, Dosimetry and Other Accelerators

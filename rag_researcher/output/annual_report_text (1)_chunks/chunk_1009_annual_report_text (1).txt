@@ -1,11 +1,29 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1009 of 1106
-SIZE: 406 characters
-PREVIOUS: chunk_1008_annual_report_text (1).txt
-NEXT: chunk_1010_annual_report_text (1).txt
-------------------------------
-perform audit procedures responsive to those risks, and obtain 
-audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of 
-not detecting a material misstatement resulting from fraud is higher than for one resulting from 
-error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the 
-override of internal control; === Page 182 ===
+2023 
+CASH FLOW FROM OPERATING ACTIVITIES 
+Net profit/(loss) for the period 
+6 057 
+-9 110 
+Adjustments for: Depreciation and impairment of tangible assets 
+8, 23.1 
+8 989 
+9 774 
+Depreciation and impairment of intangible assets and goodwill 
+7.2 
+1 722 
+1 747 
+Write-off on receivables 
+14.1 
+-749 
+457 
+Changes in fair value of financial assets (profits)/losses 
+-3 591 
+654 
+Changes in provisions 
+19 
+6 143 
+2 074 
+Deferred taxes 
+10 
+-11 244 
+1 898 
+Share of result of associates and joint vent

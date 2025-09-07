@@ -1,10 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 883 of 1106
-SIZE: 209 characters
-PREVIOUS: chunk_0882_annual_report_text (1).txt
-NEXT: chunk_0884_annual_report_text (1).txt
-------------------------------
-Provisions for warranties cover warranties 
-for machines sold to customers. Other provisions as at December 31, 2023 
-consisted primarily of the following: Provisions for onerous contracts for 
-EUR 3.4 million
+Work in progress relates to the production of 
+inventory for which a customer has not yet been 
+secured, while contracts assets (note 4.3.1) 
+relate to the production for specific customers in 
+fulfilling obligations under a signed contract. The inventories have significantly increased in 
+2023. This is driven by an increase in customer 
+orders, business growth and anticipation of 
+production planning requirements.

@@ -1,17 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 828 of 1106
-SIZE: 528 characters
-PREVIOUS: chunk_0827_annual_report_text (1).txt
-NEXT: chunk_0829_annual_report_text (1).txt
-------------------------------
-ment which gives IBA the right to 
-purchase HILs laser-based proton accelerators 
-for the purpose of integrating them into proton 
-therapy solutions. In 2022, IBA has recorded a value increase of 
-the investment by EUR 1.0 million against the 
-Groups Statement of Other Comprehensive 
-Income, based on a valuation exercise using 
-the DCF method and future cash flow forecasts. In July 2023, the investee has formally informed 
-the stakeholder of the financial difficulties 
-encountered and the start of a voluntary 
-dissolution.
+ms. === Page 143 ===
+IBA Annual Report 2023 
+140. Accounting policy for intangible assets 
+Goodwill: the accounting policy for recognising and measuring goodwill is described in Note 3, Business 
+combinations 
+Software, research and development and other intangible assets:Expenditures for the development of new products and 
+software are recognized as intangible assets if such expenditures, with a high degree of certainty, will result in future 
+economic benefits for the company. IBA applies the criteria strictly and in most cases development costs are expensed when 
+incurred.

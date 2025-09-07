@@ -1,16 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 116 of 1106
-SIZE: 549 characters
-PREVIOUS: chunk_0115_annual_report_text (1).txt
-NEXT: chunk_0117_annual_report_text (1).txt
-------------------------------
-=== Page 33 ===
-PATIENT SAFETY DRIVEN BY ADVANCED 
-CUSTOMER TRAINING AND SUPPORT
-For IBA, service and support are about how the company cares 
-for its customers and their performance. With almost 50 years of dosimetry experience, and through its 
-training offerings, IBA helps its customers run their equipment 
-efficiently and safely, thereby ensuring patient safety in 
-medical imaging and radiotherapy. The qualified dosimetry 
-service teams - uniquely distributed over 3 continents - ensure 
-24/7 instant access and quality support to customers.
+cians peace 
+of mind about their patients safety. SAFE HEALTH CARE PROCESSES: DISCOVER 
+RISKS, IDENTIFY CORRECTIVE SAFETY 
+MEASURES AND PREVENT ACCIDENTS
+Every clinic, regardless of its size, resources, and experience, can benefit from prospective risk management. myQA 
+PROactive enables departments to maximize safety and 
+optimize their QA program with their available resources. myQA PROactive workflow
+Watch the video. myQA iON provides high level 
+of automation and an easy 
+overview of all patient QA tasks.

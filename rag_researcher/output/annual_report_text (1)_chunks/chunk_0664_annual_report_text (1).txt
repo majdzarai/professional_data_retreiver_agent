@@ -1,26 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 664 of 1106
-SIZE: 589 characters
-PREVIOUS: chunk_0663_annual_report_text (1).txt
-NEXT: chunk_0665_annual_report_text (1).txt
-------------------------------
-expensive for IBA 
-due to the energy price level at the time of 
-the investigation done by IBA; Our 
-forecast 
-transactions 
-remain 
-sufficiently certain and cautious to ensure 
-that 
-effectiveness 
-of 
-our 
-derivatives 
-financial instruments is maintained to 
-qualify for hedge accounting; 2.3. MACRO-ECONOMIC ENVIRONMENT
-Management has considered several factors 
-related to the macro-economic environment and 
-their impact on impairment of non-financial 
-assets, expected credit losses, provisions, revenue 
-recognition, hedge 
-accounting, pension plans, deferred tax and going concern.
+Liabilities arising 
+from a Single Transaction 
+In May 2021, the Board issued amendments to 
+IAS 12, which narrow the scope of the initial 
+recognition exception under IAS 12, so that it no 
+longer applies to transactions that give rise to 
+equal 
+taxable 
+and 
+deductible 
+temporary 
+differences. The amendments have been applied to 
+transactions that occur on or after January 1, 2023 with no material impacts on both the 
+current period and the previous periods 
+presented as comparatives.

@@ -1,16 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 111 of 1106
-SIZE: 497 characters
-PREVIOUS: chunk_0110_annual_report_text (1).txt
-NEXT: chunk_0112_annual_report_text (1).txt
-------------------------------
-=== Page 32 ===
-SAFE MEDICAL IMAGING: QUALITY 
-ASSURANCE FOR A BETTER DIAGNOSIS
-IBA quality assurance solutions for medical imaging systems 
-such as X-ray or CT (Computed Tomography) contribute 
-to improving image quality. This ensures a more accurate 
-diagnosis and therapy, while also controlling the radiation 
-dose released by the machine. Dosimetry solutions offer 
-a complete and instant analysis of the released dose to complete 
-the required test efficiency and with the highest precision.
+nd the success of their treatment depend upon it. In medical imaging, the objective is to reduce patient exposure 
+to radiation, while maintaining good image quality. In radiotherapy and proton therapy, the goal is to expose tumors 
+with millimeter precision to a high dose of rays, while reducing 
+the exposure to healthy tissue as much as possible. In each case, the accuracy of the equipment and the control 
+of the dose are of paramount importance. To achieve this, dosimetry instruments and software are needed to calibrate 
+and control the diagnostic and therapeutic equipment.

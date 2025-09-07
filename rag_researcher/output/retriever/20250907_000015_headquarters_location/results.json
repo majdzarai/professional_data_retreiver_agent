@@ -1,0 +1,18 @@
+{
+  "query": "headquarters location",
+  "timestamp": "2025-09-07 00:00:15",
+  "config": {
+    "top_k": 5,
+    "similarity_threshold": 0.0,
+    "reranking_enabled": true,
+    "hybrid_search_enabled": true,
+    "hybrid_search_weight": 0.7
+  },
+  "results": [
+    {
+      "id": 1,
+      "text": "NS 3:6, 2, 3 AND 3:32, 1, 7, OF THE BCAC) \nManagement has established an Internal Control \nsystem addressing its operations and financial \nreporting objectives. Control environment \nThe Board of Directors and senior management \nestablish the tone at the top regarding the \nimportance of internal control. Management sets \nexpectations at the various levels of the \norganization. The process of preparing consolidated financial \ninformation is supported by procedures and work \ninstructions \nto \nguide \nsubsidiaries \nin \nthe \npreparation of their local accounts.",
+      "similarity_score": 0.32239504158496857
+    }
+  ]
+}

@@ -1,16 +1,25 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1032 of 1106
-SIZE: 682 characters
-PREVIOUS: chunk_1031_annual_report_text (1).txt
-NEXT: chunk_1033_annual_report_text (1).txt
-------------------------------
-282 218 fully paid-up shares 
-with no face value. In June 2014, the Company issued 250 000 
-stock options for the Group management (the 
-2014 Plan). They allow the beneficiary to 
-purchase a new share at EUR 11.52 following 
-certain procedures during specific periods, i.e. between January 1, 2019 and June 30, 2024. As of December 31, 2018, there were 178 500 
-outstanding stock options of this 2014 Plan. In 2019, 11 392 of these stock options were 
-exercised (more specifically on December 6, 2019). As of December 31, 2019, there were 167 608 
-outstanding stock options of this 2014 Plan. As of December 31, 2020, there were 163 608 
-outstanding stock options of this 2014 Plan.
+00% 
+100% 
+Ion Beam Beijing Applications Co. Ltd. Beijing, China 
+100% 
+100% 
+IBA RadioIsotopes France SAS 
+Lyon, France 
+100% 
+100% 
+IBA Dosimetry Ltd. Schwarzenbruck, Germany 
+100% 
+100% 
+IBA Dosimetry America Inc. Bartlett, USA 
+100% 
+100% 
+IBA Proton Therapy Inc. Edgewood New York, USA 
+100% 
+100% 
+IBA Industrial Inc. Edgewood New York, USA 
+100% 
+100% 
+IBA USA Inc. Edgewood New York, USA 
+100% 
+100% 
+IBA Particle Therapy Ltd.

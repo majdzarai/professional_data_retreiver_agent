@@ -1,12 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1103 of 1106
-SIZE: 390 characters
-PREVIOUS: chunk_1102_annual_report_text (1).txt
-NEXT: chunk_1104_annual_report_text (1).txt
-------------------------------
-=== Page 198 ===
-IBA Annual Report 2023 
-195. 414-1 New suppliers that were screened using social criteria 
-Suppliers Code of Business Conduct 
-Since 2022, the suppliers code of conduct is part of all contract templates related to sourcing activities of the IBA group, and, by entering into the 
-agreement, the vendor explicitly agrees to abide by its content. Supplier ESG screening method
+s from third parties and 
+pays royalties to them. LICENSING AND COOPERATION AGREEMENTS 
+IBA has licensing agreements involving various 
+aspects of its technology. Listing and explaining 
+the nature and terms of these licensing 
+agreements falls beyond the scope of this annual 
+report. These agreements cover, for example, certain aspects of its particle accelerator 
+technology and a number of components of its 
+proton therapy equipment. FIVE-YEAR CAPITAL HISTORY

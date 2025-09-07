@@ -1,43 +1,16 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 373 of 1106
-SIZE: 675 characters
-PREVIOUS: chunk_0372_annual_report_text (1).txt
-NEXT: chunk_0374_annual_report_text (1).txt
-------------------------------
-Mandate: 2021; Management 
-agreement: prior to 2009, amended in 
-2012 
-Mandate: GM 
-2024; Management 
-agreement: indefinite 
-Mandate: None 
-Management 
-agreement: 12 
-months or 
-equivalent 
-compensation 
-None. The management 
-agreement also contains a non-
-competition obligation for the 
-duration of the agreement 
-Frinso SRL, represented 
-by Soumya 
-Chandramouli 
-2004 
-Indefinite 
-12 months or 
-equivalent 
-compensation 
-None. The management 
-agreement also contains a non-
-competition obligation for the 
-duration of the agreement and 12 
-months thereafter 
-Frederic Nolf SRL, represented by Frederic 
-Nolf 
-2007 
-Indefinite 
-12 months or 
-equivalent 
-compensation 
-None.
+its 
+various stakeholders including its clients and 
+patients, its shareholders, its employees, society 
+in general and the planet, whilst aligning to 
+their respective interests. The structure and levels of remuneration, in 
+general, must be effective in meeting these 
+objectives. Remuneration 
+programs 
+and 
+decisions at all times meet the following criteria: They 
+appropriately 
+balance 
+external 
+competitiveness with other organizations 
+and internal equity, considering both the 
+content of

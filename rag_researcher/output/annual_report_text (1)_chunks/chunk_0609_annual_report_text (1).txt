@@ -1,19 +1,30 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 609 of 1106
-SIZE: 639 characters
-PREVIOUS: chunk_0608_annual_report_text (1).txt
-NEXT: chunk_0610_annual_report_text (1).txt
-------------------------------
-d 2023 have been 
-adopted by the EU. Consequently, the 
-accounting policies applied by the Group 
-also fully comply with IFRS as issued by the 
-IASB. Prepared on the historical cost basis unless 
-otherwise indicated (financial instruments 
-such as derivative and equity investments 
-that have been measured at fair value). Prepared on an accrual basis and on the 
-assumption of going concern. Presented in Euro, which is the Companys 
-functional currency. Rounded to the nearest thousands unless 
-stated otherwise. The preparation of financial statements in 
-accordance with IFRS requires the use of 
-certain critical accounting estimates.
+5 
+Services and other goods 
+-116 798 
+-130 425 
+Salaries, social security, and pensions 
+-89 779 
+-102 226 
+Depreciation and write-offs on fixed assets 
+-45 615 
+-42 979 
+Increase/(Decrease) in write-downs on inventories, work in progress, and 
+trade debtors 
+-262 
+-1 239 
+Provisions for liabilities and charges 
+-1 306 
+851 
+Other operating expenses 
+-5 953 
+-563 
+Other extraordinary expenses 
+-561 
+0 
+Operating profit/loss) 
+-6 592 
+15 097 
+Financial income 
+14 530 
+22 467 
+Income from financi

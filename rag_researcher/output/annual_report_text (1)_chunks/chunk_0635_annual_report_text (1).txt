@@ -1,27 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 635 of 1106
-SIZE: 599 characters
-PREVIOUS: chunk_0634_annual_report_text (1).txt
-NEXT: chunk_0636_annual_report_text (1).txt
-------------------------------
-rights to, variable returns 
-from its involvement with the entity and has the 
-ability to affect those returns through its power 
-over 
-the 
-entity. Subsidiaries 
-are 
-fully 
-consolidated from the date on which control is 
-transferred 
-to 
-the 
-Group. They 
-are 
-deconsolidated from the date that control 
-ceases. The following treatments are applied on 
-consolidation: The carrying amount of the parents 
-investment in each subsidiary and the 
-parents portion of the equity of each 
-subsidiary are eliminated; In the statement of consolidated financial 
-position, non-controlling interests in the n
+=== Page 116 ===
+IBA Annual Report 2023 
+113. Consolidated cash flow statement for the year 
+ended December 31, 2023

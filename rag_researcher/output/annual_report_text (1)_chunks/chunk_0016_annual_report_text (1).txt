@@ -1,12 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 16 of 1106
-SIZE: 555 characters
-PREVIOUS: chunk_0015_annual_report_text (1).txt
-NEXT: chunk_0017_annual_report_text (1).txt
-------------------------------
-ar visibility on our future performance, and we are confident in our 
+d performance in the Other Accelerators business. Despite the current geopolitical situation and economic uncertainties, we have a clear visibility on our future performance, and we are confident in our 
 ability to grow in the years to come and create value for all our stakeholders. Assuming a stabilization of global supply chain challenges, a return of inflation 
 to around 3%, as access conditions to certain regions normalize, and based 
 on the prospect of maintaining a high level of order intake, we have issued medium 
-term guidance. Subject to these factors, we confirm our expectation that the annual 
-revenue growth rate should reach an average of 15% over the 2022-2026 period.
+term guidance.

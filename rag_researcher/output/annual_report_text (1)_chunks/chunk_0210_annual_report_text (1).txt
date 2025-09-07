@@ -1,40 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 210 of 1106
-SIZE: 528 characters
-PREVIOUS: chunk_0209_annual_report_text (1).txt
-NEXT: chunk_0211_annual_report_text (1).txt
-------------------------------
-yer and another undisclosed 
-customer, both initiating in the second half of 
-2024 and the company is working actively on 
-several more partnerships. Construction of 
-PanTeras large-scale production facility in Mol, Belgium is expected to begin in 2025. === Page 54 ===
-IBA Annual Report 2023 
-51. IBA 
-DOSIMETRY 
-(EUR 000) 
-FY 2023 
-FY 2022 
-Variance 
-Variance % 
-Net sales 
-65 910 
-53 971 
-11 939 
-22.1% 
-REBITDA* 
-8 821 
-3 128 
-5 693 
-182.0% 
-% of Sales 
-13.4% 
-5.8% 
-REBIT* 
-6 146 
-653 
-5 493 
-841.2% 
-% of Sales 
-9.3% 
-1.2%
+alongside 
+a multi-center trial5 for lung cancer. Results from 
+the Phase 3 trials are expected over the next 
+three years. Investing in the future of PT remains a priority for 
+IBA. December saw the announcement of a 
+research collaboration with the University of 
+Kansas Medical Center (KUMC), focused on 
+preclinical 
+research 
+in 
+the 
+use 
+of 
+ConformalFLASH6 technology. This builds on 
+the existing relationship between IBA and 
+KUMC, who had previously published a joint 
+abstract on FLASH te

@@ -1,18 +1,20 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 652 of 1106
-SIZE: 567 characters
-PREVIOUS: chunk_0651_annual_report_text (1).txt
-NEXT: chunk_0653_annual_report_text (1).txt
-------------------------------
-ge derivatives 
-with respect to its activities in Russia, therefore 
-no further consideration has been given to the 
-application of hedge accounting. IBA also considered whether the conflict could 
-have an impact on its customers and their ability 
-to pay the balances due to IBA; no significant 
-additional credit losses were recognised for that 
-reason in the year ended December 31, 2023. 2.2. CLIMATE-RELATED MATTERS
-Climate related matters are managed by the 
-Sustainability Board which meets once a year 
-and decides on the Groups commitments and 
-action plans.
+binations and other changes in 
+the composition of the group 
+Operating segments 
+4 Operating segments and IBA Group 
+performance 
+Revenue recognition 
+4.3 Revenue 
+Pensions and similar obligations 
+5.11.1 Defined employee benefit 
+Share-based payments 
+6 Stock options and share-based payments 
+Current and deferred tax 
+4.7 Taxation 
+Earnings per share 
+4.8 Net earnings per share 
+Intangible assets 
+5.1 Intangible assets 
+Property, Plant and Equipment 
+5.2 Property, plant and equipment 
+Leases

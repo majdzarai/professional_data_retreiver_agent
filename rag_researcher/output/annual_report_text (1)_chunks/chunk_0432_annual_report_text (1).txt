@@ -1,17 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 432 of 1106
-SIZE: 533 characters
-PREVIOUS: chunk_0431_annual_report_text (1).txt
-NEXT: chunk_0433_annual_report_text (1).txt
-------------------------------
-& 14 due to specific functions with a high market 
-salary rate with very limited female in function. No data privacy incident were reported in 2023. No incidents of discrimination or harassment 
-were reported in 2023. === Page 87 ===
-IBA Annual Report 2023 
-84. IBA 
-Risks and Risk Management 
-The risks and risk management of the social and 
-staff related matters are both described above, in the dedicated Section Principal Risks and 
-Uncertainties faced by the Company (Sections 
-3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the 
-BCAC).
+applicable as of December 31 of 
+the fiscal year. When considering base pay only, the 
+ratio between the highest and the lowest 
+employee remuneration of the company in 
+Belgium is 10-1 
+Table of Total Remuneration non-Managing Directors 
+The gross amounts that were paid to non-Managing Directors in 2023 are as follows: * BM Board meeting; AC Audit Committee meeting; NC Nomination Committee meeting; CC Compensation Committee 
+meeting; MAC Mergers & Acquisitions Committee meeting; PC Product Committee meeting; SC Sustainability Committee.

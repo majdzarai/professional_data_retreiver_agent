@@ -1,18 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 481 of 1106
-SIZE: 270 characters
-PREVIOUS: chunk_0480_annual_report_text (1).txt
-NEXT: chunk_0482_annual_report_text (1).txt
-------------------------------
-omplies with the defined minimum 
-safeguards. Different means may be required for an activity 
-to make a substantial contribution to each 
-objective. The 
-EU 
-Taxonomy 
-Regulation 
-requires the disclosure of the percentage of 
-turnover, capital 
-expenditure 
-(CapEx) 
-or
+021 B Corp (Benefit 
+Corporation") certification. Equal employment opportunities are offered to 
+all IBA employees. No discrimination is made on 
+any basis whatsoever. Decisions relating to 
+employment are solely based on the skills, abilities, and performance of the employee. Every IBA employee has the right to join a trade 
+union or any other organization. As per its Equal 
+opportunity principle, no one at IBA should ever 
+be subject to any kind of discrimination because 
+of accession to or creation of a trade union nor 
+because of the employees choice not to join or 
+create such group.

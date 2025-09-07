@@ -1,13 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 170 of 1106
-SIZE: 604 characters
-PREVIOUS: chunk_0169_annual_report_text (1).txt
-NEXT: chunk_0171_annual_report_text (1).txt
-------------------------------
-t of 
-a Rhodotron installation, ensuring it meets the latest industry 
-standards and extending its operational lifetime, or relocation 
-and recommissioning of a RadioPharma Solutions accelerator, further exemplify IBAs commitment to prolonging the lifespan 
-of its products and minimizing waste. Our Rhodotron industrial solutions allow in-house customers 
-or contract sterilizers to sterilize medical devices by E-beam, offering a readily available and green alternative to gases such 
-as ethylene oxide, and nuclear materials such as cobalt-60, hence avoiding associated hazardous waste and pollutants.
+=== Page 45 ===
+WASTE
+IBA also has an impact on waste production:. A direct impact through our operations: offices and manu- 
+facturing processes.. An indirect impact through our installed product base: production processes at our suppliers facilities, transport 
+within the value chain, and, once installed at the customer 
+location, servicing and decommissioning. We have set ourselves targets for reducing our unsorted waste 
+intensity by a factor of 3x below 2018 levels by 2025. This will be achieved by making changes at all levels impacting 
+our logistics, manufacturing and offices.

@@ -1,20 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 448 of 1106
-SIZE: 538 characters
-PREVIOUS: chunk_0447_annual_report_text (1).txt
-NEXT: chunk_0449_annual_report_text (1).txt
-------------------------------
-to 3 and 3:32, 1, 1 to 3, of the BCAC).In order to limit its bribery and 
-corruption risk, IBA is continuously identifying 
-the specific risks it could be exposed to by (i) 
-strictly analyzing third-party providers (with 
-whom we are working) reputation including anti-
-money laundering due diligence, (ii) examining 
-transactions with governments or government 
-institutions and representatives, (iii) creating 
-new legal entities overseas with due diligence, and 
-(iv) 
-educating 
-employees 
-through 
-communications and proper training.
+d ever be subject to any 
+kind of discrimination. The membership or non-
+membership of a trade union is also free. IBA commits itself to a positive, productive, and 
+safe work environment that is free from violence, threats, harassment, intimidation, mental or 
+physical coercion, and other disruptive behavior. The Company does not permit any form of 
+violence, whether physical, verbal, or mental; all 
+threats of violence are considered serious. IBA 
+is also committed to a workplace free of 
+harassment.

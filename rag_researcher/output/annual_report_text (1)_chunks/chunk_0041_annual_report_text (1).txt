@@ -1,16 +1,8 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 41 of 1106
-SIZE: 609 characters
-PREVIOUS: chunk_0040_annual_report_text (1).txt
-NEXT: chunk_0042_annual_report_text (1).txt
-------------------------------
-=== Page 16 ===
-to experience substantial growth, estimated at 5-7 times 
-their current levels over the same period. Electron beam 
-and X-ray irradiation offer competitive alternatives to ethylene 
-oxide and Gamma irradiation. Both techniques are electricity 
-based and do not present major regulation issues. Powered 
-by green energy, both are very sustainable over more than 30 
-years of usage. Moreover, this transformation is being facilitated by increased 
-accessibility, ease of use, and reliability of the technology, prompting major players in the sector to invest more heavily 
-in in-house resources.
+d with a Rhodotron and all ionization modalities. In addition, all prospects and customers are welcome 
+to experience and be trained on irradiation in its new academy 
+and user experience center, the INDUX, based in Louvain-
+la-Neuve, Belgium. To continue raising the bar and augment its offering, IBA 
+increased the span of services it offers for an even more 
+integrated irradiation facility. Prospects can now start 
+their projects with a so-called pre-engineering, opt for 
+a customized service for production ramp-up and training, and even choose financing and leasing options.

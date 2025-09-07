@@ -1,17 +1,6 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1074 of 1106
-SIZE: 377 characters
-PREVIOUS: chunk_1073_annual_report_text (1).txt
-NEXT: chunk_1075_annual_report_text (1).txt
-------------------------------
-3-1 
-Management of material topics 
-p80 AR2023 Management report / corporate governance statement / codes of 
-conduct 
-418-1 
-Substantiated complaints concerning 
-breaches of customer privacy and losses of 
-customer data 
-p195 AR2023 GRI appendix 418-1 / substantiated complaints concerning breaches 
-of customer privacy and losses of customer data 
-GRI OTHER DISCLOSURES v2016
+among other matters, the planned scope and 
+timing of the audit and significant audit findings, including any significant deficiencies in internal control 
+that we identify during our audit. We also provide the audit committee with a statement that we have complied with relevant ethical 
+requirements regarding independence, and to communicate with them all relationships and other 
+matters that may reasonably be thought to bear on our independence, and where applicable, related 
+safeguards.

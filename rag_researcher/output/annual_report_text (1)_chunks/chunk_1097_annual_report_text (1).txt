@@ -1,10 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1097 of 1106
-SIZE: 500 characters
-PREVIOUS: chunk_1096_annual_report_text (1).txt
-NEXT: chunk_1098_annual_report_text (1).txt
-------------------------------
-ensity by 35% below 2020 levels by 2025. 306-2 Management of significant waste related impacts 
-Substituting inputs that have hazardous characteristics with inputs that are non-hazardous: IBA Industrial Solutions has developed a new portfolio of services and end-to-end solutions powered by the Rhodotron particle accelerator. These 
-innovative electrical solutions allow in-house customers or contract sterilizers to sterilize medical devices either by E-beam in boxes or X-ray in 
-pallets, or both.
+000 
+outstanding stock options of this 2015 Plan. In June 2020, the Company issued 357 000 
+stock options for the Group management. They 
+allow the beneficiary to purchase a new share at 
+7,54 EUR following certain procedures from 
+January 02, 2024. IBA decided on May 28, 2020 to render the 
+current SOPs exercisable on a continued period 
+(outside of anti-insider dealing blackout periods 
+and outside of any additional technical black out 
+period) as from January 02, 2024. In 2021, IBA issued a long-term incentive in the 
+form of a stock option plan (SOP2021) on IBA 
+shares.

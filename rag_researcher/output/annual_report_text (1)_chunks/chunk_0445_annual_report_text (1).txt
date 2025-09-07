@@ -1,18 +1,5 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 445 of 1106
-SIZE: 632 characters
-PREVIOUS: chunk_0444_annual_report_text (1).txt
-NEXT: chunk_0446_annual_report_text (1).txt
-------------------------------
-tegrity. Hence, the target is to achieve the objective of 
-no IBAs third-party providers, customers, and 
-partners involved in any corrupt practices. Non-financial Indicators and Results 
-A two-phase plan is being implemented to 
-increase awareness and monitoring targets. The 
-first phase took place in 2020, with an in-depth 
-evaluation of IBAs practices, the conduction of 
-a fraud risk assessment, and an update of a 
-number of internal processes. This evaluation 
-focused on key risk areas such as corruption, asset misappropriation, financial statement 
-fraud, cyberfraud of theft of data, and contract 
-and procurement fraud.
+t 
+to monitor compliance with the Suppliers Code. Policy and Targets 
+The Code of Business Conduct sets out the 
+principles of IBAs social and staff-related 
+Diversity, Equity and Inclusion (DEI) policy. It is, among others, based on the International Labor

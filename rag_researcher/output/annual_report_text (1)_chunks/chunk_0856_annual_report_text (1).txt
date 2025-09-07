@@ -1,13 +1,2 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 856 of 1106
-SIZE: 510 characters
-PREVIOUS: chunk_0855_annual_report_text (1).txt
-NEXT: chunk_0857_annual_report_text (1).txt
-------------------------------
-alysis is performed considering the overall position of the contract, taking into 
-account trade receivable, contract asset and contract liabilities. As such, ECL allowances are rarely recognised when the 
-revenue recognised on the project is lower than the paid invoices. Accounting policy for cash and cash equivalents 
-The Company considers all highly liquid investments with less than three months maturity from the date of acquisition to 
-be cash equivalents. === Page 155 ===
-IBA Annual Report 2023 
-152.
+ynergies as a result of the business combination. This allocation is based on Managements 
+assessment of the synergies gained. Source of estimation uncertainty and critical judgments

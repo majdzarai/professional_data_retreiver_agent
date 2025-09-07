@@ -1,28 +1,17 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 602 of 1106
-SIZE: 687 characters
-PREVIOUS: chunk_0601_annual_report_text (1).txt
-NEXT: chunk_0603_annual_report_text (1).txt
-------------------------------
-=== Page 117 ===
-IBA Annual Report 2023 
-114. Notes 
-1. Summary of significant group accounting 
-policies. 115 
-2. Significant events in the period and 
-accounting estimates and judgements. 120 
-2.1. Direct financial impacts of Russias invasion 
-of Ukraine. 120 
-2.2. Climate-related matters. 121 
-2.3. Macro-economic environment. 122 
-2.4. Contributions to Pantera SA/NV. 123 
-2.5. Significant accounting estimates and 
-judgements. 124 
-3. Business combinations and other 
-changes in the composition of the group. 125 
-4. Operating segments and IBA Group 
-performance. 126 
-4.1. Performance of each Segments. 126 
-4.2. Performance of each geographic region. 129 
-4.3. Revenue. 130 
-4.4.
+=== Page 107 ===
+IBA Annual Report 2021 
+104. In accordance with sections 3:23 et 3:32, 1 of 
+the Belgian Companies & Associations Code, the 
+following 
+statements 
+represent 
+an 
+abbreviated version of the annual financial 
+statements. The full text is available on request 
+at the headquarters of the Company and will be 
+filed with the National Bank of Belgium. This 
+abbreviated version does not contain all the 
+appendices and the auditors report, who 
+expressed an unqualified opinion. === Page 108 ===
+IBA Annual Report 2021 
+105.

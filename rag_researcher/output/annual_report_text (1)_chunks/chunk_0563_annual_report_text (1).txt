@@ -1,21 +1,11 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 563 of 1106
-SIZE: 604 characters
-PREVIOUS: chunk_0562_annual_report_text (1).txt
-NEXT: chunk_0564_annual_report_text (1).txt
-------------------------------
-s Market. IBA also acquired a minority stake in Invest.BW 
-S.A, a venture capital partner supporting the 
-economic development in the Walloon Region. In 2023, Management has also decided to re-
-focus the efforts of the Industrial business on the 
-Rhodotron, as a result, the group closed the 
-legacy Dynamitron business. General outlook for 2024 
-IBA delivered a solid performance in the second 
-half of 2023, resulting in a positive REBIT margin 
-for the full year, as expected. Looking ahead, the 
-Group 
-anticipates 
-continued 
-positive 
-development in revenues and margins across all 
-business units.
+ection 3:6 of the BCAC) 
+INCOME STATEMENT 
+In 2023, IBA SA reported a profit of EUR 13.8 
+million compared to a loss of EUR 14.5 million in 
+2022, representing an improvement of EUR 28.4 
+million, as described in the following paragraphs. Operating income (excluding other extraordinary 
+income) increased substantially year-on-year, from EUR 346.1 million in 2022 to EUR 449.4 
+million in 2023, predominantly due to an 
+increased level of activity. The operating profit amounted to EUR 17.3 
+million in 2023 against a loss of EUR -6.6 million 
+in 2022, a net increase of EUR 23.9 million.

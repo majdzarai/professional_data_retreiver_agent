@@ -1,20 +1,12 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 555 of 1106
-SIZE: 553 characters
-PREVIOUS: chunk_0554_annual_report_text (1).txt
-NEXT: chunk_0556_annual_report_text (1).txt
-------------------------------
-Profit carried forward for the financial 
-year 2022 of EUR 132.6 million 
-Own shares 
-IBA SA holds 1.100.781 treasury shares as per 
-December 31, 2023, compared to 1.110.781 in 
-2022. The value of these treasury shares 
-amounts to EUR 12.7 million as per December 
-31, 2023. Provisions for risks and charges 
-Provisions for risks and charges equivalent to 
-EUR 10.1 million in 2023 compared to EUR 11.0 
-million in 2022. These mainly correspond to 
-provisions for technical and order fulfilment 
-guarantees as well as for the stock option plans 
-issued.
+ase of 
+the refund liability of EUR -5.0 million. The 
+performance bond with CGNTT was recognised 
+as a refund liability until the uncertainty 
+associated with the variable consideration is 
+resolved, and it was agreed in December 2023 
+to cancel completely the performance bond. The other short-term payables are also impacted 
+by the increase of social debts for EUR 2.4 
+million, and by the increase of deferred income 
+for EUR 2.1 million 
+ The income tax payable increase by EUR 2.1 
+million.

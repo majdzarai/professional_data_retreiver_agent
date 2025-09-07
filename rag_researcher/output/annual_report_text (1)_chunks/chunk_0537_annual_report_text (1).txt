@@ -1,19 +1,9 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 537 of 1106
-SIZE: 613 characters
-PREVIOUS: chunk_0536_annual_report_text (1).txt
-NEXT: chunk_0538_annual_report_text (1).txt
-------------------------------
-compared to EUR 46.4 
-million per December 31, 2022. These intangible 
-assets relate mainly to: Research and Development costs for EUR 
-57.7 million. The net amount is higher 
-because of the change in Depreciation (cf. next paragraph) and the increased spend 
-compared to 2022. Intangible assets under construction for a 
-net worth of EUR 9.0 million which includes 
-development costs related to Product 
-Lifecycle Management and the EU Medical 
-Device Regulation. In accordance with the Royal Decree of 
-December 15, 2015, research costs have been 
-capitalized and amortized over the year since 
-January 1, 2016.
+be seen on Research and Development which 
+went up by 14.5%; this demonstrates the 
+strategic efforts that IBA is making on both 
+operating segments to maintain its technological 
+leadership in all business lines. Recurring operating profits before interest and 
+taxes (REBIT10) decreased from a gain of EUR 
+11.1 million in 2022 to a gain of EUR 6.4million, reflecting the current inflation and factors related 
+to the current macro-economic environment, coupled with one off indemnities related to the 
+Rutherfords bankruptcy in 2022.

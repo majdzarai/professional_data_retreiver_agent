@@ -1,18 +1,18 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 204 of 1106
-SIZE: 631 characters
-PREVIOUS: chunk_0203_annual_report_text (1).txt
-NEXT: chunk_0205_annual_report_text (1).txt
-------------------------------
-gh value backlog conversion. 26 installations 
-began in 2023, with 16 of them starting in the 
-second half. 17 installations were completed in 
-2023. Services had a strong year, increasing by 
-33.7% compared to 2022 as the installed base 
-grew and the Industrial business in particular 
-started to implement a targeted service strategy. Industrial Solutions revenues increased 110% 
-compared to 2022, driven by growing equipment 
-and services contracts. Order intake was slower 
-than the previous year, with impacts still felt from 
-post-COVID overstocking of medical equipment, leading to lower demand for sterilization 
-services.
+=== Page 52 ===
+IBA Annual Report 2023 
+49. IBA 
+continued in overheads and R&D to drive the 
+future growth of the business, alongside 
+inflationary 
+pressures 
+and 
+some 
+foreign 
+exchange impacts. There are 33 PT projects under construction or 
+installation. This consists of nine ProteusPLUS 
+and 24 ProteusONE systems. IBA is the 
+market leader in proton therapy with a 42% 
+market share, and there continues to be an 
+active pipeline of potential projects, with 
+particular interest coming from Asia and the 
+USA.

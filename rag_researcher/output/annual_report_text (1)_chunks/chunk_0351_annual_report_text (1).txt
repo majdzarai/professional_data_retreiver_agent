@@ -1,18 +1,20 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 351 of 1106
-SIZE: 503 characters
-PREVIOUS: chunk_0350_annual_report_text (1).txt
-NEXT: chunk_0352_annual_report_text (1).txt
-------------------------------
-capital, to issue 
-convertible bonds or subscription rights, in one 
-or more operations, within the legal limits in 
-terms of threshold and duration. The board of directors is expressly authorized to 
-make use of this authority in the cases referred 
-to in sections 7:200 (limitation or cancellation of 
-preferential rights and incorporation of reserves) 
-and 7:202 (public takeover bid) of the [Belgian] 
-Companies & Associations Code (hereafter, the 
-BCAC). === Page 73 ===
+e 27: === Page 71 ===
 IBA Annual Report 2023 
-70.
+68. IBA 
+No 
+shareholder 
+may, with 
+its 
+affiliated 
+companies and persons, vote at a general 
+assembly for more than 35% of the voting rights 
+issued by the Company. Moreover, insofar as 
+other 
+non-affiliated 
+shareholders 
+holding 
+individually at least 15% of the voting rights 
+issued by the Company take part in the 
+assembly, no shareholder may, together with its 
+affiliated companies and persons, take part in 
+the vote, for each resolution put

@@ -1,20 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 367 of 1106
-SIZE: 522 characters
-PREVIOUS: chunk_0366_annual_report_text (1).txt
-NEXT: chunk_0368_annual_report_text (1).txt
-------------------------------
-l shares until 
-their Minimum Holding Requirement (MHR) as 
-set here below is met. When their MHR is met, === Page 75 ===
-IBA Annual Report 2023 
-72. IBA 
-the plan beneficiaries may elect to sell the 
-shares obtained in excess of their MHR 
-Minimum Holding Requirement (MHR) 
-IBA strongly believes that management must 
-own company shares to strongly align with 
-Shareholders interests. A minimum number of Company registered 
-shares are to be held by the Managing Directors 
-and members of the Executive Management 
-Team.
+he votes cast. (x) Powers of the board of directors to issue 
+or to redeem the companys own shares 
+As of 31 December 2023, the Board of Directors 
+was authorized to issue new shares or redeem 
+the Companys own shares. In this respect, article 6 of the Companys Articles of Association 
+provide the following: Article 6: The Board of Directors shall have the power to 
+increase the Company's share capital, to issue 
+convertible bonds or subscription rights, in one 
+or more operations, within the legal limits in 
+terms of threshold and duration.

@@ -1,21 +1,4 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 1070 of 1106
-SIZE: 461 characters
-PREVIOUS: chunk_1069_annual_report_text (1).txt
-NEXT: chunk_1071_annual_report_text (1).txt
-------------------------------
-3-1 
-Management of material topics 
-p34 AR2023 A committed company / employees 
-403-1 
-Occupational health and safety management 
-system 
-p194 AR2023 GRI appendix 403-9 / employeen health and safety 
-p34 AR2023 A committed company / employees 
-403-6 
-Promotion of worker health 
-p34 AR2023 A committed company / employees 
-403-9 
-Work-related injuries 
-p194 AR2023 GRI appendix 403-9 / employeen health and safety 
-GRI 405: DIVERSITY AND EQUAL OPPORTUNITY v2016
+Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an 
+opinion on the effectiveness of the Groups internal control; Evaluate the appropriateness of accounting policies used and the reasonableness of accounting 
+estimates and related disclosures made by the board of directors; Conclude on the appropriateness of the board of directors use of the going concern basis o

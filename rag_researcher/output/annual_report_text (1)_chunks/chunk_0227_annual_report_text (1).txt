@@ -1,18 +1,10 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 227 of 1106
-SIZE: 493 characters
-PREVIOUS: chunk_0226_annual_report_text (1).txt
-NEXT: chunk_0228_annual_report_text (1).txt
-------------------------------
-ions have highly developed sales and 
-marketing networks and more importantly, extensive 
-financial 
-resources 
-beyond 
-comparison with those of IBA. Furthermore, there is always the possibility that new 
-technology notably a revolutionary therapy in 
-the treatment of cancer that would render a part 
-of IBAs current product line obsolete could be 
-developed. The development and marketing of technology 
-resulting in novel therapies do nevertheless 
-require a relatively long period of time.
+a fully end to end solution, that may 
+be supported by further strategic acquisitions 
+and a stronger presence in key geographical 
+areas like India and China. Principal risks and uncertainties faced by the 
+company (sections 3:6, 1, 1 to 3 and 3:32, 1, 1 to 3, of the BCAC)
+APPROACH TO RISK MANAGEMENT
+The Board of Directors, supported by the 
+Management Team, the Risk Management 
+Committee, and the Audit Committee, oversees 
+and manages enterprise risk.

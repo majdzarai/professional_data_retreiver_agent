@@ -1,17 +1,34 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 620 of 1106
-SIZE: 512 characters
-PREVIOUS: chunk_0619_annual_report_text (1).txt
-NEXT: chunk_0621_annual_report_text (1).txt
-------------------------------
-ting policies 
-and the correction of errors. Also, they clarify 
-how entities use measurement techniques and 
-inputs to develop accounting estimates. The amendments are effective for annual 
-reporting periods beginning on or after 1 
-January 2023 and apply to changes in 
-accounting policies and changes in accounting 
-estimates that occur on or after the start of that 
-period. The amendments did not have a material 
-impact on the Group as the clarifications are 
-confirming the current practices of the Group.
+nd Share premium 
+85 980 
+85 980 
+Reserves and Retained earnings 
+5.9. 29 971 
+20 232 
+EQUITY 
+115 951 
+106 212 
+Non-current borrowings 
+5.10. 10 647 
+7 114 
+Non-current lease liabilities 
+5.10. 20 811 
+21 896 
+Non-current provisions 
+5.11. 7 479 
+6 247 
+Non-current derivative financial liabilities 
+7.3. 1 221 
+217 
+Deferred tax liabilities 
+4.7.2. 756 
+286 
+Other non-current liabilities 
+5.12. 5 862 
+2 955 
+Non-current liabilities 
+46 776 
+38 715 
+Current borrowings 
+5.10. 3 734 
+6 469 
+Current

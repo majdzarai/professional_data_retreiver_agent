@@ -1,20 +1,15 @@
-SOURCE: annual_report_text (1).txt
-CHUNK: 672 of 1106
-SIZE: 670 characters
-PREVIOUS: chunk_0671_annual_report_text (1).txt
-NEXT: chunk_0673_annual_report_text (1).txt
-------------------------------
-SCK-CEN 
-(Belgian Nuclear Research Center). Both 
-entities participate for 50% of the share capital 
-with an initial contribution of EUR 0.3 million. The JV is established in Belgium and will be 
-active in the nuclear medicine, more specifically 
-it will develop, produce and distribute the 
-isotope Ac.225. The R&D project is still at a 
-very early stage but the JV has secured some 
-early supply of Ac.225 via a partnership with 
-TerraPower Isotopes. In 2023, both IBA and SCK-CEN made further 
-equal contributions to the capital of PanTera 
-SA/NV. IBA contributed EUR 16.0 million in 
-cash which has been used immediately by 
-Pantera to purchase a Rhodotron from IBA.
+d into after 
+the initial application of IFRS 16. The amendments are not expected to have an 
+impact on the the Groups financial statements 
+as IBA has not entered into Sales and 
+Leaseback transactions. Amendments to IAS 7 and IFRS 7 
+Supplier Finance Arrangements 
+The IASB amended IAS 7 and IFRS 7 to clarify 
+the 
+description 
+of 
+supplier 
+finance 
+arraangements and the related disclosures. These are effective for annual reporting periods 
+beginning on or after 1 January 2024 with earlier 
+application permitted.
